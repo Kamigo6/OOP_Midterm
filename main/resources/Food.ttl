@@ -1,0 +1,527 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Huy_Fong_Foods  rdfs:label  "Huy Fong Foods"@en ;
+        dbp:type    dbr:Privately_held_company .
+
+dbr:Bánh_chưng  rdfs:label  "Bánh chưng"@en ;
+        dbo:ingredient      dbr:Mung_bean , dbr:Glutinous_rice , dbr:Pork ;
+        dbp:mainIngredient  dbr:Glutinous_rice , dbr:Mung_bean , dbr:Pork ;
+        dbp:region          dbr:Southeast_Asia .
+
+dbr:Tương  rdfs:label  "Tương"@en .
+
+dbr:Telosma_cordata  rdfs:label  "Telosma cordata"@en .
+
+dbr:Vietnamese_iced_coffee
+        rdfs:label          "Vietnamese iced coffee"@en ;
+        dbo:ingredient      dbr:Coffee_roasting , dbr:Condensed_milk ;
+        dbp:mainIngredient  "Dark roast coffee, water, sweetened condensed milk"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Drink .
+
+dbr:Pâté  rdfs:label        "Pâté"@en ;
+        dbo:ingredient      dbr:Fish ;
+        dbp:mainIngredient  "Meat, fish, seafood, or vegetables"@en .
+
+dbr:Vietnamese_cuisine
+        rdfs:label  "Vietnamese cuisine"@en .
+
+dbr:Nem  rdfs:label  "Nem"@en .
+
+dbr:Bánh_bò  rdfs:label     "Bánh bò"@en ;
+        dbp:mainIngredient  dbr:Water , dbr:Coconut_milk , dbr:Sugar , dbr:Rice_flour , <http://dbpedia.org/resource/Baker's_yeast> ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Sponge_cake .
+
+dbr:Phú_Lộc_rice_wine
+        rdfs:label  "Phú Lộc rice wine"@en .
+
+dbr:Tapioca_pudding  rdfs:label  "Tapioca pudding"@en ;
+        dbo:ingredient      dbr:Cream , dbr:Tapioca , dbr:Coconut_milk , dbr:Milk ;
+        dbp:mainIngredient  "Tapioca, milk or cream or coconut milk"@en ;
+        dbp:type            dbr:Pudding .
+
+dbr:Mực_rang_muối  rdfs:label  "Mực rang muối"@en ;
+        dbo:ingredient      dbr:Squid ;
+        dbp:mainIngredient  dbr:Squid .
+
+dbr:Chả_rươi  rdfs:label  "Chả rươi"@en .
+
+dbr:Bánh_in  rdfs:label  "Bánh in"@en ;
+        dbp:region  dbr:Huế .
+
+dbr:Bánh_cáy  rdfs:label  "Bánh cáy"@en ;
+        dbp:region  "Thái Bình Province of northern Vietnam"@en ;
+        dbp:type    "Bánh"@en .
+
+dbr:Sườn_nướng  rdfs:label  "Sườn nướng"@en ;
+        dbo:ingredient      dbr:Pork_ribs ;
+        dbp:mainIngredient  "Pork ribs"@en .
+
+dbr:Shiso  rdfs:label  "Shiso"@en .
+
+dbr:Bò_nướng_lá_lốt  rdfs:label  "Bò nướng lá lốt"@en ;
+        dbo:ingredient      dbr:Piper_sarmentosum , dbr:Ground_beef ;
+        dbp:mainIngredient  dbr:Ground_beef , dbr:Piper_sarmentosum .
+
+dbr:Peanut_sauce  rdfs:label  "Peanut sauce"@en ;
+        dbo:ingredient      dbr:Peanut ;
+        dbp:mainIngredient  "Ground roasted peanuts, water and spices"@en ;
+        dbp:type            dbr:Condiment .
+
+dbr:Bánh_mì  rdfs:label     "Bánh mì"@en ;
+        dbp:mainIngredient  "Vietnamese baguette"@en ;
+        dbp:type            dbr:Sandwich .
+
+dbr:Lethocerus_indicus
+        rdfs:label  "Lethocerus indicus"@en .
+
+dbr:Gai_lan  rdfs:label  "Gai lan"@en .
+
+dbr:Húng_lìu  rdfs:label  "Húng lìu"@en .
+
+dbr:Prawn_cracker  rdfs:label  "Prawn cracker"@en ;
+        dbp:mainIngredient  "Deep fried dried starch and other ingredients, the most popular is Prawn"@en ;
+        dbp:region          "Southeast Asia, also widely available in East Asia, the Netherlands, The Middle East, Australia, and the United Kingdom."@en .
+
+dbr:Phá_lấu  rdfs:label     "Phá lấu"@en ;
+        dbp:mainIngredient  "pork offal"@en , ""@en , "dark soy sauce"@en .
+
+dbr:Egg_coffee  rdfs:label  "Egg coffee"@en .
+
+dbr:Chè_trôi_nước  rdfs:label  "Chè trôi nước"@en ;
+        dbo:ingredient      dbr:Glutinous_rice , dbr:Mung_bean , dbr:Sugar , dbr:Ginger ;
+        dbp:mainIngredient  "Mung bean paste, glutinous rice flour, water, sugar,  ginger root"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Dessert .
+
+dbr:Hàng_Bông  rdfs:label  "Hàng Bông"@en .
+
+dbr:Bánh_cam  rdfs:label  "Bánh cam"@en .
+
+dbr:Milk_rice_paper  rdfs:label  "Milk rice paper"@en .
+
+dbr:Bánh_bột_lọc  rdfs:label  "Bánh bột lọc"@en ;
+        dbo:ingredient      dbr:Tapioca , dbr:Pork_belly , dbr:Shrimp_and_prawn_as_food ;
+        dbp:mainIngredient  dbr:Shrimp_and_prawn_as_food , dbr:Pork_belly , dbr:Tapioca ;
+        dbp:region          "Central Vietnam"@en ;
+        dbp:type            dbr:Dumpling .
+
+dbr:Bánh_cốm  rdfs:label    "Bánh cốm"@en ;
+        dbo:ingredient      dbr:Mung_bean , dbr:Glutinous_rice ;
+        dbp:mainIngredient  dbr:Glutinous_rice , dbr:Mung_bean ;
+        dbp:type            dbr:Dessert .
+
+dbr:Longevity_Brand  rdfs:label  "Longevity Brand"@en .
+
+dbr:Bánh_patê_sô  rdfs:label  "Bánh patê sô"@en ;
+        dbo:ingredient      dbr:Pork , dbr:Chicken_as_food , dbr:Beef ;
+        dbp:mainIngredient  "Meat"@en ;
+        dbp:type            dbr:Pastry .
+
+dbr:Rice_burger  rdfs:label  "Rice burger"@en ;
+        dbo:ingredient      dbr:Patty , dbr:Rice ;
+        dbp:mainIngredient  "Rice bun and patty"@en ;
+        dbp:type            dbr:Sandwich .
+
+dbr:Nộm  rdfs:label  "Nộm"@en .
+
+dbr:Pho  rdfs:label         "Pho"@en ;
+        dbo:ingredient      dbr:Beef , dbr:Chicken_as_food , dbr:Rice_noodles ;
+        dbp:mainIngredient  "Rice noodles and beef or chicken"@en ;
+        dbp:region          dbr:Nam_Định_province ;
+        dbp:type            dbr:Noodle_soup .
+
+dbr:Allium_chinense  rdfs:label  "Allium chinense"@en .
+
+dbr:Cốm  rdfs:label         "Cốm"@en ;
+        dbp:mainIngredient  "Rice kernels"@en ;
+        dbp:region          dbr:Hanoi , dbr:Red_River_Delta .
+
+dbr:Curry  rdfs:label       "Curry"@en ;
+        dbo:ingredient      dbr:Spice ;
+        dbp:mainIngredient  "Meat or vegetables, oil, Spices"@en ;
+        dbp:region          "Worldwide"@en .
+
+<http://dbpedia.org/resource/Balut_(food)>
+        rdfs:label  "Balut (food)"@en .
+
+dbr:Nước_chấm  rdfs:label  "Nước chấm"@en .
+
+dbr:List_of_Vietnamese_dishes
+        rdfs:label  "List of Vietnamese dishes"@en .
+
+dbr:Bánh_phu_thê  rdfs:label  "Bánh phu thê"@en ;
+        dbo:ingredient      dbr:Mung_bean ;
+        dbp:mainIngredient  "Mung beans"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Sweets"@en .
+
+dbr:Gỏi_nhệch  rdfs:label  "Gỏi nhệch"@en .
+
+dbr:Bun_cha  rdfs:label     "Bun cha"@en ;
+        dbo:ingredient      dbr:Rice_vermicelli , dbr:Nước_chấm ;
+        dbp:mainIngredient  "Rice vermicelli, grilled pork, fresh herbs, nước chấm"@en ;
+        dbp:region          dbr:Hanoi .
+
+dbr:Bún_ốc  rdfs:label      "Bún ốc"@en ;
+        dbp:mainIngredient  "Roasted snails, soup"@en ;
+        dbp:region          dbr:Hanoi ;
+        dbp:type            dbr:Noodle_soup .
+
+dbr:Canh_chua  rdfs:label   "Canh chua"@en ;
+        dbo:ingredient      dbr:Tomato , dbr:Pineapple , dbr:Fish , dbr:Sprouting , dbr:Tamarind ;
+        dbp:mainIngredient  "Fish, pineapple, tomatoes, sometimes other vegetables, bean sprouts, tamarind-flavored broth"@en ;
+        dbp:region          dbr:Mekong_Delta ;
+        dbp:type            dbr:Soup .
+
+dbr:Món_cuốn  rdfs:label  "Món cuốn"@en .
+
+dbr:Xã_Đoài_orange  rdfs:label  "Xã Đoài orange"@en .
+
+dbr:Bánh_tráng  rdfs:label  "Bánh tráng"@en ;
+        dbo:ingredient      dbr:Tapioca , dbr:Rice_flour ;
+        dbp:mainIngredient  "Rice flour or tapioca starch , and various ingredients, including spices"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Edible wrapper"@en .
+
+dbr:Cơm_hến  rdfs:label  "Cơm hến"@en .
+
+dbr:Pig_slaughter  rdfs:label  "Pig slaughter"@en .
+
+dbr:Bánh_đúc  rdfs:label  "Bánh đúc"@en ;
+        dbp:region  dbr:Southeast_Asia ;
+        dbp:type    "Bánh"@en .
+
+dbr:Chè  rdfs:label  "Chè"@en ;
+        dbp:region  dbr:Southeast_Asia ;
+        dbp:type    "Soup or pudding"@en .
+
+dbr:Dim_sum  rdfs:label  "Dim sum"@en .
+
+dbr:Pickled_carrot  rdfs:label  "Pickled carrot"@en .
+
+dbr:Galangal  rdfs:label  "Galangal"@en .
+
+dbr:Tofu  rdfs:label        "Tofu"@en ;
+        dbo:ingredient      dbr:Soy_milk ;
+        dbp:mainIngredient  dbr:Soy_milk .
+
+dbr:Bún_bò_Huế  rdfs:label  "Bún bò Huế"@en ;
+        dbo:ingredient      dbr:Rice_vermicelli , dbr:Beef , dbr:Pig_blood_curd , dbr:Cymbopogon , dbr:Ham_hock ;
+        dbp:mainIngredient  "Rice vermicelli, lemongrass, beef, fermented shrimp sauce, pork knuckles, pig blood curds"@en ;
+        dbp:region          "Central Vietnam"@en ;
+        dbp:type            dbr:Soup .
+
+dbr:Soy_egg  rdfs:label     "Soy egg"@en ;
+        dbo:ingredient      dbr:Egg_as_food , dbr:Sugar , dbr:Soy_sauce , dbr:Water ;
+        dbp:mainIngredient  dbr:Sugar , dbr:Soy_sauce , dbr:Water , dbr:Egg_as_food .
+
+dbr:Cham_cuisine  rdfs:label  "Cham cuisine"@en .
+
+dbr:Aganonerion  rdfs:label  "Aganonerion"@en .
+
+dbr:Grass_jelly  rdfs:label  "Grass jelly"@en ;
+        dbp:mainIngredient  "Platostoma palustre  stalks and leaves, potassium carbonate, starch"@en ;
+        dbp:region          "East Asia and Southeast Asia"@en .
+
+dbr:Hoisin_sauce  rdfs:label  "Hoisin sauce"@en .
+
+<http://dbpedia.org/resource/Pig's_ear_(food)>
+        rdfs:label  "Pig's ear (food)"@en .
+
+dbr:Sticky_rice_in_bamboo
+        rdfs:label          "Sticky rice in bamboo"@en ;
+        dbo:ingredient      dbr:Glutinous_rice , dbr:Bamboo ;
+        dbp:mainIngredient  "Glutinous rice, hollow bamboo tubes"@en ;
+        dbp:region          dbr:Southeast_Asia .
+
+dbr:Mọc  rdfs:label  "Mọc"@en .
+
+dbr:Tiger_penis  rdfs:label  "Tiger penis"@en .
+
+dbr:Chạo_tôm  rdfs:label    "Chạo tôm"@en ;
+        dbo:ingredient      dbr:Rice_vermicelli ;
+        dbp:mainIngredient  "Bún , mung beans, shredded carrot and lettuce, mint, and crushed peanuts"@en ;
+        dbp:region          "Huế region of Central Vietnam"@en .
+
+dbr:Vietnamese_noodles
+        rdfs:label  "Vietnamese noodles"@en ;
+        dbp:type    dbr:Noodle .
+
+dbr:Chả_giò  rdfs:label     "Chả giò"@en ;
+        dbo:ingredient      dbr:Rice_paper , dbr:Cellophane_noodles , dbr:Edible_mushroom , dbr:Kohlrabi , dbr:Ground_meat , dbr:Pachyrhizus_erosus , dbr:Vegetable ;
+        dbp:mainIngredient  "Ground pork, mushrooms, cellophane noodles, various julienned vegetables , rice paper"@en ;
+        dbp:region          dbr:East_Asia .
+
+dbr:Bánh_rán  rdfs:label  "Bánh rán"@en ;
+        dbp:region  "North Vietnam"@en ;
+        dbp:type    "Deep-fried glutinous rice ball"@en .
+
+dbr:Coconut_candy  rdfs:label  "Coconut candy"@en ;
+        dbo:ingredient      dbr:Coconut ;
+        dbp:mainIngredient  "Coconut, malt syrup, sugar"@en ;
+        dbp:region          dbr:Bến_Tre_province ;
+        dbp:type            dbr:Confectionery .
+
+dbr:Bánh_lá  rdfs:label     "Bánh lá"@en ;
+        dbp:mainIngredient  "Rice"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Bánh or dumpling"@en .
+
+dbr:Cao_lầu  rdfs:label     "Cao lầu"@en ;
+        dbo:ingredient      dbr:Noodle , dbr:Pork , dbr:Leaf_vegetable ;
+        dbp:mainIngredient  "Noodles, pork, and greens"@en ;
+        dbp:region          dbr:Hội_An ;
+        dbp:type            dbr:Noodle .
+
+dbr:Bánh_canh  rdfs:label   "Bánh canh"@en ;
+        dbo:ingredient      dbr:Tapioca , dbr:Rice ;
+        dbp:mainIngredient  "Tapioca flour, optionally rice flour"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Soup .
+
+dbr:Broken_rice  rdfs:label  "Broken rice"@en .
+
+dbr:Colocasia_gigantea
+        rdfs:label  "Colocasia gigantea"@en .
+
+dbr:Blood_as_food  rdfs:label  "Blood as food"@en ;
+        dbo:ingredient      dbr:Animal ;
+        dbp:mainIngredient  dbr:Animal , dbr:Blood .
+
+dbr:Nem_nguội  rdfs:label  "Nem nguội"@en .
+
+dbr:Cassava-based_dishes
+        rdfs:label  "Cassava-based dishes"@en .
+
+dbr:Banana_fritter  rdfs:label  "Banana fritter"@en .
+
+dbr:Fishcake  rdfs:label    "Fishcake"@en ;
+        dbo:ingredient      dbr:Potato , dbr:Fish , dbr:Surimi , dbr:Bread_crumbs , dbr:Egg ;
+        dbp:mainIngredient  dbr:Bread_crumbs , dbr:Potato , dbr:Egg , dbr:Fish , dbr:Surimi .
+
+dbr:Duck_as_food  rdfs:label  "Duck as food"@en .
+
+dbr:Nem_nướng  rdfs:label   "Nem nướng"@en ;
+        dbo:ingredient      dbr:Shallot , dbr:Ground_meat , dbr:Garlic , dbr:Fish_sauce ;
+        dbp:mainIngredient  dbr:Ground_meat , dbr:Garlic , dbr:Fish_sauce , dbr:Shallot .
+
+dbr:Cơm_nắm  rdfs:label  "Cơm nắm"@en .
+
+dbr:Bún_riêu  rdfs:label    "Bún riêu"@en ;
+        dbo:ingredient      dbr:Tomato , dbr:Meat , dbr:Rice_vermicelli , dbr:Shrimp_paste ;
+        dbp:mainIngredient  dbr:Tomato , dbr:Meat , dbr:Shrimp_paste , dbr:Rice_vermicelli ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Soup .
+
+dbr:Chè_bà_ba  rdfs:label   "Chè bà ba"@en ;
+        dbo:ingredient      dbr:Taro , dbr:Cassava , dbr:Tapioca , dbr:Coconut_milk , dbr:Sweet_potato ;
+        dbp:mainIngredient  "Coconut milk, taro, cassava, khoai lang bí , tapioca"@en ;
+        dbp:type            dbr:Soup .
+
+dbr:Mì_Quảng  rdfs:label    "Mì Quảng"@en ;
+        dbo:ingredient      dbr:Shrimp , dbr:Beef , dbr:Pork , dbr:Chicken_as_food , dbr:Rice_noodles , dbr:Herb ;
+        dbp:mainIngredient  "Rice noodles, shrimp or pork or chicken , various herbs"@en ;
+        dbp:region          dbr:Quảng_Nam_province ;
+        dbp:type            dbr:Noodle .
+
+dbr:Mochi  rdfs:label  "Mochi"@en .
+
+dbr:Blood_sausage  rdfs:label  "Blood sausage"@en ;
+        dbo:ingredient  dbr:Blood_as_food .
+
+dbr:Bánh_hỏi  rdfs:label    "Bánh hỏi"@en ;
+        dbo:ingredient      dbr:Scallion , dbr:Allium_tuberosum , dbr:Rice_vermicelli ;
+        dbp:mainIngredient  "Rice vermicelli, scallions or garlic chives"@en ;
+        dbp:region          dbr:Bình_Định_province ;
+        dbp:type            dbr:Noodle .
+
+dbr:Gỏi_cuốn  rdfs:label    "Gỏi cuốn"@en ;
+        dbo:ingredient      dbr:Bánh_tráng , dbr:Pork , dbr:Rice_vermicelli ;
+        dbp:mainIngredient  "prawns"@en , "vegetables"@en , "Pork"@en , "bánh tráng"@en , ""@en , "bún"@en ;
+        dbp:region          dbr:Southeast_Asia .
+
+dbr:Xôi  rdfs:label  "Xôi"@en .
+
+<http://dbpedia.org/resource/Kho_(cooking_technique)>
+        rdfs:label          "Kho (cooking technique)"@en ;
+        dbo:ingredient      dbr:Sugar , dbr:Fish_sauce , dbr:Coconut , dbr:Beef ;
+        dbp:mainIngredient  "Beef; fish sauce, sugar, water or coconut juice"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Stew .
+
+dbr:Chả_lụa  rdfs:label  "Chả lụa"@en .
+
+dbr:Mắm_nêm  rdfs:label     "Mắm nêm"@en ;
+        dbp:mainIngredient  "Fermented Fish"@en ;
+        dbp:region          dbr:Phú_Quốc ;
+        dbp:type            "Condiment"@en .
+
+dbr:Cooked_rice  rdfs:label  "Cooked rice"@en ;
+        dbo:ingredient      dbr:Rice ;
+        dbp:mainIngredient  "rice, water"@en .
+
+dbr:Rau_muống  rdfs:label  "Rau muống"@en .
+
+dbr:Bánh_cuốn  rdfs:label   "Bánh cuốn"@en ;
+        dbo:ingredient      dbr:Shallot , dbr:Auricularia_auricula-judae , dbr:Rice ;
+        dbp:mainIngredient  "Rice batter, ground pork, wood ear mushroom, shallots"@en ;
+        dbp:region          dbr:Northern_Vietnam ;
+        dbp:type            dbr:Rice_noodle_roll .
+
+dbr:Pork_ribs  rdfs:label  "Pork ribs"@en .
+
+dbr:Basella_alba  rdfs:label  "Basella alba"@en .
+
+dbr:Bánh_tẻ  rdfs:label     "Bánh tẻ"@en ;
+        dbo:ingredient      dbr:Black_pepper , dbr:Salt , dbr:Auricularia_auricula-judae , dbr:Onion , dbr:Glutinous_rice , dbr:Ground_meat ;
+        dbp:mainIngredient  "Plain  white rice, minced pork shoulder, Judas's ear fungus , onion, salt, pepper"@en ;
+        dbp:region          "Northern Vietnam"@en .
+
+dbr:Kẹo_dừa  rdfs:label     "Kẹo dừa"@en ;
+        dbo:ingredient      dbr:Coconut ;
+        dbp:mainIngredient  "Coconut, malt syrup, sugar"@en ;
+        dbp:region          dbr:Bến_Tre_province ;
+        dbp:type            dbr:Confectionery .
+
+dbr:Bánh_bèo  rdfs:label    "Bánh bèo"@en ;
+        dbp:mainIngredient  "Rice flour and tapioca flour"@en ;
+        dbp:region          "Central Vietnam"@en .
+
+dbr:Rice_noodles  rdfs:label  "Rice noodles"@en ;
+        dbp:mainIngredient  "Rice flour, water"@en ;
+        dbp:region          "East Asia, Indian subcontinent and Southeast Asia"@en ;
+        dbp:type            dbr:Noodle .
+
+dbr:Bánh  rdfs:label        "Bánh"@en ;
+        dbo:ingredient      dbr:Glutinous_rice , dbr:Wheat_flour , dbr:Tapioca , dbr:Rice_flour ;
+        dbp:mainIngredient  "Usually rice flour, wheat flour, pressed glutinous rice, or tapioca"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Cakes and breads"@en .
+
+dbr:Tiết_canh  rdfs:label   "Tiết canh"@en ;
+        dbo:ingredient      dbr:Persicaria_odorata , dbr:Fish_sauce , dbr:Mentha , dbr:Peanut ;
+        dbp:mainIngredient  "Blood , fish sauce, meat, peanuts, herbs"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Pudding .
+
+dbr:Bánh_tét  rdfs:label    "Bánh tét"@en ;
+        dbo:ingredient      dbr:Mung_bean , dbr:Banana_leaf , dbr:Glutinous_rice ;
+        dbp:mainIngredient  "Glutinous rice, banana leaf, meat or vegetarian filling"@en ;
+        dbp:region          dbr:Southern_Vietnam .
+
+dbr:Bánh_gối  rdfs:label  "Bánh gối"@en ;
+        dbp:type    dbr:Dumpling .
+
+dbr:Squid_as_food  rdfs:label  "Squid as food"@en .
+
+dbr:Bánh_da_lợn  rdfs:label  "Bánh da lợn"@en ;
+        dbo:ingredient      dbr:Durian , dbr:Rice_flour , dbr:Tapioca , dbr:Sugar , dbr:Mung_bean , dbr:Coconut_milk , dbr:Taro ;
+        dbp:mainIngredient  "Rice flour, tapioca starch, mung beans, taro or durian, coconut milk or water, sugar"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Layer_cake .
+
+dbr:Nem_chua_rán  rdfs:label  "Nem chua rán"@en .
+
+dbr:Chả_cá_Lã_Vọng  rdfs:label  "Chả cá Lã Vọng"@en .
+
+dbr:Glutinous_rice  rdfs:label  "Glutinous rice"@en .
+
+dbr:Mung_bean_sprout  rdfs:label  "Mung bean sprout"@en .
+
+dbr:Cơm_rượu  rdfs:label    "Cơm rượu"@en ;
+        dbo:ingredient      dbr:Glutinous_rice , dbr:Yeast ;
+        dbp:mainIngredient  dbr:Yeast , dbr:Glutinous_rice ;
+        dbp:region          dbr:Southern_Vietnam ;
+        dbp:type            dbr:Rice_pudding .
+
+dbr:Bún_thịt_nướng  rdfs:label  "Bún thịt nướng"@en ;
+        dbo:ingredient      dbr:Rice_vermicelli , dbr:Nước_chấm ;
+        dbp:mainIngredient  "Rice vermicelli, grilled pork, fresh herbs, salad, and nước chấm"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Cold noodles"@en .
+
+dbr:Bánh_chuối  rdfs:label  "Bánh chuối"@en ;
+        dbo:ingredient      dbr:Egg_as_food , dbr:Sugar , dbr:Coconut_milk , dbr:Butter , dbr:Condensed_milk , dbr:Vanilla_extract , dbr:Cooking_banana , dbr:Banana , dbr:White_bread ;
+        dbp:mainIngredient  "Bananas or plantains, coconut milk, sugar, white bread, shredded young coconut, condensed milk, butter, egg, vanilla extract"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Rice cake or bread pudding"@en .
+
+dbr:Pandan_waffle  rdfs:label  "Pandan waffle"@en .
+
+dbr:Bier_Hoi_Brewing_Company
+        rdfs:label  "Bier Hoi Brewing Company"@en .
+
+dbr:Barquillo  rdfs:label  "Barquillo"@en ;
+        dbp:type    dbr:Biscuit .
+
+dbr:Rượu_nếp  rdfs:label    "Rượu nếp"@en ;
+        dbo:ingredient      dbr:Yeast , dbr:Glutinous_rice ;
+        dbp:mainIngredient  dbr:Glutinous_rice , dbr:Yeast ;
+        dbp:region          dbr:East_Asia ;
+        dbp:type            dbr:Rice_pudding .
+
+dbr:Rice_flour  rdfs:label  "Rice flour"@en .
+
+dbr:Bánh_bao  rdfs:label    "Bánh bao"@en ;
+        dbo:ingredient      dbr:Chicken_as_food , dbr:Onion , dbr:Ground_meat , dbr:Chinese_sausage , dbr:Mushroom ;
+        dbp:mainIngredient  "Ground pork or chicken, Chinese sausage, portion of a hard-boiled egg, onions, mushrooms"@en ;
+        dbp:region          dbr:Southeast_Asia .
+
+dbr:Seitan  rdfs:label      "Seitan"@en ;
+        dbp:mainIngredient  "Wheat gluten"@en .
+
+dbr:Caramelized_pork_and_eggs
+        rdfs:label          "Caramelized pork and eggs"@en ;
+        dbo:ingredient      dbr:Egg_as_food , dbr:Pork , dbr:Coconut_water ;
+        dbp:mainIngredient  "Coconut juice, pork, and eggs"@en ;
+        dbp:region          "Southern Vietnam"@en .
+
+dbr:Dog_meat_consumption_in_Vietnam
+        rdfs:label  "Dog meat consumption in Vietnam"@en .
+
+dbr:Bánh_khoai_mì  rdfs:label  "Bánh khoai mì"@en ;
+        dbo:ingredient      dbr:Cassava , dbr:Sugar , dbr:Coconut_milk ;
+        dbp:mainIngredient  dbr:Coconut_milk , dbr:Sugar , dbr:Cassava ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Cake .
+
+dbr:Fish_sauce  rdfs:label  "Fish sauce"@en ;
+        dbo:ingredient      dbr:Fish ;
+        dbp:mainIngredient  dbr:Fish ;
+        dbp:region          "Southeast Asia and East Asia"@en ;
+        dbp:type            dbr:Condiment .
+
+dbr:Bánh_rế  rdfs:label     "Bánh rế"@en ;
+        dbo:ingredient      dbr:Sweet_potato ;
+        dbp:mainIngredient  "Sweet potatoes, sugar"@en ;
+        dbp:region          "Bình Thuận Province, Southern Vietnam"@en ;
+        dbp:type            dbr:Street_food .
+
+dbr:Phồng_tôm  rdfs:label  "Phồng tôm"@en .
+
+dbr:Bánh_mật  rdfs:label  "Bánh mật"@en .
+
+dbr:Cơm_tấm  rdfs:label     "Cơm tấm"@en ;
+        dbo:ingredient      dbr:Broken_rice ;
+        dbp:mainIngredient  dbr:Broken_rice ;
+        dbp:region          dbr:Southern_Vietnam .
+
+dbr:Limnocharis_flava
+        rdfs:label  "Limnocharis flava"@en .
+
+dbr:Cabbage_roll  rdfs:label  "Cabbage roll"@en .
+
+dbr:Chinese_sausage  rdfs:label  "Chinese sausage"@en ;
+        dbo:ingredient      dbr:Pork ;
+        dbp:mainIngredient  "fresh pork or liver"@en ;
+        dbp:type            dbr:Sausage .
+
+dbr:Bánh_xèo  rdfs:label    "Bánh xèo"@en ;
+        dbo:ingredient      dbr:Turmeric ;
+        dbp:mainIngredient  "Rice flour, water, turmeric powder"@en ;
+        dbp:type            "Pancake"@en .

@@ -1,0 +1,48 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Bánh_xèo  rdfs:label    "Bánh xèo"@en ;
+        dbo:ingredient      dbr:Turmeric ;
+        dbp:mainIngredient  "Rice flour, water, turmeric powder"@en ;
+        dbp:type            "Pancake"@en .
+
+dbr:Bánh_đúc  rdfs:label  "Bánh đúc"@en ;
+        dbp:region  dbr:Southeast_Asia ;
+        dbp:type    "Bánh"@en .
+
+dbr:Cơm_rượu  rdfs:label    "Cơm rượu"@en ;
+        dbo:ingredient      dbr:Glutinous_rice , dbr:Yeast ;
+        dbp:mainIngredient  dbr:Glutinous_rice , dbr:Yeast ;
+        dbp:region          dbr:Southern_Vietnam ;
+        dbp:type            dbr:Rice_pudding .
+
+dbr:Bánh_chưng  rdfs:label  "Bánh chưng"@en ;
+        dbo:ingredient      dbr:Glutinous_rice , dbr:Mung_bean , dbr:Pork ;
+        dbp:mainIngredient  dbr:Glutinous_rice , dbr:Mung_bean , dbr:Pork ;
+        dbp:region          dbr:Southeast_Asia .
+
+dbr:Bánh_cuốn  rdfs:label   "Bánh cuốn"@en ;
+        dbo:ingredient      dbr:Shallot , dbr:Auricularia_auricula-judae , dbr:Rice ;
+        dbp:mainIngredient  "Rice batter, ground pork, wood ear mushroom, shallots"@en ;
+        dbp:region          dbr:Northern_Vietnam ;
+        dbp:type            dbr:Rice_noodle_roll .
+
+dbr:Bánh_lá  rdfs:label     "Bánh lá"@en ;
+        dbp:mainIngredient  "Rice"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Bánh or dumpling"@en .
+
+dbr:Cơm_tấm  rdfs:label     "Cơm tấm"@en ;
+        dbo:ingredient      dbr:Broken_rice ;
+        dbp:mainIngredient  dbr:Broken_rice ;
+        dbp:region          dbr:Southern_Vietnam .
+
+dbr:Cốm  rdfs:label         "Cốm"@en ;
+        dbp:mainIngredient  "Rice kernels"@en ;
+        dbp:region          dbr:Hanoi , dbr:Red_River_Delta .
+
+dbr:Bánh_bèo  rdfs:label    "Bánh bèo"@en ;
+        dbp:mainIngredient  "Rice flour and tapioca flour"@en ;
+        dbp:region          "Central Vietnam"@en .

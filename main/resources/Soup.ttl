@@ -1,0 +1,33 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Bánh_canh  rdfs:label   "Bánh canh"@en ;
+        dbo:ingredient      dbr:Rice , dbr:Tapioca ;
+        dbp:mainIngredient  "Tapioca flour, optionally rice flour"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Soup .
+
+dbr:Bún_bò_Huế  rdfs:label  "Bún bò Huế"@en ;
+        dbo:ingredient      dbr:Ham_hock , dbr:Cymbopogon , dbr:Beef , dbr:Rice_vermicelli , dbr:Pig_blood_curd ;
+        dbp:mainIngredient  "Rice vermicelli, lemongrass, beef, fermented shrimp sauce, pork knuckles, pig blood curds"@en ;
+        dbp:region          "Central Vietnam"@en ;
+        dbp:type            dbr:Soup .
+
+dbr:Chè_bà_ba  rdfs:label   "Chè bà ba"@en ;
+        dbo:ingredient      dbr:Cassava , dbr:Coconut_milk , dbr:Taro , dbr:Tapioca , dbr:Sweet_potato ;
+        dbp:mainIngredient  "Coconut milk, taro, cassava, khoai lang bí , tapioca"@en ;
+        dbp:type            dbr:Soup .
+
+dbr:Canh_chua  rdfs:label   "Canh chua"@en ;
+        dbo:ingredient      dbr:Tamarind , dbr:Sprouting , dbr:Pineapple , dbr:Tomato , dbr:Fish ;
+        dbp:mainIngredient  "Fish, pineapple, tomatoes, sometimes other vegetables, bean sprouts, tamarind-flavored broth"@en ;
+        dbp:region          dbr:Mekong_Delta ;
+        dbp:type            dbr:Soup .
+
+dbr:Bún_riêu  rdfs:label    "Bún riêu"@en ;
+        dbo:ingredient      dbr:Tomato , dbr:Meat , dbr:Rice_vermicelli , dbr:Shrimp_paste ;
+        dbp:mainIngredient  dbr:Tomato , dbr:Meat , dbr:Shrimp_paste , dbr:Rice_vermicelli ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Soup .

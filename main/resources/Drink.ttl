@@ -1,0 +1,11 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Vietnamese_iced_coffee
+        rdfs:label          "Vietnamese iced coffee"@en ;
+        dbo:ingredient      dbr:Coffee_roasting , dbr:Condensed_milk ;
+        dbp:mainIngredient  "Dark roast coffee, water, sweetened condensed milk"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Drink .

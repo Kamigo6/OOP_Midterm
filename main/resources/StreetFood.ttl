@@ -1,0 +1,10 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Bánh_rế  rdfs:label     "Bánh rế"@en ;
+        dbo:ingredient      dbr:Sweet_potato ;
+        dbp:mainIngredient  "Sweet potatoes, sugar"@en ;
+        dbp:region          "Bình Thuận Province, Southern Vietnam"@en ;
+        dbp:type            dbr:Street_food .

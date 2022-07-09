@@ -1,0 +1,67 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Cao_lầu  rdfs:label     "Cao lầu"@en ;
+        dbo:ingredient      dbr:Leaf_vegetable , dbr:Pork , dbr:Noodle ;
+        dbp:mainIngredient  "Noodles, pork, and greens"@en ;
+        dbp:region          dbr:Hội_An ;
+        dbp:type            dbr:Noodle .
+
+dbr:Bánh_canh  rdfs:label   "Bánh canh"@en ;
+        dbo:ingredient      dbr:Rice , dbr:Tapioca ;
+        dbp:mainIngredient  "Tapioca flour, optionally rice flour"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Soup .
+
+dbr:Bún_bò_Huế  rdfs:label  "Bún bò Huế"@en ;
+        dbo:ingredient      dbr:Ham_hock , dbr:Cymbopogon , dbr:Rice_vermicelli , dbr:Beef , dbr:Pig_blood_curd ;
+        dbp:mainIngredient  "Rice vermicelli, lemongrass, beef, fermented shrimp sauce, pork knuckles, pig blood curds"@en ;
+        dbp:region          "Central Vietnam"@en ;
+        dbp:type            dbr:Soup .
+
+dbr:Mì_Quảng  rdfs:label    "Mì Quảng"@en ;
+        dbo:ingredient      dbr:Shrimp , dbr:Beef , dbr:Pork , dbr:Chicken_as_food , dbr:Rice_noodles , dbr:Herb ;
+        dbp:mainIngredient  "Rice noodles, shrimp or pork or chicken , various herbs"@en ;
+        dbp:region          dbr:Quảng_Nam_province ;
+        dbp:type            dbr:Noodle .
+
+dbr:Vietnamese_noodles
+        rdfs:label  "Vietnamese noodles"@en ;
+        dbp:type    dbr:Noodle .
+
+dbr:Bun_cha  rdfs:label     "Bun cha"@en ;
+        dbo:ingredient      dbr:Nước_chấm , dbr:Rice_vermicelli ;
+        dbp:mainIngredient  "Rice vermicelli, grilled pork, fresh herbs, nước chấm"@en ;
+        dbp:region          dbr:Hanoi .
+
+dbr:Bún_riêu  rdfs:label    "Bún riêu"@en ;
+        dbo:ingredient      dbr:Tomato , dbr:Meat , dbr:Rice_vermicelli , dbr:Shrimp_paste ;
+        dbp:mainIngredient  dbr:Tomato , dbr:Meat , dbr:Shrimp_paste , dbr:Rice_vermicelli ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Soup .
+
+dbr:Bánh_cuốn  rdfs:label   "Bánh cuốn"@en ;
+        dbo:ingredient      dbr:Rice , dbr:Auricularia_auricula-judae , dbr:Shallot ;
+        dbp:mainIngredient  "Rice batter, ground pork, wood ear mushroom, shallots"@en ;
+        dbp:region          dbr:Northern_Vietnam ;
+        dbp:type            dbr:Rice_noodle_roll .
+
+dbr:Bánh_hỏi  rdfs:label    "Bánh hỏi"@en ;
+        dbo:ingredient      dbr:Rice_vermicelli , dbr:Scallion , dbr:Allium_tuberosum ;
+        dbp:mainIngredient  "Rice vermicelli, scallions or garlic chives"@en ;
+        dbp:region          dbr:Bình_Định_province ;
+        dbp:type            dbr:Noodle .
+
+dbr:Pho  rdfs:label         "Pho"@en ;
+        dbo:ingredient      dbr:Chicken_as_food , dbr:Beef , dbr:Rice_noodles ;
+        dbp:mainIngredient  "Rice noodles and beef or chicken"@en ;
+        dbp:region          dbr:Nam_Định_province ;
+        dbp:type            dbr:Noodle_soup .
+
+dbr:Bún_thịt_nướng  rdfs:label  "Bún thịt nướng"@en ;
+        dbo:ingredient      dbr:Rice_vermicelli , dbr:Nước_chấm ;
+        dbp:mainIngredient  "Rice vermicelli, grilled pork, fresh herbs, salad, and nước chấm"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Cold noodles"@en .
