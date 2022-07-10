@@ -1,15 +1,9 @@
 package building;
 
 public class Skycrapper extends Building{
-	private String name = "Skycrapper";
-	public String getName() {
-		return name;
-	}
-	public void setName(String name) {
-		this.name = name;
-	}
 	public Skycrapper() {
 		super();
+		name = "Skycrapper";
 		constrain = "{?s rdf:type dbo:Building.} "
 				+ "UNION {?s rdf:type dbo:building.}.\r\n"
 				+ "{?s dbo:wikiPageWikiLink dbr:Tallest_buildings_in_Vietnam.} "

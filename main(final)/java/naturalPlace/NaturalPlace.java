@@ -10,17 +10,20 @@ public class NaturalPlace extends VietNamTourism{
     public NaturalPlace() {
         super();
         name = "NaturalPlace";
-        constrain = "{?s dbo:wikiPageWikiLink dbc:National_parks_of_Vietnam.}" +
-        "UNION {?s dbo:wikiPageWikiLink dbc:Bays_of_Vietnam.} " +
-        "UNION {?s dbo:wikiPageWikiLink dbc:Beaches_of_Vietnam.} " +
-        "UNION {?s dbo:wikiPageWikiLink dbc:Lakes_of_Vietnam.} " +
-        "UNION {?s dbo:wikiPageWikiLink dbc:Caves_of_Vietnam.} " +
-        "UNION {?s dbo:wikiPageWikiLink dbc:Hills_of_Vietnam.}" +
-        "UNION {?s dbo:wikiPageWikiLink dbc:Mountains_of_Vietnam.}" + 
-        "UNION {?s dbo:wikiPageWikiLink dbc:Mountain_passes_of_Vietnam.} " +
-        "UNION {?s dbo:wikiPageWikiLink dbc:dbc:Rivers_of_Vietnam.}" +
-        "?s rdf:type dbo:Place." +
-        "?s dbo:wikiPageWikiLink dbr:Vietnam.";
+        // constrain = "{?s dbo:wikiPageWikiLink dbc:National_parks_of_Vietnam.}\r\n" +
+        // "UNION {?s dbo:wikiPageWikiLink dbc:Bays_of_Vietnam.}\r\n " +
+        // "UNION {?s dbo:wikiPageWikiLink dbc:Beaches_of_Vietnam.}\r\n " +
+        // "UNION {?s dbo:wikiPageWikiLink dbc:Lakes_of_Vietnam.} \r\n" +
+        // "UNION {?s dbo:wikiPageWikiLink dbc:Caves_of_Vietnam.}\r\n " +
+        // "UNION {?s dbo:wikiPageWikiLink dbc:Hills_of_Vietnam.}\r\n" +
+        // "UNION {?s dbo:wikiPageWikiLink dbc:Mountains_of_Vietnam.}\r\n" + 
+        // "UNION {?s dbo:wikiPageWikiLink dbc:Mountain_passes_of_Vietnam.}\r\n " +
+        // "UNION {?s dbo:wikiPageWikiLink dbc:dbc:Rivers_of_Vietnam.}\r\n" +
+        // "?s rdf:type dbo:Place.\r\n" +
+        // "?s dbo:wikiPageWikiLink dbr:Vietnam.\r\n";
+        constrain = "{?s dbo:wikiPageWikiLink dbc:National_parks_of_Vietnam.}  UNION {?s dbo:wikiPageWikiLink dbc:Bays_of_Vietnam.}  UNION {?s dbo:wikiPageWikiLink dbc:Beaches_of_Vietnam.}  UNION {?s dbo:wikiPageWikiLink dbc:Lakes_of_Vietnam.}  UNION {?s dbo:wikiPageWikiLink dbc:Caves_of_Vietnam.}  UNION {?s dbo:wikiPageWikiLink dbc:Hills_of_Vietnam.} UNION {?s dbo:wikiPageWikiLink dbc:Mountains_of_Vietnam.}  UNION {?s dbo:wikiPageWikiLink dbc:Mountain_passes_of_Vietnam.}  UNION {?s dbo:wikiPageWikiLink dbc:Rivers_of_Vietnam.}\r\n"+
+        "?s rdf:type dbo:Place." + 
+        " ?s dbo:wikiPageWikiLink dbr:Vietnam.\r\n";
         optional.add(province);
         optional.add(location);
         optional.add(geoLong);
