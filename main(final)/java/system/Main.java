@@ -4,9 +4,16 @@ import java.io.FileNotFoundException;
 import org.apache.jena.sparql.pfunction.library.concat;
 
 import building.Bridge;
+import building.Building;
 import building.Historical_Site;
+import building.Hospital;
+import building.Hotel;
 import building.Museum;
+import building.National_Park;
+import building.Plaza;
 import building.Skycrapper;
+import building.Temple;
+import building.World_Heritage_Site;
 import culture.Culture;
 import culture.Literature;
 import culture.MartialArt;
@@ -15,7 +22,6 @@ import culture.Religion;
 import culture.TraditionalClothing;
 import culture.VisualArts;
 import food.Banh;
-import food.ChaCuonERR;
 import food.Drink;
 import food.Food;
 import food.Noodle;
@@ -41,7 +47,19 @@ public class Main {
 		// River b = new River();
 		// MountainsAndHills b = new MountainsAndHills();
 		// MountainPass b = new MountainPass();
-		Person b = new Person();
+		// Person b = new Person();
+		// Bridge b = new Bridge();
+		// Building b = new Building();
+		// Historical_Site b = new Historical_Site();
+		// Hospital b = new Hospital();
+		// Hotel b = new Hotel();
+		// Museum b = new Museum();
+		// National_Park b = new National_Park();
+		Plaza b = new Plaza();
+		// Skycrapper b = new Skycrapper();
+		// World_Heritage_Site b = new World_Heritage_Site();
+		// NaturalPlace b = new NaturalPlace();
+		// Food b = new Food();
 		Config.process(b.queryStr(), b.getName());
 		// VietNamTourism vn = new VietNamTourism();
 		// Config.process(vn.queryStr(), vn.getName());
@@ -111,3 +129,4 @@ public class Main {
 		// Config.process(b.queryStr(), b.getName());
 	}
 }
+
