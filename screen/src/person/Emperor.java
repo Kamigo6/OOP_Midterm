@@ -14,13 +14,6 @@ public class Emperor extends Person{
 	public Emperor() {
 		super();
 		name = "Emperor";
-		optional.add(child);
-		optional.add(parent);
-		optional.add(birthPlace);
-		optional.add(birthDate);
-		optional.add(deadPlace);
-		optional.add(deadDate);
-		optional.add(comment);
 		constrain = "  ?s  rdfs:label  ?label\r\n"
 				+ "      { ?s  rdf:type  dbo:Person }\r\n"
 				+ "    UNION\r\n"
