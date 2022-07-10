@@ -3,14 +3,6 @@ package person;
 import system.VietNamTourism;
 
 public class Emperor extends Person{
-	private String child = "?s dbo:child ?child.";
-	private String parent = "?s dbo:parent ?parent.";
-	private String birthDate = "?s dbp:birthDate ?birthDate.";
-	private String birthPlace = "?s dbp:birthPlace ?birthPlace.";
-	private String deadDate = "?s dbp:deadDate ?deadDate.";
-	private String deadPlace = "?s dbp:deadPlace ?deadPlace.";
-	private String comment = "?s rdfs:comment ?comment.";
-	
 	public Emperor() {
 		super();
 		name = "Emperor";
