@@ -3,15 +3,9 @@ package building;
 import system.*;
 
 public class Plaza extends Building{
-	private String name = "Plaza";
-	public String getName() {
-		return name;
-	}
-	public void setName(String name) {
-		this.name = name;
-	}
 	public Plaza() {
 		super();
+		name = "Plaza";
 		constrain = "{?s rdf:type dbo:ShoppingMall.} \r\n"
 				+ "{{?s dbo:location dbr:Vietnam.} "
 				+ "UNION {?s dbp:location dbr:Vietnam.} "

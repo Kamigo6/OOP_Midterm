@@ -3,15 +3,9 @@ package building;
 import system.*;
 
 public class Hospital extends Building {
-	private String name = "Hospital";
-	public String getName() {
-		return name;
-	}
-	public void setName(String name) {
-		this.name = name;
-	}
 	public Hospital() {
 		super();
+		name = "Hospital";
 		constrain = "{?s rdf:type dbo:Building.} "
 				+ "UNION {?s rdf:type dbo:building.}\r\n"
 				+ "{?s rdf:type dbo:Hospital.} "

@@ -3,15 +3,9 @@ package building;
 import system.*;
 
 public class Skyscrapper extends Building{
-	private String name = "Skyscrapper";
-	public String getName() {
-		return name;
-	}
-	public void setName(String name) {
-		this.name = name;
-	}
 	public Skyscrapper() {
 		super();
+		name = "Skyscrapper";
 		constrain = "{?s rdf:type dbo:Building.} "
 				+ "UNION {?s rdf:type dbo:building.}.\r\n"
 				+ "{?s dbo:wikiPageWikiLink dbr:Tallest_buildings_in_Vietnam.} "

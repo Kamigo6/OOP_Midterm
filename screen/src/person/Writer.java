@@ -3,7 +3,6 @@ package person;
 import system.VietNamTourism;
 
 public class Writer extends VietNamTourism{
-	private String name = "Writer";
 	private String child = "?s dbo:child ?child.";
 	private String parent = "?s dbo:parent ?parent.";
 	private String birthDate = "?s dbp:birthDate ?birthDate.";
@@ -11,15 +10,9 @@ public class Writer extends VietNamTourism{
 	private String deadDate = "?s dbp:deadDate ?deadDate.";
 	private String deadPlace = "?s dbp:deadPlace ?deadPlace.";
 	private String comment = "?s rdfs:comment ?comment.";
-	public String getName() {
-		return name;
-	}
-	public void setName(String name) {
-		this.name = name;
-	}
-	
 	public Writer() {
 		super();
+		name = "Writer";
 		optional.add(child);
 		optional.add(parent);
 		optional.add(birthPlace);
