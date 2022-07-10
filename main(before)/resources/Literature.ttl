@@ -1,0 +1,173 @@
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix gold: <http://purl.org/linguistics/gold/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Hạnh_Thục_ca  rdfs:comment  "蜀歌行（越南语：Hạnh Thục ca／行蜀歌）是一首長篇敘事詩，是越南女詩人最著名的詩篇。詩歌共1,036句，記錄了1885年咸宜帝出逃的歷史事件，場面跨越了法國、越南、泰國。全詩採用六八體，由喃字寫成。"@zh , "The Hạnh Thục ca (幸蜀歌, 1885 in \"Song of Voyage to Thục\") is the best known work of Nguyễn Thị Bích, a Vietnamese court lady. The poem describes her experiences in the 1885 flight of Hàm Nghi. It is written in vernacular chữ Nôm using lục bát verse."@en ;
+        rdfs:label    "Hạnh Thục ca"@en .
+
+dbr:Chinh_phụ_ngâm  rdfs:comment  "《征婦吟曲》（越南语：Chinh phụ ngâm khúc／征婦吟曲）,又稱《征婦吟》，是越南黎中興朝詩人鄧陳琨的代表作品，為古樂府敘事體裁，用漢字寫成。詩中寫出一位征婦飽受戰亂和離別之苦，最終只得隻身一人孤老的故事。既有對戰爭殘酷性的控訴，也包含對夫婿命運的哀惋，是越南較早出現的反戰題材的作品。 本曲的首八句由Võ Văn Lúa配曲，在第二次世界大戰後獲選為南圻自治共和國國歌，沿用至1949年5月22日南圻併入越南國。"@zh , "The Chinh phụ ngâm (\"Lament of the soldier's wife\", 征婦吟) is a poem in classical Chinese written by the Vietnamese author Đặng Trần Côn (1710-1745). It is also called the Chinh phụ ngâm khúc (征婦吟曲), with the additional -khúc (\"tune\", 曲) emphasizing that it can be performed as a musical piece not just read as a plain \"lament\" (ngâm, 吟)."@en , "Chinh phụ ngâm, ou Plaintes d'une femme dont le mari est parti pour la guerre, est un poème de Đặng Trần Côn, écrit en chinois classique, au xviiie siècle. La poétesse Đoàn Thị Điểm en a donné une traduction en nôm. Cette version est l'un des sommets de la poésie en langue nôm."@fr ;
+        rdfs:label     "Chinh phụ ngâm"@en ;
+        gold:hypernym  dbr:Poem .
+
+dbr:Vietnamese_literature
+        rdfs:comment   "ベトナム文学（Vietnamese literature）は、ベトナムの文学。ベトナム語による文学である。18世紀末から19世紀初め頃に文官グエン・ズーが、明末清初頃に成立した白話小説『』を韻文に翻訳し、チュノムで『金雲翹』を書いた。以来、『金雲翹』はベトナムの国民的な古典文学作品と看做されている。 「Category:ベトナム文学」を参照"@ja , "Vietnamská literatura označuje veškerou literaturu vzniklou na území dnešního Vietnamu, respektive na území říší, jež mu dějinně předcházely. Jako literární jazyk byla využívána klasická čínština a později také samotná vietnamština, která čínštinu ve 20. století zcela nahradila a má dnes v literatuře Vietnamu výsadní postavení."@cs , "La Literaturo de Vjetnamio estas la literaturo, kaj parola kaj skriba, kreita ĉefe en vjetnama lingvo, kvankam estas ankaŭ ekzemploj de vjetnamaj verkistoj francparolantoj, kiel Kim Thúy kaj angloparolantoj, tiuj ĉefe en Aŭstralio kaj en Usono, kiuj estas konsiderataj de multaj kritikistoj kiel parto de la nacia tradicio. Dum unu jarmilo, antaŭ la 12-a jarcento, Vjetnamio estis dominata de Ĉinio kaj pro tio la plej parto de la verkoj realigataj dum tiu periodo estas en klasika ĉina. La skribsistemo Chữ nôm, kreita ĉirkaŭ la 10-a jarcento, ebligis, ke la verkistoj skribu en vjetnama uzante ĉinajn karaktrojn modifitajn. Kvankam la vjetnama estis konsiderata lingvo malsupra al la ĉina, ĝi akiris prestiĝon iom post iom. Floris en la 18-a jarcento kiam multaj vjetnamaj aŭtoroj kaj poetoj kompon"@eo , "La Literatura de Vietnam es la literatura, tanto oral como escrita, creada mayormente en vietnamita, aunque también hay ejemplos de autores vietnamitas francófonos, como Kim Thúy y anglófonos, estos últimos radicados sobre todo en Australia y en los Estados Unidos, que son tenidos en cuenta por muchos críticos como parte de la tradicilón nacional. Durante un milenio, antes del siglo XII, Vietnam fue dominado por China y por ello la mayor parte de los escritos elaborados durante este periodo están en Chino clásico. El Chữ nôm, creado en torno al siglo X, permitía a los escritores escribir en vietnamita utilizando caracteres chinos modificados. Aunque era considerada una lengua inferior al chino, ganó prestigio gradualmente. Floreció en el siglo XVIII cuando muchos escritores vietnamitas y p"@es , "越南文學（越南語: Văn học Việt Nam (文學越南))，是越南語族群的口頭和書面文學，有時候說法語的越南人以及在澳大利亞和美國說英語越南人作品也被列入。在十一世紀前的一千年中，越南被中國統治，因而大部分的書面作品都是使用中國文言文。創建於十世紀的喃字，讓越南人得以使用這種修正版的中國字書寫。雖然喃字地位略低於中文，但其聲望逐漸增強。到了十八世紀，許多著名的越南作家和詩人使用喃字創作，一度成為官方書寫文字。現代越南國語字雖然創建於十七世紀，但並未在教會外流行。二十世紀初，法國殖民政府強制要求法屬印度支那使用該文字。到了二十世紀中葉，幾乎所有的越南文學作品都已改用國語字了。"@zh , "Литерату́ра Вьетна́ма (вьетн. Văn học Việt Nam, тьы-ном 文學越南, ван хок вьет нам) — литература, созданная жителями Вьетнама, также в состав вьетнамской литературы часто включаются произведения, созданные вьетнамоговорящими людьми, проживающими в других странах."@ru , "베트남의 문학(베트남어: Việt-nam văn-học 또는 Văn học Việt Nam) 속에서 중국적 견제(牽制), 즉 한자 문화와 유교정신의 속박으로부터의 탈출의 기록을 찾아볼 수 있다. 한자를 소화한 베트남 사람이 무엇보다 먼저 시도한 것은 그것을 이용하여 반중국(反中國)의 애국적 시를 만드는 것이었다. 그리고 14세기에 접어들면서는 오래 써 오던 한자를 버리고 속자(俗字)인 쯔놈을 고안하여 사용하게 된다. 십 수세기에 걸쳐 중국의 지배를 받으며 그 압도적인 정치적·문화적 영향하에 있었으면서도 민족의 주체성과 독립심을 잃지 않는 놀라운 나라가 베트남이다. 19세기, 한자를 개량한 속자(俗字)인 츄 노므로부터 로마자(字) 표기의 쯔꾸옥응우(국어)로 바꾸어 놓았다. 처음 시인들은 쿠옥 구를 대하고는 회의와 주저를 되풀이하였다. 그러나 몇 사람의 노력으로 쿠옥 구는 그 어휘를 증대시켜 몇 차례의 개량을 거쳐 문학 표현의 수단으로써 사용할 수 있는 것이 증명되었다. 이 문서에는 다음커뮤니케이션(현 카카오)에서 GFDL 또는 CC-SA 라이선스로 배포한 글로벌 세계대백과사전의 \"베트남의 문학\" 항목을 기초로 작성된 글이 포함되어 있습니다."@ko , "Vietnamese literature (Vietnamese: văn học Việt Nam) is the literature, both oral and written, created largely by Vietnamese-speaking people."@en , "Vietnamesische Literatur ist von vietnamesisch Sprechenden mündlich überlieferte (văn học miệng, Volksliteratur) und schriftgebundene Literatur (văn học bác học, Gelehrtenliteratur). Die Werke wurden – abhängig von den jeweils herrschenden Machtverhältnissen – in unterschiedlichen Sprachen verfasst. Im 17. Jahrhundert wurde ein vietnamesisches Alphabet, die Quốc-Ngữ-Schrift, entwickelt. Diese konnte sich jedoch lange Zeit nicht durchsetzen. Erst ab der Mitte des 20. Jahrhunderts sind alle vietnamesischen literarischen Werke in quốc ngữ verfasst."@de , "La literatura vietnamita és el corpus de les obres literàries escrites en llengua vietnamita."@ca ;
+        rdfs:label     "Vietnamese literature"@en ;
+        gold:hypernym  dbr:Literature .
+
+dbr:Declarations_of_independence_of_Vietnam
+        rdfs:comment  "Current Vietnamese historians considers that Vietnam has had a total of three declarations of independence: 1. \n* The poem Nam quốc sơn hà (Mountains and rivers of Southern country) was written in 1077 by Lý Thường Kiệt and recited next to the defense line of the Như Nguyệt river (Cầu river), originally with the reason to incentive the spirit of the soldiers. 2. \n* Bình Ngô đại cáo (Great Proclamation upon the Pacification of the Wu) was written by Nguyễn Trãi to speak in the name of Bình Định vương Lê Lợi in the Đinh Mùi year (1427), announcing the pacification of the Ming army, regaining the national independence, establishing the Later Lê Dynasty. 3. \n* The Proclamation of Independence (Tuyên ngôn độc lập) was written by Hồ Chí Minh and announced at Ba Đình Square, Hanoi, on Septembe"@en ;
+        rdfs:label    "Declarations of independence of Vietnam"@en .
+
+dbr:Nhị_độ_mai  rdfs:comment  "Nhị độ mai (貳度梅, \"The Plum Tree Blossoms Twice\") is a Nôm poem of Vietnam."@en ;
+        rdfs:label     "Nhị độ mai"@en ;
+        gold:hypernym  dbr:Poem .
+
+<http://dbpedia.org/resource/Phạm_Tải_–_Ngọc_Hoa>
+        rdfs:comment   "The Story of Phạm Tải and Ngọc Hoa (Phạm Tải – Ngọc Hoa) is an anonymous 18th Century Vietnamese language epic poem of 934 verses. The poem belongs to the genre of vernacular nôm script verse poems which includes Phạm Công – Cúc Hoa, Nhị độ mai (\"The Plum Tree Blossoms Twice\"), Lục súc tranh công (\"The Struggle of the Six Animals\"), the tale of Thạch Sanh, the tale of Chử Đồng Tử, the tales of Trạng Quỳnh, the tale of Tống Trân and Cúc Hoa, the Truyện Trinh thử (\"Tale of the Virgin Mouse\"), and the Hạnh Thục ca (\"Lament while fleeing to Thục\"). Interest in these vernacular Vietnamese-language poems was reawakened early in the nationalist cultural movement. As with another Vietnamese epic poem, the Tale of Tống Trân and Cúc Hoa, the Tale of Phạm Tải and Ngọc Hoa has also entered Thai tradit"@en ;
+        rdfs:label     "Phạm Tải – Ngọc Hoa"@en ;
+        gold:hypernym  dbr:Poem .
+
+dbr:Gia_huấn_ca  rdfs:comment  "The Gia huấn ca (Hán tự: 家訓歌 The Family Training Ode) is a 976-line Chinese language verse text traditionally ascribed to the Vietnamese Confucian scholar Nguyễn Trãi (阮廌, 1380-1442). The full printed title is Lê triều Nguyễn tướng công Gia huấn ca (Familial Instructions Put in Verse by Minister Nguyen Trai of the Le Court)."@en ;
+        rdfs:label     "Gia huấn ca"@en ;
+        gold:hypernym  dbr:Text .
+
+dbr:Tống_Trân_and_Cúc_Hoa
+        rdfs:comment   "The Tale of Tống Trân and Cúc Hoa (宋珍菊花 Tống Trân Cúc Hoa) is a traditional epic poem in lục bát verse from 18th or 19th Century Vietnam. The poem is anonymous. The poem was widely published in the early days of Vietnamese printing, including engraved plates with illustrations. It is counted as one of the principle works of the nôm script verse-story genre."@en ;
+        rdfs:label     "Tống Trân and Cúc Hoa"@en ;
+        gold:hypernym  dbr:Poem .
+
+dbr:Vietnamese_poetry
+        rdfs:comment  "Vietnamese poetry originated in the form of folk poetry and proverbs. Vietnamese poetic structures include six-eight, double-seven six-eight, and various styles shared with Classical Chinese poetry forms, such as are found in Tang poetry; examples include verse forms with \"seven syllables each line for eight lines,\" \"seven syllables each line for four lines\" (a type of quatrain), and \"five syllables each line for eight lines.\" More recently there have been new poetry and free poetry."@en ;
+        rdfs:label    "Vietnamese poetry"@en .
+
+dbr:Nam_quốc_sơn_hà  rdfs:comment  "Nam quốc sơn hà (Hán tự: 南國山河, lit. 'Mountains and Rivers of the Southern Country') is a famous 11th-century Vietnamese patriotic poem. Dubbed \"Vietnam's first Declaration of Independence\", it asserts the sovereignty of Vietnam's rulers over its lands. The poem was first dictated to be read aloud before and during battles to boost army morale and nationalism when Vietnam under Lý Thường Kiệt fought against the first invasion of the Song dynasty in 1075–1076, though its exact authorship is still controversial."@en , "Nam quốc sơn hà (vietnamsky \"Hory a řeky Jižní krajiny\") je čínsky psaná vietnamská báseň, kterou napsal v roce 1077 vojevůdce a vietnamský národní hrdina , a recitoval ji nepřátelům na své obranné linii na řece , aby posílil morálku svých vojáků. Báseň, požadující formou poetických obrazů nezávislost \"Jižní krajiny\", tj. Vietnamu, je přes svou poněkud nezvyklou poetickou formu pokládána za vůbec první vietnamskou deklaraci nezávislosti. Ač je psána čínsky, je pokládána za jeden z nejkrásnějších projevů vietnamského vlastenectví. Je psána v čínštině, vznešeným, obřadným jazykem, dobově velmi častou literární formou rýmovaného sedmislabičného čtyřverší."@cs , "《南國山河》（越南語：Nam quốc sơn hà）是一首創作於10世紀時期的越南的詩。該詩被稱為「越南第一個獨立宣言」，聲明越南統治者對自己領土的主權。此詩真實作者的身份仍然存在爭議。根據《嶺南摭怪》的說法，是在981年第一次宋朝入侵時協助黎大行的神仙創作，《大越史記全書》則說是宋越熙寧戰爭期間，李常傑率領的越軍軍士在張將軍祠中高聲朗讀出來。 此詩以神諭的格式寫作，並被認為是越南文學中最為人所知的作品之一。它成為早期獨立戰爭的一個象徵性的讚美詩，在1076年第二次宋朝入侵時，由李常傑在如月江防線出於同樣鼓舞士氣的目的而朗誦出來。在近期，當中國開始在越南歷史的海域進行石油勘探時，此詩常常在越南市民出於顯示反華情緒而被吟誦出來。"@zh ;
+        rdfs:label     "Nam quốc sơn hà"@en ;
+        gold:hypernym  dbr:Poem .
+
+dbr:Nam_Ông_mộng_lục  rdfs:comment  "《南翁夢錄》（越南语：Nam ông mông lục／南翁夢錄），越南古代史籍，作者是胡朝皇帝胡季犛長子黎澄（又稱胡元澄、胡澄，別號南翁）。明朝滅胡朝後，黎澄到明入仕，在工部任職，並大約於1438年（明正統三年）著成本書。本書記敍越南李朝、陳朝的歷史人物及事件，以及佛道宗教派別事跡，共三十一篇，可補越南正史之不足。"@zh , "Dream memoir of Southern Man (Hán tự: 南翁夢錄, Vietnamese : Nam Ông mộng lục) is a memoir written by Vietnamese official Hồ Nguyên Trừng during his exile in Ming dynasty in the early 15th century."@en ;
+        rdfs:label     "Nam Ông mộng lục"@en ;
+        dbp:genre      "Memoir"@en ;
+        gold:hypernym  dbr:Memoir .
+
+dbr:Bible_translations_into_Vietnamese
+        rdfs:comment  "The modern Vietnamese alphabet chữ Quốc ngữ was created by Portuguese and Italian Jesuit missionaries and institutionalized by Alexandre de Rhodes with the first printing of Catholic texts in Vietnamese in 1651, but not the Bible. Some New Testament extracts were translated and printed in catechisms in Thailand in 1872."@en , "ベトナム語訳聖書（ベトナムごやくせいしょ、英語: Bible translations into Vietnamese)。本項目では、キリスト教聖書のベトナム語への翻訳を扱う。"@ja ;
+        rdfs:label    "Bible translations into Vietnamese"@en .
+
+dbr:Thằng_Bờm  rdfs:comment  "Thằng Bờm (Bờm the Fool, Bờm the village idiot) is a Vietnamese folktale character. The Thằng Bờm stories, along with poems like the satirical Truyện Trê Cóc, were among the folktales reanalysed by socialist scholars."@en ;
+        rdfs:label     "Thằng Bờm"@en ;
+        gold:hypernym  dbr:Character .
+
+dbr:Phan_Trần  rdfs:comment  "《潘陈传》（越南語：Phan Trần），或简称《潘陈》，是一部越南国民文学的长编叙事诗。创作于19世纪初叶，其作者不详。全文用越南语喃字写成，共有954句。 《潘陈传》的内容是由明朝高濂所作的《》改编而成，讲述的是北宋靖康时期一位名叫潘必正的书生（潘生）与一位已经订婚的女子妙常之间相爱，最后结婚的罗曼史。 《潘陈传》的内容冲破了儒教的伦理道德约束，为士大夫所不齿，阮朝时期，士大夫曾流传着“男不看《潘陈》，女不看《翠云翠翘》”（Đàn ông chớ kể Phan Trần, Đàn bà chớ kể Thúy Vân Thúy Kiều）之语，但此书却在民间极为流行。 1889年，《潘陈传》被翻译为国语字版本。"@zh , "Phan Trần (Vietnamese: 潘陳傳, họ Phan và họ Trần) is an anonymous Vietnamese language epic poem in lục bát verse originally written in Nôm script. It was first transcribed into the Latin-based modern Quốc ngữ Vietnamese alphabet in 1889. There was a saying that \"men should not tell the story of Phan Trần, women should not tell The Tale of Kiều\" because the plot of Phan Trần concerns romantic emotions of a man, Phan Sinh, who falls in love with Diệu Thường a girl from the Trần family even though his parents have arranged another marriage."@en ;
+        rdfs:label     "Phan Trần"@en ;
+        gold:hypernym  dbr:Poem .
+
+dbr:Thuật_hoài  rdfs:comment  "Thuật hoài (literally: Express) is one of two poems which are still exist of Phạm Ngũ Lão (1255-1320), a famous general of Trần dynasty."@en ;
+        rdfs:label     "Thuật hoài"@en ;
+        gold:hypernym  dbr:Poems .
+
+dbr:Việt_Điện_U_Linh_Tập
+        rdfs:comment   "《粵甸幽靈集》（越南語：Việt Điện U Linh Tập ），又名為《越甸幽靈集》，越南古代神話傳說著作，以漢語文言文寫成。它的成書年代及作者都眾說紛紜，傳世版本亦多，一般認為由陳朝人李濟川撰。本書原為一卷，二十八篇故事，到後黎朝則有續加四篇故事，後來亦有其他補作。書中內容為記載越南各地神靈祠廟的靈驗異事，並往往為史學家所參照引用，具有相當的史料參考價值。"@zh , "Việt Điện U Linh Tập (Hán tự: 粵甸幽靈集 or 越甸幽靈集 lit. 'Collection of Stories on the Shady and Spiritual World of the Viet Realm') is a collection of Vietnamese history written in Chinese (chữ nho) compiled by Lý Tế Xuyên in 1329."@en , "Собрание записей о потусторонних силах Вьетского царства (вьетн. Việt điện u linh tập, тьы-ном 越甸幽靈集, вьет дьен у линь тап) — труд по вьетнамской истории, в создании которого участвовал (Lý Tế Xuyên, 李濟川) в XIV веке. Ли Те Сюен упоминал во вступлении, что не является автором данного сочинения, сообщив, что «подновил» его в 1329 году. Книга не была, в отличие от многих других вьетнамских историографий, спонсирована государством, хотя Ли Те Сюен был придворным чиновником."@ru ;
+        rdfs:label     "Việt Điện U Linh Tập"@en ;
+        gold:hypernym  dbr:History .
+
+dbr:The_Tale_of_Kieu  rdfs:comment  "쭈엔 끼에우(Truyện Kiều 전교傳翹 혹은 김운교전金雲翹傳)은 18세기 베트남의 작가 응우옌주Nguyễn Du가 저술한 대서사시로 베트남 문학사에서 가장 중요한 작품이다. 베트남어의 원명은 도안 쯔엉 떤 타인(Đoạn Trường Tân Thanh/단장신성斷腸新聲)이고, 쭈엔 끼에우Truyện Kiều라는 이름으로 널리 알려졌다."@ko , "Kieu (či Kim Van Kieu), viet. Kiều (Kim Vân Kiều) je vietnamský veršovaný román z počátku 19. století, jehož autorem je Nguyen Zu (viet. Nguyễn Du; 1765–1820). Jde o nejvýznamnější a nejoblíbenější dílo vietnamské literatury vůbec.[zdroj?] Toto dílo čítá 3254 veršů v tradiční vietnamské básnické formě lục-bát, která pravidelně střídá šestislabičné a osmislabičné verše. Podobně jako další romány ve verších (nazývané truyện, proto se také někdy hovoří o Truyen Kieu), které ve Vietnamu vznikaly na přelomu 18. a 19. století, i tento byl napsán ve vietnamském znakovém písmu, tzv. (viet. )."@cs , "La Rakonto pri Kiều estas famkonata versa epopeo verkita de Nguyễn Du (1765 – 1820), la plej populara kaj granda poeto de Vjetnamio. Ĝiaj 3254 versoj, verkitaj laŭ la metriko de ses-ok silaba, en kiu la popola dirmaniero alternas kun klasika literatura esprimado, abundas je specialaj esprimoj, aludoj pri legendoj, malnovaj poemoj kaj rakontoj. Eĉ malkleruloj en la tempo de Nguyễn Du kiel kamparanoj kaj sampanistoj amis Kiều, konis parkere longajn fragmentojn kaj ŝatis deklami la plej preferatajn. Virinoj ofte kantas ilin kiel lul-kantojn, junulinoj konsultas ĝin por diveni sian estontecon."@eo , "Truyện Kiều of Đoạn Trường Tân Thanh is een Vietnamees episch gedicht geschreven door de 18e-eeuwse schrijver Nguyễn Du. Het verhaal is geïnspireerd op een novelle door een laat-16e- of vroeg-17e-eeuws auteur met pseudoniem Thanh-Tam Tai-Nhan. Nguyen Du ontdekte deze novelle tijdens zijn verblijf in China."@nl , "Truyện Kiềuno, escrito por Nguyễn Du (1765−1820), es el poema más importante de la literatura vietnamita. Fue publicado en 1815. El título original de la obra es Ðoạn Trường Tân Thanh, aunque también es conocido como Kim Văn Kiềuno. La historia se basa en una novela china del siglo XVII (época de la Dinastía Ming) que conoció el autor en 1813 cuando viajó a China. El poema fue creado a principios del siglo XIX."@es , "Truyện Kiều, escrit per Nguyễn Du (1765 − 1820), és el poema més important de la literatura vietnamita. Fou publicat el 1815. El títol original de l'obra és Ðoạn Trường Tân Thanh. També és conegut com a Kim Văn Kiều. La història es basa en una novel·la xinesa del segle xvii (la Dinastia Ming) que conegué l'autor el 1813 quan viatjà a la Xina. El poema fou creat a principis del segle xix. La història mostra el caos polític i social del Vietnam del segle XVIII provocat per les disputes dinàstiques. El tema principal de la història és la pietat filial, un element del confucianisme."@ca , "The Tale of Kiều is an epic poem in Vietnamese written by Nguyễn Du (1765–1820), considered the most famous poem and a classic in Vietnamese literature. The original title in Vietnamese is Đoạn Trường Tân Thanh (斷腸新聲, \"A New Cry From a Broken Heart\"), but it is better known as Truyện Kiều (傳翹, IPA: [ʈʂwîənˀ kîəw], lit. \"Tale of Kiều\")."@en , "La storia di Kieu (Truyện Kiều in vietnamita) è il poema più importante della letteratura vietnamita, scritto da Nguyễn Du (1765-1820). Pubblicato nel 1815, il titolo originale dell'opera è Ðoạn Trường Tân Thanh, sebbene sia anche conosciuto come Kim Văn Kiều. La storia è basata su un romanzo cinese del diciassettesimo secolo (era della dinastia Ming), che l'autore incontrò nel 1813 quando viaggiò in Cina. Il poema fu creato all'inizio del XIX secolo."@it , "『金雲翹』（キム・ヴァン・キエウ、ベトナム語：Kim Vân Kiều / 金雲翹）は、19世紀前半にベトナム（阮朝）の文人グエン・ズー（阮攸）が中国の小説『』を翻案し、チュノムで記した長編叙事詩。チュノム文学の最高峰と考えられ、ベトナムの国民文学的作品とみなされている。 作者が付した本来の題は『断腸新声』（ベトナム語：Đoạn Trường Tân Thanh / 斷腸新聲）であるが、複数の版でさまざまな書名が伝えられており、日本では長らく『金雲翹』の名で受容されてきた。現代のベトナムでは、『キエウ伝』（ベトナム語：Truyện Kiều / 傳翹）が最も一般的な呼称である。"@ja , "《金雲翹傳》是越南長編叙事詩。是18世紀到19世紀間，詩人阮攸根據中国明末清初原著小說《金雲翹》用本民族文字喃字寫成的3254行敍事詩。越南通稱《翹傳》（越南语：Truyện Kiều／傳翹）或《斷腸新聲》（Đoạn Trường Tân Thanh／斷腸新聲）。"@zh ;
+        rdfs:label     "The Tale of Kieu"@en ;
+        dbp:genre      dbr:Epic_poetry ;
+        dbp:verseForm  dbr:Lục_bát ;
+        gold:hypernym  dbr:Poem .
+
+<http://dbpedia.org/resource/Phạm_Công_–_Cúc_Hoa>
+        rdfs:comment   "The Tale of Phạm Công and Cúc Hoa (范公菊花 Phạm Công – Cúc Hoa) is an anonymous 18th Century Vietnamese language poem written in luc bat verse and vernacular chu nom script. As with two similar poems, Phạm Tải – Ngọc Hoa and Tống Trân and Cúc Hoa, the title is made of the two names of a star-crossed couple, the boy Phạm Công and the girl Cúc Hoa."@en ;
+        rdfs:label     "Phạm Công – Cúc Hoa"@en ;
+        gold:hypernym  dbr:Poem .
+
+dbr:Thánh_Tông_di_thảo
+        rdfs:comment  "《聖宗遺草》（越南語：Thánh Tông Di Thảo），越南古代短篇小說集，以漢語文言文寫成，分為兩卷（上、下），共十九則故事。傳為後黎聖宗所作，實則甚有可能是後世假托其名而寫成。本書的取材以文士創作、民間傳說及寓言為主，是一部具有文學成就的作品。"@zh , "Thánh Tông di thảo (Chinese: 聖宗遺草; lit. 'Thánh Tông's Posthumous Manuscript') is a Vietnamese short story collection written in vernacular Chinese, attributed to Lê Thánh Tông (1442–1497), emperor of the Lê dynasty who actively promoted Confucian learning and the Chinese bureaucratic system in his state, in addition to having authored several books in Chinese. Thánh Tông di thảo in two volumes contains 19 tales in the truyền kỳ (Chinese: chuanqi) genre."@en ;
+        rdfs:label    "Thánh Tông di thảo"@en .
+
+dbr:Quốc_âm_thi_tập  rdfs:comment  "The Quốc âm thi tập (國音詩集 \"National language poetry collection\") is a vernacular-Vietnamese language poetry book written in chữ nôm script attributed to Nguyễn Trãi. The collection of 254 poems was traditionally written after Nguyễn Trãi's retirement from court life. The original Quốc âm thi tập influenced emperor-reformer Lê Thánh Tông, best known for his Hồng Đức legal code. Lê Thánh Tông was also a poet, and organized a literary group, the Tao Dan, producing another vernacular chữ nôm collection, the Hồng Đức Quốc Âm thi tập (Hồng Đức National pronunciation poetry collection\")."@en ;
+        rdfs:label     "Quốc âm thi tập"@en ;
+        gold:hypernym  dbr:Book .
+
+dbr:The_Story_of_Thạch_Sanh
+        rdfs:comment  "The Story of Thạch Sanh (石生新傳 Thạch Sanh tân truyện) is a late eighteenth-century Vietnamese classical novel written in vernacular nôm script and lục bát (\"6-8\") verse. The author is unknown. Popular elements in the story are also taken from Vietnamese mythology."@en ;
+        rdfs:label    "The Story of Thạch Sanh"@en .
+
+dbr:Ba_Giai_and_Tú_Xuất
+        rdfs:comment   "Ba Giai and Tú Xuất are a fictional duo appearing in Southern Vietnam's popular folk tales. The two characters are typically nominally citizens under the early French colonial period, but stories may place them in earlier dynasties or later. The stories fall under the genre of Vietnamese comic or joke stories (vi:Truyện cười Việt Nam). The moral of the tale often concerns characterisation of the generous and stingy. During and after the independence struggle the moral of the tales may also take anti-colonial motifs. Their tales are the base of various television, theatre, film and animation productions."@en ;
+        rdfs:label     "Ba Giai and Tú Xuất"@en ;
+        gold:hypernym  dbr:Duo .
+
+dbr:Thiền_uyển_tập_anh
+        rdfs:comment   "Collection of Outstanding Figures of the Zen Garden (Hán tự: 禪苑集英, Vietnamese: Thiền uyển tập anh) is a Chinese-language Vietnamese Buddhist biographical text dating to 1337. It connects the history of Buddhism in Vietnam with China and has aspects of a Dharma transmission text modelled on The Transmission of the Lamp genre."@en ;
+        rdfs:label     "Thiền uyển tập anh"@en ;
+        gold:hypernym  dbr:Text .
+
+dbr:Alliance_of_Arts_and_Literature_Associations_of_Vietnam
+        rdfs:comment   "The Alliance of Arts and Literature Associations of Vietnam (Liên hiệp các Hội Văn học nghệ thuật Việt Nam) is the senior official body representing all the culture associations in Vietnam. It was founded 1957-1958 as the bodies beneath it were also founded."@en ;
+        rdfs:label     "Alliance of Arts and Literature Associations of Vietnam"@en ;
+        gold:hypernym  dbr:Body .
+
+dbr:Cung_oán_ngâm_khúc
+        rdfs:comment   "Cung oán ngâm khúc (chữ Hán: 宮怨吟曲 Complaint of a Palace Maid) is a Vietnamese-language poem by Nguyễn Gia Thiều (1741–98) originally composed in nôm script. The English title has also been rendered as the \"Lament of a Royal Concubine\" or \"The Complaints of the Royal Harem.\" The poem is an example of song thất lục bát (\"double seven, six eight\") form of poetry in the ngâm \"lament\" style."@en , "宮怨吟曲（越南语：Cung oán ngâm khúc／宮怨吟曲）是越南後黎朝詩人阮嘉韶的代表作品，為雙七六八體，用喃字寫成。詩中大量援引中國歷史典故，又結合越南本地的典故和俗語，以第一人稱的口吻，講述一位才色雙全的宮女在宮中受到冷落，並遺恨終生的故事。"@zh ;
+        rdfs:label     "Cung oán ngâm khúc"@en ;
+        gold:hypernym  dbr:Poem .
+
+<http://dbpedia.org/resource/Night,_Again>
+        rdfs:comment   "Night, Again is an anthology of contemporary Vietnamese fiction, edited by Linh Dinh. Published in 1996 by Seven Stories Press, then reissued in 2006 with two new stories, Night, Again features key authors emerging from the liberalization of Đổi Mới in the 1980s, as well as major writers living overseas. The stories include:"@en ;
+        rdfs:label     "Night, Again"@en ;
+        gold:hypernym  dbr:Anthology .
+
+dbr:Truyện_Trinh_thử  rdfs:comment  "Trinh thử (貞鼠, \"The Virgin Mouse\") by Hò̂ Huyè̂n Qui is a 15th-century Vietnamese Nôm poem in 850 lines in lục bát verse."@en ;
+        rdfs:label     "Truyện Trinh thử"@en ;
+        gold:hypernym  dbr:Poem .
+
+dbr:Truyện_Trê_Cóc  rdfs:comment  "Truyện Trê Cóc (The chronicle of the catfish and the frog) is a 398-line satirical poem written in Vietnam in the 13th Century. In the poem a catfish steals the tadpoles of two frogs. The frogs appeal to the mandarin who orders the catfish imprisoned. However the wife of the catfish bribes the mandarin's assistant to have the case re-examined. After inspection of the pond the mandarin's inspectors declare that the tadpoles are the true offspring of the catfish. Along with folk tales such as Thằng Bờm the Truyện Trê Cóc was one of the poems reanalysed by scholars such as Ninh Viết Giao."@en ;
+        rdfs:label    "Truyện Trê Cóc"@en .
+
+dbr:Tang_thương_ngẫu_lục
+        rdfs:comment   "The Tang thương ngẫu lục (chữ Hán: 桑滄偶錄, Random Record of Great Changes, 1806) is a Chinese-language work by Vietnamese Confucian scholars and . The work documents religious and social events of 18th-century Vietnam."@en , "《桑滄偶錄》（越南語：Tang Thương Ngẫu Lục），越南漢文傳奇小說，由兩位作者范廷琥、於18世紀末、19世紀初合撰而成。該書分上下兩卷，收錄九十篇故事，當中牽涉物、山川寺廟及奇聞異事，題材廣泛，內容豐富，加上嚴謹簡要的筆法，因此該書既具有文學成就，亦為可補正史之不足的著作。"@zh ;
+        rdfs:label     "Tang thương ngẫu lục"@en ;
+        gold:hypernym  dbr:Work .
+
+dbr:Lục_bát  rdfs:comment  "六八體（越南语：Lục bát／六八）是越南傳統詩歌形式，所謂“六八”是指詩句以六字和八字的形式重複交替，其格律要求是“平平仄仄平平，平平仄仄平平仄平”。六八體在15世紀後開始流行，由於結構簡單，韻律比較靈活自由，適合於敷衍故事，人們紛紛用其來創作長篇敘事詩。 六八體代表詩作如阮攸的《金雲翹傳》和的《蜀歌行》。"@zh , "Le Lục Bát (littéralement « Six - Huit ») est une forme poétique traditionnelle vietnamienne qui consiste en une versification alternée entre des hexasyllabes et des octosyllabes. Le Lục Bát qui trouve son origine dans la littérature folklorique orale, est apprécié par les gens de toutes les classes sociales et de tout âge. Profondément lié à la culture et à l’âme du peuple vietnamien, le sujet des poèmes porte souvent sur la vie quotidienne, les relations humaines, la moralité et la beauté de la nature."@fr , "Lục bát, (av kinesiska 六八sex-åtta, syftande på radernas längd) är ett vietnamesiskt versmått. Lục bát användes främst i berättande dikter (så kallade truyện), där det var det vanligaste versmåttet. Nguyễn Dus versroman Kim och Kieu, som ofta omtalas som mästerverket framför andra i Vietnams litteratur, är skriven i lục bát. Lục bát består av verspar med sex stavelser i den första raden och åtta i den andra. Det kan finnas hur många verspar som helst. Man kan uppfatta versraderna som uppbyggda av tvåstaviga element (jamber), alltså tre jamber i de korta raderna och fyra i de långa."@sv , "Lục bát (Vietnamese: [lùkp ɓáːt], Hán tự: 六八) is a traditional Vietnamese verse form - historically first recorded in chữ nôm script. \"Lục bát\" is Sino-Vietnamese for \"six eight\", referring to the alternating lines of six and eight syllables. It will always begin with a six-syllable line and end with an eight-syllable one. A related measure is the Song thất lục bát."@en , "El Lục bát es una forma tradicional de versificación en vietnamita que está profundamente anclada en el alma de la cultura de este país. \"Lục bát\" es una forma sino-vietnamita que significa \"seis-ocho\", en referencia a la alternancia de versos de seis y ocho sílabas. Comienza siempre con un verso hexasílabo y termina siempre con uno octosílabo. i"@es ;
+        rdfs:label    "Lục bát"@en .
+
+dbr:Phủ_biên_tạp_lục  rdfs:comment  "《撫邊雜錄》（越南語：Phủ Biên Tạp Lục），六卷，越南漢文史籍，後黎朝人黎貴惇撰。黎貴惇為後黎朝後期北方鄭主政權的著名官員及學者，1776年，被任命為順化府協鎮，在任約半年，《撫邊雜錄》便是根據他任期內的見聞經歷及所得資料寫成，內容包括順化、廣南等地（約在越南中、南部）的史地、制度、人文、風土等等。《撫邊雜錄》對越南中南部歷史研究具重要參考價值，受到後世學界重視。"@zh , "The Phủ biên tạp lục (chữ Hán: 撫邊雜錄 Miscellaneous Chronicles of the Pacified Frontier 1776) is a 6 volume Chữ Nho geography by the Vietnamese Confucian scholar and encyclopaedist Lê Quý Đôn. It is a detailed description of the Nguyễn dynasty's territories in Thuận Hóa and Quảng Nam provinces, and covers outlying areas such as the Spratly Islands and Paracel Islands. This text was written in the aftermath of the Trịnh regime's invasion of the long-autonomous Nguyễn territories, which took place in 1774. The Lê court sent Lê Quý Đôn into the newly captured territories to carry out a survey of its natural resources and economic potential, and this text is a result of his research. It represents one of the most important historical sources for understanding the geographical and historical cond"@en ;
+        rdfs:label     "Phủ biên tạp lục"@en ;
+        gold:hypernym  dbr:Geography .
+
+dbr:Hoa_tiên  rdfs:comment  "Story of the flower-letter (Vietnamese: Hoa tiên ký Hán tự: 花箋記) is a famous vernacular Vietnamese-language poem originally written in nôm script. It was written by Nguyễn Huy Tự (1743-1790) and revised by Nguyễn Thiện (1763-1818)."@en ;
+        rdfs:label     "Hoa tiên"@en ;
+        gold:hypernym  dbr:Poem .
+
+dbr:Edict_on_the_Transfer_of_the_Capital
+        rdfs:comment  "遷都詔 （越南语: Thiên đô chiếu）越南李朝開國君主李公蘊的诏书。1010年春，李公蘊乘前黎朝嗣主幼沖，篡奪皇位，改元順天，建立大越李朝。他从华闾古都遷都到昇龍城（即今日河内，原名大羅城，為唐朝高駢治所）。为此特地发布遷都詔 。"@zh , "Edict on the Transfer of the Capital (Chinese: 遷都詔, Vietnamese: Thiên đô chiếu or Chiếu dời đô) is the edict written by the asking of emperor Lý Thái Tổ and was issued in the fall of 1010 to transfer the capital of Đại Cồ Việt from Hoa Lư to Đại La."@en ;
+        rdfs:label    "Edict on the Transfer of the Capital"@en .
+
+dbr:Lục_Vân_Tiên  rdfs:comment  "The Tale of Lục Vân Tiên (蓼雲仙傳 or 陸雲僊; Truyện Lục Vân Tiên) is a 19th-century Vietnamese-language epic poem written in vernacular nôm script by the blind poet Nguyễn Đình Chiểu (1822–1888). The 2082-line (present version) work is one of the two most recognizable and influential epic poems in Vietnamese (the other being The Tale of Kiều by Nguyễn Du). Its reaffirmation of Vietnam's traditional moral virtues, at a time when Vietnamese society was facing the French invasion, had great popular appeal."@en , "《蓼雲仙傳》（越南语：Lục Vân Tiên Truyện／蓼雲仙傳），又名《云仙古迹新传》（越南语：Vân Tiên cổ tích tân truyện／雲僊古跡新傳）和《云仙古迹传》，又譯作《陆云仙传》和《云仙传》，是一部越南国民文学的长编叙事诗。创作于19世纪时期，作者是盲人诗人阮廷炤。"@zh ;
+        rdfs:label     "Lục Vân Tiên"@en ;
+        gold:hypernym  dbr:Poem .
+
+dbr:Song_thất_lục_bát
+        rdfs:comment   "Song thất lục bát (av kinesiska 雙七六八 par-sju sex-åtta, syftande på radernas längd), är ett vietnamesiskt versmått som särskilt använts till klagande och över huvud taget känslosam lyrik, så kallad ngâm. Strofen i song thất lục bát består av fyra versrader: först två med sju stavelser, sedan en med sex, och sist en rad med åtta stavelser. Dikten kan innehålla hur många strofer som helst. De sjustaviga radernas byggnad kan uppfattas som 3 + 2 + 2 (anapest följd av två jamber). De övriga raderna består av tvåstaviga jamber; de är i detta liksom vad gäller rim- och tonschema alldeles lika lục bát."@sv , "The song thất lục bát (雙七六八, literally \"double seven, six eight\") is a Vietnamese poetic form, which consists of a quatrain comprising a couplet of two seven-syllable lines followed by a Lục bát couplet (a six-syllable line and an eight-syllable line). Each line requires certain syllables to exhibit a \"flat\" or \"sharp\" pitch. Lines and stanzas are linked in a complex rhyme scheme. • = any syllable; ♯ = trắc (sharp) syllable; ♭ = bằng (flat) syllable; ♭A = bằng (flat) syllable with \"A\" rhyme.♯ and ♭ are used only as handy mnemonic symbols; no connection with music should be inferred."@en , "雙七六八體（越南语：Song thất lục bát／雙七六八）是越南傳統詩歌形式，是在六八體的基礎上產生出來。其格式和格律要求是“平仄仄平平仄仄，平平平仄仄平平。平平仄仄平平，平平仄仄平平仄平”。結構相較普通六八體更為複雜，變化較多，更適合表達細膩的思想感情，因而形成了表現人物內心世界的“吟曲”類詩歌。 六八體代表詩作如鄧陳琨的《征婦吟曲》和阮嘉韶的《宮怨吟曲》。"@zh ;
+        rdfs:label     "Song thất lục bát"@en ;
+        gold:hypernym  dbr:Form .
+
+dbr:Trạng_Quỳnh  rdfs:comment  "Trạng Quỳnh (lit. 'Principal graduate Quỳnh') was an official under the famous Vietnamese historical period of King Le - Trinh Lord. He is also made as a cunning character from traditional Vietnamese folk tales."@en ;
+        rdfs:label     "Trạng Quỳnh"@en ;
+        gold:hypernym  dbr:Character .
+
+dbr:Dam_San  rdfs:comment  "Đăm Săn (in Ê Đê: Klei Khan Y Dam San; in Vietnamese: Bài ca Đam San)(klei khan: epic, Y: middle name of Ede people for male, literally: The Great Epic of Sir Dam San) is a famous seven-chapter epic of the Ede people of Vietnam's Central Highlands. It is about the heroic E De chieftain Dam San."@en ;
+        rdfs:label     "Dam San"@en ;
+        gold:hypernym  dbr:Epic .
+
+dbr:Lục_súc_tranh_công
+        rdfs:comment   "Lục súc tranh công (六畜爭功 \"The Quarrel of the Six Beasts\") is a classic narrative poem written in late Eighteenth Century Vietnam. Although the title is given in classical chu Han the poem itself is written in the vernacular Vietnamese language in Sino-Vietnamese nôm script and luc bat verse. The poem is anonymous. It is set in the tuồng form of traditional drama."@en ;
+        rdfs:label     "Lục súc tranh công"@en ;
+        gold:hypernym  dbr:Poem .
+
+dbr:Đường_luật  rdfs:comment  "Đường luật (Hán tự: 唐律) is the Vietnamese variant of Chinese Tang poetry. Đường also means Tang dynasty, but in Vietnam the original Chinese Tang poems are distinguished from Vietnam's own native thơ Đường luật as China's \"Thơ Đường\" (書唐, \"Tang poetry\") or \"Đường thi\" (唐詩, \"Tang verse\"). Sino-Vietnamese Đường luật poetry translated into English includes the works of poet Hồ Xuân Hương."@en , "Đường luật är det vietnamesiska namnet på den versform som på kinesiska kallas shi - fyra närbesläktade versmått som uppstod i Tangdynastins Kina (618 - 907 e. Kr.) och fram till den fria versens genombrott på 1900-talet var bland de viktigaste versmåtten i både Vietnam och Kina. I Vietnam skrevs Đường luật på såväl vietnamesiska som kinesiska."@sv ;
+        rdfs:label     "Đường luật"@en ;
+        gold:hypernym  dbr:Variant .

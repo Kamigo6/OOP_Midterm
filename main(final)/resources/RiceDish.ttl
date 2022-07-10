@@ -1,0 +1,73 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Bánh_chưng  rdfs:label  "Bánh chưng"@en ;
+        dbo:ingredient      dbr:Pork , dbr:Mung_bean , dbr:Glutinous_rice ;
+        dbp:mainIngredient  dbr:Mung_bean , dbr:Pork , dbr:Glutinous_rice ;
+        dbp:region          dbr:Southeast_Asia .
+
+dbr:Trảng_Bàng_dew-wetted_rice_paper
+        rdfs:label  "Trảng Bàng dew-wetted rice paper"@en .
+
+dbr:Cơm_nắm  rdfs:label  "Cơm nắm"@en .
+
+dbr:Cơm_hến  rdfs:label  "Cơm hến"@en .
+
+dbr:Bì_cuốn  rdfs:label  "Bì cuốn"@en .
+
+dbr:Cơm_tấm  rdfs:label     "Cơm tấm"@en ;
+        dbo:ingredient      dbr:Broken_rice ;
+        dbp:mainIngredient  dbr:Broken_rice ;
+        dbp:region          dbr:Southern_Vietnam .
+
+dbr:Cơm_bình_dân  rdfs:label  "Cơm bình dân"@en .
+
+dbr:Cơm_rượu  rdfs:label    "Cơm rượu"@en ;
+        dbo:ingredient      dbr:Yeast , dbr:Glutinous_rice ;
+        dbp:mainIngredient  dbr:Glutinous_rice , dbr:Yeast ;
+        dbp:region          dbr:Southern_Vietnam ;
+        dbp:type            dbr:Rice_pudding .
+
+dbr:Bánh_lá  rdfs:label     "Bánh lá"@en ;
+        dbp:mainIngredient  "Rice"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Bánh or dumpling"@en .
+
+dbr:Bánh_cuốn  rdfs:label   "Bánh cuốn"@en ;
+        dbo:ingredient      dbr:Rice , dbr:Auricularia_auricula-judae , dbr:Shallot ;
+        dbp:mainIngredient  "Rice batter, ground pork, wood ear mushroom, shallots"@en ;
+        dbp:region          dbr:Northern_Vietnam ;
+        dbp:type            dbr:Rice_noodle_roll .
+
+dbr:Xôi  rdfs:label  "Xôi"@en .
+
+dbr:Rice_cake  rdfs:label  "Rice cake"@en .
+
+dbr:Cốm  rdfs:label         "Cốm"@en ;
+        dbp:mainIngredient  "Rice kernels"@en ;
+        dbp:region          dbr:Red_River_Delta , dbr:Hanoi .
+
+dbr:Bánh_đúc  rdfs:label  "Bánh đúc"@en ;
+        dbp:region  dbr:Southeast_Asia ;
+        dbp:type    "Bánh"@en .
+
+dbr:Congee  rdfs:label      "Congee"@en ;
+        dbo:ingredient      dbr:Rice ;
+        dbp:mainIngredient  "Rice"@en ;
+        dbp:region          dbr:Karnataka , dbr:Tamil_Nadu , dbr:Kerala ;
+        dbp:type            dbr:Porridge .
+
+dbr:Cơm_gà_rau_thơm  rdfs:label  "Cơm gà rau thơm"@en .
+
+dbr:Bánh_mật  rdfs:label  "Bánh mật"@en .
+
+dbr:Bánh_xèo  rdfs:label    "Bánh xèo"@en ;
+        dbo:ingredient      dbr:Turmeric ;
+        dbp:mainIngredient  "Rice flour, water, turmeric powder"@en ;
+        dbp:type            "Pancake"@en .
+
+dbr:Bánh_bèo  rdfs:label    "Bánh bèo"@en ;
+        dbp:mainIngredient  "Rice flour and tapioca flour"@en ;
+        dbp:region          "Central Vietnam"@en .

@@ -1,0 +1,115 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Bánh_da_lợn  rdfs:label  "Bánh da lợn"@en ;
+        dbo:ingredient      dbr:Durian , dbr:Rice_flour , dbr:Tapioca , dbr:Sugar , dbr:Mung_bean , dbr:Coconut_milk , dbr:Taro ;
+        dbp:mainIngredient  "Rice flour, tapioca starch, mung beans, taro or durian, coconut milk or water, sugar"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Layer_cake .
+
+dbr:Bánh_chưng  rdfs:label  "Bánh chưng"@en ;
+        dbo:ingredient      dbr:Pork , dbr:Mung_bean , dbr:Glutinous_rice ;
+        dbp:mainIngredient  dbr:Mung_bean , dbr:Glutinous_rice , dbr:Pork ;
+        dbp:region          dbr:Southeast_Asia .
+
+dbr:Bánh_canh  rdfs:label   "Bánh canh"@en ;
+        dbo:ingredient      dbr:Rice , dbr:Tapioca ;
+        dbp:mainIngredient  "Tapioca flour, optionally rice flour"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Soup .
+
+dbr:Bánh_phu_thê  rdfs:label  "Bánh phu thê"@en ;
+        dbo:ingredient      dbr:Mung_bean ;
+        dbp:mainIngredient  "Mung beans"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Sweets"@en .
+
+dbr:Bánh_tét  rdfs:label    "Bánh tét"@en ;
+        dbo:ingredient      dbr:Mung_bean , dbr:Banana_leaf , dbr:Glutinous_rice ;
+        dbp:mainIngredient  "Glutinous rice, banana leaf, meat or vegetarian filling"@en ;
+        dbp:region          dbr:Southern_Vietnam .
+
+dbr:Bánh_bột_lọc  rdfs:label  "Bánh bột lọc"@en ;
+        dbo:ingredient      dbr:Pork_belly , dbr:Tapioca , dbr:Shrimp_and_prawn_as_food ;
+        dbp:mainIngredient  dbr:Tapioca , dbr:Shrimp_and_prawn_as_food , dbr:Pork_belly ;
+        dbp:region          "Central Vietnam"@en ;
+        dbp:type            dbr:Dumpling .
+
+dbr:Bánh_cuốn  rdfs:label   "Bánh cuốn"@en ;
+        dbo:ingredient      dbr:Auricularia_auricula-judae , dbr:Rice , dbr:Shallot ;
+        dbp:mainIngredient  "Rice batter, ground pork, wood ear mushroom, shallots"@en ;
+        dbp:region          dbr:Northern_Vietnam ;
+        dbp:type            dbr:Rice_noodle_roll .
+
+dbr:Bánh_lá  rdfs:label     "Bánh lá"@en ;
+        dbp:mainIngredient  "Rice"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Bánh or dumpling"@en .
+
+dbr:Bánh_rán  rdfs:label  "Bánh rán"@en ;
+        dbp:region  "North Vietnam"@en ;
+        dbp:type    "Deep-fried glutinous rice ball"@en .
+
+dbr:Bánh_bao  rdfs:label    "Bánh bao"@en ;
+        dbo:ingredient      dbr:Chicken_as_food , dbr:Chinese_sausage , dbr:Ground_meat , dbr:Mushroom , dbr:Onion ;
+        dbp:mainIngredient  "Ground pork or chicken, Chinese sausage, portion of a hard-boiled egg, onions, mushrooms"@en ;
+        dbp:region          dbr:Southeast_Asia .
+
+dbr:Bánh_mì  rdfs:label     "Bánh mì"@en ;
+        dbp:mainIngredient  "Vietnamese baguette"@en ;
+        dbp:type            dbr:Sandwich .
+
+dbr:Bánh_đúc  rdfs:label  "Bánh đúc"@en ;
+        dbp:region  dbr:Southeast_Asia ;
+        dbp:type    "Bánh"@en .
+
+dbr:Bánh_cốm  rdfs:label    "Bánh cốm"@en ;
+        dbo:ingredient      dbr:Mung_bean , dbr:Glutinous_rice ;
+        dbp:mainIngredient  dbr:Glutinous_rice , dbr:Mung_bean ;
+        dbp:type            dbr:Dessert .
+
+dbr:Bánh_rế  rdfs:label     "Bánh rế"@en ;
+        dbo:ingredient      dbr:Sweet_potato ;
+        dbp:mainIngredient  "Sweet potatoes, sugar"@en ;
+        dbp:region          "Bình Thuận Province, Southern Vietnam"@en ;
+        dbp:type            dbr:Street_food .
+
+dbr:Bánh_bò  rdfs:label     "Bánh bò"@en ;
+        dbp:mainIngredient  <http://dbpedia.org/resource/Baker's_yeast> , dbr:Coconut_milk , dbr:Water , dbr:Sugar , dbr:Rice_flour ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Sponge_cake .
+
+dbr:Bánh_in  rdfs:label  "Bánh in"@en ;
+        dbp:region  dbr:Huế .
+
+dbr:Bánh_gối  rdfs:label  "Bánh gối"@en ;
+        dbp:type    dbr:Dumpling .
+
+dbr:Bánh_cáy  rdfs:label  "Bánh cáy"@en ;
+        dbp:region  "Thái Bình Province of northern Vietnam"@en ;
+        dbp:type    "Bánh"@en .
+
+dbr:Bánh_chuối  rdfs:label  "Bánh chuối"@en ;
+        dbo:ingredient      dbr:Egg_as_food , dbr:Sugar , dbr:Coconut_milk , dbr:Butter , dbr:Condensed_milk , dbr:Vanilla_extract , dbr:Cooking_banana , dbr:Banana , dbr:White_bread ;
+        dbp:mainIngredient  "Bananas or plantains, coconut milk, sugar, white bread, shredded young coconut, condensed milk, butter, egg, vanilla extract"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Rice cake or bread pudding"@en .
+
+dbr:Bánh_xèo  rdfs:label    "Bánh xèo"@en ;
+        dbo:ingredient      dbr:Turmeric ;
+        dbp:mainIngredient  "Rice flour, water, turmeric powder"@en ;
+        dbp:type            "Pancake"@en .
+
+dbr:Bánh_hỏi  rdfs:label    "Bánh hỏi"@en ;
+        dbo:ingredient      dbr:Rice_vermicelli , dbr:Allium_tuberosum , dbr:Scallion ;
+        dbp:mainIngredient  "Rice vermicelli, scallions or garlic chives"@en ;
+        dbp:region          dbr:Bình_Định_province ;
+        dbp:type            dbr:Noodle .
+
+dbr:Bánh  rdfs:label        "Bánh"@en ;
+        dbo:ingredient      dbr:Tapioca , dbr:Glutinous_rice , dbr:Wheat_flour , dbr:Rice_flour ;
+        dbp:mainIngredient  "Usually rice flour, wheat flour, pressed glutinous rice, or tapioca"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Cakes and breads"@en .

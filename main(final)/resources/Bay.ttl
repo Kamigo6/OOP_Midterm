@@ -1,0 +1,32 @@
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Vân_Phong_Bay  rdfs:comment  "Vân Phong Bay is a scenic area in Khánh Hòa Province, Vietnam. It is one of 21 Vietnam National Tourist Areas. The area is the site of the planned Vân Phong Port."@en ;
+        rdfs:label    "Vân Phong Bay"@en ;
+        geo:lat       "12.659999847412109375"^^xsd:float ;
+        geo:long      "109.279998779296875"^^xsd:float .
+
+dbr:Vũng_Rô_Bay  rdfs:comment  "Vũng Rô Bay (Vietnamese: Vịnh Vũng Rô) is a small bay in Phú Yên Province, Vietnam. Vũng Rô is located in the commune (xã) of Hòa Xuân Nam, Đông Hòa District, Phú Yên Province, located at the edge of Cả Pass mountains. The bay is the natural border of provinces of Phú Yên and Khánh Hòa. Vung Ro covers an area of 16.4 square kilometres (6.3 sq mi) and is surrounded by Đèo Cả, Đá Bia and Hòn Bà mountains from the north, the east and the west respectively. There are some fine sand seasides by the bay. The bay is home to coral reefs."@en ;
+        rdfs:label    "Vũng Rô Bay"@en ;
+        geo:lat       "12.866666793823242188"^^xsd:float ;
+        geo:long      "109.4333343505859375"^^xsd:float .
+
+dbr:Bai_Tu_Long_Bay  rdfs:comment  "Bai Tu Long Bay is a bay in Vietnam. It encompasses Bai Tu Long National Park. Bai Tu Long Bay is northeast of Hạ Long Bay."@en ;
+        rdfs:label    "Bai Tu Long Bay"@en ;
+        dbp:location  dbr:Vietnam ;
+        geo:lat       "21.100000381469726562"^^xsd:float ;
+        geo:long      "107.633331298828125"^^xsd:float .
+
+dbr:Hạ_Long_Bay  rdfs:comment  "Hạ Long Bay or Halong Bay (Vietnamese: Vịnh Hạ Long, IPA: [vînˀ hâːˀ lawŋm]) is a UNESCO World Heritage Site and popular travel destination in Quảng Ninh Province, Vietnam. The name Hạ Long means \"descending dragon\". Administratively, the bay belongs to Hạ Long city, Cẩm Phả city, and is a part of Vân Đồn District. The bay features thousands of limestone karsts and isles in various shapes and sizes. Ha Long Bay is a center of a larger zone which includes Bai Tu Long Bay to the northeast, and Cát Bà Island to the southwest. These larger zones share a similar geological, geographical, geomorphological, climate, and cultural characters."@en ;
+        rdfs:label    "Hạ Long Bay"@en ;
+        dbp:location  "Vietnam"@en ;
+        geo:lat       "20.899999618530273438"^^xsd:float ;
+        geo:long      "107.1999969482421875"^^xsd:float .
+
+dbr:Cam_Ranh_Bay  rdfs:comment  "Cam Ranh Bay (Vietnamese: Vịnh Cam Ranh) is a deep-water bay in Vietnam in Khánh Hòa Province. It is located at an inlet of the South China Sea situated on the southeastern coast of Vietnam, between Phan Rang and Nha Trang, approximately 290 kilometers (180 miles) northeast of Ho Chi Minh City (formerly Saigon). Cam Ranh is considered the finest deepwater shelter in Southeast Asia. The continental shelf of Southeast Asia is relatively narrow at Cam Ranh Bay, bringing deep water close to land."@en ;
+        rdfs:label    "Cam Ranh Bay"@en ;
+        geo:lat       "11.998152732849121094"^^xsd:float ;
+        geo:long      "109.2193756103515625"^^xsd:float .

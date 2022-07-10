@@ -1,0 +1,6642 @@
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix ns2:  <http://dbpedia.org/resource/Viva_Vietnam:> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Bình_Minh  rdfs:label  "Bình Minh"@en .
+
+dbr:Roman_Catholic_Diocese_of_Hưng_Hóa
+        rdfs:label  "Roman Catholic Diocese of Hưng Hóa"@en .
+
+dbr:Bình_Sơn_district
+        rdfs:label  "Bình Sơn district"@en .
+
+<http://dbpedia.org/resource/Hòa_Bình,_Bạc_Liêu>
+        rdfs:label  "Hòa Bình, Bạc Liêu"@en .
+
+dbr:Định_Bình_Lake  rdfs:label  "Định Bình Lake"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Thạnh_district,_Bình_Định>
+        rdfs:label  "Vĩnh Thạnh district, Bình Định"@en .
+
+dbr:Bình_Xuyên_district
+        rdfs:label  "Bình Xuyên district"@en .
+
+dbr:Công_Bằng  rdfs:label  "Công Bằng"@en .
+
+<http://dbpedia.org/resource/Bình_Long,_An_Giang>
+        rdfs:label  "Bình Long, An Giang"@en .
+
+<http://dbpedia.org/resource/Ward_1,_District_4>
+        rdfs:label  "Ward 1, District 4"@en .
+
+dbr:Hanoi_Stock_Exchange
+        rdfs:label  "Hanoi Stock Exchange"@en .
+
+dbr:Nậm_Nhùn_district
+        rdfs:label  "Nậm Nhùn district"@en .
+
+dbr:Nam_Đông_district
+        rdfs:label  "Nam Đông district"@en .
+
+dbr:Tuần_Giáo_district
+        rdfs:label  "Tuần Giáo district"@en .
+
+dbr:An_Viên_Television
+        rdfs:label  "An Viên Television"@en .
+
+dbr:Giang_Thành_district
+        rdfs:label  "Giang Thành district"@en .
+
+dbr:Hoài_Đức_district
+        rdfs:label  "Hoài Đức district"@en .
+
+dbr:Ngọc_Phái  rdfs:label  "Ngọc Phái"@en .
+
+dbr:Cao_Phong_district
+        rdfs:label  "Cao Phong district"@en .
+
+dbr:Việt_Ngọc  rdfs:label  "Việt Ngọc"@en .
+
+dbr:Na_Lay  rdfs:label  "Na Lay"@en .
+
+dbr:Hưng_Yên_province
+        rdfs:label  "Hưng Yên province"@en .
+
+<http://dbpedia.org/resource/Châu_Thành_district,_Tiền_Giang_province>
+        rdfs:label  "Châu Thành district, Tiền Giang province"@en .
+
+dbr:Tam_Đường  rdfs:label  "Tam Đường"@en .
+
+dbr:Sốp_Cộp_district  rdfs:label  "Sốp Cộp district"@en .
+
+dbr:Di_Linh  rdfs:label  "Di Linh"@en .
+
+dbr:Bằng_Phúc  rdfs:label  "Bằng Phúc"@en .
+
+<http://dbpedia.org/resource/Thới_Sơn,_An_Giang>
+        rdfs:label  "Thới Sơn, An Giang"@en .
+
+dbr:Phước_Tích  rdfs:label  "Phước Tích"@en .
+
+dbr:Bản_Thi  rdfs:label  "Bản Thi"@en .
+
+<http://dbpedia.org/resource/Thanh_An,_Điện_Biên>
+        rdfs:label  "Thanh An, Điện Biên"@en .
+
+dbr:Hà_Trung_district
+        rdfs:label  "Hà Trung district"@en .
+
+<http://dbpedia.org/resource/Hải_Ninh,_Quảng_Bình>
+        rdfs:label  "Hải Ninh, Quảng Bình"@en .
+
+dbr:Phủ_Cam_Cathedral
+        rdfs:label  "Phủ Cam Cathedral"@en .
+
+<http://dbpedia.org/resource/Phú_Lộc,_An_Giang>
+        rdfs:label  "Phú Lộc, An Giang"@en .
+
+<http://dbpedia.org/resource/Tân_Trung,_Bắc_Giang>
+        rdfs:label  "Tân Trung, Bắc Giang"@en .
+
+dbr:Hớn_Quản_district
+        rdfs:label  "Hớn Quản district"@en .
+
+dbr:Việt_Trì  rdfs:label  "Việt Trì"@en .
+
+dbr:Bắc_Ninh_High_School_for_the_Gifted
+        rdfs:label  "Bắc Ninh High School for the Gifted"@en .
+
+dbr:Lũng_Cú  rdfs:label  "Lũng Cú"@en .
+
+dbr:Sơn_Tịnh_district
+        rdfs:label  "Sơn Tịnh district"@en .
+
+dbr:Đất_Mới  rdfs:label  "Đất Mới"@en .
+
+dbr:British_Vietnamese_International_School_Hanoi
+        rdfs:label  "British Vietnamese International School Hanoi"@en .
+
+dbr:Trị_An_Dam  rdfs:label  "Trị An Dam"@en .
+
+dbr:Yên_Dũng_district
+        rdfs:label  "Yên Dũng district"@en .
+
+dbr:Kẹo_dừa  rdfs:label  "Kẹo dừa"@en .
+
+dbr:Quỳnh_Nhai_district
+        rdfs:label  "Quỳnh Nhai district"@en .
+
+<http://dbpedia.org/resource/An_Thắng,_Bắc_Kạn>
+        rdfs:label  "An Thắng, Bắc Kạn"@en .
+
+dbr:Hà_Tĩnh  rdfs:label  "Hà Tĩnh"@en .
+
+dbr:Ngọc_Lặc  rdfs:label  "Ngọc Lặc"@en .
+
+dbr:The_Amazing_Race_Vietnam_2016
+        rdfs:label  "The Amazing Race Vietnam 2016"@en .
+
+<http://dbpedia.org/resource/Tiên_Sơn,_Bắc_Giang>
+        rdfs:label  "Tiên Sơn, Bắc Giang"@en .
+
+dbr:Bát_Xát_district  rdfs:label  "Bát Xát district"@en .
+
+dbr:Mỹ_Hào  rdfs:label  "Mỹ Hào"@en .
+
+<http://dbpedia.org/resource/Phan_Rang–Tháp_Chàm>
+        rdfs:label  "Phan Rang–Tháp Chàm"@en .
+
+dbr:Thường_Tín_district
+        rdfs:label  "Thường Tín district"@en .
+
+dbr:Quế_Sơn_district  rdfs:label  "Quế Sơn district"@en .
+
+dbr:Tam_Giang_Đông  rdfs:label  "Tam Giang Đông"@en .
+
+dbr:Cổ_Linh  rdfs:label  "Cổ Linh"@en .
+
+dbr:Đà_Bắc  rdfs:label  "Đà Bắc"@en .
+
+dbr:Thượng_Ân  rdfs:label  "Thượng Ân"@en .
+
+dbr:Yên_Thế_district  rdfs:label  "Yên Thế district"@en .
+
+dbr:Đắk_Nông_province
+        rdfs:label  "Đắk Nông province"@en .
+
+dbr:Vietnam_Academy_of_Science_and_Technology
+        rdfs:label  "Vietnam Academy of Science and Technology"@en .
+
+dbr:Đống_Đa_district  rdfs:label  "Đống Đa district"@en .
+
+<http://dbpedia.org/resource/Ngô_Mây,_Phù_Cát>
+        rdfs:label  "Ngô Mây, Phù Cát"@en .
+
+<http://dbpedia.org/resource/Châu_Thành_district,_An_Giang_province>
+        rdfs:label  "Châu Thành district, An Giang province"@en .
+
+<http://dbpedia.org/resource/Mỹ_Thái,_Bắc_Giang>
+        rdfs:label  "Mỹ Thái, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Đông_Hưng,_Bắc_Giang>
+        rdfs:label  "Đông Hưng, Bắc Giang"@en .
+
+dbr:Quảng_Điền_district
+        rdfs:label  "Quảng Điền district"@en .
+
+<http://dbpedia.org/resource/Ngọc_Châu,_Bắc_Giang>
+        rdfs:label  "Ngọc Châu, Bắc Giang"@en .
+
+dbr:Phổ_Yên  rdfs:label  "Phổ Yên"@en .
+
+<http://dbpedia.org/resource/Hòa_Sơn,_Bắc_Giang>
+        rdfs:label  "Hòa Sơn, Bắc Giang"@en .
+
+dbr:Bảo_Thắng_district
+        rdfs:label  "Bảo Thắng district"@en .
+
+dbr:Kon_Plông_district
+        rdfs:label  "Kon Plông district"@en .
+
+<http://dbpedia.org/resource/An_Cư,_An_Giang>
+        rdfs:label  "An Cư, An Giang"@en .
+
+dbr:Thượng_Giáo  rdfs:label  "Thượng Giáo"@en .
+
+dbr:Kiên_Lao  rdfs:label  "Kiên Lao"@en .
+
+dbr:Đất_Đỏ  rdfs:label  "Đất Đỏ"@en .
+
+dbr:Nhạn_Môn  rdfs:label  "Nhạn Môn"@en .
+
+dbr:Tương_Dương_district
+        rdfs:label  "Tương Dương district"@en .
+
+dbr:Vietnamese_iced_coffee
+        rdfs:label  "Vietnamese iced coffee"@en .
+
+dbr:Cam_Ranh  rdfs:label  "Cam Ranh"@en .
+
+dbr:Roman_Catholic_Diocese_of_Nha_Trang
+        rdfs:label  "Roman Catholic Diocese of Nha Trang"@en .
+
+dbr:Định_Mỹ  rdfs:label  "Định Mỹ"@en .
+
+dbr:Mai_Châu  rdfs:label  "Mai Châu"@en .
+
+<http://dbpedia.org/resource/Đại_Thành,_Bắc_Giang>
+        rdfs:label  "Đại Thành, Bắc Giang"@en .
+
+dbr:Up_and_Down_the_Dust_Way
+        rdfs:label  "Up and Down the Dust Way"@en .
+
+<http://dbpedia.org/resource/USCGC_John_Midgett_(WHEC-726)>
+        rdfs:label  "USCGC John Midgett (WHEC-726)"@en .
+
+<http://dbpedia.org/resource/Xuất_Hóa,_Bắc_Kạn>
+        rdfs:label  "Xuất Hóa, Bắc Kạn"@en .
+
+dbr:Roman_Catholic_Diocese_of_Đà_Lạt
+        rdfs:label  "Roman Catholic Diocese of Đà Lạt"@en .
+
+dbr:Duy_Ninh  rdfs:label  "Duy Ninh"@en .
+
+dbr:University_of_Da_Nang
+        rdfs:label  "University of Da Nang"@en .
+
+<http://dbpedia.org/resource/Tân_Châu_district,_Tây_Ninh>
+        rdfs:label  "Tân Châu district, Tây Ninh"@en .
+
+dbr:Ho_Chi_Minh_City_University_of_Agriculture_and_Forestry
+        rdfs:label  "Ho Chi Minh City University of Agriculture and Forestry"@en .
+
+dbr:South_China_Sea_Islands
+        rdfs:label  "South China Sea Islands"@en .
+
+<http://dbpedia.org/resource/Kiên_Thành,_Bắc_Giang>
+        rdfs:label  "Kiên Thành, Bắc Giang"@en .
+
+dbr:Hồ_Thị_Kỷ  rdfs:label  "Hồ Thị Kỷ"@en .
+
+dbr:Cần_Đăng  rdfs:label  "Cần Đăng"@en .
+
+dbr:U_Minh_Thượng_district
+        rdfs:label  "U Minh Thượng district"@en .
+
+dbr:Hải_An_district  rdfs:label  "Hải An district"@en .
+
+<http://dbpedia.org/resource/Tân_Hòa,_Buôn_Đôn>
+        rdfs:label  "Tân Hòa, Buôn Đôn"@en .
+
+dbr:Bac_Ha_International_University
+        rdfs:label  "Bac Ha International University"@en .
+
+dbr:Thanh_Hóa_province
+        rdfs:label  "Thanh Hóa province"@en .
+
+dbr:Khánh_Hòa_province
+        rdfs:label  "Khánh Hòa province"@en .
+
+dbr:Tăng_Tiến  rdfs:label  "Tăng Tiến"@en .
+
+<http://dbpedia.org/resource/District_10,_Ho_Chi_Minh_City>
+        rdfs:label  "District 10, Ho Chi Minh City"@en .
+
+dbr:Sông_Mã_district  rdfs:label  "Sông Mã district"@en .
+
+<http://dbpedia.org/resource/Phước_Tân,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Phước Tân, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Ý_Yên_district  rdfs:label  "Ý Yên district"@en .
+
+<http://dbpedia.org/resource/Ba_Đồn_(ward)>
+        rdfs:label  "Ba Đồn (ward)"@en .
+
+dbr:Ho_Chi_Minh_City_University_of_Law
+        rdfs:label  "Ho Chi Minh City University of Law"@en .
+
+dbr:Phong_Thạnh_Tây_B
+        rdfs:label  "Phong Thạnh Tây B"@en .
+
+dbr:Vụ_Bản_district  rdfs:label  "Vụ Bản district"@en .
+
+dbr:Vị_Thanh  rdfs:label  "Vị Thanh"@en .
+
+dbr:Bình_Giang_district
+        rdfs:label  "Bình Giang district"@en .
+
+dbr:Ba_Đình_district  rdfs:label  "Ba Đình district"@en .
+
+dbr:Liên_Chiểu_district
+        rdfs:label  "Liên Chiểu district"@en .
+
+<http://dbpedia.org/resource/Châu_Thành_district,_Trà_Vinh_province>
+        rdfs:label  "Châu Thành district, Trà Vinh province"@en .
+
+<http://dbpedia.org/resource/Scandal_(2012_film)>
+        rdfs:label  "Scandal (2012 film)"@en .
+
+dbr:Saigon_Adventist_Hospital
+        rdfs:label  "Saigon Adventist Hospital"@en .
+
+<http://dbpedia.org/resource/So_You_Think_You_Can_Dance_(Vietnamese_TV_series)>
+        rdfs:label  "So You Think You Can Dance (Vietnamese TV series)"@en .
+
+dbr:Bánh_khoai_mì  rdfs:label  "Bánh khoai mì"@en .
+
+dbr:Tây_Giang_district
+        rdfs:label  "Tây Giang district"@en .
+
+dbr:Cù_Lao_Dung  rdfs:label  "Cù Lao Dung"@en .
+
+dbr:Tả_Sìn_Thàng  rdfs:label  "Tả Sìn Thàng"@en .
+
+dbr:275th_Regiment  rdfs:label  "275th Regiment"@en .
+
+<http://dbpedia.org/resource/Tia_Sáng_(1991_magazine)>
+        rdfs:label  "Tia Sáng (1991 magazine)"@en .
+
+dbr:Hanoi_University_of_Science_and_Technology
+        rdfs:label  "Hanoi University of Science and Technology"@en .
+
+dbr:Bằng_Vân  rdfs:label  "Bằng Vân"@en .
+
+<http://dbpedia.org/resource/Long_Phú,_An_Giang>
+        rdfs:label  "Long Phú, An Giang"@en .
+
+dbr:Bắc_Quang_district
+        rdfs:label  "Bắc Quang district"@en .
+
+<http://dbpedia.org/resource/High_School_for_Gifted_Students,_Hanoi_National_University_of_Education>
+        rdfs:label  "High School for Gifted Students, Hanoi National University of Education"@en .
+
+dbr:Quảng_Xuân  rdfs:label  "Quảng Xuân"@en .
+
+dbr:Nguyễn_Ngọc_Trường_Sơn
+        rdfs:label  "Nguyễn Ngọc Trường Sơn"@en .
+
+dbr:Cốm  rdfs:label  "Cốm"@en .
+
+dbr:Thanh_Chương_district
+        rdfs:label  "Thanh Chương district"@en .
+
+dbr:Nem_nướng  rdfs:label  "Nem nướng"@en .
+
+<http://dbpedia.org/resource/Ward_1,_Bình_Thạnh_District>
+        rdfs:label  "Ward 1, Bình Thạnh District"@en .
+
+dbr:Trà_My  rdfs:label  "Trà My"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Thạnh,_Cần_Thơ>
+        rdfs:label  "Vĩnh Thạnh, Cần Thơ"@en .
+
+dbr:Uông_Bí  rdfs:label  "Uông Bí"@en .
+
+dbr:Ba_Chẽ_district  rdfs:label  "Ba Chẽ district"@en .
+
+dbr:Mắm_nêm  rdfs:label  "Mắm nêm"@en .
+
+<http://dbpedia.org/resource/Phước_Hiệp,_Bà_Rịa>
+        rdfs:label  "Phước Hiệp, Bà Rịa"@en .
+
+dbr:Phì_Nhừ  rdfs:label  "Phì Nhừ"@en .
+
+dbr:Kiên_Lương_district
+        rdfs:label  "Kiên Lương district"@en .
+
+dbr:Đông_Thái_village
+        rdfs:label  "Đông Thái village"@en .
+
+dbr:Đức_Phổ  rdfs:label  "Đức Phổ"@en .
+
+dbr:Đa_Kao  rdfs:label  "Đa Kao"@en .
+
+dbr:Đắk_Hà_district  rdfs:label  "Đắk Hà district"@en .
+
+<http://dbpedia.org/resource/Châu_Thành_district,_Long_An_province>
+        rdfs:label  "Châu Thành district, Long An province"@en .
+
+<http://dbpedia.org/resource/Vietnam's_Next_Top_Model_(season_1)>
+        rdfs:label  "Vietnam's Next Top Model (season 1)"@en .
+
+dbr:Mộc_Châu  rdfs:label  "Mộc Châu"@en .
+
+dbr:Hung_Vuong_University
+        rdfs:label  "Hung Vuong University"@en .
+
+dbr:Po_Klong_Garai_Temple
+        rdfs:label  "Po Klong Garai Temple"@en .
+
+dbr:Bành_Trạch  rdfs:label  "Bành Trạch"@en .
+
+dbr:Mê_Linh_district  rdfs:label  "Mê Linh district"@en .
+
+dbr:Chánh_Mỹ  rdfs:label  "Chánh Mỹ"@en .
+
+dbr:Thuan_Thanh_No_1_High_School
+        rdfs:label  "Thuan Thanh No 1 High School"@en .
+
+dbr:Song_Vân  rdfs:label  "Song Vân"@en .
+
+<http://dbpedia.org/resource/Trường_Sơn,_Bắc_Giang>
+        rdfs:label  "Trường Sơn, Bắc Giang"@en .
+
+dbr:Hạ_Lang_district  rdfs:label  "Hạ Lang district"@en .
+
+dbr:Nga_Sơn  rdfs:label  "Nga Sơn"@en .
+
+dbr:Quỳnh_Sơn  rdfs:label  "Quỳnh Sơn"@en .
+
+dbr:Military_Honour_Guard_Battalion
+        rdfs:label  "Military Honour Guard Battalion"@en .
+
+<http://dbpedia.org/resource/Xuân_Sơn,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Xuân Sơn, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Dak_Doa  rdfs:label  "Dak Doa"@en .
+
+<http://dbpedia.org/resource/Kim_Sơn,_Bắc_Giang>
+        rdfs:label  "Kim Sơn, Bắc Giang"@en .
+
+dbr:Ngô_Quyền_district
+        rdfs:label  "Ngô Quyền district"@en .
+
+dbr:Ngọc_Chánh  rdfs:label  "Ngọc Chánh"@en .
+
+dbr:Mai_Sơn_district  rdfs:label  "Mai Sơn district"@en .
+
+<http://dbpedia.org/resource/Hồng_Thủy,_Quảng_Bình>
+        rdfs:label  "Hồng Thủy, Quảng Bình"@en .
+
+dbr:Quý_Xa_iron_mine  rdfs:label  "Quý Xa iron mine"@en .
+
+dbr:Lạng_Sơn_province
+        rdfs:label  "Lạng Sơn province"@en .
+
+dbr:Bắc_Ninh_province
+        rdfs:label  "Bắc Ninh province"@en .
+
+dbr:Cư_Króa  rdfs:label  "Cư Króa"@en .
+
+dbr:Hoàng_Thanh  rdfs:label  "Hoàng Thanh"@en .
+
+<http://dbpedia.org/resource/Phú_Nghĩa,_Bình_Phước>
+        rdfs:label  "Phú Nghĩa, Bình Phước"@en .
+
+dbr:Tê_Giác_Trắng_oilfield
+        rdfs:label  "Tê Giác Trắng oilfield"@en .
+
+dbr:Phú_Yên_province  rdfs:label  "Phú Yên province"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Hưng,_Bạc_Liêu>
+        rdfs:label  "Vĩnh Hưng, Bạc Liêu"@en .
+
+<http://dbpedia.org/resource/Đồng_Phú,_Quảng_Bình>
+        rdfs:label  "Đồng Phú, Quảng Bình"@en .
+
+<http://dbpedia.org/resource/Long_Sơn,_Bắc_Giang>
+        rdfs:label  "Long Sơn, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Tóc_Tiên,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Tóc Tiên, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Lai_Vung_district
+        rdfs:label  "Lai Vung district"@en .
+
+dbr:Trường_Thủy  rdfs:label  "Trường Thủy"@en .
+
+<http://dbpedia.org/resource/Bình_Phú,_An_Giang>
+        rdfs:label  "Bình Phú, An Giang"@en .
+
+dbr:Chơn_Thành_district
+        rdfs:label  "Chơn Thành district"@en .
+
+dbr:Hồng_Ngự_district
+        rdfs:label  "Hồng Ngự district"@en .
+
+dbr:Trà_Vinh_province
+        rdfs:label  "Trà Vinh province"@en .
+
+dbr:Dương_Sơn  rdfs:label  "Dương Sơn"@en .
+
+<http://dbpedia.org/resource/Tam_Hiệp,_Bắc_Giang>
+        rdfs:label  "Tam Hiệp, Bắc Giang"@en .
+
+dbr:Leng_Su_Sìn  rdfs:label  "Leng Su Sìn"@en .
+
+dbr:Gia_Viễn_district
+        rdfs:label  "Gia Viễn district"@en .
+
+<http://dbpedia.org/resource/Ba_Sao,_Hà_Nam>
+        rdfs:label  "Ba Sao, Hà Nam"@en .
+
+dbr:Cho_Ray_Hospital  rdfs:label  "Cho Ray Hospital"@en .
+
+dbr:Bình_Thạnh_Đông  rdfs:label  "Bình Thạnh Đông"@en .
+
+dbr:Democratic_Party_of_Vietnam
+        rdfs:label  "Democratic Party of Vietnam"@en .
+
+dbr:Đồng_Phú_district
+        rdfs:label  "Đồng Phú district"@en .
+
+dbr:Vĩnh_Thạnh_Trung  rdfs:label  "Vĩnh Thạnh Trung"@en .
+
+dbr:Cồn_Cỏ_district  rdfs:label  "Cồn Cỏ district"@en .
+
+dbr:Phú_Lương_district
+        rdfs:label  "Phú Lương district"@en .
+
+dbr:Bình_Ba  rdfs:label  "Bình Ba"@en .
+
+dbr:Phả_Lại  rdfs:label  "Phả Lại"@en .
+
+dbr:Ninh_Quới  rdfs:label  "Ninh Quới"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Thanh,_Bạc_Liêu>
+        rdfs:label  "Vĩnh Thanh, Bạc Liêu"@en .
+
+<http://dbpedia.org/resource/Liên_Sơn,_Bắc_Giang>
+        rdfs:label  "Liên Sơn, Bắc Giang"@en .
+
+dbr:U_Minh  rdfs:label  "U Minh"@en .
+
+<http://dbpedia.org/resource/Chu_Văn_An_High_School_(Hanoi)>
+        rdfs:label  "Chu Văn An High School (Hanoi)"@en .
+
+<http://dbpedia.org/resource/Lộc_Ninh_(township)>
+        rdfs:label  "Lộc Ninh (township)"@en .
+
+<http://dbpedia.org/resource/Tam_Nông_district,_Đồng_Tháp_province>
+        rdfs:label  "Tam Nông district, Đồng Tháp province"@en .
+
+dbr:Tân_Hiệp_district
+        rdfs:label  "Tân Hiệp district"@en .
+
+dbr:Tiên_Lục  rdfs:label  "Tiên Lục"@en .
+
+dbr:Như_Thanh_district
+        rdfs:label  "Như Thanh district"@en .
+
+dbr:Chiêm_Hóa_district
+        rdfs:label  "Chiêm Hóa district"@en .
+
+<http://dbpedia.org/resource/Lộc_An,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Lộc An, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Hòa_Mục  rdfs:label  "Hòa Mục"@en .
+
+dbr:Myanmar_Coast_mangroves
+        rdfs:label  "Myanmar Coast mangroves"@en .
+
+dbr:Hanoi_Radio_Television
+        rdfs:label  "Hanoi Radio Television"@en .
+
+dbr:Chư_Prông_district
+        rdfs:label  "Chư Prông district"@en .
+
+dbr:Nậm_Nhùn  rdfs:label  "Nậm Nhùn"@en .
+
+dbr:Chợ_Gạo  rdfs:label  "Chợ Gạo"@en .
+
+dbr:Liên_Chung  rdfs:label  "Liên Chung"@en .
+
+<http://dbpedia.org/resource/Long_Châu,_An_Giang>
+        rdfs:label  "Long Châu, An Giang"@en .
+
+<http://dbpedia.org/resource/Nhơn_Mỹ,_An_Giang>
+        rdfs:label  "Nhơn Mỹ, An Giang"@en .
+
+dbr:An_Khê  rdfs:label  "An Khê"@en .
+
+<http://dbpedia.org/resource/Vietnam-Australia_School,_Hanoi>
+        rdfs:label  "Vietnam-Australia School, Hanoi"@en .
+
+dbr:Việt_Nam_Quốc_Dân_Đảng
+        rdfs:label  "Việt Nam Quốc Dân Đảng"@en .
+
+dbr:Mường_Đun  rdfs:label  "Mường Đun"@en .
+
+<http://dbpedia.org/resource/Tân_Thuận,_Cà_Mau>
+        rdfs:label  "Tân Thuận, Cà Mau"@en .
+
+dbr:Vũng_Liêm_district
+        rdfs:label  "Vũng Liêm district"@en .
+
+dbr:Huỳnh_Phương_Đài_Trang
+        rdfs:label  "Huỳnh Phương Đài Trang"@en .
+
+dbr:Mỹ_Phú_Đông  rdfs:label  "Mỹ Phú Đông"@en .
+
+dbr:Gò_Dầu_district  rdfs:label  "Gò Dầu district"@en .
+
+dbr:Tra_Vinh_University
+        rdfs:label  "Tra Vinh University"@en .
+
+dbr:Đôn_Phong  rdfs:label  "Đôn Phong"@en .
+
+dbr:Tà_Lùng  rdfs:label  "Tà Lùng"@en .
+
+<http://dbpedia.org/resource/Sacred_Heart_Cathedral,_Buôn_Ma_Thuột>
+        rdfs:label  "Sacred Heart Cathedral, Buôn Ma Thuột"@en .
+
+dbr:Huế  rdfs:label  "Huế"@en .
+
+<http://dbpedia.org/resource/Phìn_Hồ,_Điện_Biên>
+        rdfs:label  "Phìn Hồ, Điện Biên"@en .
+
+<http://dbpedia.org/resource/Đồng_Lạc,_Bắc_Kạn>
+        rdfs:label  "Đồng Lạc, Bắc Kạn"@en .
+
+dbr:Mỹ_Thanh  rdfs:label  "Mỹ Thanh"@en .
+
+dbr:Sơn_La_Dam  rdfs:label  "Sơn La Dam"@en .
+
+dbr:Long_Mỹ_district  rdfs:label  "Long Mỹ district"@en .
+
+<http://dbpedia.org/resource/District_7,_Ho_Chi_Minh_City>
+        rdfs:label  "District 7, Ho Chi Minh City"@en .
+
+dbr:Châu_Đức_district
+        rdfs:label  "Châu Đức district"@en .
+
+<http://dbpedia.org/resource/Kim_Tân,_Gia_Lai>
+        rdfs:label  "Kim Tân, Gia Lai"@en .
+
+<http://dbpedia.org/resource/Phú_Lợi,_Bình_Dương>
+        rdfs:label  "Phú Lợi, Bình Dương"@en .
+
+<http://dbpedia.org/resource/Thanh_Hải,_Bắc_Giang>
+        rdfs:label  "Thanh Hải, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Phú_Thạnh,_An_Giang>
+        rdfs:label  "Phú Thạnh, An Giang"@en .
+
+dbr:Bun_cha  rdfs:label  "Bun cha"@en .
+
+dbr:Minh_Hóa_district
+        rdfs:label  "Minh Hóa district"@en .
+
+dbr:Hanoi  rdfs:label  "Hanoi"@en .
+
+<http://dbpedia.org/resource/Tân_Thành,_Đồng_Tháp>
+        rdfs:label  "Tân Thành, Đồng Tháp"@en .
+
+dbr:Quán_Hàu  rdfs:label  "Quán Hàu"@en .
+
+dbr:Ngân_Thủy  rdfs:label  "Ngân Thủy"@en .
+
+dbr:Kon_Dơng  rdfs:label  "Kon Dơng"@en .
+
+dbr:Thanh_Thạch  rdfs:label  "Thanh Thạch"@en .
+
+<http://dbpedia.org/resource/Đức_Giang,_Bắc_Giang>
+        rdfs:label  "Đức Giang, Bắc Giang"@en .
+
+dbr:Lương_Thượng  rdfs:label  "Lương Thượng"@en .
+
+dbr:Bình_Gia_district
+        rdfs:label  "Bình Gia district"@en .
+
+<http://dbpedia.org/resource/Nguyễn_An_Ninh_(ward)>
+        rdfs:label  "Nguyễn An Ninh (ward)"@en .
+
+<http://dbpedia.org/resource/Ninh_Hải,_Ninh_Hòa>
+        rdfs:label  "Ninh Hải, Ninh Hòa"@en .
+
+dbr:Thuần_Mang  rdfs:label  "Thuần Mang"@en .
+
+dbr:Thanh_Luận  rdfs:label  "Thanh Luận"@en .
+
+<http://dbpedia.org/resource/Ward_10,_Vũng_Tàu>
+        rdfs:label  "Ward 10, Vũng Tàu"@en .
+
+dbr:Mường_Khương_district
+        rdfs:label  "Mường Khương district"@en .
+
+dbr:Roman_Catholic_Diocese_of_Qui_Nhơn
+        rdfs:label  "Roman Catholic Diocese of Qui Nhơn"@en .
+
+dbr:274th_Regiment  rdfs:label  "274th Regiment"@en .
+
+dbr:Phạm_Minh_Tuấn  rdfs:label  "Phạm Minh Tuấn"@en .
+
+<http://dbpedia.org/resource/Nghĩa_Hưng,_Bắc_Giang>
+        rdfs:label  "Nghĩa Hưng, Bắc Giang"@en .
+
+dbr:Everest_Vietnam  rdfs:label  "Everest Vietnam"@en .
+
+dbr:Thắng  rdfs:label  "Thắng"@en .
+
+dbr:An_Trạch_A  rdfs:label  "An Trạch A"@en .
+
+dbr:Châu_Hóa  rdfs:label  "Châu Hóa"@en .
+
+dbr:Thái_Nguyên_province
+        rdfs:label  "Thái Nguyên province"@en .
+
+dbr:Tân_Trụ_district  rdfs:label  "Tân Trụ district"@en .
+
+<http://dbpedia.org/resource/Tân_Lợi,_An_Giang>
+        rdfs:label  "Tân Lợi, An Giang"@en .
+
+<http://dbpedia.org/resource/Bảo_Lâm_district,_Cao_Bằng>
+        rdfs:label  "Bảo Lâm district, Cao Bằng"@en .
+
+dbr:Tân_Hưng_Đông  rdfs:label  "Tân Hưng Đông"@en .
+
+dbr:Trà_Ôn  rdfs:label  "Trà Ôn"@en .
+
+dbr:Hóa_Phúc  rdfs:label  "Hóa Phúc"@en .
+
+dbr:Phu_Quoc_Ridgeback
+        rdfs:label  "Phu Quoc Ridgeback"@en .
+
+dbr:Phù_Ninh_district
+        rdfs:label  "Phù Ninh district"@en .
+
+dbr:Hưng_Yên  rdfs:label  "Hưng Yên"@en .
+
+dbr:Sĩ_Bình  rdfs:label  "Sĩ Bình"@en .
+
+dbr:Tủa_Chùa  rdfs:label  "Tủa Chùa"@en .
+
+dbr:Buôn_Hồ  rdfs:label  "Buôn Hồ"@en .
+
+dbr:Sing_My_Song_Vietnam
+        rdfs:label  "Sing My Song Vietnam"@en .
+
+dbr:Nam_Đàn  rdfs:label  "Nam Đàn"@en .
+
+dbr:Cần_Giuộc_district
+        rdfs:label  "Cần Giuộc district"@en .
+
+dbr:Mường_Báng  rdfs:label  "Mường Báng"@en .
+
+dbr:VietinBank_Business_Center_Office_Tower
+        rdfs:label  "VietinBank Business Center Office Tower"@en .
+
+dbr:Thái_Bình  rdfs:label  "Thái Bình"@en .
+
+dbr:Haiphong  rdfs:label  "Haiphong"@en .
+
+<http://dbpedia.org/resource/Hàm_Rồng,_Cà_Mau>
+        rdfs:label  "Hàm Rồng, Cà Mau"@en .
+
+<http://dbpedia.org/resource/Yên_Phú,_Hà_Giang>
+        rdfs:label  "Yên Phú, Hà Giang"@en .
+
+<http://dbpedia.org/resource/Tam_Tiến,_Bắc_Giang>
+        rdfs:label  "Tam Tiến, Bắc Giang"@en .
+
+dbr:Vietnam_Multimedia_Corporation
+        rdfs:label  "Vietnam Multimedia Corporation"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Hòa,_An_Giang>
+        rdfs:label  "Vĩnh Hòa, An Giang"@en .
+
+dbr:An_Phú_district  rdfs:label  "An Phú district"@en .
+
+dbr:Con_Cuông_district
+        rdfs:label  "Con Cuông district"@en .
+
+dbr:SBS_PopAsia  rdfs:label  "SBS PopAsia"@en .
+
+dbr:Sông_Hinh_district
+        rdfs:label  "Sông Hinh district"@en .
+
+dbr:Hải_Châu_district
+        rdfs:label  "Hải Châu district"@en .
+
+<http://dbpedia.org/resource/Ea_T'ling>
+        rdfs:label  "Ea T'ling"@en .
+
+dbr:Thuận_Châu  rdfs:label  "Thuận Châu"@en .
+
+dbr:Nậm_Pồ_district  rdfs:label  "Nậm Pồ district"@en .
+
+dbr:Sơn_Hóa  rdfs:label  "Sơn Hóa"@en .
+
+dbr:Khánh_Lâm  rdfs:label  "Khánh Lâm"@en .
+
+<http://dbpedia.org/resource/Phú_Bình,_An_Giang>
+        rdfs:label  "Phú Bình, An Giang"@en .
+
+dbr:Vietnam_Basketball_Association
+        rdfs:label  "Vietnam Basketball Association"@en .
+
+dbr:Vinhomes_Times_City
+        rdfs:label  "Vinhomes Times City"@en .
+
+dbr:Hải_Lăng_district
+        rdfs:label  "Hải Lăng district"@en .
+
+dbr:Thổ_Chu_Islands  rdfs:label  "Thổ Chu Islands"@en .
+
+<http://dbpedia.org/resource/Hàm_Thuận_–_Đa_Mi_hydroelectric_power_stations>
+        rdfs:label  "Hàm Thuận – Đa Mi hydroelectric power stations"@en .
+
+dbr:An_Hà  rdfs:label  "An Hà"@en .
+
+<http://dbpedia.org/resource/Long_Giang,_An_Giang>
+        rdfs:label  "Long Giang, An Giang"@en .
+
+dbr:Hoàng_An  rdfs:label  "Hoàng An"@en .
+
+dbr:Châu_Hưng_A  rdfs:label  "Châu Hưng A"@en .
+
+dbr:Chánh_Nghĩa  rdfs:label  "Chánh Nghĩa"@en .
+
+dbr:Bánh_da_lợn  rdfs:label  "Bánh da lợn"@en .
+
+dbr:Bưng_Riềng  rdfs:label  "Bưng Riềng"@en .
+
+<http://dbpedia.org/resource/Ea_H'leo>
+        rdfs:label  "Ea H'leo"@en .
+
+<http://dbpedia.org/resource/Tân_Trạch,_Quảng_Bình>
+        rdfs:label  "Tân Trạch, Quảng Bình"@en .
+
+dbr:Long_Điền_B  rdfs:label  "Long Điền B"@en .
+
+dbr:Ba_Đồn  rdfs:label  "Ba Đồn"@en .
+
+dbr:Kim_Dinh  rdfs:label  "Kim Dinh"@en .
+
+dbr:Lào_Cai  rdfs:label  "Lào Cai"@en .
+
+dbr:Dung_Quất_Refinery
+        rdfs:label  "Dung Quất Refinery"@en .
+
+dbr:Vietnamese_National_Futsal_Cup
+        rdfs:label  "Vietnamese National Futsal Cup"@en .
+
+dbr:Nam_Trực_district
+        rdfs:label  "Nam Trực district"@en .
+
+<http://dbpedia.org/resource/Phú_Mỹ,_Bình_Dương>
+        rdfs:label  "Phú Mỹ, Bình Dương"@en .
+
+dbr:V._League_2  rdfs:label  "V. League 2"@en .
+
+dbr:Quy_Nhon  rdfs:label  "Quy Nhon"@en .
+
+dbr:Hồng_Hóa  rdfs:label  "Hồng Hóa"@en .
+
+dbr:Phước_Long_Thọ  rdfs:label  "Phước Long Thọ"@en .
+
+dbr:VTV5  rdfs:label  "VTV5"@en .
+
+dbr:Vũ_Thư_district  rdfs:label  "Vũ Thư district"@en .
+
+dbr:Bằng_Lũng  rdfs:label  "Bằng Lũng"@en .
+
+dbr:Tiến_Dũng  rdfs:label  "Tiến Dũng"@en .
+
+dbr:Cốc_Pài  rdfs:label  "Cốc Pài"@en .
+
+dbr:Ia_Grai_district  rdfs:label  "Ia Grai district"@en .
+
+dbr:Vĩnh_Châu  rdfs:label  "Vĩnh Châu"@en .
+
+dbr:Cẩm_Lệ_district  rdfs:label  "Cẩm Lệ district"@en .
+
+dbr:Ngọc_Lý  rdfs:label  "Ngọc Lý"@en .
+
+<http://dbpedia.org/resource/Phước_An,_Đắk_Lắk>
+        rdfs:label  "Phước An, Đắk Lắk"@en .
+
+dbr:Phù_Mỹ  rdfs:label  "Phù Mỹ"@en .
+
+dbr:Vọng_Đông  rdfs:label  "Vọng Đông"@en .
+
+<http://dbpedia.org/resource/Phú_Lâm,_An_Giang>
+        rdfs:label  "Phú Lâm, An Giang"@en .
+
+<http://dbpedia.org/resource/Tân_Hòa,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Tân Hòa, Bà Rịa–Vũng Tàu"@en .
+
+dbr:A_Lưới_district  rdfs:label  "A Lưới district"@en .
+
+<http://dbpedia.org/resource/Phú_Hòa,_Bình_Dương>
+        rdfs:label  "Phú Hòa, Bình Dương"@en .
+
+dbr:Năm_Căn_district  rdfs:label  "Năm Căn district"@en .
+
+dbr:Móng_Cái  rdfs:label  "Móng Cái"@en .
+
+<http://dbpedia.org/resource/Phú_Tân_(commune_in_Cà_Mau_Province)>
+        rdfs:label  "Phú Tân (commune in Cà Mau Province)"@en .
+
+<http://dbpedia.org/resource/Kỳ_Anh_(town)>
+        rdfs:label  "Kỳ Anh (town)"@en .
+
+dbr:Con_Cuông  rdfs:label  "Con Cuông"@en .
+
+<http://dbpedia.org/resource/Yên_Mỹ,_Bắc_Kạn>
+        rdfs:label  "Yên Mỹ, Bắc Kạn"@en .
+
+dbr:Quảng_Ngãi  rdfs:label  "Quảng Ngãi"@en .
+
+<http://dbpedia.org/resource/Chi_Lăng,_An_Giang>
+        rdfs:label  "Chi Lăng, An Giang"@en .
+
+dbr:Pâté  rdfs:label  "Pâté"@en .
+
+dbr:Bánh_phu_thê  rdfs:label  "Bánh phu thê"@en .
+
+<http://dbpedia.org/resource/Hòa_Lợi,_Bình_Dương>
+        rdfs:label  "Hòa Lợi, Bình Dương"@en .
+
+dbr:Giồng_Trôm  rdfs:label  "Giồng Trôm"@en .
+
+dbr:Phú_Vang_district
+        rdfs:label  "Phú Vang district"@en .
+
+<http://dbpedia.org/resource/An_Bình,_An_Giang>
+        rdfs:label  "An Bình, An Giang"@en .
+
+dbr:Gò_Vấp_district  rdfs:label  "Gò Vấp district"@en .
+
+dbr:Ngọc_Khánh  rdfs:label  "Ngọc Khánh"@en .
+
+dbr:Hoàn_Kiếm_Lake  rdfs:label  "Hoàn Kiếm Lake"@en .
+
+dbr:Thanh_Xuân_district
+        rdfs:label  "Thanh Xuân district"@en .
+
+<http://dbpedia.org/resource/District_4,_Ho_Chi_Minh_City>
+        rdfs:label  "District 4, Ho Chi Minh City"@en .
+
+dbr:Liên_Trường  rdfs:label  "Liên Trường"@en .
+
+dbr:Phong_Thạnh_A  rdfs:label  "Phong Thạnh A"@en .
+
+<http://dbpedia.org/resource/Mỹ_An,_An_Giang>
+        rdfs:label  "Mỹ An, An Giang"@en .
+
+dbr:Bắc_Hà_district  rdfs:label  "Bắc Hà district"@en .
+
+dbr:Khương_Thị_Hồng_Nhung
+        rdfs:label  "Khương Thị Hồng Nhung"@en .
+
+<http://dbpedia.org/resource/Châu_Thành_district,_Hậu_Giang_province>
+        rdfs:label  "Châu Thành district, Hậu Giang province"@en .
+
+<http://dbpedia.org/resource/Hiệp_Phước,_Đồng_Nai>
+        rdfs:label  "Hiệp Phước, Đồng Nai"@en .
+
+dbr:Nghĩa_Hành_district
+        rdfs:label  "Nghĩa Hành district"@en .
+
+<http://dbpedia.org/resource/Cư_M'gar>
+        rdfs:label  "Cư M'gar"@en .
+
+dbr:Cao_Tân  rdfs:label  "Cao Tân"@en .
+
+dbr:An_Dương_district
+        rdfs:label  "An Dương district"@en .
+
+<http://dbpedia.org/resource/2nd_Division_(Vietnam)>
+        rdfs:label  "2nd Division (Vietnam)"@en .
+
+<http://dbpedia.org/resource/Long_Thành_(township_in_Đồng_Nai)>
+        rdfs:label  "Long Thành (township in Đồng Nai)"@en .
+
+dbr:Thạnh_Hóa  rdfs:label  "Thạnh Hóa"@en .
+
+dbr:Lạc_Quới  rdfs:label  "Lạc Quới"@en .
+
+<http://dbpedia.org/resource/An_Bình,_Dĩ_An>
+        rdfs:label  "An Bình, Dĩ An"@en .
+
+<http://dbpedia.org/resource/Long_Phước,_Bà_Rịa>
+        rdfs:label  "Long Phước, Bà Rịa"@en .
+
+dbr:Ho_Chi_Minh_City_Television
+        rdfs:label  "Ho Chi Minh City Television"@en .
+
+dbr:Tam_Điệp  rdfs:label  "Tam Điệp"@en .
+
+<http://dbpedia.org/resource/Tả_Phìn,_Điện_Biên>
+        rdfs:label  "Tả Phìn, Điện Biên"@en .
+
+dbr:Tiên_Phước_district
+        rdfs:label  "Tiên Phước district"@en .
+
+dbr:Love_Nature  rdfs:label  "Love Nature"@en .
+
+<http://dbpedia.org/resource/Vietnam's_Next_Top_Model_(season_8)>
+        rdfs:label  "Vietnam's Next Top Model (season 8)"@en .
+
+<http://dbpedia.org/resource/Tân_Phú_(township_in_Đồng_Nai)>
+        rdfs:label  "Tân Phú (township in Đồng Nai)"@en .
+
+dbr:Xuân_Lộc_district
+        rdfs:label  "Xuân Lộc district"@en .
+
+<http://dbpedia.org/resource/325th_Division_(Vietnam)>
+        rdfs:label  "325th Division (Vietnam)"@en .
+
+dbr:Sông_Đốc  rdfs:label  "Sông Đốc"@en .
+
+<http://dbpedia.org/resource/Yên_Phong,_Bắc_Kạn>
+        rdfs:label  "Yên Phong, Bắc Kạn"@en .
+
+dbr:Can_Tho_University
+        rdfs:label  "Can Tho University"@en .
+
+dbr:Ngư_Thủy  rdfs:label  "Ngư Thủy"@en .
+
+dbr:Vĩnh_Hanh  rdfs:label  "Vĩnh Hanh"@en .
+
+dbr:Long_Tâm  rdfs:label  "Long Tâm"@en .
+
+dbr:Lâm_Thao_district
+        rdfs:label  "Lâm Thao district"@en .
+
+dbr:Hồng_Đức_University
+        rdfs:label  "Hồng Đức University"@en .
+
+dbr:An_Giang_University
+        rdfs:label  "An Giang University"@en .
+
+dbr:Rạch_Gốc  rdfs:label  "Rạch Gốc"@en .
+
+dbr:Cấm_Sơn  rdfs:label  "Cấm Sơn"@en .
+
+<http://dbpedia.org/resource/Phú_Hưng,_Cà_Mau>
+        rdfs:label  "Phú Hưng, Cà Mau"@en .
+
+dbr:Nam_Đàn_district  rdfs:label  "Nam Đàn district"@en .
+
+dbr:Núi_Sam  rdfs:label  "Núi Sam"@en .
+
+<http://dbpedia.org/resource/People's_Army_of_Vietnam_Special_Forces>
+        rdfs:label  "People's Army of Vietnam Special Forces"@en .
+
+dbr:Sa_Lý  rdfs:label  "Sa Lý"@en .
+
+dbr:Hà_Đông_district  rdfs:label  "Hà Đông district"@en .
+
+dbr:Đắk_Glei_district
+        rdfs:label  "Đắk Glei district"@en .
+
+<http://dbpedia.org/resource/Đồng_Sơn,_Quảng_Bình>
+        rdfs:label  "Đồng Sơn, Quảng Bình"@en .
+
+dbr:Roman_Catholic_Diocese_of_Phát_Diệm
+        rdfs:label  "Roman Catholic Diocese of Phát Diệm"@en .
+
+dbr:Xương_Giang  rdfs:label  "Xương Giang"@en .
+
+dbr:Thốt_Nốt_district
+        rdfs:label  "Thốt Nốt district"@en .
+
+dbr:Chũ  rdfs:label  "Chũ"@en .
+
+dbr:Bình_Nhâm  rdfs:label  "Bình Nhâm"@en .
+
+dbr:Xuyên_Mộc  rdfs:label  "Xuyên Mộc"@en .
+
+dbr:Quế_Phong_district
+        rdfs:label  "Quế Phong district"@en .
+
+<http://dbpedia.org/resource/Đồng_Tâm,_Bắc_Giang>
+        rdfs:label  "Đồng Tâm, Bắc Giang"@en .
+
+dbr:Quảng_Nam_province
+        rdfs:label  "Quảng Nam province"@en .
+
+<http://dbpedia.org/resource/Định_Thành,_Bạc_Liêu>
+        rdfs:label  "Định Thành, Bạc Liêu"@en .
+
+dbr:Sín_Chải  rdfs:label  "Sín Chải"@en .
+
+<http://dbpedia.org/resource/Hòa_Bình_(city)>
+        rdfs:label  "Hòa Bình (city)"@en .
+
+dbr:Phước_Bửu  rdfs:label  "Phước Bửu"@en .
+
+dbr:Dĩnh_Trì  rdfs:label  "Dĩnh Trì"@en .
+
+<http://dbpedia.org/resource/VTV9_–_Binh_Dien_International_Women's_Volleyball_Cup>
+        rdfs:label  "VTV9 – Binh Dien International Women's Volleyball Cup"@en .
+
+<http://dbpedia.org/resource/Institut_de_la_Francophonie_pour_l'Informatique>
+        rdfs:label  "Institut de la Francophonie pour l'Informatique"@en .
+
+dbr:Na_Sang  rdfs:label  "Na Sang"@en .
+
+dbr:Lạc_Dương_district
+        rdfs:label  "Lạc Dương district"@en .
+
+dbr:Dương_Minh_Châu  rdfs:label  "Dương Minh Châu"@en .
+
+dbr:Central_Indochina_dry_forests
+        rdfs:label  "Central Indochina dry forests"@en .
+
+dbr:Khánh_Vĩnh_district
+        rdfs:label  "Khánh Vĩnh district"@en .
+
+dbr:Minh_Long_district
+        rdfs:label  "Minh Long district"@en .
+
+dbr:Vĩnh_Long_province
+        rdfs:label  "Vĩnh Long province"@en .
+
+dbr:Pham_Ngoc_Thach_University_of_Medicine
+        rdfs:label  "Pham Ngoc Thach University of Medicine"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Lợi,_An_Giang>
+        rdfs:label  "Vĩnh Lợi, An Giang"@en .
+
+dbr:Tháp_Chàm_station
+        rdfs:label  "Tháp Chàm station"@en .
+
+dbr:Ái_Nghĩa  rdfs:label  "Ái Nghĩa"@en .
+
+dbr:Mỹ_Trạch  rdfs:label  "Mỹ Trạch"@en .
+
+dbr:Ho_Chi_Minh_City_University_of_Architecture
+        rdfs:label  "Ho Chi Minh City University of Architecture"@en .
+
+dbr:Bù_Đăng_district  rdfs:label  "Bù Đăng district"@en .
+
+dbr:Cần_Giờ_district  rdfs:label  "Cần Giờ district"@en .
+
+dbr:Nham_Biền  rdfs:label  "Nham Biền"@en .
+
+dbr:Núi_Cốc_Lake  rdfs:label  "Núi Cốc Lake"@en .
+
+dbr:Cù_Bị  rdfs:label  "Cù Bị"@en .
+
+dbr:Nghĩa_Đàn_district
+        rdfs:label  "Nghĩa Đàn district"@en .
+
+dbr:Tân_Hồng_district
+        rdfs:label  "Tân Hồng district"@en .
+
+dbr:Tam_Đường_district
+        rdfs:label  "Tam Đường district"@en .
+
+dbr:Kiến_Đức  rdfs:label  "Kiến Đức"@en .
+
+<http://dbpedia.org/resource/Municipal_Theatre,_Ho_Chi_Minh_City>
+        rdfs:label  "Municipal Theatre, Ho Chi Minh City"@en .
+
+dbr:Bắc_Trạch  rdfs:label  "Bắc Trạch"@en .
+
+dbr:Thái_Đào  rdfs:label  "Thái Đào"@en .
+
+<http://dbpedia.org/resource/Tân_Quang,_Bắc_Giang>
+        rdfs:label  "Tân Quang, Bắc Giang"@en .
+
+dbr:Núi_Thành  rdfs:label  "Núi Thành"@en .
+
+<http://dbpedia.org/resource/Văn_Lang,_Bắc_Kạn>
+        rdfs:label  "Văn Lang, Bắc Kạn"@en .
+
+dbr:The_Sound_of_the_Violin_in_My_Lai
+        rdfs:label  "The Sound of the Violin in My Lai"@en .
+
+dbr:Lục_Nam_district  rdfs:label  "Lục Nam district"@en .
+
+dbr:Ayun_Pa  rdfs:label  "Ayun Pa"@en .
+
+<http://dbpedia.org/resource/Long_Thạnh,_Bạc_Liêu>
+        rdfs:label  "Long Thạnh, Bạc Liêu"@en .
+
+dbr:Yên_Lập_Lake  rdfs:label  "Yên Lập Lake"@en .
+
+dbr:Krông_Ana_district
+        rdfs:label  "Krông Ana district"@en .
+
+dbr:Ba_Bể_district  rdfs:label  "Ba Bể district"@en .
+
+dbr:Trịnh_Linh_Giang  rdfs:label  "Trịnh Linh Giang"@en .
+
+dbr:The_Voice_of_Vietnam
+        rdfs:label  "The Voice of Vietnam"@en .
+
+dbr:Northern_Vietnam_lowland_rain_forests
+        rdfs:label  "Northern Vietnam lowland rain forests"@en .
+
+dbr:Đạ_Tẻh_district  rdfs:label  "Đạ Tẻh district"@en .
+
+<http://dbpedia.org/resource/Cao_Thượng,_Bắc_Giang>
+        rdfs:label  "Cao Thượng, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Khánh_Hưng,_Cà_Mau>
+        rdfs:label  "Khánh Hưng, Cà Mau"@en .
+
+dbr:Cao_Lộc_district  rdfs:label  "Cao Lộc district"@en .
+
+<http://dbpedia.org/resource/Bình_Châu,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Bình Châu, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Lấp_Vò  rdfs:label  "Lấp Vò"@en .
+
+dbr:Vĩnh_Tường_district
+        rdfs:label  "Vĩnh Tường district"@en .
+
+dbr:Fifteenth_East_Asia_Summit
+        rdfs:label  "Fifteenth East Asia Summit"@en .
+
+<http://dbpedia.org/resource/An_Thượng,_Bắc_Giang>
+        rdfs:label  "An Thượng, Bắc Giang"@en .
+
+dbr:Vĩnh_Hội_Đông  rdfs:label  "Vĩnh Hội Đông"@en .
+
+dbr:Mường_Phăng  rdfs:label  "Mường Phăng"@en .
+
+dbr:Diên_Khánh_district
+        rdfs:label  "Diên Khánh district"@en .
+
+dbr:Đắk_Lắk_province  rdfs:label  "Đắk Lắk province"@en .
+
+<http://dbpedia.org/resource/Đông_Sơn,_Bắc_Giang>
+        rdfs:label  "Đông Sơn, Bắc Giang"@en .
+
+dbr:Mỹ_Xuyên_district
+        rdfs:label  "Mỹ Xuyên district"@en .
+
+<http://dbpedia.org/resource/Mỹ_Long,_An_Giang>
+        rdfs:label  "Mỹ Long, An Giang"@en .
+
+dbr:Nông_Cống_district
+        rdfs:label  "Nông Cống district"@en .
+
+dbr:Phước_Mỹ_Trung  rdfs:label  "Phước Mỹ Trung"@en .
+
+dbr:Vĩnh_Trụ  rdfs:label  "Vĩnh Trụ"@en .
+
+dbr:Khoái_Châu  rdfs:label  "Khoái Châu"@en .
+
+dbr:Si_Ma_Cai  rdfs:label  "Si Ma Cai"@en .
+
+dbr:Nà_Hỳ  rdfs:label  "Nà Hỳ"@en .
+
+dbr:Tiểu_Cần  rdfs:label  "Tiểu Cần"@en .
+
+dbr:Như_Xuân_district
+        rdfs:label  "Như Xuân district"@en .
+
+dbr:Bún_thịt_nướng  rdfs:label  "Bún thịt nướng"@en .
+
+<http://dbpedia.org/resource/General_Political_Department_(Vietnam)>
+        rdfs:label  "General Political Department (Vietnam)"@en .
+
+dbr:Tuần_Giáo  rdfs:label  "Tuần Giáo"@en .
+
+dbr:Khánh_Tiến  rdfs:label  "Khánh Tiến"@en .
+
+<http://dbpedia.org/resource/Tam_Phước,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Tam Phước, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Trạm_Tấu  rdfs:label  "Trạm Tấu"@en .
+
+<http://dbpedia.org/resource/Khánh_Bình,_Cà_Mau>
+        rdfs:label  "Khánh Bình, Cà Mau"@en .
+
+<http://dbpedia.org/resource/Xuân_La,_Bắc_Kạn>
+        rdfs:label  "Xuân La, Bắc Kạn"@en .
+
+dbr:Bò_nướng_lá_lốt  rdfs:label  "Bò nướng lá lốt"@en .
+
+dbr:Hoằng_Hóa_district
+        rdfs:label  "Hoằng Hóa district"@en .
+
+dbr:Tiên_Lữ_district  rdfs:label  "Tiên Lữ district"@en .
+
+dbr:Xín_Chải  rdfs:label  "Xín Chải"@en .
+
+dbr:Kim_Hóa  rdfs:label  "Kim Hóa"@en .
+
+<http://dbpedia.org/resource/Lâm_Sơn,_Ninh_Thuận>
+        rdfs:label  "Lâm Sơn, Ninh Thuận"@en .
+
+dbr:Nông_Sơn_district
+        rdfs:label  "Nông Sơn district"@en .
+
+dbr:Tân_Thanh_Tây  rdfs:label  "Tân Thanh Tây"@en .
+
+dbr:Trần_Phán  rdfs:label  "Trần Phán"@en .
+
+dbr:Bánh_đúc  rdfs:label  "Bánh đúc"@en .
+
+dbr:Đăk_Glong_district
+        rdfs:label  "Đăk Glong district"@en .
+
+dbr:Sóc_Trăng_province
+        rdfs:label  "Sóc Trăng province"@en .
+
+dbr:Mường_Thín  rdfs:label  "Mường Thín"@en .
+
+dbr:Kiến_Xương  rdfs:label  "Kiến Xương"@en .
+
+<http://dbpedia.org/resource/Hòa_An,_An_Giang>
+        rdfs:label  "Hòa An, An Giang"@en .
+
+dbr:Đơn_Dương_district
+        rdfs:label  "Đơn Dương district"@en .
+
+<http://dbpedia.org/resource/Song_Mai,_Bắc_Giang>
+        rdfs:label  "Song Mai, Bắc Giang"@en .
+
+dbr:Hàng_Vịnh  rdfs:label  "Hàng Vịnh"@en .
+
+dbr:Chu_Hương  rdfs:label  "Chu Hương"@en .
+
+dbr:Thị_Nại_Port  rdfs:label  "Thị Nại Port"@en .
+
+<http://dbpedia.org/resource/Tân_Lập,_Bắc_Giang>
+        rdfs:label  "Tân Lập, Bắc Giang"@en .
+
+dbr:Nậm_Vì  rdfs:label  "Nậm Vì"@en .
+
+dbr:Lạng_Sơn  rdfs:label  "Lạng Sơn"@en .
+
+dbr:Thứa  rdfs:label  "Thứa"@en .
+
+dbr:Thủ_Thừa  rdfs:label  "Thủ Thừa"@en .
+
+dbr:Ghost_Festival  rdfs:label  "Ghost Festival"@en .
+
+<http://dbpedia.org/resource/Tân_Mỹ,_Bắc_Giang>
+        rdfs:label  "Tân Mỹ, Bắc Giang"@en .
+
+dbr:Thắng_Nhì  rdfs:label  "Thắng Nhì"@en .
+
+<http://dbpedia.org/resource/An_Lão,_Bình_Định>
+        rdfs:label  "An Lão, Bình Định"@en .
+
+dbr:Trà_Lĩnh  rdfs:label  "Trà Lĩnh"@en .
+
+dbr:Hữu_Lũng  rdfs:label  "Hữu Lũng"@en .
+
+dbr:Ho_Chi_Minh_City_University_of_Social_Sciences_and_Humanities
+        rdfs:label  "Ho Chi Minh City University of Social Sciences and Humanities"@en .
+
+dbr:Ea_Súp  rdfs:label  "Ea Súp"@en .
+
+dbr:Nghĩa_Đàn  rdfs:label  "Nghĩa Đàn"@en .
+
+dbr:The_Amazing_Race_Vietnam_2019
+        rdfs:label  "The Amazing Race Vietnam 2019"@en .
+
+dbr:Hoài_Thượng  rdfs:label  "Hoài Thượng"@en .
+
+dbr:Roman_Catholic_Diocese_of_Kon_Tum
+        rdfs:label  "Roman Catholic Diocese of Kon Tum"@en .
+
+dbr:Cẩm_Phả  rdfs:label  "Cẩm Phả"@en .
+
+dbr:Ba_Bể_Lake  rdfs:label  "Ba Bể Lake"@en .
+
+dbr:Thượng_Quan  rdfs:label  "Thượng Quan"@en .
+
+dbr:Bàu_Tró  rdfs:label  "Bàu Tró"@en .
+
+dbr:Ninh_Thuận_1_Nuclear_Power_Plant
+        rdfs:label  "Ninh Thuận 1 Nuclear Power Plant"@en .
+
+dbr:Than_Uyên_district
+        rdfs:label  "Than Uyên district"@en .
+
+dbr:Gia_Nghĩa  rdfs:label  "Gia Nghĩa"@en .
+
+dbr:Vinh_Thanh_High_School
+        rdfs:label  "Vinh Thanh High School"@en .
+
+dbr:Vân_Hồ  rdfs:label  "Vân Hồ"@en .
+
+dbr:Đà_Nẵng_station  rdfs:label  "Đà Nẵng station"@en .
+
+dbr:Ninh_Thuận_province
+        rdfs:label  "Ninh Thuận province"@en .
+
+dbr:Tân_An  rdfs:label  "Tân An"@en .
+
+<http://dbpedia.org/resource/Hồng_Giang,_Bắc_Giang>
+        rdfs:label  "Hồng Giang, Bắc Giang"@en .
+
+dbr:Hải_Dương  rdfs:label  "Hải Dương"@en .
+
+dbr:Quang_Phú  rdfs:label  "Quang Phú"@en .
+
+dbr:Roman_Catholic_Diocese_of_Long_Xuyên
+        rdfs:label  "Roman Catholic Diocese of Long Xuyên"@en .
+
+dbr:Thập_Tháp_Di-Đà_Temple
+        rdfs:label  "Thập Tháp Di-Đà Temple"@en .
+
+<http://dbpedia.org/resource/Mỹ_Xuyên,_An_Giang>
+        rdfs:label  "Mỹ Xuyên, An Giang"@en .
+
+dbr:Văn_Quan  rdfs:label  "Văn Quan"@en .
+
+dbr:Nam_Sách_district
+        rdfs:label  "Nam Sách district"@en .
+
+dbr:Dầu_Tiếng_district
+        rdfs:label  "Dầu Tiếng district"@en .
+
+dbr:Chà_Cang  rdfs:label  "Chà Cang"@en .
+
+dbr:Tôn_Đức_Thắng_University
+        rdfs:label  "Tôn Đức Thắng University"@en .
+
+<http://dbpedia.org/resource/Phú_Xuân,_An_Giang>
+        rdfs:label  "Phú Xuân, An Giang"@en .
+
+dbr:Chợ_Rã  rdfs:label  "Chợ Rã"@en .
+
+dbr:Vietnamese_National_Youth_Football_Championship
+        rdfs:label  "Vietnamese National Youth Football Championship"@en .
+
+<http://dbpedia.org/resource/Tân_Thạnh,_An_Giang>
+        rdfs:label  "Tân Thạnh, An Giang"@en .
+
+dbr:Thanh_Sơn_district
+        rdfs:label  "Thanh Sơn district"@en .
+
+dbr:Chiềng_Sơ  rdfs:label  "Chiềng Sơ"@en .
+
+dbr:Hạ_Long  rdfs:label  "Hạ Long"@en .
+
+dbr:Lái_Thiêu  rdfs:label  "Lái Thiêu"@en .
+
+dbr:Hải_Hà_district  rdfs:label  "Hải Hà district"@en .
+
+dbr:British_International_School_Hanoi
+        rdfs:label  "British International School Hanoi"@en .
+
+dbr:Mường_Tùng  rdfs:label  "Mường Tùng"@en .
+
+dbr:Dầu_Tiếng  rdfs:label  "Dầu Tiếng"@en .
+
+<http://dbpedia.org/resource/Mỹ_Phước,_An_Giang>
+        rdfs:label  "Mỹ Phước, An Giang"@en .
+
+dbr:Lý_Nhân_district  rdfs:label  "Lý Nhân district"@en .
+
+dbr:Tân_Mộc  rdfs:label  "Tân Mộc"@en .
+
+dbr:Him_Lam  rdfs:label  "Him Lam"@en .
+
+dbr:British_Vietnamese_International_School
+        rdfs:label  "British Vietnamese International School"@en .
+
+dbr:The_Amazing_Race_Vietnam_2014
+        rdfs:label  "The Amazing Race Vietnam 2014"@en .
+
+dbr:Yên_Thành_district
+        rdfs:label  "Yên Thành district"@en .
+
+dbr:Nguyễn_Thị_Sen  rdfs:label  "Nguyễn Thị Sen"@en .
+
+<http://dbpedia.org/resource/Supermodel_Me_(season_6)>
+        rdfs:label  "Supermodel Me (season 6)"@en .
+
+dbr:Sườn_nướng  rdfs:label  "Sườn nướng"@en .
+
+dbr:Hồ_Tràm  rdfs:label  "Hồ Tràm"@en .
+
+<http://dbpedia.org/resource/An_Châu,_Bắc_Giang>
+        rdfs:label  "An Châu, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Bảo_Ninh,_Đồng_Hới>
+        rdfs:label  "Bảo Ninh, Đồng Hới"@en .
+
+dbr:Tạ_An_Khương_Nam  rdfs:label  "Tạ An Khương Nam"@en .
+
+dbr:Giồng_Trôm_district
+        rdfs:label  "Giồng Trôm district"@en .
+
+dbr:Cửa_Bắc_Church  rdfs:label  "Cửa Bắc Church"@en .
+
+dbr:Bùi_Xá  rdfs:label  "Bùi Xá"@en .
+
+dbr:Thạnh_Ngãi  rdfs:label  "Thạnh Ngãi"@en .
+
+<http://dbpedia.org/resource/USS_Bulloch_County_(LST-509)>
+        rdfs:label  "USS Bulloch County (LST-509)"@en .
+
+dbr:Kim_Lư  rdfs:label  "Kim Lư"@en .
+
+dbr:Vĩnh_Yên  rdfs:label  "Vĩnh Yên"@en .
+
+dbr:Hóa_Hợp  rdfs:label  "Hóa Hợp"@en .
+
+dbr:Tân_Khai  rdfs:label  "Tân Khai"@en .
+
+dbr:The_Buffalo_Boy  rdfs:label  "The Buffalo Boy"@en .
+
+dbr:Điện_Biên_Đông_district
+        rdfs:label  "Điện Biên Đông district"@en .
+
+dbr:Láng_Lớn  rdfs:label  "Láng Lớn"@en .
+
+dbr:Thanh_Miện  rdfs:label  "Thanh Miện"@en .
+
+<http://dbpedia.org/resource/Phong_Thạnh,_Bạc_Liêu>
+        rdfs:label  "Phong Thạnh, Bạc Liêu"@en .
+
+dbr:Điện_Biên_province
+        rdfs:label  "Điện Biên province"@en .
+
+dbr:Phú_Thọ_province  rdfs:label  "Phú Thọ province"@en .
+
+dbr:Electric_Power_University
+        rdfs:label  "Electric Power University"@en .
+
+<http://dbpedia.org/resource/Khánh_An,_Cà_Mau>
+        rdfs:label  "Khánh An, Cà Mau"@en .
+
+dbr:Kỳ_Sơn_district  rdfs:label  "Kỳ Sơn district"@en .
+
+<http://dbpedia.org/resource/Ward_1,_Bạc_Liêu>
+        rdfs:label  "Ward 1, Bạc Liêu"@en .
+
+dbr:Sóc_Trăng  rdfs:label  "Sóc Trăng"@en .
+
+<http://dbpedia.org/resource/Hưng_Thịnh,_Hưng_Nguyên>
+        rdfs:label  "Hưng Thịnh, Hưng Nguyên"@en .
+
+dbr:Nguyên_Bình_district
+        rdfs:label  "Nguyên Bình district"@en .
+
+dbr:Phù_Cát_district  rdfs:label  "Phù Cát district"@en .
+
+dbr:Đa_Mai  rdfs:label  "Đa Mai"@en .
+
+<http://dbpedia.org/resource/Ward_7,_Bạc_Liêu>
+        rdfs:label  "Ward 7, Bạc Liêu"@en .
+
+dbr:Trà_Cú  rdfs:label  "Trà Cú"@en .
+
+dbr:Văn_Bàn_district  rdfs:label  "Văn Bàn district"@en .
+
+dbr:Xuyên_Mộc_district
+        rdfs:label  "Xuyên Mộc district"@en .
+
+dbr:Văn_Lâm_district  rdfs:label  "Văn Lâm district"@en .
+
+dbr:Mai_Hóa  rdfs:label  "Mai Hóa"@en .
+
+dbr:Tuy_Phước  rdfs:label  "Tuy Phước"@en .
+
+dbr:Văn_Quan_district
+        rdfs:label  "Văn Quan district"@en .
+
+dbr:Tân_Đông_Hiệp  rdfs:label  "Tân Đông Hiệp"@en .
+
+dbr:Nha_Trang  rdfs:label  "Nha Trang"@en .
+
+dbr:Yên_Bình_district
+        rdfs:label  "Yên Bình district"@en .
+
+dbr:Bánh_canh  rdfs:label  "Bánh canh"@en .
+
+<http://dbpedia.org/resource/Thọ_Xương,_Bắc_Giang>
+        rdfs:label  "Thọ Xương, Bắc Giang"@en .
+
+dbr:Mỹ_Thủy  rdfs:label  "Mỹ Thủy"@en .
+
+dbr:Ho_Chi_Minh_City_International_University
+        rdfs:label  "Ho Chi Minh City International University"@en .
+
+dbr:Dương_Hưu  rdfs:label  "Dương Hưu"@en .
+
+dbr:2019_Vietnamese_census
+        rdfs:label  "2019 Vietnamese census"@en .
+
+dbr:Kép  rdfs:label  "Kép"@en .
+
+<http://dbpedia.org/resource/Phước_Long_district,_Bạc_Liêu_province>
+        rdfs:label  "Phước Long district, Bạc Liêu province"@en .
+
+dbr:Càng_Long  rdfs:label  "Càng Long"@en .
+
+<http://dbpedia.org/resource/Châu_Thành,_Sóc_Trăng_Province>
+        rdfs:label  "Châu Thành, Sóc Trăng Province"@en .
+
+<http://dbpedia.org/resource/Nhơn_Hòa,_Gia_Lai>
+        rdfs:label  "Nhơn Hòa, Gia Lai"@en .
+
+<http://dbpedia.org/resource/Tân_Lập,_An_Giang>
+        rdfs:label  "Tân Lập, An Giang"@en .
+
+dbr:Bông_Trang  rdfs:label  "Bông Trang"@en .
+
+<http://dbpedia.org/resource/National_Academy_of_Public_Administration_(Vietnam)>
+        rdfs:label  "National Academy of Public Administration (Vietnam)"@en .
+
+dbr:Can_Lộc_district  rdfs:label  "Can Lộc district"@en .
+
+dbr:Nông_Cống  rdfs:label  "Nông Cống"@en .
+
+dbr:Tiến_Hóa  rdfs:label  "Tiến Hóa"@en .
+
+dbr:Cái_Bè_district  rdfs:label  "Cái Bè district"@en .
+
+dbr:Đức_Ninh_Đông  rdfs:label  "Đức Ninh Đông"@en .
+
+dbr:Vị_Xuyên_district
+        rdfs:label  "Vị Xuyên district"@en .
+
+dbr:Temple_of_the_Jade_Mountain
+        rdfs:label  "Temple of the Jade Mountain"@en .
+
+dbr:National_Social_Democratic_Front
+        rdfs:label  "National Social Democratic Front"@en .
+
+dbr:Hòa_Bình_Thạnh  rdfs:label  "Hòa Bình Thạnh"@en .
+
+<http://dbpedia.org/resource/Mỹ_An,_Bắc_Giang>
+        rdfs:label  "Mỹ An, Bắc Giang"@en .
+
+dbr:Hiệp_Hưng  rdfs:label  "Hiệp Hưng"@en .
+
+<http://dbpedia.org/resource/Tăng_Bạt_Hổ,_Bình_Định>
+        rdfs:label  "Tăng Bạt Hổ, Bình Định"@en .
+
+<http://dbpedia.org/resource/Quảng_Khê,_Đắk_Nông>
+        rdfs:label  "Quảng Khê, Đắk Nông"@en .
+
+<http://dbpedia.org/resource/Phú_Thuận,_An_Giang>
+        rdfs:label  "Phú Thuận, An Giang"@en .
+
+dbr:Yên_Lập_district  rdfs:label  "Yên Lập district"@en .
+
+<http://dbpedia.org/resource/Phước_Thuận,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Phước Thuận, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Đông_Pao_mine  rdfs:label  "Đông Pao mine"@en .
+
+<http://dbpedia.org/resource/Vietnam's_Next_Top_Model_(season_5)>
+        rdfs:label  "Vietnam's Next Top Model (season 5)"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Trạch,_Bạc_Liêu>
+        rdfs:label  "Vĩnh Trạch, Bạc Liêu"@en .
+
+dbr:Tây_Hồ_district  rdfs:label  "Tây Hồ district"@en .
+
+<http://dbpedia.org/resource/USCGC_Morgenthau_(WHEC-722)>
+        rdfs:label  "USCGC Morgenthau (WHEC-722)"@en .
+
+dbr:Nam_Định_province
+        rdfs:label  "Nam Định province"@en .
+
+dbr:Tân_Phú_Tây  rdfs:label  "Tân Phú Tây"@en .
+
+dbr:La_Vang  rdfs:label  "La Vang"@en .
+
+<http://dbpedia.org/resource/Phong_Điền_district,_Cần_Thơ>
+        rdfs:label  "Phong Điền district, Cần Thơ"@en .
+
+<http://dbpedia.org/resource/Long_Sơn,_An_Giang>
+        rdfs:label  "Long Sơn, An Giang"@en .
+
+<http://dbpedia.org/resource/9th_Division_(Vietnam)>
+        rdfs:label  "9th Division (Vietnam)"@en .
+
+dbr:Southern_Vietnam_lowland_dry_forests
+        rdfs:label  "Southern Vietnam lowland dry forests"@en .
+
+dbr:Đắk_Mil  rdfs:label  "Đắk Mil"@en .
+
+<http://dbpedia.org/resource/So_You_Think_You_Can_Dance_(Vietnamese_season_4)>
+        rdfs:label  "So You Think You Can Dance (Vietnamese season 4)"@en .
+
+dbr:Điện_Biên_Phủ  rdfs:label  "Điện Biên Phủ"@en .
+
+dbr:Pa_Thơm  rdfs:label  "Pa Thơm"@en .
+
+<http://dbpedia.org/resource/Sông_Đà_(ward)>
+        rdfs:label  "Sông Đà (ward)"@en .
+
+<http://dbpedia.org/resource/Tân_Tiến,_Bắc_Giang>
+        rdfs:label  "Tân Tiến, Bắc Giang"@en .
+
+dbr:Chợ_Gạo_district  rdfs:label  "Chợ Gạo district"@en .
+
+dbr:Da_Lat  rdfs:label  "Da Lat"@en .
+
+<http://dbpedia.org/resource/Hà_Huy_Tập,_Hà_Tĩnh>
+        rdfs:label  "Hà Huy Tập, Hà Tĩnh"@en .
+
+dbr:Ngư_Thủy_Bắc  rdfs:label  "Ngư Thủy Bắc"@en .
+
+<http://dbpedia.org/resource/Quảng_Thọ,_Quảng_Bình>
+        rdfs:label  "Quảng Thọ, Quảng Bình"@en .
+
+dbr:Mỹ_Lộc_district  rdfs:label  "Mỹ Lộc district"@en .
+
+dbr:Bình_Chánh_district
+        rdfs:label  "Bình Chánh district"@en .
+
+<http://dbpedia.org/resource/Tân_Sơn,_Bắc_Kạn>
+        rdfs:label  "Tân Sơn, Bắc Kạn"@en .
+
+dbr:Roman_Catholic_Archdiocese_of_Huế
+        rdfs:label  "Roman Catholic Archdiocese of Huế"@en .
+
+dbr:Vân_Hồ_district  rdfs:label  "Vân Hồ district"@en .
+
+dbr:Yên_Lạc_district  rdfs:label  "Yên Lạc district"@en .
+
+dbr:Đông_Thới  rdfs:label  "Đông Thới"@en .
+
+dbr:Quài_Nưa  rdfs:label  "Quài Nưa"@en .
+
+dbr:The_Next_Iron_Chef_Vietnam
+        rdfs:label  "The Next Iron Chef Vietnam"@en .
+
+<http://dbpedia.org/resource/Bảo_Lâm_district,_Lâm_Đồng_province>
+        rdfs:label  "Bảo Lâm district, Lâm Đồng province"@en .
+
+dbr:Nhà_Bàng  rdfs:label  "Nhà Bàng"@en .
+
+dbr:Như_Cố  rdfs:label  "Như Cố"@en .
+
+dbr:Bình_Định_province
+        rdfs:label  "Bình Định province"@en .
+
+dbr:Tuấn_Đạo  rdfs:label  "Tuấn Đạo"@en .
+
+dbr:Đa_Krông_district
+        rdfs:label  "Đa Krông district"@en .
+
+dbr:Camp_Radcliff  rdfs:label  "Camp Radcliff"@en .
+
+dbr:Đam_Rông_district
+        rdfs:label  "Đam Rông district"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Thành,_An_Giang>
+        rdfs:label  "Vĩnh Thành, An Giang"@en .
+
+<http://dbpedia.org/resource/Phước_Hội,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Phước Hội, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Kim_Động_district
+        rdfs:label  "Kim Động district"@en .
+
+dbr:Mnet_Asian_Music_Awards
+        rdfs:label  "Mnet Asian Music Awards"@en .
+
+dbr:Đức_Linh_district
+        rdfs:label  "Đức Linh district"@en .
+
+<http://dbpedia.org/resource/Bình_Trung,_Bắc_Kạn>
+        rdfs:label  "Bình Trung, Bắc Kạn"@en .
+
+dbr:Hòa_Vang_district
+        rdfs:label  "Hòa Vang district"@en .
+
+dbr:Hoàng_Lương  rdfs:label  "Hoàng Lương"@en .
+
+dbr:Quách_Phẩm_Bắc  rdfs:label  "Quách Phẩm Bắc"@en .
+
+dbr:Thanh_Trì_district
+        rdfs:label  "Thanh Trì district"@en .
+
+dbr:Phúc_Yên  rdfs:label  "Phúc Yên"@en .
+
+dbr:Roman_Catholic_Diocese_of_Hải_Phòng
+        rdfs:label  "Roman Catholic Diocese of Hải Phòng"@en .
+
+dbr:Văn_Hóa  rdfs:label  "Văn Hóa"@en .
+
+dbr:Hanoi_University_of_Mining_and_Geology
+        rdfs:label  "Hanoi University of Mining and Geology"@en .
+
+dbr:Tôi_là..._người_chiến_thắng
+        rdfs:label  "Tôi là... người chiến thắng"@en .
+
+dbr:Cao_Lộc  rdfs:label  "Cao Lộc"@en .
+
+dbr:Cơm_tấm  rdfs:label  "Cơm tấm"@en .
+
+dbr:Văn_Giáo  rdfs:label  "Văn Giáo"@en .
+
+dbr:Vietnam_National_University_of_Agriculture
+        rdfs:label  "Vietnam National University of Agriculture"@en .
+
+dbr:Cam_Phước_Tây  rdfs:label  "Cam Phước Tây"@en .
+
+<http://dbpedia.org/resource/Đông_Lỗ,_Bắc_Giang>
+        rdfs:label  "Đông Lỗ, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Phú_Hiệp,_An_Giang>
+        rdfs:label  "Phú Hiệp, An Giang"@en .
+
+<http://dbpedia.org/resource/Ward_11,_Vũng_Tàu>
+        rdfs:label  "Ward 11, Vũng Tàu"@en .
+
+dbr:Rượu_nếp  rdfs:label  "Rượu nếp"@en .
+
+dbr:Mèo_Vạc_district  rdfs:label  "Mèo Vạc district"@en .
+
+dbr:Kim_Đồng_Publishing_House
+        rdfs:label  "Kim Đồng Publishing House"@en .
+
+dbr:Lương_Phong  rdfs:label  "Lương Phong"@en .
+
+dbr:Quang_Thuận  rdfs:label  "Quang Thuận"@en .
+
+dbr:Mường_Lay  rdfs:label  "Mường Lay"@en .
+
+dbr:Bắc_Trà_My_district
+        rdfs:label  "Bắc Trà My district"@en .
+
+dbr:Chi_Nê  rdfs:label  "Chi Nê"@en .
+
+<http://dbpedia.org/resource/Tân_Định,_District_1>
+        rdfs:label  "Tân Định, District 1"@en .
+
+<http://dbpedia.org/resource/Tonle_Sap–Mekong_peat_swamp_forests>
+        rdfs:label  "Tonle Sap–Mekong peat swamp forests"@en .
+
+dbr:Thanh_Nhật  rdfs:label  "Thanh Nhật"@en .
+
+dbr:Lạc_Tánh  rdfs:label  "Lạc Tánh"@en .
+
+dbr:Chư_Kbô  rdfs:label  "Chư Kbô"@en .
+
+dbr:Tiết_canh  rdfs:label  "Tiết canh"@en .
+
+dbr:Hợp_ca_tranh_tài  rdfs:label  "Hợp ca tranh tài"@en .
+
+dbr:Roman_Catholic_Diocese_of_Thanh_Hóa
+        rdfs:label  "Roman Catholic Diocese of Thanh Hóa"@en .
+
+dbr:Nam_Sách  rdfs:label  "Nam Sách"@en .
+
+dbr:Hoài_Ân_district  rdfs:label  "Hoài Ân district"@en .
+
+dbr:Dak_Po  rdfs:label  "Dak Po"@en .
+
+dbr:Nho_Quan  rdfs:label  "Nho Quan"@en .
+
+dbr:Cái_Nước  rdfs:label  "Cái Nước"@en .
+
+dbr:Tuyên_Hóa_district
+        rdfs:label  "Tuyên Hóa district"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Châu,_An_Giang>
+        rdfs:label  "Vĩnh Châu, An Giang"@en .
+
+<http://dbpedia.org/resource/Đông_Phú,_Bắc_Giang>
+        rdfs:label  "Đông Phú, Bắc Giang"@en .
+
+dbr:Sông_Mã  rdfs:label  "Sông Mã"@en .
+
+dbr:Hoa_Thủy  rdfs:label  "Hoa Thủy"@en .
+
+dbr:Bình_Dương_province
+        rdfs:label  "Bình Dương province"@en .
+
+<http://dbpedia.org/resource/An_Lộc,_Bình_Phước>
+        rdfs:label  "An Lộc, Bình Phước"@en .
+
+dbr:Lingnan  rdfs:label  "Lingnan"@en .
+
+<http://dbpedia.org/resource/Phú_Mỹ,_Bến_Tre>
+        rdfs:label  "Phú Mỹ, Bến Tre"@en .
+
+<http://dbpedia.org/resource/Golden_Lotus_Prize_(Vietnam_Film_Festival)>
+        rdfs:label  "Golden Lotus Prize (Vietnam Film Festival)"@en .
+
+dbr:Lê_Quốc_Khánh  rdfs:label  "Lê Quốc Khánh"@en .
+
+<http://dbpedia.org/resource/Phú_Tân_district,_An_Giang_province>
+        rdfs:label  "Phú Tân district, An Giang province"@en .
+
+<http://dbpedia.org/resource/Phú_Mỹ_(ward_of_Phú_Mỹ_town)>
+        rdfs:label  "Phú Mỹ (ward of Phú Mỹ town)"@en .
+
+dbr:Ho_Chi_Minh_City_University_of_Technology
+        rdfs:label  "Ho Chi Minh City University of Technology"@en .
+
+dbr:Ngan_Dừa  rdfs:label  "Ngan Dừa"@en .
+
+dbr:Trường_Sa_district
+        rdfs:label  "Trường Sa district"@en .
+
+<http://dbpedia.org/resource/MasterChef_Vietnam_(season_3)>
+        rdfs:label  "MasterChef Vietnam (season 3)"@en .
+
+<http://dbpedia.org/resource/Long_Điền,_Bạc_Liêu>
+        rdfs:label  "Long Điền, Bạc Liêu"@en .
+
+<http://dbpedia.org/resource/Supreme_People's_Court_of_Vietnam>
+        rdfs:label  "Supreme People's Court of Vietnam"@en .
+
+<http://dbpedia.org/resource/Ea_Bar,_Đắk_Lắk>
+        rdfs:label  "Ea Bar, Đắk Lắk"@en .
+
+<http://dbpedia.org/resource/Phước_Vĩnh,_Bình_Dương>
+        rdfs:label  "Phước Vĩnh, Bình Dương"@en .
+
+dbr:Vĩnh_Mỹ  rdfs:label  "Vĩnh Mỹ"@en .
+
+dbr:Hồ_Xá  rdfs:label  "Hồ Xá"@en .
+
+<http://dbpedia.org/resource/324th_Division_(Vietnam)>
+        rdfs:label  "324th Division (Vietnam)"@en .
+
+<http://dbpedia.org/resource/Đồng_Sơn,_Bắc_Giang>
+        rdfs:label  "Đồng Sơn, Bắc Giang"@en .
+
+dbr:Khánh_Bình_Tây  rdfs:label  "Khánh Bình Tây"@en .
+
+<http://dbpedia.org/resource/Phú_Nhuận,_Bắc_Giang>
+        rdfs:label  "Phú Nhuận, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Trung_Hòa,_Bắc_Kạn>
+        rdfs:label  "Trung Hòa, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Tuy,_Hà_Giang>
+        rdfs:label  "Vĩnh Tuy, Hà Giang"@en .
+
+dbr:Ngư_Hóa  rdfs:label  "Ngư Hóa"@en .
+
+<http://dbpedia.org/resource/Sơn_Tây,_Hanoi>
+        rdfs:label  "Sơn Tây, Hanoi"@en .
+
+dbr:Đông_Hải_district
+        rdfs:label  "Đông Hải district"@en .
+
+dbr:Bánh_bèo  rdfs:label  "Bánh bèo"@en .
+
+dbr:Quốc_Oai_district
+        rdfs:label  "Quốc Oai district"@en .
+
+dbr:An_Giang_province
+        rdfs:label  "An Giang province"@en .
+
+dbr:Đông_Giang_district
+        rdfs:label  "Đông Giang district"@en .
+
+<http://dbpedia.org/resource/VTV_International_Women's_Volleyball_Cup>
+        rdfs:label  "VTV International Women's Volleyball Cup"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Trung,_An_Giang>
+        rdfs:label  "Vĩnh Trung, An Giang"@en .
+
+<http://dbpedia.org/resource/Châu_Thành_district,_Bến_Tre_province>
+        rdfs:label  "Châu Thành district, Bến Tre province"@en .
+
+dbr:Vĩnh_Thuận_district
+        rdfs:label  "Vĩnh Thuận district"@en .
+
+dbr:Cuôr_Knia  rdfs:label  "Cuôr Knia"@en .
+
+dbr:Hoành_Bồ  rdfs:label  "Hoành Bồ"@en .
+
+dbr:Quang_Yen_coalfield
+        rdfs:label  "Quang Yen coalfield"@en .
+
+<http://dbpedia.org/resource/Phú_Thọ,_An_Giang>
+        rdfs:label  "Phú Thọ, An Giang"@en .
+
+dbr:An_Lập  rdfs:label  "An Lập"@en .
+
+<http://dbpedia.org/resource/District_5,_Ho_Chi_Minh_City>
+        rdfs:label  "District 5, Ho Chi Minh City"@en .
+
+dbr:Roman_Catholic_Diocese_of_Vinh
+        rdfs:label  "Roman Catholic Diocese of Vinh"@en .
+
+dbr:Suối_Nghệ  rdfs:label  "Suối Nghệ"@en .
+
+dbr:Lao_Xả_Phình  rdfs:label  "Lao Xả Phình"@en .
+
+dbr:Hai_Bà_Trưng_district
+        rdfs:label  "Hai Bà Trưng district"@en .
+
+dbr:Tân_Sỏi  rdfs:label  "Tân Sỏi"@en .
+
+dbr:Luân_Giói  rdfs:label  "Luân Giói"@en .
+
+dbr:Ninh_Thuận_2_Nuclear_Power_Plant
+        rdfs:label  "Ninh Thuận 2 Nuclear Power Plant"@en .
+
+dbr:Thành_Trung  rdfs:label  "Thành Trung"@en .
+
+dbr:Gia_Ninh  rdfs:label  "Gia Ninh"@en .
+
+dbr:Mỹ_Thới  rdfs:label  "Mỹ Thới"@en .
+
+<http://dbpedia.org/resource/Long_Hưng,_An_Giang>
+        rdfs:label  "Long Hưng, An Giang"@en .
+
+dbr:Rạch_Dừa  rdfs:label  "Rạch Dừa"@en .
+
+dbr:Bà_Rịa  rdfs:label  "Bà Rịa"@en .
+
+dbr:Tam_Duong_bus_crash
+        rdfs:label  "Tam Duong bus crash"@en .
+
+dbr:Bến_Cầu_district  rdfs:label  "Bến Cầu district"@en .
+
+dbr:Bánh_rế  rdfs:label  "Bánh rế"@en .
+
+dbr:Hồng_Gai  rdfs:label  "Hồng Gai"@en .
+
+dbr:Một_phút_để_chiến_thắng
+        rdfs:label  "Một phút để chiến thắng"@en .
+
+<http://dbpedia.org/resource/Mỹ_Khánh,_An_Giang>
+        rdfs:label  "Mỹ Khánh, An Giang"@en .
+
+dbr:Đức_Thọ_district  rdfs:label  "Đức Thọ district"@en .
+
+dbr:Bánh_rán  rdfs:label  "Bánh rán"@en .
+
+<http://dbpedia.org/resource/Cô_Giang_(ward)>
+        rdfs:label  "Cô Giang (ward)"@en .
+
+<http://dbpedia.org/resource/Xuân_Dương,_Bắc_Kạn>
+        rdfs:label  "Xuân Dương, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Lộc,_An_Giang>
+        rdfs:label  "Vĩnh Lộc, An Giang"@en .
+
+<http://dbpedia.org/resource/Trần_Phú,_Bắc_Kạn>
+        rdfs:label  "Trần Phú, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/Bình_Hòa,_An_Giang>
+        rdfs:label  "Bình Hòa, An Giang"@en .
+
+dbr:Cơm_rượu  rdfs:label  "Cơm rượu"@en .
+
+dbr:Thanh_Vận  rdfs:label  "Thanh Vận"@en .
+
+dbr:Vietnam_Television
+        rdfs:label  "Vietnam Television"@en .
+
+dbr:Po_Nagar  rdfs:label  "Po Nagar"@en .
+
+dbr:Đồi_Ngô  rdfs:label  "Đồi Ngô"@en .
+
+<http://dbpedia.org/resource/Khánh_Hòa,_Cà_Mau>
+        rdfs:label  "Khánh Hòa, Cà Mau"@en .
+
+dbr:Hung_Yen_University_of_Technology_and_Education
+        rdfs:label  "Hung Yen University of Technology and Education"@en .
+
+<http://dbpedia.org/resource/Quảng_Phúc,_Quảng_Bình>
+        rdfs:label  "Quảng Phúc, Quảng Bình"@en .
+
+dbr:Pá_Mỳ  rdfs:label  "Pá Mỳ"@en .
+
+<http://dbpedia.org/resource/Ward_2,_Vũng_Tàu>
+        rdfs:label  "Ward 2, Vũng Tàu"@en .
+
+dbr:Tân_Biên_district
+        rdfs:label  "Tân Biên district"@en .
+
+dbr:Na_Hang_district  rdfs:label  "Na Hang district"@en .
+
+<http://dbpedia.org/resource/Ward_5,_Vũng_Tàu>
+        rdfs:label  "Ward 5, Vũng Tàu"@en .
+
+<http://dbpedia.org/resource/Phước_Hải_(township)>
+        rdfs:label  "Phước Hải (township)"@en .
+
+<http://dbpedia.org/resource/Ward_8,_Vũng_Tàu>
+        rdfs:label  "Ward 8, Vũng Tàu"@en .
+
+<http://dbpedia.org/resource/Kho_(cooking_technique)>
+        rdfs:label  "Kho (cooking technique)"@en .
+
+<http://dbpedia.org/resource/M'Drắk>
+        rdfs:label  "M'Drắk"@en .
+
+dbr:Đà_Lạt_station  rdfs:label  "Đà Lạt station"@en .
+
+dbr:Sá_Tổng  rdfs:label  "Sá Tổng"@en .
+
+dbr:Bánh_tẻ  rdfs:label  "Bánh tẻ"@en .
+
+<http://dbpedia.org/resource/Green_Wave_(radio_show)>
+        rdfs:label  "Green Wave (radio show)"@en .
+
+dbr:Đức_Hóa  rdfs:label  "Đức Hóa"@en .
+
+dbr:Vinh_Medical_University
+        rdfs:label  "Vinh Medical University"@en .
+
+dbr:Nguyễn_Anh_Khôi  rdfs:label  "Nguyễn Anh Khôi"@en .
+
+<http://dbpedia.org/resource/The_Housemaid_(2016_film)>
+        rdfs:label  "The Housemaid (2016 film)"@en .
+
+dbr:Cư_Kuin_district  rdfs:label  "Cư Kuin district"@en .
+
+dbr:Phú_Hòa_district  rdfs:label  "Phú Hòa district"@en .
+
+dbr:Gành_Hào  rdfs:label  "Gành Hào"@en .
+
+dbr:Tam_Dương_district
+        rdfs:label  "Tam Dương district"@en .
+
+dbr:Tà_Đảnh  rdfs:label  "Tà Đảnh"@en .
+
+<http://dbpedia.org/resource/Quang_Minh,_Bắc_Giang>
+        rdfs:label  "Quang Minh, Bắc Giang"@en .
+
+dbr:Tuyên_Quang_province
+        rdfs:label  "Tuyên Quang province"@en .
+
+dbr:Tân_Thạnh_district
+        rdfs:label  "Tân Thạnh district"@en .
+
+dbr:Mỹ_Độ  rdfs:label  "Mỹ Độ"@en .
+
+dbr:Nậm_Kè  rdfs:label  "Nậm Kè"@en .
+
+dbr:Hoang_Thanh_Trang
+        rdfs:label  "Hoang Thanh Trang"@en .
+
+dbr:Nước_Hai  rdfs:label  "Nước Hai"@en .
+
+dbr:Cao_Quảng  rdfs:label  "Cao Quảng"@en .
+
+<http://dbpedia.org/resource/320th_Division_(Vietnam)>
+        rdfs:label  "320th Division (Vietnam)"@en .
+
+dbr:Đông_Hòa  rdfs:label  "Đông Hòa"@en .
+
+<http://dbpedia.org/resource/4th_Corps_(Vietnam)>
+        rdfs:label  "4th Corps (Vietnam)"@en .
+
+dbr:Tuy_Đức_district  rdfs:label  "Tuy Đức district"@en .
+
+dbr:An_Nhứt  rdfs:label  "An Nhứt"@en .
+
+<http://dbpedia.org/resource/Hiệp_An,_Bình_Dương>
+        rdfs:label  "Hiệp An, Bình Dương"@en .
+
+dbr:Nam_Định  rdfs:label  "Nam Định"@en .
+
+dbr:Phú_Xuyên_station
+        rdfs:label  "Phú Xuyên station"@en .
+
+dbr:Đức_Vân  rdfs:label  "Đức Vân"@en .
+
+<http://dbpedia.org/resource/An_Ninh,_Quảng_Bình>
+        rdfs:label  "An Ninh, Quảng Bình"@en .
+
+dbr:National_Television_Festival
+        rdfs:label  "National Television Festival"@en .
+
+<http://dbpedia.org/resource/Queen_of_Peace_Cathedral,_Long_Xuyên>
+        rdfs:label  "Queen of Peace Cathedral, Long Xuyên"@en .
+
+dbr:Văn_Chấn_district
+        rdfs:label  "Văn Chấn district"@en .
+
+dbr:Bàu_Lâm  rdfs:label  "Bàu Lâm"@en .
+
+<http://dbpedia.org/resource/Ia_H'Drai_district>
+        rdfs:label  "Ia H'Drai district"@en .
+
+dbr:Trạm_Tấu_district
+        rdfs:label  "Trạm Tấu district"@en .
+
+dbr:Bánh_cuốn  rdfs:label  "Bánh cuốn"@en .
+
+dbr:Gặp_nhau_cuối_năm
+        rdfs:label  "Gặp nhau cuối năm"@en .
+
+<http://dbpedia.org/resource/Duyên_Hải_(town)>
+        rdfs:label  "Duyên Hải (town)"@en .
+
+dbr:Long_Điền_Đông  rdfs:label  "Long Điền Đông"@en .
+
+dbr:Bánh_cốm  rdfs:label  "Bánh cốm"@en .
+
+dbr:Nha_Hố  rdfs:label  "Nha Hố"@en .
+
+<http://dbpedia.org/resource/Hòa_Thuận,_Cao_Bằng>
+        rdfs:label  "Hòa Thuận, Cao Bằng"@en .
+
+dbr:Ia_Trok  rdfs:label  "Ia Trok"@en .
+
+dbr:Văn_Lang_University
+        rdfs:label  "Văn Lang University"@en .
+
+<http://dbpedia.org/resource/Phú_Mỹ,_Cà_Mau>
+        rdfs:label  "Phú Mỹ, Cà Mau"@en .
+
+dbr:Quân_Hà  rdfs:label  "Quân Hà"@en .
+
+<http://dbpedia.org/resource/Tam_Giang,_Cà_Mau>
+        rdfs:label  "Tam Giang, Cà Mau"@en .
+
+<http://dbpedia.org/resource/Mỹ_An_(township)>
+        rdfs:label  "Mỹ An (township)"@en .
+
+dbr:Ea_Kar_district  rdfs:label  "Ea Kar district"@en .
+
+dbr:Hương_Khê_district
+        rdfs:label  "Hương Khê district"@en .
+
+dbr:Đồng_Kỳ  rdfs:label  "Đồng Kỳ"@en .
+
+dbr:Tân_Phước_Khánh  rdfs:label  "Tân Phước Khánh"@en .
+
+dbr:Tĩnh_Túc  rdfs:label  "Tĩnh Túc"@en .
+
+dbr:VTV3  rdfs:label  "VTV3"@en .
+
+dbr:Bến_Lức_district  rdfs:label  "Bến Lức district"@en .
+
+dbr:Rạch_Giá  rdfs:label  "Rạch Giá"@en .
+
+dbr:Cẩm_Đàn  rdfs:label  "Cẩm Đàn"@en .
+
+dbr:Thiệu_Hóa_district
+        rdfs:label  "Thiệu Hóa district"@en .
+
+dbr:Tuyệt_đỉnh_tranh_tài
+        rdfs:label  "Tuyệt đỉnh tranh tài"@en .
+
+dbr:MICA_Institute  rdfs:label  "MICA Institute"@en .
+
+<http://dbpedia.org/resource/Hồ,_Bắc_Ninh>
+        rdfs:label  "Hồ, Bắc Ninh"@en .
+
+<http://dbpedia.org/resource/Nam_Thanh,_Điện_Biên>
+        rdfs:label  "Nam Thanh, Điện Biên"@en .
+
+<http://dbpedia.org/resource/Châu_Hưng_(township)>
+        rdfs:label  "Châu Hưng (township)"@en .
+
+dbr:Nghĩa_Lộ  rdfs:label  "Nghĩa Lộ"@en .
+
+dbr:Quản_Bạ  rdfs:label  "Quản Bạ"@en .
+
+dbr:Châu_Minh  rdfs:label  "Châu Minh"@en .
+
+dbr:Tư_Nghĩa_district
+        rdfs:label  "Tư Nghĩa district"@en .
+
+dbr:High_School_for_the_Gifted
+        rdfs:label  "High School for the Gifted"@en .
+
+dbr:Roman_Catholic_Diocese_of_Đà_Nẵng
+        rdfs:label  "Roman Catholic Diocese of Đà Nẵng"@en .
+
+<http://dbpedia.org/resource/Thuận_Hóa_(commune)>
+        rdfs:label  "Thuận Hóa (commune)"@en .
+
+dbr:Ô_Môn_district  rdfs:label  "Ô Môn district"@en .
+
+dbr:Phỉ_Điền  rdfs:label  "Phỉ Điền"@en .
+
+<http://dbpedia.org/resource/Hồng_Ngự_(city)>
+        rdfs:label  "Hồng Ngự (city)"@en .
+
+dbr:Long_Xuyên  rdfs:label  "Long Xuyên"@en .
+
+dbr:Cà_Mau_province  rdfs:label  "Cà Mau province"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Thạnh,_Bình_Định>
+        rdfs:label  "Vĩnh Thạnh, Bình Định"@en .
+
+dbr:Mì_Quảng  rdfs:label  "Mì Quảng"@en .
+
+<http://dbpedia.org/resource/Chau_Thanh,_Tay_Ninh>
+        rdfs:label  "Chau Thanh, Tay Ninh"@en .
+
+dbr:Phù_Yên  rdfs:label  "Phù Yên"@en .
+
+dbr:Xa_Dung  rdfs:label  "Xa Dung"@en .
+
+dbr:Mường_Mươn  rdfs:label  "Mường Mươn"@en .
+
+dbr:Hậu_Lộc_district  rdfs:label  "Hậu Lộc district"@en .
+
+<http://dbpedia.org/resource/Đồng_Tân,_Bắc_Giang>
+        rdfs:label  "Đồng Tân, Bắc Giang"@en .
+
+dbr:Quảng_Xương_district
+        rdfs:label  "Quảng Xương district"@en .
+
+dbr:Nông_trường_Trần_Phú
+        rdfs:label  "Nông trường Trần Phú"@en .
+
+dbr:Kiên_Lương  rdfs:label  "Kiên Lương"@en .
+
+<http://dbpedia.org/resource/District_2,_Ho_Chi_Minh_City>
+        rdfs:label  "District 2, Ho Chi Minh City"@en .
+
+<http://dbpedia.org/resource/Tân_An,_Bắc_Giang>
+        rdfs:label  "Tân An, Bắc Giang"@en .
+
+dbr:Lan_Giới  rdfs:label  "Lan Giới"@en .
+
+dbr:Minh_Diệu  rdfs:label  "Minh Diệu"@en .
+
+dbr:Rainbow_Without_Colours
+        rdfs:label  "Rainbow Without Colours"@en .
+
+<http://dbpedia.org/resource/Tân_Trung,_Cà_Mau>
+        rdfs:label  "Tân Trung, Cà Mau"@en .
+
+dbr:Bá_Thước_district
+        rdfs:label  "Bá Thước district"@en .
+
+dbr:Cờ_Đỏ_district  rdfs:label  "Cờ Đỏ district"@en .
+
+dbr:Cam_Đức  rdfs:label  "Cam Đức"@en .
+
+dbr:Roman_Catholic_Diocese_of_Bắc_Ninh
+        rdfs:label  "Roman Catholic Diocese of Bắc Ninh"@en .
+
+<http://dbpedia.org/resource/Sơn_Tây_district,_Quảng_Ngãi>
+        rdfs:label  "Sơn Tây district, Quảng Ngãi"@en .
+
+dbr:Hòa_Bình_province
+        rdfs:label  "Hòa Bình province"@en .
+
+dbr:Cần_Thơ  rdfs:label  "Cần Thơ"@en .
+
+dbr:Tân_Ân_Tây  rdfs:label  "Tân Ân Tây"@en .
+
+<http://dbpedia.org/resource/National_Day_(Vietnam)>
+        rdfs:label  "National Day (Vietnam)"@en .
+
+<http://dbpedia.org/resource/Phú_An,_An_Giang>
+        rdfs:label  "Phú An, An Giang"@en .
+
+dbr:UEH-International_School_of_Business
+        rdfs:label  "UEH-International School of Business"@en .
+
+<http://dbpedia.org/resource/General_Staff_of_the_Vietnam_People's_Army>
+        rdfs:label  "General Staff of the Vietnam People's Army"@en .
+
+dbr:Thế_Giới_Publishers
+        rdfs:label  "Thế Giới Publishers"@en .
+
+dbr:Duy_Xuyên_district
+        rdfs:label  "Duy Xuyên district"@en .
+
+<http://dbpedia.org/resource/Quảng_Lưu,_Quảng_Bình>
+        rdfs:label  "Quảng Lưu, Quảng Bình"@en .
+
+dbr:Bến_Cát  rdfs:label  "Bến Cát"@en .
+
+<http://dbpedia.org/resource/Vietnam's_Next_Top_Model_(season_2)>
+        rdfs:label  "Vietnam's Next Top Model (season 2)"@en .
+
+dbr:Đầm_Hà_district  rdfs:label  "Đầm Hà district"@en .
+
+dbr:VNU_Vietnam_Japan_University
+        rdfs:label  "VNU Vietnam Japan University"@en .
+
+dbr:An_Tức  rdfs:label  "An Tức"@en .
+
+dbr:Văn_Giang_district
+        rdfs:label  "Văn Giang district"@en .
+
+<http://dbpedia.org/resource/Tân_Hưng,_Bà_Rịa>
+        rdfs:label  "Tân Hưng, Bà Rịa"@en .
+
+dbr:International_School_Ho_Chi_Minh_City
+        rdfs:label  "International School Ho Chi Minh City"@en .
+
+dbr:Biển_Bạch  rdfs:label  "Biển Bạch"@en .
+
+<http://dbpedia.org/resource/Mai_Đình,_Bắc_Giang>
+        rdfs:label  "Mai Đình, Bắc Giang"@en .
+
+dbr:Năm_Căn  rdfs:label  "Năm Căn"@en .
+
+dbr:Lộc_Bình_district
+        rdfs:label  "Lộc Bình district"@en .
+
+<http://dbpedia.org/resource/So_You_Think_You_Can_Dance_(Vietnamese_season_1)>
+        rdfs:label  "So You Think You Can Dance (Vietnamese season 1)"@en .
+
+dbr:Thủ_Dầu_Một  rdfs:label  "Thủ Dầu Một"@en .
+
+<http://dbpedia.org/resource/Đồng_Văn,_Hà_Giang>
+        rdfs:label  "Đồng Văn, Hà Giang"@en .
+
+dbr:Đông_Nam  rdfs:label  "Đông Nam"@en .
+
+dbr:Ho_Chi_Minh_City  rdfs:label  "Ho Chi Minh City"@en .
+
+dbr:Phủ_Thông  rdfs:label  "Phủ Thông"@en .
+
+dbr:Gia_Lâm_district  rdfs:label  "Gia Lâm district"@en .
+
+<http://dbpedia.org/resource/Tiến_Thắng,_Bắc_Giang>
+        rdfs:label  "Tiến Thắng, Bắc Giang"@en .
+
+dbr:Bình_Văn  rdfs:label  "Bình Văn"@en .
+
+dbr:Cầu_Ông_Lãnh  rdfs:label  "Cầu Ông Lãnh"@en .
+
+dbr:Cái_Răng_district
+        rdfs:label  "Cái Răng district"@en .
+
+<http://dbpedia.org/resource/Đồng_Phúc,_Bắc_Giang>
+        rdfs:label  "Đồng Phúc, Bắc Giang"@en .
+
+dbr:Quan_Sơn_district
+        rdfs:label  "Quan Sơn district"@en .
+
+dbr:Thới_Lai_district
+        rdfs:label  "Thới Lai district"@en .
+
+dbr:Yên_Châu_district
+        rdfs:label  "Yên Châu district"@en .
+
+dbr:Mường_Nhé  rdfs:label  "Mường Nhé"@en .
+
+dbr:Tan_Tru  rdfs:label  "Tan Tru"@en .
+
+dbr:Dân_Hóa  rdfs:label  "Dân Hóa"@en .
+
+<http://dbpedia.org/resource/Quảng_Phú,_Quảng_Bình>
+        rdfs:label  "Quảng Phú, Quảng Bình"@en .
+
+dbr:Hanoi_University_of_Natural_Resources_and_Environment
+        rdfs:label  "Hanoi University of Natural Resources and Environment"@en .
+
+dbr:Hiệp_Xương  rdfs:label  "Hiệp Xương"@en .
+
+dbr:Fifth_East_Asia_Summit
+        rdfs:label  "Fifth East Asia Summit"@en .
+
+dbr:Ninh_Thạnh_Lợi  rdfs:label  "Ninh Thạnh Lợi"@en .
+
+<http://dbpedia.org/resource/Thạnh_Phú,_Cà_Mau>
+        rdfs:label  "Thạnh Phú, Cà Mau"@en .
+
+dbr:Phát_Diệm  rdfs:label  "Phát Diệm"@en .
+
+<http://dbpedia.org/resource/Bình_Thủy,_An_Giang>
+        rdfs:label  "Bình Thủy, An Giang"@en .
+
+dbr:Quy_Nhơn_Port  rdfs:label  "Quy Nhơn Port"@en .
+
+dbr:Tân_Hóa  rdfs:label  "Tân Hóa"@en .
+
+dbr:Đại_Việt_National_Socialist_Party
+        rdfs:label  "Đại Việt National Socialist Party"@en .
+
+dbr:Marie_Curie_High_School
+        rdfs:label  "Marie Curie High School"@en .
+
+<http://dbpedia.org/resource/Hoàng_Mai_district,_Hanoi>
+        rdfs:label  "Hoàng Mai district, Hanoi"@en .
+
+<http://dbpedia.org/resource/Bình_Đức,_An_Giang>
+        rdfs:label  "Bình Đức, An Giang"@en .
+
+<http://dbpedia.org/resource/Khánh_An,_An_Giang>
+        rdfs:label  "Khánh An, An Giang"@en .
+
+dbr:Chư_Sê  rdfs:label  "Chư Sê"@en .
+
+<http://dbpedia.org/resource/Liên_Sơn,_Đắk_Lắk>
+        rdfs:label  "Liên Sơn, Đắk Lắk"@en .
+
+dbr:Tân_Ấp_station  rdfs:label  "Tân Ấp station"@en .
+
+dbr:Núi_Thành_district
+        rdfs:label  "Núi Thành district"@en .
+
+dbr:Tân_Liễu  rdfs:label  "Tân Liễu"@en .
+
+dbr:Mau_Xe_mine  rdfs:label  "Mau Xe mine"@en .
+
+dbr:Tư_Mại  rdfs:label  "Tư Mại"@en .
+
+dbr:Bạch_Thông_district
+        rdfs:label  "Bạch Thông district"@en .
+
+dbr:Phong_Thủy  rdfs:label  "Phong Thủy"@en .
+
+dbr:Thoại_Giang  rdfs:label  "Thoại Giang"@en .
+
+dbr:Dương_Thủy  rdfs:label  "Dương Thủy"@en .
+
+<http://dbpedia.org/resource/Pa_Tần,_Điện_Biên>
+        rdfs:label  "Pa Tần, Điện Biên"@en .
+
+dbr:Vĩnh_Gia  rdfs:label  "Vĩnh Gia"@en .
+
+dbr:Lay_Nưa  rdfs:label  "Lay Nưa"@en .
+
+dbr:Phồn_Xương  rdfs:label  "Phồn Xương"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Lộc_A,_Bạc_Liêu>
+        rdfs:label  "Vĩnh Lộc A, Bạc Liêu"@en .
+
+<http://dbpedia.org/resource/Vietnam_People's_Air_Force>
+        rdfs:label  "Vietnam People's Air Force"@en .
+
+dbr:Đắk_Tô_district  rdfs:label  "Đắk Tô district"@en .
+
+dbr:Cô_Tô_district  rdfs:label  "Cô Tô district"@en .
+
+dbr:Quảng_Uyên  rdfs:label  "Quảng Uyên"@en .
+
+dbr:Đông_Thái  rdfs:label  "Đông Thái"@en .
+
+dbr:Lạc_Hồng_University
+        rdfs:label  "Lạc Hồng University"@en .
+
+dbr:Trần_Đề  rdfs:label  "Trần Đề"@en .
+
+<http://dbpedia.org/resource/Điền_Hải,_Bạc_Liêu>
+        rdfs:label  "Điền Hải, Bạc Liêu"@en .
+
+<http://dbpedia.org/resource/Chinese_New_Year's_Eve>
+        rdfs:label  "Chinese New Year's Eve"@en .
+
+dbr:Kim_Thủy  rdfs:label  "Kim Thủy"@en .
+
+dbr:Ngọc_Hồi_district
+        rdfs:label  "Ngọc Hồi district"@en .
+
+<http://dbpedia.org/resource/Hợp_Thịnh,_Bắc_Giang>
+        rdfs:label  "Hợp Thịnh, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Phú_Mỹ_Hưng_(commune)>
+        rdfs:label  "Phú Mỹ Hưng (commune)"@en .
+
+dbr:Tây_Hòa_district  rdfs:label  "Tây Hòa district"@en .
+
+dbr:Long_Điền_Tây  rdfs:label  "Long Điền Tây"@en .
+
+dbr:Vân_Phong_Port  rdfs:label  "Vân Phong Port"@en .
+
+dbr:Cardamom_Mountains_rain_forests
+        rdfs:label  "Cardamom Mountains rain forests"@en .
+
+dbr:Cao_Kỳ  rdfs:label  "Cao Kỳ"@en .
+
+dbr:Vietnam_Coast_Guard
+        rdfs:label  "Vietnam Coast Guard"@en .
+
+dbr:Ta_Ma  rdfs:label  "Ta Ma"@en .
+
+dbr:Ngã_Năm  rdfs:label  "Ngã Năm"@en .
+
+dbr:Thượng_Hóa  rdfs:label  "Thượng Hóa"@en .
+
+dbr:Bánh_in  rdfs:label  "Bánh in"@en .
+
+dbr:Lý_Hoàng_Nam  rdfs:label  "Lý Hoàng Nam"@en .
+
+dbr:Thái_Bình_province
+        rdfs:label  "Thái Bình province"@en .
+
+dbr:Phú_Ninh_Lake  rdfs:label  "Phú Ninh Lake"@en .
+
+dbr:Lâm_Bình_district
+        rdfs:label  "Lâm Bình district"@en .
+
+dbr:Krông_Na  rdfs:label  "Krông Na"@en .
+
+dbr:Cẩm_Lý  rdfs:label  "Cẩm Lý"@en .
+
+<http://dbpedia.org/resource/Anh_Sơn_(township)>
+        rdfs:label  "Anh Sơn (township)"@en .
+
+dbr:Quang_Thịnh  rdfs:label  "Quang Thịnh"@en .
+
+dbr:Lâm_Hà_district  rdfs:label  "Lâm Hà district"@en .
+
+dbr:Bằng_Lãng  rdfs:label  "Bằng Lãng"@en .
+
+dbr:Vĩnh_Hậu_A  rdfs:label  "Vĩnh Hậu A"@en .
+
+<http://dbpedia.org/resource/Vinh_Quang,_Hà_Giang>
+        rdfs:label  "Vinh Quang, Hà Giang"@en .
+
+dbr:Đức_Trọng_district
+        rdfs:label  "Đức Trọng district"@en .
+
+dbr:Lang_Chánh  rdfs:label  "Lang Chánh"@en .
+
+<http://dbpedia.org/resource/Nghĩa_Hòa,_Bắc_Giang>
+        rdfs:label  "Nghĩa Hòa, Bắc Giang"@en .
+
+dbr:Hóc_Môn  rdfs:label  "Hóc Môn"@en .
+
+<http://dbpedia.org/resource/Ward_1,_District_5>
+        rdfs:label  "Ward 1, District 5"@en .
+
+dbr:Roman_Catholic_Diocese_of_Vĩnh_Long
+        rdfs:label  "Roman Catholic Diocese of Vĩnh Long"@en .
+
+dbr:Mường_Nhé_district
+        rdfs:label  "Mường Nhé district"@en .
+
+dbr:Lê_Kiều_Thiên_Kim
+        rdfs:label  "Lê Kiều Thiên Kim"@en .
+
+<http://dbpedia.org/resource/Blood_Road_(film)>
+        rdfs:label  "Blood Road (film)"@en .
+
+<http://dbpedia.org/resource/Xuân_Hòa,_Cao_Bằng>
+        rdfs:label  "Xuân Hòa, Cao Bằng"@en .
+
+dbr:Khánh_Bình_Đông  rdfs:label  "Khánh Bình Đông"@en .
+
+dbr:Chè_bà_ba  rdfs:label  "Chè bà ba"@en .
+
+dbr:Thái_Thụy_district
+        rdfs:label  "Thái Thụy district"@en .
+
+dbr:Địa_Linh  rdfs:label  "Địa Linh"@en .
+
+<http://dbpedia.org/resource/Vietnamese_Women's_Football_Championship>
+        rdfs:label  "Vietnamese Women's Football Championship"@en .
+
+dbr:Thiền_Quang_Lake  rdfs:label  "Thiền Quang Lake"@en .
+
+dbr:Cát_Tiên_district
+        rdfs:label  "Cát Tiên district"@en .
+
+dbr:Dầu_Giây  rdfs:label  "Dầu Giây"@en .
+
+dbr:Tiểu_Cần_district
+        rdfs:label  "Tiểu Cần district"@en .
+
+dbr:Vũng_Tàu_Port  rdfs:label  "Vũng Tàu Port"@en .
+
+dbr:Yên_Đức  rdfs:label  "Yên Đức"@en .
+
+<http://dbpedia.org/resource/Bình_Tân_district,_Ho_Chi_Minh_City>
+        rdfs:label  "Bình Tân district, Ho Chi Minh City"@en .
+
+<http://dbpedia.org/resource/Xuân_Phú,_Bắc_Giang>
+        rdfs:label  "Xuân Phú, Bắc Giang"@en .
+
+dbr:V.League_1  rdfs:label  "V.League 1"@en .
+
+dbr:Cái_Vồn  rdfs:label  "Cái Vồn"@en .
+
+dbr:Thắng_Tam  rdfs:label  "Thắng Tam"@en .
+
+<http://dbpedia.org/resource/Vĩnh_An,_Bắc_Giang>
+        rdfs:label  "Vĩnh An, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Hiền_Ninh,_Quảng_Bình>
+        rdfs:label  "Hiền Ninh, Quảng Bình"@en .
+
+<http://dbpedia.org/resource/Châu_Thành_district,_Kiên_Giang_province>
+        rdfs:label  "Châu Thành district, Kiên Giang province"@en .
+
+<http://dbpedia.org/resource/An_Lạc,_Bắc_Giang>
+        rdfs:label  "An Lạc, Bắc Giang"@en .
+
+dbr:Pú_Hồng  rdfs:label  "Pú Hồng"@en .
+
+dbr:Nguyễn_Hoàng_Thiên
+        rdfs:label  "Nguyễn Hoàng Thiên"@en .
+
+dbr:Project_Runway_Vietnam
+        rdfs:label  "Project Runway Vietnam"@en .
+
+dbr:Cà_Mau  rdfs:label  "Cà Mau"@en .
+
+dbr:Ứng_Hòa_district  rdfs:label  "Ứng Hòa district"@en .
+
+dbr:Vũng_Liêm  rdfs:label  "Vũng Liêm"@en .
+
+dbr:Mỹ_Phương  rdfs:label  "Mỹ Phương"@en .
+
+dbr:Mai_Thủy  rdfs:label  "Mai Thủy"@en .
+
+dbr:Tà_Lài  rdfs:label  "Tà Lài"@en .
+
+<http://dbpedia.org/resource/Phong_Vân,_Bắc_Giang>
+        rdfs:label  "Phong Vân, Bắc Giang"@en .
+
+dbr:Mường_Ảng_district
+        rdfs:label  "Mường Ảng district"@en .
+
+dbr:Cầu_Kho  rdfs:label  "Cầu Kho"@en .
+
+<http://dbpedia.org/resource/Tân_Thanh,_Bắc_Giang>
+        rdfs:label  "Tân Thanh, Bắc Giang"@en .
+
+dbr:Thanh_Luông  rdfs:label  "Thanh Luông"@en .
+
+dbr:Hanoi_University_of_Pharmacy
+        rdfs:label  "Hanoi University of Pharmacy"@en .
+
+dbr:Nguyên_Phúc  rdfs:label  "Nguyên Phúc"@en .
+
+dbr:Mai_Châu_district
+        rdfs:label  "Mai Châu district"@en .
+
+dbr:Định_Thành_A  rdfs:label  "Định Thành A"@en .
+
+dbr:Mỹ_Hội_Đông  rdfs:label  "Mỹ Hội Đông"@en .
+
+<http://dbpedia.org/resource/Bo,_Hòa_Bình>
+        rdfs:label  "Bo, Hòa Bình"@en .
+
+<http://dbpedia.org/resource/Ea_H'leo_district>
+        rdfs:label  "Ea H'leo district"@en .
+
+dbr:Tân_Hưng_Tây  rdfs:label  "Tân Hưng Tây"@en .
+
+<http://dbpedia.org/resource/Đông_Phú,_Hậu_Giang>
+        rdfs:label  "Đông Phú, Hậu Giang"@en .
+
+dbr:Trí_Yên  rdfs:label  "Trí Yên"@en .
+
+<http://dbpedia.org/resource/Hưng_Thành,_Bạc_Liêu>
+        rdfs:label  "Hưng Thành, Bạc Liêu"@en .
+
+<http://dbpedia.org/resource/Yên_Bình,_Hà_Giang>
+        rdfs:label  "Yên Bình, Hà Giang"@en .
+
+dbr:Xuân_Cẩm  rdfs:label  "Xuân Cẩm"@en .
+
+dbr:Dĩ_An  rdfs:label  "Dĩ An"@en .
+
+dbr:Suối_Rao  rdfs:label  "Suối Rao"@en .
+
+dbr:Hưng_Nguyên_district
+        rdfs:label  "Hưng Nguyên district"@en .
+
+dbr:Si_Pa_Phìn  rdfs:label  "Si Pa Phìn"@en .
+
+dbr:Hưng_Nguyên  rdfs:label  "Hưng Nguyên"@en .
+
+dbr:Cái_Bè  rdfs:label  "Cái Bè"@en .
+
+dbr:Bến_Thành  rdfs:label  "Bến Thành"@en .
+
+dbr:VinUniversity  rdfs:label  "VinUniversity"@en .
+
+<http://dbpedia.org/resource/Tân_Phú_district,_Đồng_Nai>
+        rdfs:label  "Tân Phú district, Đồng Nai"@en .
+
+dbr:Tri_Tôn  rdfs:label  "Tri Tôn"@en .
+
+dbr:President_Ho_Chi_Minh_Mausoleum_Defence_Force
+        rdfs:label  "President Ho Chi Minh Mausoleum Defence Force"@en .
+
+dbr:Vietnam_Border_Guard
+        rdfs:label  "Vietnam Border Guard"@en .
+
+dbr:Unavoidable_Girl  rdfs:label  "Unavoidable Girl"@en .
+
+dbr:Dong_Nai_University
+        rdfs:label  "Dong Nai University"@en .
+
+<http://dbpedia.org/resource/Long_Toàn,_Bà_Rịa>
+        rdfs:label  "Long Toàn, Bà Rịa"@en .
+
+<http://dbpedia.org/resource/Đăk_R'Lấp_district>
+        rdfs:label  "Đăk R'Lấp district"@en .
+
+dbr:Nếnh  rdfs:label  "Nếnh"@en .
+
+dbr:Chương_Mỹ_district
+        rdfs:label  "Chương Mỹ district"@en .
+
+<http://dbpedia.org/resource/Chau_Thanh,_Tra_Vinh>
+        rdfs:label  "Chau Thanh, Tra Vinh"@en .
+
+dbr:Tuần_Châu  rdfs:label  "Tuần Châu"@en .
+
+<http://dbpedia.org/resource/Hòa_Bình,_An_Giang>
+        rdfs:label  "Hòa Bình, An Giang"@en .
+
+dbr:Trà_Vinh  rdfs:label  "Trà Vinh"@en .
+
+dbr:The_Amazing_Race_Vietnam_2012
+        rdfs:label  "The Amazing Race Vietnam 2012"@en .
+
+dbr:Perfume_Pagoda  rdfs:label  "Perfume Pagoda"@en .
+
+dbr:Đại_Lâm  rdfs:label  "Đại Lâm"@en .
+
+dbr:Tràm_Chim  rdfs:label  "Tràm Chim"@en .
+
+dbr:Phúc_Thọ_district
+        rdfs:label  "Phúc Thọ district"@en .
+
+dbr:Bố_Trạch_district
+        rdfs:label  "Bố Trạch district"@en .
+
+dbr:Đồng_Đăng_station
+        rdfs:label  "Đồng Đăng station"@en .
+
+dbr:Bắc_Lũng  rdfs:label  "Bắc Lũng"@en .
+
+dbr:Renaissance_International_School_Saigon
+        rdfs:label  "Renaissance International School Saigon"@en .
+
+<http://dbpedia.org/resource/District_11,_Ho_Chi_Minh_City>
+        rdfs:label  "District 11, Ho Chi Minh City"@en .
+
+dbr:Văn_Minh  rdfs:label  "Văn Minh"@en .
+
+dbr:Bánh  rdfs:label  "Bánh"@en .
+
+dbr:Phước_Sơn_district
+        rdfs:label  "Phước Sơn district"@en .
+
+dbr:Thạch_Khê_iron_mine
+        rdfs:label  "Thạch Khê iron mine"@en .
+
+<http://dbpedia.org/resource/Vietnam_National_University,_Hanoi>
+        rdfs:label  "Vietnam National University, Hanoi"@en .
+
+dbr:Red_by_HBO  rdfs:label  "Red by HBO"@en .
+
+dbr:Diên_Sanh  rdfs:label  "Diên Sanh"@en .
+
+dbr:Hương_Khê  rdfs:label  "Hương Khê"@en .
+
+dbr:Northern_Vietnam_key_economic_region
+        rdfs:label  "Northern Vietnam key economic region"@en .
+
+dbr:Tỏa_Tình  rdfs:label  "Tỏa Tình"@en .
+
+dbr:Phù_Yên_district  rdfs:label  "Phù Yên district"@en .
+
+dbr:Phong_Hóa  rdfs:label  "Phong Hóa"@en .
+
+<http://dbpedia.org/resource/Cai_Lậy_(town)>
+        rdfs:label  "Cai Lậy (town)"@en .
+
+dbr:Hóc_Môn_district  rdfs:label  "Hóc Môn district"@en .
+
+<http://dbpedia.org/resource/Chùa_Hang,_Thái_Nguyên>
+        rdfs:label  "Chùa Hang, Thái Nguyên"@en .
+
+dbr:Sìn_Hồ  rdfs:label  "Sìn Hồ"@en .
+
+dbr:Mekong_Delta  rdfs:label  "Mekong Delta"@en .
+
+dbr:Hữu_Lũng_district
+        rdfs:label  "Hữu Lũng district"@en .
+
+dbr:Vĩnh_Hồng  rdfs:label  "Vĩnh Hồng"@en .
+
+<http://dbpedia.org/resource/An_Phú,_Bình_Dương>
+        rdfs:label  "An Phú, Bình Dương"@en .
+
+dbr:Mai_Lạp  rdfs:label  "Mai Lạp"@en .
+
+<http://dbpedia.org/resource/Thanh_Thịnh,_Bắc_Kạn>
+        rdfs:label  "Thanh Thịnh, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Hậu,_Bạc_Liêu>
+        rdfs:label  "Vĩnh Hậu, Bạc Liêu"@en .
+
+dbr:Nông_Hạ  rdfs:label  "Nông Hạ"@en .
+
+dbr:Tây_Sơn_district  rdfs:label  "Tây Sơn district"@en .
+
+dbr:Trần_Đại_Nghĩa_High_School_For_The_Gifted
+        rdfs:label  "Trần Đại Nghĩa High School For The Gifted"@en .
+
+dbr:Nguyễn_Thượng_Hiền_High_School
+        rdfs:label  "Nguyễn Thượng Hiền High School"@en .
+
+<http://dbpedia.org/resource/An_Hòa,_An_Giang>
+        rdfs:label  "An Hòa, An Giang"@en .
+
+dbr:Ngân_Sơn_district
+        rdfs:label  "Ngân Sơn district"@en .
+
+<http://dbpedia.org/resource/Xuân_Trường_(township)>
+        rdfs:label  "Xuân Trường (township)"@en .
+
+<http://dbpedia.org/resource/Vĩnh_An,_Đồng_Nai>
+        rdfs:label  "Vĩnh An, Đồng Nai"@en .
+
+dbr:Giồng_Riềng_district
+        rdfs:label  "Giồng Riềng district"@en .
+
+dbr:Hưng_Thủy  rdfs:label  "Hưng Thủy"@en .
+
+dbr:Núi_Pháo_mine  rdfs:label  "Núi Pháo mine"@en .
+
+<http://dbpedia.org/resource/Thanh_Vân,_Bắc_Giang>
+        rdfs:label  "Thanh Vân, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Khánh_Bình,_An_Giang>
+        rdfs:label  "Khánh Bình, An Giang"@en .
+
+<http://dbpedia.org/resource/Hòa_Long,_Bà_Rịa>
+        rdfs:label  "Hòa Long, Bà Rịa"@en .
+
+dbr:Sa_Đéc  rdfs:label  "Sa Đéc"@en .
+
+dbr:Bánh_cáy  rdfs:label  "Bánh cáy"@en .
+
+dbr:Vi_Hương  rdfs:label  "Vi Hương"@en .
+
+<http://dbpedia.org/resource/Vụ_Bản,_Hòa_Bình>
+        rdfs:label  "Vụ Bản, Hòa Bình"@en .
+
+<http://dbpedia.org/resource/Ward_1,_Tân_Bình_District>
+        rdfs:label  "Ward 1, Tân Bình District"@en .
+
+dbr:Côn_Đảo  rdfs:label  "Côn Đảo"@en .
+
+dbr:Thanh_Ba  rdfs:label  "Thanh Ba"@en .
+
+dbr:Tân_Tú  rdfs:label  "Tân Tú"@en .
+
+<http://dbpedia.org/resource/Thới_Lai_(township)>
+        rdfs:label  "Thới Lai (township)"@en .
+
+dbr:Lâm_Đồng_province
+        rdfs:label  "Lâm Đồng province"@en .
+
+dbr:An_Ngãi  rdfs:label  "An Ngãi"@en .
+
+dbr:Vietnam_University_of_Fine_Arts
+        rdfs:label  "Vietnam University of Fine Arts"@en .
+
+<http://dbpedia.org/resource/K'Bang_district>
+        rdfs:label  "K'Bang district"@en .
+
+dbr:Huổi_Só  rdfs:label  "Huổi Só"@en .
+
+dbr:Huyền_Sơn  rdfs:label  "Huyền Sơn"@en .
+
+dbr:Cao_lầu  rdfs:label  "Cao lầu"@en .
+
+dbr:Chà_Nưa  rdfs:label  "Chà Nưa"@en .
+
+dbr:Vietnamese_National_U-19_Football_Championship
+        rdfs:label  "Vietnamese National U-19 Football Championship"@en .
+
+<http://dbpedia.org/resource/Say_Hi_to_Pencil!>
+        rdfs:label  "Say Hi to Pencil!"@en .
+
+dbr:Hội_An  rdfs:label  "Hội An"@en .
+
+dbr:Hà_Hiệu  rdfs:label  "Hà Hiệu"@en .
+
+dbr:Phố_Bảng  rdfs:label  "Phố Bảng"@en .
+
+dbr:Tênh_Phông  rdfs:label  "Tênh Phông"@en .
+
+dbr:Tủa_Chùa_district
+        rdfs:label  "Tủa Chùa district"@en .
+
+dbr:Quỳ_Châu_district
+        rdfs:label  "Quỳ Châu district"@en .
+
+dbr:Châu_Phú_A  rdfs:label  "Châu Phú A"@en .
+
+dbr:Bình_Giã  rdfs:label  "Bình Giã"@en .
+
+dbr:Yến_Dương  rdfs:label  "Yến Dương"@en .
+
+dbr:Four_Oddballs_of_Saigon
+        rdfs:label  "Four Oddballs of Saigon"@en .
+
+dbr:Đồng_Hới_station  rdfs:label  "Đồng Hới station"@en .
+
+dbr:Vĩnh_Mỹ_A  rdfs:label  "Vĩnh Mỹ A"@en .
+
+dbr:Saigon_station  rdfs:label  "Saigon station"@en .
+
+<http://dbpedia.org/resource/Phú_Thành,_An_Giang>
+        rdfs:label  "Phú Thành, An Giang"@en .
+
+dbr:Vĩnh_Hưng_A  rdfs:label  "Vĩnh Hưng A"@en .
+
+<http://dbpedia.org/resource/Đồng_Phúc,_Bắc_Kạn>
+        rdfs:label  "Đồng Phúc, Bắc Kạn"@en .
+
+dbr:Saigon_Technology_University
+        rdfs:label  "Saigon Technology University"@en .
+
+<http://dbpedia.org/resource/Tân_Bình,_Dĩ_An>
+        rdfs:label  "Tân Bình, Dĩ An"@en .
+
+dbr:Vinh  rdfs:label  "Vinh"@en .
+
+dbr:Lục_Bình  rdfs:label  "Lục Bình"@en .
+
+dbr:Long_Khánh  rdfs:label  "Long Khánh"@en .
+
+dbr:Duyên_Hải_district
+        rdfs:label  "Duyên Hải district"@en .
+
+dbr:Mù_Cang_Chải_district
+        rdfs:label  "Mù Cang Chải district"@en .
+
+dbr:Mường_Tè_district
+        rdfs:label  "Mường Tè district"@en .
+
+dbr:Bình_Thạnh_district
+        rdfs:label  "Bình Thạnh district"@en .
+
+dbr:Đầm_Dơi_district  rdfs:label  "Đầm Dơi district"@en .
+
+<http://dbpedia.org/resource/Nghĩa_Thành,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Nghĩa Thành, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Sa_Pa  rdfs:label  "Sa Pa"@en .
+
+<http://dbpedia.org/resource/Quảng_Sơn,_Quảng_Bình>
+        rdfs:label  "Quảng Sơn, Quảng Bình"@en .
+
+dbr:Bình_Liêu_district
+        rdfs:label  "Bình Liêu district"@en .
+
+<http://dbpedia.org/resource/Phú_Lộc,_Thừa_Thiên_Huế>
+        rdfs:label  "Phú Lộc, Thừa Thiên Huế"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Phước,_An_Giang>
+        rdfs:label  "Vĩnh Phước, An Giang"@en .
+
+<http://dbpedia.org/resource/Mỹ_Hà,_Bắc_Giang>
+        rdfs:label  "Mỹ Hà, Bắc Giang"@en .
+
+dbr:Ile_des_Cendres  rdfs:label  "Ile des Cendres"@en .
+
+dbr:Hà_Tiên  rdfs:label  "Hà Tiên"@en .
+
+<http://dbpedia.org/resource/Tân_Hiệp,_Bắc_Giang>
+        rdfs:label  "Tân Hiệp, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Quảng_Minh,_Bắc_Giang>
+        rdfs:label  "Quảng Minh, Bắc Giang"@en .
+
+dbr:Xuân_Trạch  rdfs:label  "Xuân Trạch"@en .
+
+dbr:Ngã_Bảy  rdfs:label  "Ngã Bảy"@en .
+
+dbr:Quài_Cang  rdfs:label  "Quài Cang"@en .
+
+dbr:Bến_Thủy  rdfs:label  "Bến Thủy"@en .
+
+dbr:Sơn_Dương_district
+        rdfs:label  "Sơn Dương district"@en .
+
+dbr:Gulf_of_Thailand  rdfs:label  "Gulf of Thailand"@en .
+
+dbr:Gia_Lai_province  rdfs:label  "Gia Lai province"@en .
+
+dbr:Cần_Đước  rdfs:label  "Cần Đước"@en .
+
+dbr:Bà_Lụa_Islands  rdfs:label  "Bà Lụa Islands"@en .
+
+dbr:Phú_Lộc_district  rdfs:label  "Phú Lộc district"@en .
+
+<http://dbpedia.org/resource/Christ_the_King_Cathedral,_Nha_Trang>
+        rdfs:label  "Christ the King Cathedral, Nha Trang"@en .
+
+<http://dbpedia.org/resource/Phước_Long_(township)>
+        rdfs:label  "Phước Long (township)"@en .
+
+dbr:Hoàng_Thị_Bảo_Trâm
+        rdfs:label  "Hoàng Thị Bảo Trâm"@en .
+
+dbr:Phan_Rí_Cửa  rdfs:label  "Phan Rí Cửa"@en .
+
+<http://dbpedia.org/resource/Mỹ_Phú,_An_Giang>
+        rdfs:label  "Mỹ Phú, An Giang"@en .
+
+<http://dbpedia.org/resource/Tân_Hưng,_Cà_Mau>
+        rdfs:label  "Tân Hưng, Cà Mau"@en .
+
+dbr:Mỹ_Tho  rdfs:label  "Mỹ Tho"@en .
+
+<http://dbpedia.org/resource/An_Thủy,_Quảng_Bình>
+        rdfs:label  "An Thủy, Quảng Bình"@en .
+
+<http://dbpedia.org/resource/Phú_Cường,_Bình_Dương>
+        rdfs:label  "Phú Cường, Bình Dương"@en .
+
+dbr:Ninh_Thạnh_Lợi_A  rdfs:label  "Ninh Thạnh Lợi A"@en .
+
+dbr:Thới_Bình_district
+        rdfs:label  "Thới Bình district"@en .
+
+dbr:Thạch_Thất_district
+        rdfs:label  "Thạch Thất district"@en .
+
+<http://dbpedia.org/resource/Quảng_Hợp,_Quảng_Bình>
+        rdfs:label  "Quảng Hợp, Quảng Bình"@en .
+
+dbr:Cốc_Đán  rdfs:label  "Cốc Đán"@en .
+
+dbr:Phượng_Sơn  rdfs:label  "Phượng Sơn"@en .
+
+dbr:Chư_Păh_district  rdfs:label  "Chư Păh district"@en .
+
+<http://dbpedia.org/resource/Hoàng_Mai,_Nghệ_An>
+        rdfs:label  "Hoàng Mai, Nghệ An"@en .
+
+dbr:Hậu_Giang_province
+        rdfs:label  "Hậu Giang province"@en .
+
+<http://dbpedia.org/resource/Nhơn_Hội,_An_Giang>
+        rdfs:label  "Nhơn Hội, An Giang"@en .
+
+dbr:Bù_Nho  rdfs:label  "Bù Nho"@en .
+
+<http://dbpedia.org/resource/Tân_Uyên_district,_Lai_Châu>
+        rdfs:label  "Tân Uyên district, Lai Châu"@en .
+
+dbr:Trà_Bồng_district
+        rdfs:label  "Trà Bồng district"@en .
+
+<http://dbpedia.org/resource/Chiềng_Sinh,_Điện_Biên>
+        rdfs:label  "Chiềng Sinh, Điện Biên"@en .
+
+<http://dbpedia.org/resource/An_Thạnh,_Bình_Dương>
+        rdfs:label  "An Thạnh, Bình Dương"@en .
+
+dbr:Nghi_Lộc_district
+        rdfs:label  "Nghi Lộc district"@en .
+
+dbr:Huổi_Lèng  rdfs:label  "Huổi Lèng"@en .
+
+dbr:Bộc_Bố  rdfs:label  "Bộc Bố"@en .
+
+dbr:Đồng_Hỷ_district  rdfs:label  "Đồng Hỷ district"@en .
+
+dbr:Hương_Vĩ  rdfs:label  "Hương Vĩ"@en .
+
+dbr:Phong_Lạc  rdfs:label  "Phong Lạc"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Bình,_Bạc_Liêu>
+        rdfs:label  "Vĩnh Bình, Bạc Liêu"@en .
+
+dbr:Quán_Sứ_Pagoda  rdfs:label  "Quán Sứ Pagoda"@en .
+
+<http://dbpedia.org/resource/St._Nicholas_Cathedral,_Da_Lat>
+        rdfs:label  "St. Nicholas Cathedral, Da Lat"@en .
+
+dbr:Academy_of_Journalism_and_Communication
+        rdfs:label  "Academy of Journalism and Communication"@en .
+
+dbr:Bạch_Hổ_oil_field
+        rdfs:label  "Bạch Hổ oil field"@en .
+
+dbr:Óc_Eo  rdfs:label  "Óc Eo"@en .
+
+dbr:Thanh_Chương  rdfs:label  "Thanh Chương"@en .
+
+dbr:Pác_Miầu  rdfs:label  "Pác Miầu"@en .
+
+dbr:Hôpital_français_de_Hanoï
+        rdfs:label  "Hôpital français de Hanoï"@en .
+
+dbr:Ba_Tri  rdfs:label  "Ba Tri"@en .
+
+dbr:October_Revolution_Day
+        rdfs:label  "October Revolution Day"@en .
+
+dbr:Encyclopedic_Dictionary_of_Vietnam
+        rdfs:label  "Encyclopedic Dictionary of Vietnam"@en .
+
+dbr:Mộ_Đức_district  rdfs:label  "Mộ Đức district"@en .
+
+dbr:Củ_Chi  rdfs:label  "Củ Chi"@en .
+
+<http://dbpedia.org/resource/Trường_Xuân,_Quảng_Bình>
+        rdfs:label  "Trường Xuân, Quảng Bình"@en .
+
+<http://dbpedia.org/resource/Ward_9,_Vũng_Tàu>
+        rdfs:label  "Ward 9, Vũng Tàu"@en .
+
+dbr:Tây_Ninh_province
+        rdfs:label  "Tây Ninh province"@en .
+
+dbr:Kiên_Giang_province
+        rdfs:label  "Kiên Giang province"@en .
+
+<http://dbpedia.org/resource/Phước_Long,_Bến_Tre>
+        rdfs:label  "Phước Long, Bến Tre"@en .
+
+dbr:Bánh_xèo  rdfs:label  "Bánh xèo"@en .
+
+dbr:Quan_Hóa_district
+        rdfs:label  "Quan Hóa district"@en .
+
+dbr:Noọng_Hẹt  rdfs:label  "Noọng Hẹt"@en .
+
+dbr:The_Welldeserved_Fox
+        rdfs:label  "The Welldeserved Fox"@en .
+
+<http://dbpedia.org/resource/Long_Sơn,_Vũng_Tàu>
+        rdfs:label  "Long Sơn, Vũng Tàu"@en .
+
+<http://dbpedia.org/resource/Lê_Lợi,_Bắc_Giang>
+        rdfs:label  "Lê Lợi, Bắc Giang"@en .
+
+dbr:Long_Hương  rdfs:label  "Long Hương"@en .
+
+<http://dbpedia.org/resource/Phương_Viên,_Bắc_Kạn>
+        rdfs:label  "Phương Viên, Bắc Kạn"@en .
+
+dbr:Vĩnh_Phú_Tây  rdfs:label  "Vĩnh Phú Tây"@en .
+
+dbr:Định_Quán  rdfs:label  "Định Quán"@en .
+
+<http://dbpedia.org/resource/District_8,_Ho_Chi_Minh_City>
+        rdfs:label  "District 8, Ho Chi Minh City"@en .
+
+<http://dbpedia.org/resource/Phú_Tân,_Bình_Dương>
+        rdfs:label  "Phú Tân, Bình Dương"@en .
+
+dbr:Nhân_Trạch  rdfs:label  "Nhân Trạch"@en .
+
+dbr:Nghi_Xuân_district
+        rdfs:label  "Nghi Xuân district"@en .
+
+dbr:Thanh_Hóa  rdfs:label  "Thanh Hóa"@en .
+
+dbr:Nguyễn_Thị_Mai_Hưng
+        rdfs:label  "Nguyễn Thị Mai Hưng"@en .
+
+dbr:APEC_Vietnam_2017
+        rdfs:label  "APEC Vietnam 2017"@en .
+
+dbr:Thanh_Oai_district
+        rdfs:label  "Thanh Oai district"@en .
+
+dbr:Mường_Luân  rdfs:label  "Mường Luân"@en .
+
+<http://dbpedia.org/resource/Hiệp_Thành,_Bình_Dương>
+        rdfs:label  "Hiệp Thành, Bình Dương"@en .
+
+<http://dbpedia.org/resource/Thạnh_An_(township)>
+        rdfs:label  "Thạnh An (township)"@en .
+
+dbr:Cư_Jút_district  rdfs:label  "Cư Jút district"@en .
+
+dbr:The_Face_Vietnam  rdfs:label  "The Face Vietnam"@en .
+
+<http://dbpedia.org/resource/Thuận_Nam,_Bình_Thuận>
+        rdfs:label  "Thuận Nam, Bình Thuận"@en .
+
+dbr:Nhà_Mát  rdfs:label  "Nhà Mát"@en .
+
+dbr:Tân_Phú_Đông_district
+        rdfs:label  "Tân Phú Đông district"@en .
+
+<http://dbpedia.org/resource/Quảng_Tiến,_Quảng_Bình>
+        rdfs:label  "Quảng Tiến, Quảng Bình"@en .
+
+dbr:Phú_Quốc  rdfs:label  "Phú Quốc"@en .
+
+dbr:Đồng_Hưu  rdfs:label  "Đồng Hưu"@en .
+
+dbr:Bảo_Sơn  rdfs:label  "Bảo Sơn"@en .
+
+dbr:Cẩm_Xuyên  rdfs:label  "Cẩm Xuyên"@en .
+
+dbr:Phá_lấu  rdfs:label  "Phá lấu"@en .
+
+dbr:Cẩm_Thủy_district
+        rdfs:label  "Cẩm Thủy district"@en .
+
+dbr:Mạo_Khê  rdfs:label  "Mạo Khê"@en .
+
+<http://dbpedia.org/resource/Battle_of_Moscow_(film)>
+        rdfs:label  "Battle of Moscow (film)"@en .
+
+dbr:Đô_Lương_district
+        rdfs:label  "Đô Lương district"@en .
+
+dbr:Hồng_Bàng_district
+        rdfs:label  "Hồng Bàng district"@en .
+
+dbr:Tự_Lạn  rdfs:label  "Tự Lạn"@en .
+
+dbr:Pontifical_College_of_St._Pius_X
+        rdfs:label  "Pontifical College of St. Pius X"@en .
+
+<http://dbpedia.org/resource/Đồng_Hóa,_Quảng_Bình>
+        rdfs:label  "Đồng Hóa, Quảng Bình"@en .
+
+<http://dbpedia.org/resource/Hòa_Lạc,_An_Giang>
+        rdfs:label  "Hòa Lạc, An Giang"@en .
+
+dbr:Vĩnh_Xương  rdfs:label  "Vĩnh Xương"@en .
+
+dbr:Đoan_Hùng_district
+        rdfs:label  "Đoan Hùng district"@en .
+
+dbr:Ô_Lâm  rdfs:label  "Ô Lâm"@en .
+
+dbr:Thừa_Thiên_Huế_province
+        rdfs:label  "Thừa Thiên Huế province"@en .
+
+dbr:The_Girl_from_Yesterday
+        rdfs:label  "The Girl from Yesterday"@en .
+
+dbr:Hà_Quảng_district
+        rdfs:label  "Hà Quảng district"@en .
+
+dbr:Bình_Phước_Xuân  rdfs:label  "Bình Phước Xuân"@en .
+
+dbr:Roman_Catholic_Diocese_of_Xuân_Lộc
+        rdfs:label  "Roman Catholic Diocese of Xuân Lộc"@en .
+
+dbr:Lạng_Giang_district
+        rdfs:label  "Lạng Giang district"@en .
+
+dbr:Cầu_Giấy_district
+        rdfs:label  "Cầu Giấy district"@en .
+
+dbr:Phong_Thổ_district
+        rdfs:label  "Phong Thổ district"@en .
+
+<http://dbpedia.org/resource/Phúc_Hòa,_Bắc_Giang>
+        rdfs:label  "Phúc Hòa, Bắc Giang"@en .
+
+dbr:Ninh_Hòa  rdfs:label  "Ninh Hòa"@en .
+
+dbr:Phú_Khê  rdfs:label  "Phú Khê"@en .
+
+dbr:Giáo_Liêm  rdfs:label  "Giáo Liêm"@en .
+
+dbr:Từ_Sơn  rdfs:label  "Từ Sơn"@en .
+
+dbr:Mỹ_Sơn  rdfs:label  "Mỹ Sơn"@en .
+
+dbr:Chợ_Đồn_district  rdfs:label  "Chợ Đồn district"@en .
+
+dbr:Hạ_Trạch  rdfs:label  "Hạ Trạch"@en .
+
+dbr:Bình_Chuẩn  rdfs:label  "Bình Chuẩn"@en .
+
+<http://dbpedia.org/resource/An_Châu,_An_Giang>
+        rdfs:label  "An Châu, An Giang"@en .
+
+dbr:Quỳnh_Lưu_district
+        rdfs:label  "Quỳnh Lưu district"@en .
+
+dbr:Việt_Quang  rdfs:label  "Việt Quang"@en .
+
+<http://dbpedia.org/resource/Việt_Tiến,_Bắc_Giang>
+        rdfs:label  "Việt Tiến, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/An_Dương,_Bắc_Giang>
+        rdfs:label  "An Dương, Bắc Giang"@en .
+
+dbr:Dương_Đức  rdfs:label  "Dương Đức"@en .
+
+dbr:Kiến_Giang  rdfs:label  "Kiến Giang"@en .
+
+dbr:15th_National_Assembly_of_Vietnam
+        rdfs:label  "15th National Assembly of Vietnam"@en .
+
+dbr:Ninh_Kiều_district
+        rdfs:label  "Ninh Kiều district"@en .
+
+dbr:Phong_Nha  rdfs:label  "Phong Nha"@en .
+
+<http://dbpedia.org/resource/Cao_Thượng,_Bắc_Kạn>
+        rdfs:label  "Cao Thượng, Bắc Kạn"@en .
+
+dbr:Gia_Ray  rdfs:label  "Gia Ray"@en .
+
+<http://dbpedia.org/resource/Định_Hòa,_Bình_Dương>
+        rdfs:label  "Định Hòa, Bình Dương"@en .
+
+dbr:Vietnam_Buddhist_Sangha
+        rdfs:label  "Vietnam Buddhist Sangha"@en .
+
+dbr:Trảng_Bom_district
+        rdfs:label  "Trảng Bom district"@en .
+
+dbr:Nguyễn_Đức_Hòa  rdfs:label  "Nguyễn Đức Hòa"@en .
+
+dbr:Tháp_Mười_district
+        rdfs:label  "Tháp Mười district"@en .
+
+dbr:Hàm_Thuận_Bắc_district
+        rdfs:label  "Hàm Thuận Bắc district"@en .
+
+dbr:Long_Giao  rdfs:label  "Long Giao"@en .
+
+dbr:Quảng_Trị  rdfs:label  "Quảng Trị"@en .
+
+<http://dbpedia.org/resource/Cẩm_Giàng,_Bắc_Kạn>
+        rdfs:label  "Cẩm Giàng, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/Lộc_Thủy,_Quảng_Bình>
+        rdfs:label  "Lộc Thủy, Quảng Bình"@en .
+
+dbr:Ea_Wer  rdfs:label  "Ea Wer"@en .
+
+dbr:Phát_Diệm_Cathedral
+        rdfs:label  "Phát Diệm Cathedral"@en .
+
+dbr:Trùng_Khánh  rdfs:label  "Trùng Khánh"@en .
+
+dbr:Thổ_Chu_Island  rdfs:label  "Thổ Chu Island"@en .
+
+dbr:Lan_Mẫu  rdfs:label  "Lan Mẫu"@en .
+
+dbr:Cát_Tiên  rdfs:label  "Cát Tiên"@en .
+
+dbr:Quang_Bình_district
+        rdfs:label  "Quang Bình district"@en .
+
+dbr:Southern_Annamites_montane_rain_forests
+        rdfs:label  "Southern Annamites montane rain forests"@en .
+
+dbr:Hiệp_Hòa_district
+        rdfs:label  "Hiệp Hòa district"@en .
+
+<http://dbpedia.org/resource/Khánh_Hội,_Cà_Mau>
+        rdfs:label  "Khánh Hội, Cà Mau"@en .
+
+<http://dbpedia.org/resource/Quảng_Đông,_Quảng_Bình>
+        rdfs:label  "Quảng Đông, Quảng Bình"@en .
+
+dbr:Khánh_Thạnh_Tân  rdfs:label  "Khánh Thạnh Tân"@en .
+
+dbr:Chè_trôi_nước  rdfs:label  "Chè trôi nước"@en .
+
+dbr:Mỹ_Xuân  rdfs:label  "Mỹ Xuân"@en .
+
+dbr:Hưng_Khánh_Trung_A
+        rdfs:label  "Hưng Khánh Trung A"@en .
+
+<http://dbpedia.org/resource/Tân_Thanh,_Điện_Biên>
+        rdfs:label  "Tân Thanh, Điện Biên"@en .
+
+<http://dbpedia.org/resource/Basilica_of_Immaculate_Conception,_Phu_Nhai>
+        rdfs:label  "Basilica of Immaculate Conception, Phu Nhai"@en .
+
+dbr:VTV6  rdfs:label  "VTV6"@en .
+
+dbr:Khánh_Bình_Tây_Bắc
+        rdfs:label  "Khánh Bình Tây Bắc"@en .
+
+dbr:The_Mickey_Mouse_Club
+        rdfs:label  "The Mickey Mouse Club"@en .
+
+<http://dbpedia.org/resource/Phú_Thọ,_Bình_Dương>
+        rdfs:label  "Phú Thọ, Bình Dương"@en .
+
+<http://dbpedia.org/resource/Khánh_Hòa,_An_Giang>
+        rdfs:label  "Khánh Hòa, An Giang"@en .
+
+dbr:Bình_Đại_district
+        rdfs:label  "Bình Đại district"@en .
+
+dbr:Loc_Ha  rdfs:label  "Loc Ha"@en .
+
+<http://dbpedia.org/resource/Hải_Ninh,_Bình_Thuận>
+        rdfs:label  "Hải Ninh, Bình Thuận"@en .
+
+<http://dbpedia.org/resource/Adrift_(2009_Vietnamese_film)>
+        rdfs:label  "Adrift (2009 Vietnamese film)"@en .
+
+<http://dbpedia.org/resource/Long_Hòa,_An_Giang>
+        rdfs:label  "Long Hòa, An Giang"@en .
+
+dbr:Đồng_Văn_station  rdfs:label  "Đồng Văn station"@en .
+
+dbr:Kim_Bảng_district
+        rdfs:label  "Kim Bảng district"@en .
+
+dbr:Quảng_Trị_province
+        rdfs:label  "Quảng Trị province"@en .
+
+dbr:Yên_Sơn_district  rdfs:label  "Yên Sơn district"@en .
+
+dbr:Hải_Dương_province
+        rdfs:label  "Hải Dương province"@en .
+
+dbr:Võ_Xu  rdfs:label  "Võ Xu"@en .
+
+dbr:Hồ_Cốc  rdfs:label  "Hồ Cốc"@en .
+
+dbr:Giác_Lâm_Pagoda  rdfs:label  "Giác Lâm Pagoda"@en .
+
+dbr:Sốp_Cộp  rdfs:label  "Sốp Cộp"@en .
+
+dbr:Ninh_Sơn_district
+        rdfs:label  "Ninh Sơn district"@en .
+
+<http://dbpedia.org/resource/Nguyễn_Cư_Trinh_(ward)>
+        rdfs:label  "Nguyễn Cư Trinh (ward)"@en .
+
+<http://dbpedia.org/resource/Đông_Hòa,_Bình_Dương>
+        rdfs:label  "Đông Hòa, Bình Dương"@en .
+
+dbr:Na_Cô_Sa  rdfs:label  "Na Cô Sa"@en .
+
+dbr:Vạn_Khánh  rdfs:label  "Vạn Khánh"@en .
+
+dbr:Lai_Vung  rdfs:label  "Lai Vung"@en .
+
+<http://dbpedia.org/resource/An_Sơn,_Bình_Dương>
+        rdfs:label  "An Sơn, Bình Dương"@en .
+
+dbr:Quế_Nham  rdfs:label  "Quế Nham"@en .
+
+dbr:Quỳ_Hợp_district  rdfs:label  "Quỳ Hợp district"@en .
+
+dbr:Quảng_Trạch_district
+        rdfs:label  "Quảng Trạch district"@en .
+
+dbr:Roman_Catholic_Diocese_of_Hà_Tĩnh
+        rdfs:label  "Roman Catholic Diocese of Hà Tĩnh"@en .
+
+dbr:Yên_Thủy_district
+        rdfs:label  "Yên Thủy district"@en .
+
+<http://dbpedia.org/resource/Tân_Đức,_Cà_Mau>
+        rdfs:label  "Tân Đức, Cà Mau"@en .
+
+dbr:Ngo_Quyen_High_School
+        rdfs:label  "Ngo Quyen High School"@en .
+
+dbr:Bến_Tre_province  rdfs:label  "Bến Tre province"@en .
+
+<http://dbpedia.org/resource/Quảng_Thành,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Quảng Thành, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Quảng_Chu  rdfs:label  "Quảng Chu"@en .
+
+<http://dbpedia.org/resource/Long_Mỹ_(town)>
+        rdfs:label  "Long Mỹ (town)"@en .
+
+dbr:Long_An_province  rdfs:label  "Long An province"@en .
+
+dbr:Sơn_Động_district
+        rdfs:label  "Sơn Động district"@en .
+
+dbr:Núi_Sập  rdfs:label  "Núi Sập"@en .
+
+dbr:Mùn_Chung  rdfs:label  "Mùn Chung"@en .
+
+dbr:Mỏ_Cày  rdfs:label  "Mỏ Cày"@en .
+
+dbr:Bình_Lục_station  rdfs:label  "Bình Lục station"@en .
+
+<http://dbpedia.org/resource/Phú_Mỹ,_An_Giang>
+        rdfs:label  "Phú Mỹ, An Giang"@en .
+
+<http://dbpedia.org/resource/Kim_Long,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Kim Long, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Phú_Xuyên_district
+        rdfs:label  "Phú Xuyên district"@en .
+
+dbr:Cư_Lễ  rdfs:label  "Cư Lễ"@en .
+
+dbr:Thanh_Miện_district
+        rdfs:label  "Thanh Miện district"@en .
+
+<http://dbpedia.org/resource/Phú_Long,_An_Giang>
+        rdfs:label  "Phú Long, An Giang"@en .
+
+dbr:Càng_Long_district
+        rdfs:label  "Càng Long district"@en .
+
+<http://dbpedia.org/resource/Vị_Xuyên,_Hà_Giang>
+        rdfs:label  "Vị Xuyên, Hà Giang"@en .
+
+dbr:VTV1  rdfs:label  "VTV1"@en .
+
+<http://dbpedia.org/resource/Thái_Sơn,_Bắc_Giang>
+        rdfs:label  "Thái Sơn, Bắc Giang"@en .
+
+dbr:Chi_Lăng_district
+        rdfs:label  "Chi Lăng district"@en .
+
+dbr:Krông_Kmar  rdfs:label  "Krông Kmar"@en .
+
+dbr:Thống_Nhất_district
+        rdfs:label  "Thống Nhất district"@en .
+
+<http://dbpedia.org/resource/Nghĩa_Trung,_Bắc_Giang>
+        rdfs:label  "Nghĩa Trung, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Hóa_Thượng,_Đồng_Hỷ>
+        rdfs:label  "Hóa Thượng, Đồng Hỷ"@en .
+
+dbr:Mang_Thít_district
+        rdfs:label  "Mang Thít district"@en .
+
+<http://dbpedia.org/resource/Kiến_An,_An_Giang>
+        rdfs:label  "Kiến An, An Giang"@en .
+
+<http://dbpedia.org/resource/Bình_Mỹ,_Củ_Chi>
+        rdfs:label  "Bình Mỹ, Củ Chi"@en .
+
+dbr:Hanoi_Medical_University
+        rdfs:label  "Hanoi Medical University"@en .
+
+dbr:Mang_Yang_district
+        rdfs:label  "Mang Yang district"@en .
+
+<http://dbpedia.org/resource/Nghĩa_Phương,_Bắc_Giang>
+        rdfs:label  "Nghĩa Phương, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Hữu_Sản,_Bắc_Giang>
+        rdfs:label  "Hữu Sản, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Quảng_Lâm,_Điện_Biên>
+        rdfs:label  "Quảng Lâm, Điện Biên"@en .
+
+dbr:Tân_Duyệt  rdfs:label  "Tân Duyệt"@en .
+
+dbr:Ma_Thì_Hồ  rdfs:label  "Ma Thì Hồ"@en .
+
+dbr:Thuận_Giao  rdfs:label  "Thuận Giao"@en .
+
+dbr:Đức_An  rdfs:label  "Đức An"@en .
+
+<http://dbpedia.org/resource/Nguyên_Bình,_Cao_Bằng>
+        rdfs:label  "Nguyên Bình, Cao Bằng"@en .
+
+dbr:Thuận_Châu_district
+        rdfs:label  "Thuận Châu district"@en .
+
+<http://dbpedia.org/resource/Sơn_Bình,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Sơn Bình, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Vĩnh_Linh_district
+        rdfs:label  "Vĩnh Linh district"@en .
+
+dbr:Bố_Hạ  rdfs:label  "Bố Hạ"@en .
+
+dbr:Hắc_Dịch  rdfs:label  "Hắc Dịch"@en .
+
+dbr:Việt_Thắng  rdfs:label  "Việt Thắng"@en .
+
+dbr:Biên_Sơn  rdfs:label  "Biên Sơn"@en .
+
+<http://dbpedia.org/resource/Phước_Hưng,_Long_Điền>
+        rdfs:label  "Phước Hưng, Long Điền"@en .
+
+dbr:Yên_Định_district
+        rdfs:label  "Yên Định district"@en .
+
+dbr:Bánh_hỏi  rdfs:label  "Bánh hỏi"@en .
+
+dbr:Chơn_Thành  rdfs:label  "Chơn Thành"@en .
+
+dbr:Trà_Cú_district  rdfs:label  "Trà Cú district"@en .
+
+dbr:Xuân_Hóa  rdfs:label  "Xuân Hóa"@en .
+
+<http://dbpedia.org/resource/Sông_Cầu,_Bắc_Kạn>
+        rdfs:label  "Sông Cầu, Bắc Kạn"@en .
+
+dbr:Lương_Sơn_district
+        rdfs:label  "Lương Sơn district"@en .
+
+<http://dbpedia.org/resource/Vietnam's_Next_Top_Model_(season_6)>
+        rdfs:label  "Vietnam's Next Top Model (season 6)"@en .
+
+dbr:Thuận_Thành_district
+        rdfs:label  "Thuận Thành district"@en .
+
+<http://dbpedia.org/resource/Thạnh_Phú_(township)>
+        rdfs:label  "Thạnh Phú (township)"@en .
+
+dbr:Bình_Liêu  rdfs:label  "Bình Liêu"@en .
+
+dbr:Kiến_Tường  rdfs:label  "Kiến Tường"@en .
+
+<http://dbpedia.org/resource/Thanh_Tùng_(commune)>
+        rdfs:label  "Thanh Tùng (commune)"@en .
+
+dbr:Đỗ_Minh_Quân  rdfs:label  "Đỗ Minh Quân"@en .
+
+dbr:Vân_Canh_district
+        rdfs:label  "Vân Canh district"@en .
+
+dbr:Lương_Phi  rdfs:label  "Lương Phi"@en .
+
+<http://dbpedia.org/resource/Nguyễn_Thái_Bình_(ward)>
+        rdfs:label  "Nguyễn Thái Bình (ward)"@en .
+
+<http://dbpedia.org/resource/Phú_Hội,_Đồng_Nai>
+        rdfs:label  "Phú Hội, Đồng Nai"@en .
+
+<http://dbpedia.org/resource/Quảng_Phú,_Đắk_Lắk>
+        rdfs:label  "Quảng Phú, Đắk Lắk"@en .
+
+<http://dbpedia.org/resource/Ward_1,_District_10>
+        rdfs:label  "Ward 1, District 10"@en .
+
+<http://dbpedia.org/resource/Xuân_Phú,_Huế>
+        rdfs:label  "Xuân Phú, Huế"@en .
+
+<http://dbpedia.org/resource/Kiến_Thành,_An_Giang>
+        rdfs:label  "Kiến Thành, An Giang"@en .
+
+dbr:Diễn_Châu  rdfs:label  "Diễn Châu"@en .
+
+dbr:National_Economics_University
+        rdfs:label  "National Economics University"@en .
+
+dbr:Thanh_Bình_district
+        rdfs:label  "Thanh Bình district"@en .
+
+dbr:Việt_Tân  rdfs:label  "Việt Tân"@en .
+
+dbr:Yên_Mỹ_district  rdfs:label  "Yên Mỹ district"@en .
+
+dbr:Hưng_Trạch  rdfs:label  "Hưng Trạch"@en .
+
+dbr:U_Minh_district  rdfs:label  "U Minh district"@en .
+
+dbr:Cảnh_Thụy  rdfs:label  "Cảnh Thụy"@en .
+
+dbr:Vĩnh_Khánh  rdfs:label  "Vĩnh Khánh"@en .
+
+dbr:Mũi_Né  rdfs:label  "Mũi Né"@en .
+
+<http://dbpedia.org/resource/Chợ_Mới_district,_Bắc_Kạn>
+        rdfs:label  "Chợ Mới district, Bắc Kạn"@en .
+
+dbr:Than_Uyên  rdfs:label  "Than Uyên"@en .
+
+dbr:Fansipan  rdfs:label  "Fansipan"@en .
+
+dbr:Lai_Châu_province
+        rdfs:label  "Lai Châu province"@en .
+
+<http://dbpedia.org/resource/Cao_Phong,_Hòa_Bình>
+        rdfs:label  "Cao Phong, Hòa Bình"@en .
+
+dbr:Tu_Mơ_Rông_district
+        rdfs:label  "Tu Mơ Rông district"@en .
+
+<http://dbpedia.org/resource/Phú_Thủy,_Quảng_Bình>
+        rdfs:label  "Phú Thủy, Quảng Bình"@en .
+
+dbr:Sơn_La_province  rdfs:label  "Sơn La province"@en .
+
+<http://dbpedia.org/resource/Châu_Thành_district,_Đồng_Tháp_province>
+        rdfs:label  "Châu Thành district, Đồng Tháp province"@en .
+
+dbr:Bình_Long  rdfs:label  "Bình Long"@en .
+
+dbr:Lê_Chân_district  rdfs:label  "Lê Chân district"@en .
+
+dbr:Nguyễn_Văn_Huy  rdfs:label  "Nguyễn Văn Huy"@en .
+
+<http://dbpedia.org/resource/Tân_Phú,_Đồng_Phú>
+        rdfs:label  "Tân Phú, Đồng Phú"@en .
+
+dbr:Thanh_Hưng  rdfs:label  "Thanh Hưng"@en .
+
+dbr:Phả_Lại_Power_Station
+        rdfs:label  "Phả Lại Power Station"@en .
+
+dbr:Trực_Ninh_district
+        rdfs:label  "Trực Ninh district"@en .
+
+dbr:Việt_Yên_district
+        rdfs:label  "Việt Yên district"@en .
+
+dbr:Lương_Thế_Trân  rdfs:label  "Lương Thế Trân"@en .
+
+dbr:Phù_Cừ_district  rdfs:label  "Phù Cừ district"@en .
+
+dbr:Phố_Mới  rdfs:label  "Phố Mới"@en .
+
+<http://dbpedia.org/resource/Tân_Phú,_An_Giang>
+        rdfs:label  "Tân Phú, An Giang"@en .
+
+dbr:Cẩm_Xuyên_district
+        rdfs:label  "Cẩm Xuyên district"@en .
+
+<http://dbpedia.org/resource/Bình_Thạnh,_An_Giang>
+        rdfs:label  "Bình Thạnh, An Giang"@en .
+
+dbr:Liên_Thủy  rdfs:label  "Liên Thủy"@en .
+
+<http://dbpedia.org/resource/Tân_Phong,_Thanh_Hóa>
+        rdfs:label  "Tân Phong, Thanh Hóa"@en .
+
+dbr:Lục_Ngạn_district
+        rdfs:label  "Lục Ngạn district"@en .
+
+<http://dbpedia.org/resource/AMC_(Asian_TV_channel)>
+        rdfs:label  "AMC (Asian TV channel)"@en .
+
+dbr:Cổ_Định_chromium_mine
+        rdfs:label  "Cổ Định chromium mine"@en .
+
+dbr:Xín_Mần  rdfs:label  "Xín Mần"@en .
+
+<http://dbpedia.org/resource/Hưng_Mỹ,_Cà_Mau>
+        rdfs:label  "Hưng Mỹ, Cà Mau"@en .
+
+dbr:Đông_Sơn_district
+        rdfs:label  "Đông Sơn district"@en .
+
+dbr:Quảng_Hòa_district
+        rdfs:label  "Quảng Hòa district"@en .
+
+dbr:Kim_Thành_district
+        rdfs:label  "Kim Thành district"@en .
+
+<http://dbpedia.org/resource/Đa_Phước,_An_Giang>
+        rdfs:label  "Đa Phước, An Giang"@en .
+
+<http://dbpedia.org/resource/Phú_Hiệp,_Đồng_Tháp>
+        rdfs:label  "Phú Hiệp, Đồng Tháp"@en .
+
+<http://dbpedia.org/resource/Yên_Định,_Bắc_Giang>
+        rdfs:label  "Yên Định, Bắc Giang"@en .
+
+dbr:Thuận_An  rdfs:label  "Thuận An"@en .
+
+dbr:Thái_Nguyên  rdfs:label  "Thái Nguyên"@en .
+
+<http://dbpedia.org/resource/Phú_Hòa,_An_Giang>
+        rdfs:label  "Phú Hòa, An Giang"@en .
+
+dbr:Châu_Lăng  rdfs:label  "Châu Lăng"@en .
+
+dbr:Lục_Yên_district  rdfs:label  "Lục Yên district"@en .
+
+dbr:Nghệ_An_province  rdfs:label  "Nghệ An province"@en .
+
+dbr:Võ_Nguyên_Giáp_Gifted_High_School
+        rdfs:label  "Võ Nguyên Giáp Gifted High School"@en .
+
+<http://dbpedia.org/resource/Long_An,_An_Giang>
+        rdfs:label  "Long An, An Giang"@en .
+
+dbr:Lâm_Hải  rdfs:label  "Lâm Hải"@en .
+
+<http://dbpedia.org/resource/Submarine_Force_(Vietnam)>
+        rdfs:label  "Submarine Force (Vietnam)"@en .
+
+dbr:Chư_Prông  rdfs:label  "Chư Prông"@en .
+
+dbr:Bánh_bột_lọc  rdfs:label  "Bánh bột lọc"@en .
+
+dbr:Hồng_Dân_district
+        rdfs:label  "Hồng Dân district"@en .
+
+dbr:Dĩnh_Kế  rdfs:label  "Dĩnh Kế"@en .
+
+dbr:Trà_Ôn_district  rdfs:label  "Trà Ôn district"@en .
+
+dbr:Mỹ_Đức_district  rdfs:label  "Mỹ Đức district"@en .
+
+dbr:Bánh_mì  rdfs:label  "Bánh mì"@en .
+
+dbr:British_International_School_Ho_Chi_Minh_City
+        rdfs:label  "British International School Ho Chi Minh City"@en .
+
+<http://dbpedia.org/resource/Bắc_Lý,_Bắc_Giang>
+        rdfs:label  "Bắc Lý, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Hưng_Thịnh,_Bảo_Lạc>
+        rdfs:label  "Hưng Thịnh, Bảo Lạc"@en .
+
+dbr:Long_Hoa  rdfs:label  "Long Hoa"@en .
+
+dbr:Coordinates_of_Death
+        rdfs:label  "Coordinates of Death"@en .
+
+dbr:Ea_Pôk  rdfs:label  "Ea Pôk"@en .
+
+dbr:Gò_Công_Đông_district
+        rdfs:label  "Gò Công Đông district"@en .
+
+dbr:Mãn_Đức  rdfs:label  "Mãn Đức"@en .
+
+dbr:Mực_rang_muối  rdfs:label  "Mực rang muối"@en .
+
+<http://dbpedia.org/resource/1st_Corps_(Vietnam)>
+        rdfs:label  "1st Corps (Vietnam)"@en .
+
+dbr:Yên_Thượng  rdfs:label  "Yên Thượng"@en .
+
+dbr:Ea_Huar  rdfs:label  "Ea Huar"@en .
+
+dbr:Hoàng_Xuân_Thanh_Khiết
+        rdfs:label  "Hoàng Xuân Thanh Khiết"@en .
+
+<http://dbpedia.org/resource/Mutter's_Ridge>
+        rdfs:label  "Mutter's Ridge"@en .
+
+dbr:Quảng_Bạch  rdfs:label  "Quảng Bạch"@en .
+
+dbr:Đan_Hội  rdfs:label  "Đan Hội"@en .
+
+dbr:Cổ_Phúc  rdfs:label  "Cổ Phúc"@en .
+
+dbr:Thiệu_Hóa  rdfs:label  "Thiệu Hóa"@en .
+
+dbr:Xuân_Lương  rdfs:label  "Xuân Lương"@en .
+
+dbr:Ea_Nuôl  rdfs:label  "Ea Nuôl"@en .
+
+<http://dbpedia.org/resource/Bước_nhảy_hoàn_vũ_(season_3)>
+        rdfs:label  "Bước nhảy hoàn vũ (season 3)"@en .
+
+<http://dbpedia.org/resource/Fool_for_Love_(2010_film)>
+        rdfs:label  "Fool for Love (2010 film)"@en .
+
+dbr:Đại_Lộc_district  rdfs:label  "Đại Lộc district"@en .
+
+dbr:Roman_Catholic_Diocese_of_Phú_Cường
+        rdfs:label  "Roman Catholic Diocese of Phú Cường"@en .
+
+<http://dbpedia.org/resource/Trường_Sa_(township)>
+        rdfs:label  "Trường Sa (township)"@en .
+
+<http://dbpedia.org/resource/Đồng_Tâm,_Mỹ_Đức>
+        rdfs:label  "Đồng Tâm, Mỹ Đức"@en .
+
+dbr:Nguyễn_Huân  rdfs:label  "Nguyễn Huân"@en .
+
+<http://dbpedia.org/resource/Ward_1,_District_8>
+        rdfs:label  "Ward 1, District 8"@en .
+
+dbr:Dray_Bhăng  rdfs:label  "Dray Bhăng"@en .
+
+dbr:Quảng_Bình_province
+        rdfs:label  "Quảng Bình province"@en .
+
+dbr:Cẩm_Mỹ_district  rdfs:label  "Cẩm Mỹ district"@en .
+
+dbr:Trấn_Yên_district
+        rdfs:label  "Trấn Yên district"@en .
+
+<http://dbpedia.org/resource/Hùng_Sơn,_Bắc_Giang>
+        rdfs:label  "Hùng Sơn, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Định_Thành,_An_Giang>
+        rdfs:label  "Định Thành, An Giang"@en .
+
+<http://dbpedia.org/resource/Phước_Long,_Bình_Phước>
+        rdfs:label  "Phước Long, Bình Phước"@en .
+
+<http://dbpedia.org/resource/K'Bang>
+        rdfs:label  "K'Bang"@en .
+
+dbr:Triệu_Phong_district
+        rdfs:label  "Triệu Phong district"@en .
+
+dbr:Nà_Phặc  rdfs:label  "Nà Phặc"@en .
+
+dbr:Si_Ma_Cai_district
+        rdfs:label  "Si Ma Cai district"@en .
+
+<http://dbpedia.org/resource/Hòa_Phong,_Da_Nang>
+        rdfs:label  "Hòa Phong, Da Nang"@en .
+
+dbr:A_Tiêng  rdfs:label  "A Tiêng"@en .
+
+dbr:Xuân_Lạc  rdfs:label  "Xuân Lạc"@en .
+
+<http://dbpedia.org/resource/Forever_Young_(2014_TV_series)>
+        rdfs:label  "Forever Young (2014 TV series)"@en .
+
+dbr:Cát_Hải_district  rdfs:label  "Cát Hải district"@en .
+
+dbr:Bắc_Giang_province
+        rdfs:label  "Bắc Giang province"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Tế_(commune)>
+        rdfs:label  "Vĩnh Tế (commune)"@en .
+
+dbr:Sìn_Hồ_district  rdfs:label  "Sìn Hồ district"@en .
+
+dbr:Yên_Lư  rdfs:label  "Yên Lư"@en .
+
+dbr:Hanoi_Architectural_University
+        rdfs:label  "Hanoi Architectural University"@en .
+
+dbr:An_Nhơn  rdfs:label  "An Nhơn"@en .
+
+dbr:Quang_Châu  rdfs:label  "Quang Châu"@en .
+
+dbr:Mường_Pồn  rdfs:label  "Mường Pồn"@en .
+
+<http://dbpedia.org/resource/Vietnam_–_Germany_Hospital>
+        rdfs:label  "Vietnam – Germany Hospital"@en .
+
+<http://dbpedia.org/resource/Phú_Tân_district,_Cà_Mau_province>
+        rdfs:label  "Phú Tân district, Cà Mau province"@en .
+
+dbr:Bình_An_Cemetery  rdfs:label  "Bình An Cemetery"@en .
+
+dbr:Tiền_Hải_district
+        rdfs:label  "Tiền Hải district"@en .
+
+dbr:Ái_Tử  rdfs:label  "Ái Tử"@en .
+
+dbr:Bình_Thuận_mine  rdfs:label  "Bình Thuận mine"@en .
+
+dbr:Vọng_Thê  rdfs:label  "Vọng Thê"@en .
+
+dbr:Long_Điền_district
+        rdfs:label  "Long Điền district"@en .
+
+<http://dbpedia.org/resource/Bình_Hòa,_Bình_Dương>
+        rdfs:label  "Bình Hòa, Bình Dương"@en .
+
+<http://dbpedia.org/resource/Quốc_Học_–_Huế_High_School_for_the_Gifted>
+        rdfs:label  "Quốc Học – Huế High School for the Gifted"@en .
+
+dbr:Định_Hóa_district
+        rdfs:label  "Định Hóa district"@en .
+
+<http://dbpedia.org/resource/Châu_Phong,_An_Giang>
+        rdfs:label  "Châu Phong, An Giang"@en .
+
+<http://dbpedia.org/resource/Ward_1,_District_3>
+        rdfs:label  "Ward 1, District 3"@en .
+
+dbr:Đức_Huệ_district  rdfs:label  "Đức Huệ district"@en .
+
+dbr:Mường_La_district
+        rdfs:label  "Mường La district"@en .
+
+dbr:Núi_Voi  rdfs:label  "Núi Voi"@en .
+
+dbr:Ba_Tơ_district  rdfs:label  "Ba Tơ district"@en .
+
+<http://dbpedia.org/resource/Long_Thạnh,_An_Giang>
+        rdfs:label  "Long Thạnh, An Giang"@en .
+
+dbr:Đông_Anh  rdfs:label  "Đông Anh"@en .
+
+<http://dbpedia.org/resource/Hàm_Ninh,_Quảng_Bình>
+        rdfs:label  "Hàm Ninh, Quảng Bình"@en .
+
+<http://dbpedia.org/resource/Tân_Trung,_An_Giang>
+        rdfs:label  "Tân Trung, An Giang"@en .
+
+dbr:Vietnamese_League_Two
+        rdfs:label  "Vietnamese League Two"@en .
+
+dbr:Pâté_chaud  rdfs:label  "Pâté chaud"@en .
+
+dbr:Bến_Tre_High_School
+        rdfs:label  "Bến Tre High School"@en .
+
+dbr:Vĩnh_Cửu_district
+        rdfs:label  "Vĩnh Cửu district"@en .
+
+<http://dbpedia.org/resource/An_Lao,_Hai_Phong>
+        rdfs:label  "An Lao, Hai Phong"@en .
+
+dbr:Phong_Thạnh_Tây  rdfs:label  "Phong Thạnh Tây"@en .
+
+<http://dbpedia.org/resource/Phước_Hòa,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Phước Hòa, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Phú_Thọ  rdfs:label  "Phú Thọ"@en .
+
+<http://dbpedia.org/resource/Hòa_Hưng,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Hòa Hưng, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Bún_ốc  rdfs:label  "Bún ốc"@en .
+
+dbr:Tiên_Du_district  rdfs:label  "Tiên Du district"@en .
+
+dbr:Lập_Thạch_district
+        rdfs:label  "Lập Thạch district"@en .
+
+<http://dbpedia.org/resource/Tân_Dân,_Cà_Mau>
+        rdfs:label  "Tân Dân, Cà Mau"@en .
+
+dbr:Thanh_Ba_district
+        rdfs:label  "Thanh Ba district"@en .
+
+dbr:Vĩnh_Long  rdfs:label  "Vĩnh Long"@en .
+
+dbr:Lam_Cốt  rdfs:label  "Lam Cốt"@en .
+
+dbr:Ngũ_Phụng  rdfs:label  "Ngũ Phụng"@en .
+
+<http://dbpedia.org/resource/Krông_Năng,_Đắk_Lắk>
+        rdfs:label  "Krông Năng, Đắk Lắk"@en .
+
+<http://dbpedia.org/resource/968th_Division_(Vietnam)>
+        rdfs:label  "968th Division (Vietnam)"@en .
+
+dbr:Mường_Lát  rdfs:label  "Mường Lát"@en .
+
+<http://dbpedia.org/resource/2nd_Corps_(Vietnam)>
+        rdfs:label  "2nd Corps (Vietnam)"@en .
+
+dbr:Hà_Giang  rdfs:label  "Hà Giang"@en .
+
+dbr:Tuyên_Quang  rdfs:label  "Tuyên Quang"@en .
+
+dbr:Duy_Tan_University
+        rdfs:label  "Duy Tan University"@en .
+
+<http://dbpedia.org/resource/Tân_Bình,_Bến_Tre>
+        rdfs:label  "Tân Bình, Bến Tre"@en .
+
+dbr:Ninh_Phước_district
+        rdfs:label  "Ninh Phước district"@en .
+
+dbr:Nha_Trang_station
+        rdfs:label  "Nha Trang station"@en .
+
+<http://dbpedia.org/resource/Nam_Cường,_Bắc_Kạn>
+        rdfs:label  "Nam Cường, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/5th_Infantry_Division_(Vietnam)>
+        rdfs:label  "5th Infantry Division (Vietnam)"@en .
+
+dbr:Gia_Bình_district
+        rdfs:label  "Gia Bình district"@en .
+
+dbr:VIMA_Music_Awards
+        rdfs:label  "VIMA Music Awards"@en .
+
+<http://dbpedia.org/resource/Gia_Bình,_Bắc_Ninh>
+        rdfs:label  "Gia Bình, Bắc Ninh"@en .
+
+dbr:The_Amazing_Race_Vietnam_2015
+        rdfs:label  "The Amazing Race Vietnam 2015"@en .
+
+dbr:Bàu_Bàng_district
+        rdfs:label  "Bàu Bàng district"@en .
+
+dbr:Yên_Hóa  rdfs:label  "Yên Hóa"@en .
+
+dbr:Ải_Thôn  rdfs:label  "Ải Thôn"@en .
+
+<http://dbpedia.org/resource/304th_Division_(Vietnam)>
+        rdfs:label  "304th Division (Vietnam)"@en .
+
+<http://dbpedia.org/resource/Hương_Sơn,_Bắc_Giang>
+        rdfs:label  "Hương Sơn, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Sơn_Hải,_Bắc_Giang>
+        rdfs:label  "Sơn Hải, Bắc Giang"@en .
+
+dbr:Xuân_Trường_district
+        rdfs:label  "Xuân Trường district"@en .
+
+dbr:Thủ_Thiêm  rdfs:label  "Thủ Thiêm"@en .
+
+dbr:Quế  rdfs:label  "Quế"@en .
+
+dbr:Roman_Catholic_Diocese_of_Cần_Thơ
+        rdfs:label  "Roman Catholic Diocese of Cần Thơ"@en .
+
+dbr:Phú_Quý  rdfs:label  "Phú Quý"@en .
+
+dbr:RMIT_University_Vietnam
+        rdfs:label  "RMIT University Vietnam"@en .
+
+dbr:Thanh_Trạch  rdfs:label  "Thanh Trạch"@en .
+
+dbr:Na_Ư  rdfs:label  "Na Ư"@en .
+
+dbr:Thạnh_Phú_district
+        rdfs:label  "Thạnh Phú district"@en .
+
+dbr:Thạch_Hóa  rdfs:label  "Thạch Hóa"@en .
+
+<http://dbpedia.org/resource/Tân_Uyên,_Bình_Dương>
+        rdfs:label  "Tân Uyên, Bình Dương"@en .
+
+dbr:Lão_Hộ  rdfs:label  "Lão Hộ"@en .
+
+dbr:Roman_Catholic_Diocese_of_Bùi_Chu
+        rdfs:label  "Roman Catholic Diocese of Bùi Chu"@en .
+
+dbr:Foreign_Trade_University
+        rdfs:label  "Foreign Trade University"@en .
+
+dbr:Trúc_Bạch_Lake  rdfs:label  "Trúc Bạch Lake"@en .
+
+dbr:Đạ_Tẻh  rdfs:label  "Đạ Tẻh"@en .
+
+dbr:Nha_Trang_University
+        rdfs:label  "Nha Trang University"@en .
+
+dbr:Sính_Phình  rdfs:label  "Sính Phình"@en .
+
+dbr:Sóc_Sơn_district  rdfs:label  "Sóc Sơn district"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Thạnh_district,_Cần_Thơ>
+        rdfs:label  "Vĩnh Thạnh district, Cần Thơ"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Phú,_An_Giang>
+        rdfs:label  "Vĩnh Phú, An Giang"@en .
+
+dbr:Pho  rdfs:label  "Pho"@en .
+
+<http://dbpedia.org/resource/Phong_Điền_district,_Thừa_Thiên_Huế>
+        rdfs:label  "Phong Điền district, Thừa Thiên Huế"@en .
+
+dbr:Song_Khê  rdfs:label  "Song Khê"@en .
+
+dbr:Hòn_Đất_district  rdfs:label  "Hòn Đất district"@en .
+
+dbr:Đại_Việt_Duy_Dân  rdfs:label  "Đại Việt Duy Dân"@en .
+
+dbr:Thanh_Trường  rdfs:label  "Thanh Trường"@en .
+
+<http://dbpedia.org/resource/Yên_Thịnh,_Bắc_Kạn>
+        rdfs:label  "Yên Thịnh, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/Vĩnh_An,_An_Giang>
+        rdfs:label  "Vĩnh An, An Giang"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Ninh,_Quảng_Bình>
+        rdfs:label  "Vĩnh Ninh, Quảng Bình"@en .
+
+dbr:Sa_Rài  rdfs:label  "Sa Rài"@en .
+
+dbr:Khánh_Sơn_district
+        rdfs:label  "Khánh Sơn district"@en .
+
+dbr:Ia_Pa_district  rdfs:label  "Ia Pa district"@en .
+
+dbr:Nga_Sơn_district  rdfs:label  "Nga Sơn district"@en .
+
+<http://dbpedia.org/resource/Bình_Tân_district,_Vĩnh_Long_province>
+        rdfs:label  "Bình Tân district, Vĩnh Long province"@en .
+
+dbr:Ba_Vì_district  rdfs:label  "Ba Vì district"@en .
+
+dbr:Đại_Hóa  rdfs:label  "Đại Hóa"@en .
+
+dbr:Voice_of_Vietnam  rdfs:label  "Voice of Vietnam"@en .
+
+dbr:Hanoi_Ceramic_Mosaic_Mural
+        rdfs:label  "Hanoi Ceramic Mosaic Mural"@en .
+
+dbr:Phú_Riềng_district
+        rdfs:label  "Phú Riềng district"@en .
+
+dbr:The_Story_of_Woo_Viet
+        rdfs:label  "The Story of Woo Viet"@en .
+
+<http://dbpedia.org/resource/3rd_Division_(Vietnam)>
+        rdfs:label  "3rd Division (Vietnam)"@en .
+
+<http://dbpedia.org/resource/Bình_Thắng,_Bình_Dương>
+        rdfs:label  "Bình Thắng, Bình Dương"@en .
+
+dbr:Đồng_Hới  rdfs:label  "Đồng Hới"@en .
+
+dbr:Quảng_Ninh_district
+        rdfs:label  "Quảng Ninh district"@en .
+
+dbr:Na_Tum_mine  rdfs:label  "Na Tum mine"@en .
+
+dbr:Cặp_đôi_hoàn_hảo  rdfs:label  "Cặp đôi hoàn hảo"@en .
+
+dbr:Tam_Giang_Tây  rdfs:label  "Tam Giang Tây"@en .
+
+dbr:Ngọc_Vân  rdfs:label  "Ngọc Vân"@en .
+
+dbr:Mường_Lói  rdfs:label  "Mường Lói"@en .
+
+dbr:Nhà_Bè_district  rdfs:label  "Nhà Bè district"@en .
+
+dbr:Khánh_Vĩnh  rdfs:label  "Khánh Vĩnh"@en .
+
+<http://dbpedia.org/resource/Đào_Hữu_Cảnh_(commune)>
+        rdfs:label  "Đào Hữu Cảnh (commune)"@en .
+
+dbr:Hà_Tiên_Islands  rdfs:label  "Hà Tiên Islands"@en .
+
+dbr:Phong_Thạnh_Tây_A
+        rdfs:label  "Phong Thạnh Tây A"@en .
+
+dbr:VTV_Awards  rdfs:label  "VTV Awards"@en .
+
+dbr:Gio_Linh_district
+        rdfs:label  "Gio Linh district"@en .
+
+dbr:Mỹ_Tú_district  rdfs:label  "Mỹ Tú district"@en .
+
+dbr:Mường_Chà_district
+        rdfs:label  "Mường Chà district"@en .
+
+dbr:Nhã_Nam  rdfs:label  "Nhã Nam"@en .
+
+dbr:Bánh_tét  rdfs:label  "Bánh tét"@en .
+
+dbr:Yên_Mô_district  rdfs:label  "Yên Mô district"@en .
+
+<http://dbpedia.org/resource/Mỹ_Quý,_An_Giang>
+        rdfs:label  "Mỹ Quý, An Giang"@en .
+
+<http://dbpedia.org/resource/Ward_1,_Gò_Vấp_District>
+        rdfs:label  "Ward 1, Gò Vấp District"@en .
+
+dbr:Bánh_chưng  rdfs:label  "Bánh chưng"@en .
+
+dbr:Thượng_Trạch  rdfs:label  "Thượng Trạch"@en .
+
+dbr:Hương_Canh  rdfs:label  "Hương Canh"@en .
+
+dbr:Bạch_Long_Vĩ_Island
+        rdfs:label  "Bạch Long Vĩ Island"@en .
+
+dbr:Kỳ_Anh_district  rdfs:label  "Kỳ Anh district"@en .
+
+<http://dbpedia.org/resource/Thanh_Yên,_Điện_Biên>
+        rdfs:label  "Thanh Yên, Điện Biên"@en .
+
+<http://dbpedia.org/resource/Phú_Túc,_Gia_Lai>
+        rdfs:label  "Phú Túc, Gia Lai"@en .
+
+dbr:Đồng_Tháp_province
+        rdfs:label  "Đồng Tháp province"@en .
+
+dbr:Hai_Phong_station
+        rdfs:label  "Hai Phong station"@en .
+
+<http://dbpedia.org/resource/Chu_Văn_An_High_School_(Ho_Chi_Minh_City)>
+        rdfs:label  "Chu Văn An High School (Ho Chi Minh City)"@en .
+
+<http://dbpedia.org/resource/Đồng_Tâm,_Bắc_Kạn>
+        rdfs:label  "Đồng Tâm, Bắc Kạn"@en .
+
+dbr:Bích_Động  rdfs:label  "Bích Động"@en .
+
+<http://dbpedia.org/resource/Ward_2,_Bạc_Liêu>
+        rdfs:label  "Ward 2, Bạc Liêu"@en .
+
+dbr:Paradise_of_the_Blind
+        rdfs:label  "Paradise of the Blind"@en .
+
+dbr:Mường_Toong  rdfs:label  "Mường Toong"@en .
+
+<http://dbpedia.org/resource/Ward_5,_Bạc_Liêu>
+        rdfs:label  "Ward 5, Bạc Liêu"@en .
+
+<http://dbpedia.org/resource/Tân_Ân,_Cà_Mau>
+        rdfs:label  "Tân Ân, Cà Mau"@en .
+
+dbr:European_International_School_Ho_Chi_Minh_City
+        rdfs:label  "European International School Ho Chi Minh City"@en .
+
+<http://dbpedia.org/resource/Ward_8,_Bạc_Liêu>
+        rdfs:label  "Ward 8, Bạc Liêu"@en .
+
+dbr:Buôn_Trấp  rdfs:label  "Buôn Trấp"@en .
+
+<http://dbpedia.org/resource/Phước_Hưng,_An_Giang>
+        rdfs:label  "Phước Hưng, An Giang"@en .
+
+<http://dbpedia.org/resource/Vũ_Xá,_Bắc_Giang>
+        rdfs:label  "Vũ Xá, Bắc Giang"@en .
+
+dbr:Bảo_Lạc_district  rdfs:label  "Bảo Lạc district"@en .
+
+<http://dbpedia.org/resource/Hiếu_Liêm,_Bình_Dương>
+        rdfs:label  "Hiếu Liêm, Bình Dương"@en .
+
+dbr:Phú_Mỹ_Power_Plants
+        rdfs:label  "Phú Mỹ Power Plants"@en .
+
+dbr:Sa_Thầy_district  rdfs:label  "Sa Thầy district"@en .
+
+<http://dbpedia.org/resource/Thanh_Minh,_Điện_Biên>
+        rdfs:label  "Thanh Minh, Điện Biên"@en .
+
+<http://dbpedia.org/resource/Vietnam's_Next_Top_Model_(season_3)>
+        rdfs:label  "Vietnam's Next Top Model (season 3)"@en .
+
+dbr:Nghiên_Loan  rdfs:label  "Nghiên Loan"@en .
+
+dbr:Ô_Long_Vỹ  rdfs:label  "Ô Long Vỹ"@en .
+
+dbr:Red_River_Delta_coalfield
+        rdfs:label  "Red River Delta coalfield"@en .
+
+<http://dbpedia.org/resource/Hoàng_Văn_Thụ,_Bắc_Giang>
+        rdfs:label  "Hoàng Văn Thụ, Bắc Giang"@en .
+
+dbr:Hương_Lạc  rdfs:label  "Hương Lạc"@en .
+
+dbr:Hoàn_Kiếm_district
+        rdfs:label  "Hoàn Kiếm district"@en .
+
+<http://dbpedia.org/resource/Hưng_Phú,_Bạc_Liêu>
+        rdfs:label  "Hưng Phú, Bạc Liêu"@en .
+
+<http://dbpedia.org/resource/Thuận_An,_Vĩnh_Long>
+        rdfs:label  "Thuận An, Vĩnh Long"@en .
+
+dbr:Phù_Mỹ_district  rdfs:label  "Phù Mỹ district"@en .
+
+dbr:PVF_Football_Academy
+        rdfs:label  "PVF Football Academy"@en .
+
+dbr:Roman_Catholic_Archdiocese_of_Hanoi
+        rdfs:label  "Roman Catholic Archdiocese of Hanoi"@en .
+
+dbr:Bình_Thuận_province
+        rdfs:label  "Bình Thuận province"@en .
+
+dbr:Cam_Lộ_district  rdfs:label  "Cam Lộ district"@en .
+
+<http://dbpedia.org/resource/Long_Điền_(township)>
+        rdfs:label  "Long Điền (township)"@en .
+
+<http://dbpedia.org/resource/Cao_Sơn,_Bắc_Kạn>
+        rdfs:label  "Cao Sơn, Bắc Kạn"@en .
+
+dbr:Noong_Luống  rdfs:label  "Noong Luống"@en .
+
+dbr:Cương_Sơn  rdfs:label  "Cương Sơn"@en .
+
+<http://dbpedia.org/resource/So_You_Think_You_Can_Dance_(Vietnamese_season_2)>
+        rdfs:label  "So You Think You Can Dance (Vietnamese season 2)"@en .
+
+dbr:Háng_Lìa  rdfs:label  "Háng Lìa"@en .
+
+dbr:Lắk_district  rdfs:label  "Lắk district"@en .
+
+dbr:Bỉm_Sơn  rdfs:label  "Bỉm Sơn"@en .
+
+dbr:Vietnam_Naval_Academy
+        rdfs:label  "Vietnam Naval Academy"@en .
+
+dbr:Tân_Lạc_district  rdfs:label  "Tân Lạc district"@en .
+
+dbr:British_Vietnamese_International_School_in_Ho_Chi_Minh_City
+        rdfs:label  "British Vietnamese International School in Ho Chi Minh City"@en .
+
+<http://dbpedia.org/resource/Tam_Sơn,_Hà_Giang>
+        rdfs:label  "Tam Sơn, Hà Giang"@en .
+
+<http://dbpedia.org/resource/Discovery_Science_(Asian_TV_channel)>
+        rdfs:label  "Discovery Science (Asian TV channel)"@en .
+
+dbr:Chạo_tôm  rdfs:label  "Chạo tôm"@en .
+
+dbr:Da_Nang_Port  rdfs:label  "Da Nang Port"@en .
+
+dbr:Lạc_Dương  rdfs:label  "Lạc Dương"@en .
+
+<http://dbpedia.org/resource/Tân_An,_An_Giang>
+        rdfs:label  "Tân An, An Giang"@en .
+
+<http://dbpedia.org/resource/Bình_Trung,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Bình Trung, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Nguyễn_Anh_Dũng  rdfs:label  "Nguyễn Anh Dũng"@en .
+
+dbr:Ho_Chi_Minh_City_Open_University
+        rdfs:label  "Ho Chi Minh City Open University"@en .
+
+dbr:Northern_Annamites_rain_forests
+        rdfs:label  "Northern Annamites rain forests"@en .
+
+dbr:Đồng_Vương  rdfs:label  "Đồng Vương"@en .
+
+dbr:Mekong_Club_Championship
+        rdfs:label  "Mekong Club Championship"@en .
+
+dbr:Lương_Ninh  rdfs:label  "Lương Ninh"@en .
+
+dbr:Kiên_Hải_district
+        rdfs:label  "Kiên Hải district"@en .
+
+dbr:Đồng_Xuân_district
+        rdfs:label  "Đồng Xuân district"@en .
+
+<http://dbpedia.org/resource/An_Phú_(township)>
+        rdfs:label  "An Phú (township)"@en .
+
+dbr:Hòa_An_district  rdfs:label  "Hòa An district"@en .
+
+<http://dbpedia.org/resource/Tân_Phong,_Bạc_Liêu>
+        rdfs:label  "Tân Phong, Bạc Liêu"@en .
+
+dbr:Bánh_bò  rdfs:label  "Bánh bò"@en .
+
+dbr:Chợ_Lầu  rdfs:label  "Chợ Lầu"@en .
+
+dbr:Thoại_Sơn_district
+        rdfs:label  "Thoại Sơn district"@en .
+
+<http://dbpedia.org/resource/Stuff_(magazine)>
+        rdfs:label  "Stuff (magazine)"@en .
+
+dbr:Bắc_Tân_Uyên_district
+        rdfs:label  "Bắc Tân Uyên district"@en .
+
+dbr:Phình_Giàng  rdfs:label  "Phình Giàng"@en .
+
+dbr:Liên_Trạch  rdfs:label  "Liên Trạch"@en .
+
+dbr:Nong_U  rdfs:label  "Nong U"@en .
+
+dbr:Vietnam_Aviation_Academy
+        rdfs:label  "Vietnam Aviation Academy"@en .
+
+dbr:Bắc_Kạn  rdfs:label  "Bắc Kạn"@en .
+
+dbr:Lê_Trì  rdfs:label  "Lê Trì"@en .
+
+dbr:Buôn_Ma_Thuột  rdfs:label  "Buôn Ma Thuột"@en .
+
+dbr:Trung_Hóa  rdfs:label  "Trung Hóa"@en .
+
+dbr:Hoàng_Vân  rdfs:label  "Hoàng Vân"@en .
+
+<http://dbpedia.org/resource/Phương_Sơn,_Bắc_Giang>
+        rdfs:label  "Phương Sơn, Bắc Giang"@en .
+
+dbr:Tạ_An_Khương  rdfs:label  "Tạ An Khương"@en .
+
+dbr:Hóa_Tiến  rdfs:label  "Hóa Tiến"@en .
+
+<http://dbpedia.org/resource/Australian_International_School,_Vietnam>
+        rdfs:label  "Australian International School, Vietnam"@en .
+
+<http://dbpedia.org/resource/Hòa_Phú,_Bình_Dương>
+        rdfs:label  "Hòa Phú, Bình Dương"@en .
+
+dbr:Kim_Bôi_district  rdfs:label  "Kim Bôi district"@en .
+
+<http://dbpedia.org/resource/Tân_An,_Bình_Dương>
+        rdfs:label  "Tân An, Bình Dương"@en .
+
+dbr:Hưng_Hội  rdfs:label  "Hưng Hội"@en .
+
+dbr:Luang_Prabang_montane_rain_forests
+        rdfs:label  "Luang Prabang montane rain forests"@en .
+
+<http://dbpedia.org/resource/Thanh_Lâm,_Bắc_Giang>
+        rdfs:label  "Thanh Lâm, Bắc Giang"@en .
+
+dbr:Vũ_Thư  rdfs:label  "Vũ Thư"@en .
+
+dbr:Bắc_Sơn_district  rdfs:label  "Bắc Sơn district"@en .
+
+dbr:108_Hospital  rdfs:label  "108 Hospital"@en .
+
+<http://dbpedia.org/resource/Ông_cố_vấn_(novel)>
+        rdfs:label  "Ông cố vấn (novel)"@en .
+
+dbr:Battle_of_the_Brides
+        rdfs:label  "Battle of the Brides"@en .
+
+dbr:Bắc_Yên_district  rdfs:label  "Bắc Yên district"@en .
+
+dbr:Văn_Yên_district  rdfs:label  "Văn Yên district"@en .
+
+dbr:2011_Vietnamese_legislative_election
+        rdfs:label  "2011 Vietnamese legislative election"@en .
+
+dbr:Tân_Tuyến  rdfs:label  "Tân Tuyến"@en .
+
+dbr:Northern_Indochina_subtropical_moist_forests
+        rdfs:label  "Northern Indochina subtropical moist forests"@en .
+
+dbr:Nguyễn_Văn_Phương
+        rdfs:label  "Nguyễn Văn Phương"@en .
+
+dbr:Lập_Thạch  rdfs:label  "Lập Thạch"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Trạch,_An_Giang>
+        rdfs:label  "Vĩnh Trạch, An Giang"@en .
+
+dbr:Tân_Yên_district  rdfs:label  "Tân Yên district"@en .
+
+<http://dbpedia.org/resource/Hòa_Hiệp,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Hòa Hiệp, Bà Rịa–Vũng Tàu"@en .
+
+dbr:How_to_Fight_in_Six_Inch_Heels
+        rdfs:label  "How to Fight in Six Inch Heels"@en .
+
+dbr:Dương_Phong  rdfs:label  "Dương Phong"@en .
+
+dbr:Nam_Du_Islands  rdfs:label  "Nam Du Islands"@en .
+
+dbr:Định_Quán_district
+        rdfs:label  "Định Quán district"@en .
+
+<http://dbpedia.org/resource/Tân_Thạnh_(township)>
+        rdfs:label  "Tân Thạnh (township)"@en .
+
+dbr:Biển_Bạch_Đông  rdfs:label  "Biển Bạch Đông"@en .
+
+<http://dbpedia.org/resource/Vạn_Ninh,_Quảng_Bình>
+        rdfs:label  "Vạn Ninh, Quảng Bình"@en .
+
+<http://dbpedia.org/resource/Ward_12,_Vũng_Tàu>
+        rdfs:label  "Ward 12, Vũng Tàu"@en .
+
+<http://dbpedia.org/resource/Bình_Thành,_An_Giang>
+        rdfs:label  "Bình Thành, An Giang"@en .
+
+dbr:Mường_Lát_district
+        rdfs:label  "Mường Lát district"@en .
+
+<http://dbpedia.org/resource/Nhơn_Hưng,_An_Giang>
+        rdfs:label  "Nhơn Hưng, An Giang"@en .
+
+dbr:Vĩnh_Nguơn  rdfs:label  "Vĩnh Nguơn"@en .
+
+dbr:Nguyễn_Hà_Thanh  rdfs:label  "Nguyễn Hà Thanh"@en .
+
+dbr:Nguyễn_Việt_Khái  rdfs:label  "Nguyễn Việt Khái"@en .
+
+dbr:Hộ_Phòng  rdfs:label  "Hộ Phòng"@en .
+
+dbr:Yên_Hân  rdfs:label  "Yên Hân"@en .
+
+<http://dbpedia.org/resource/Yên_Mỹ,_Bắc_Giang>
+        rdfs:label  "Yên Mỹ, Bắc Giang"@en .
+
+dbr:Fulbright_University_Vietnam
+        rdfs:label  "Fulbright University Vietnam"@en .
+
+dbr:Hanoi_University_of_Industry
+        rdfs:label  "Hanoi University of Industry"@en .
+
+dbr:Sơn_Hà_district  rdfs:label  "Sơn Hà district"@en .
+
+<http://dbpedia.org/resource/Cam_Thủy,_Quảng_Bình>
+        rdfs:label  "Cam Thủy, Quảng Bình"@en .
+
+dbr:Chờ  rdfs:label  "Chờ"@en .
+
+dbr:Hòa_Thành  rdfs:label  "Hòa Thành"@en .
+
+dbr:Saigon_Port  rdfs:label  "Saigon Port"@en .
+
+dbr:An_Phúc  rdfs:label  "An Phúc"@en .
+
+<http://dbpedia.org/resource/Phước_Trung,_Bà_Rịa>
+        rdfs:label  "Phước Trung, Bà Rịa"@en .
+
+dbr:Sa_Lông  rdfs:label  "Sa Lông"@en .
+
+<http://dbpedia.org/resource/Tân_Lộc,_Cà_Mau>
+        rdfs:label  "Tân Lộc, Cà Mau"@en .
+
+dbr:Cầu_Kè  rdfs:label  "Cầu Kè"@en .
+
+dbr:Kon_Tum  rdfs:label  "Kon Tum"@en .
+
+dbr:Roman_Catholic_Diocese_of_Ban_Mê_Thuột
+        rdfs:label  "Roman Catholic Diocese of Ban Mê Thuột"@en .
+
+<http://dbpedia.org/resource/District_6,_Ho_Chi_Minh_City>
+        rdfs:label  "District 6, Ho Chi Minh City"@en .
+
+<http://dbpedia.org/resource/Dĩ_An_(ward)>
+        rdfs:label  "Dĩ An (ward)"@en .
+
+dbr:Krông_Buk_district
+        rdfs:label  "Krông Buk district"@en .
+
+dbr:Thái_Hòa  rdfs:label  "Thái Hòa"@en .
+
+<http://dbpedia.org/resource/Phú_Hòa,_Gia_Lai>
+        rdfs:label  "Phú Hòa, Gia Lai"@en .
+
+dbr:Vũ_Muộn  rdfs:label  "Vũ Muộn"@en .
+
+<http://dbpedia.org/resource/The_Arbitrator_(Vietnamese_TV_series)>
+        rdfs:label  "The Arbitrator (Vietnamese TV series)"@en .
+
+dbr:Lục_Sơn  rdfs:label  "Lục Sơn"@en .
+
+<http://dbpedia.org/resource/Phúc_Lộc,_Bắc_Kạn>
+        rdfs:label  "Phúc Lộc, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/The_Face_Vietnam_(season_3)>
+        rdfs:label  "The Face Vietnam (season 3)"@en .
+
+<http://dbpedia.org/resource/Phú_Hưng,_An_Giang>
+        rdfs:label  "Phú Hưng, An Giang"@en .
+
+dbr:Trần_Hợi  rdfs:label  "Trần Hợi"@en .
+
+dbr:Quản_Bạ_district  rdfs:label  "Quản Bạ district"@en .
+
+<http://dbpedia.org/resource/Đức_Xuân,_Bắc_Kạn>
+        rdfs:label  "Đức Xuân, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/Thới_Bình_(township)>
+        rdfs:label  "Thới Bình (township)"@en .
+
+dbr:Hộ_Đáp  rdfs:label  "Hộ Đáp"@en .
+
+dbr:Xương_Lâm  rdfs:label  "Xương Lâm"@en .
+
+dbr:Mường_Mùn  rdfs:label  "Mường Mùn"@en .
+
+dbr:Mường_Chà  rdfs:label  "Mường Chà"@en .
+
+<http://dbpedia.org/resource/Chau_Thanh,_Ben_Tre>
+        rdfs:label  "Chau Thanh, Ben Tre"@en .
+
+<http://dbpedia.org/resource/Trương_Ba's_Soul,_Butcher's_Body_(film)>
+        rdfs:label  "Trương Ba's Soul, Butcher's Body (film)"@en .
+
+dbr:Indochina_mangroves
+        rdfs:label  "Indochina mangroves"@en .
+
+dbr:Nhơn_Trạch_district
+        rdfs:label  "Nhơn Trạch district"@en .
+
+dbr:Ho_Chi_Minh_City_Medicine_and_Pharmacy_University
+        rdfs:label  "Ho Chi Minh City Medicine and Pharmacy University"@en .
+
+dbr:Krông_Pắk_district
+        rdfs:label  "Krông Pắk district"@en .
+
+dbr:Thái_Thủy  rdfs:label  "Thái Thủy"@en .
+
+dbr:Bù_Gia_Mập_district
+        rdfs:label  "Bù Gia Mập district"@en .
+
+<http://dbpedia.org/resource/Thanh_Mai,_Bắc_Kạn>
+        rdfs:label  "Thanh Mai, Bắc Kạn"@en .
+
+dbr:Quách_Phẩm  rdfs:label  "Quách Phẩm"@en .
+
+dbr:Bạc_Liêu_province
+        rdfs:label  "Bạc Liêu province"@en .
+
+dbr:Hàm_Tân_district  rdfs:label  "Hàm Tân district"@en .
+
+<http://dbpedia.org/resource/Hòa_Bình,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Hòa Bình, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Châu_Đốc  rdfs:label  "Châu Đốc"@en .
+
+<http://dbpedia.org/resource/Mỹ_Hòa,_An_Giang>
+        rdfs:label  "Mỹ Hòa, An Giang"@en .
+
+dbr:Giá_Rai  rdfs:label  "Giá Rai"@en .
+
+dbr:Hiệp_Tùng  rdfs:label  "Hiệp Tùng"@en .
+
+dbr:Trung_Sơn_Dam  rdfs:label  "Trung Sơn Dam"@en .
+
+dbr:An_Biên_district  rdfs:label  "An Biên district"@en .
+
+<http://dbpedia.org/resource/Lương_Bằng,_Bắc_Kạn>
+        rdfs:label  "Lương Bằng, Bắc Kạn"@en .
+
+dbr:Van_Xuan_University_of_Technology
+        rdfs:label  "Van Xuan University of Technology"@en .
+
+<http://dbpedia.org/resource/An_Nông,_An_Giang>
+        rdfs:label  "An Nông, An Giang"@en .
+
+dbr:Hạ_Hòa  rdfs:label  "Hạ Hòa"@en .
+
+dbr:Kim_Hỷ  rdfs:label  "Kim Hỷ"@en .
+
+dbr:Jade_Emperor_Pagoda
+        rdfs:label  "Jade Emperor Pagoda"@en .
+
+dbr:Giáp_Sơn  rdfs:label  "Giáp Sơn"@en .
+
+dbr:Đoan_Bái  rdfs:label  "Đoan Bái"@en .
+
+dbr:Tam_Kỳ  rdfs:label  "Tam Kỳ"@en .
+
+<http://dbpedia.org/resource/711th_Division_(Vietnam)>
+        rdfs:label  "711th Division (Vietnam)"@en .
+
+<http://dbpedia.org/resource/Hội_An,_An_Giang>
+        rdfs:label  "Hội An, An Giang"@en .
+
+dbr:Bảo_Lộc  rdfs:label  "Bảo Lộc"@en .
+
+dbr:Tây_Ninh  rdfs:label  "Tây Ninh"@en .
+
+dbr:Măng_Đen  rdfs:label  "Măng Đen"@en .
+
+dbr:An_Bá  rdfs:label  "An Bá"@en .
+
+<http://dbpedia.org/resource/Long_Bình,_An_Giang>
+        rdfs:label  "Long Bình, An Giang"@en .
+
+dbr:Lao_Bảo  rdfs:label  "Lao Bảo"@en .
+
+<http://dbpedia.org/resource/Yên_Sơn,_Bắc_Giang>
+        rdfs:label  "Yên Sơn, Bắc Giang"@en .
+
+dbr:Khoái_Châu_district
+        rdfs:label  "Khoái Châu district"@en .
+
+dbr:Thai_Nguyen_Central_General_Hospital
+        rdfs:label  "Thai Nguyen Central General Hospital"@en .
+
+dbr:Yên_Bái  rdfs:label  "Yên Bái"@en .
+
+dbr:Phú_Bài  rdfs:label  "Phú Bài"@en .
+
+dbr:Quỳnh_Phụ_district
+        rdfs:label  "Quỳnh Phụ district"@en .
+
+dbr:Chân_Mây_Port  rdfs:label  "Chân Mây Port"@en .
+
+<http://dbpedia.org/resource/An_Lão_district,_Bình_Định_province>
+        rdfs:label  "An Lão district, Bình Định province"@en .
+
+<http://dbpedia.org/resource/Cô_Tô_(island)>
+        rdfs:label  "Cô Tô (island)"@en .
+
+dbr:Ngọc_Thiện  rdfs:label  "Ngọc Thiện"@en .
+
+dbr:Điện_Biên_Đông  rdfs:label  "Điện Biên Đông"@en .
+
+dbr:Saigon_Electric  rdfs:label  "Saigon Electric"@en .
+
+dbr:Sơn_La  rdfs:label  "Sơn La"@en .
+
+dbr:Ròm  rdfs:label  "Ròm"@en .
+
+<http://dbpedia.org/resource/Trưng_Vương_(school)>
+        rdfs:label  "Trưng Vương (school)"@en .
+
+dbr:Giáo_Hiệu  rdfs:label  "Giáo Hiệu"@en .
+
+<http://dbpedia.org/resource/An_Thượng,_Hanoi>
+        rdfs:label  "An Thượng, Hanoi"@en .
+
+dbr:Từ_Hoàng_Thông  rdfs:label  "Từ Hoàng Thông"@en .
+
+dbr:Nguyễn_Phích  rdfs:label  "Nguyễn Phích"@en .
+
+dbr:Võ_Nhai_district  rdfs:label  "Võ Nhai district"@en .
+
+<http://dbpedia.org/resource/Long_Hải_(township)>
+        rdfs:label  "Long Hải (township)"@en .
+
+dbr:Quảng_Phương  rdfs:label  "Quảng Phương"@en .
+
+dbr:Quốc_Thái  rdfs:label  "Quốc Thái"@en .
+
+dbr:Văn_Lãng_district
+        rdfs:label  "Văn Lãng district"@en .
+
+dbr:Hương_Mai  rdfs:label  "Hương Mai"@en .
+
+<http://dbpedia.org/resource/Bình_Khánh,_An_Giang>
+        rdfs:label  "Bình Khánh, An Giang"@en .
+
+dbr:Long_Điền_A  rdfs:label  "Long Điền A"@en .
+
+dbr:Vĩnh_Chánh  rdfs:label  "Vĩnh Chánh"@en .
+
+dbr:Ninh_Quới_A  rdfs:label  "Ninh Quới A"@en .
+
+dbr:Na_Hang_Dam  rdfs:label  "Na Hang Dam"@en .
+
+dbr:Đông_Hà  rdfs:label  "Đông Hà"@en .
+
+dbr:Bắc_Giang  rdfs:label  "Bắc Giang"@en .
+
+dbr:Hàm_Yên_district  rdfs:label  "Hàm Yên district"@en .
+
+dbr:Lăng_Cô  rdfs:label  "Lăng Cô"@en .
+
+<http://dbpedia.org/resource/Ward_3,_Vũng_Tàu>
+        rdfs:label  "Ward 3, Vũng Tàu"@en .
+
+dbr:Trần_Duy_Khôi  rdfs:label  "Trần Duy Khôi"@en .
+
+dbr:Tân_Dĩnh  rdfs:label  "Tân Dĩnh"@en .
+
+<http://dbpedia.org/resource/Ninh_Sơn,_Bắc_Giang>
+        rdfs:label  "Ninh Sơn, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Tân_Hải,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Tân Hải, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Cầu_Ngang_district
+        rdfs:label  "Cầu Ngang district"@en .
+
+<http://dbpedia.org/resource/Quan_Âm_Pagoda_(Ho_Chi_Minh_City)>
+        rdfs:label  "Quan Âm Pagoda (Ho Chi Minh City)"@en .
+
+dbr:Quảng_Ngãi_province
+        rdfs:label  "Quảng Ngãi province"@en .
+
+dbr:Lạc_Sơn_district  rdfs:label  "Lạc Sơn district"@en .
+
+<http://dbpedia.org/resource/Sa_Pa_(ward)>
+        rdfs:label  "Sa Pa (ward)"@en .
+
+dbr:VTV4  rdfs:label  "VTV4"@en .
+
+dbr:Bồng_Sơn  rdfs:label  "Bồng Sơn"@en .
+
+dbr:Lương_An_Trà  rdfs:label  "Lương An Trà"@en .
+
+dbr:Châu_Phú_district
+        rdfs:label  "Châu Phú district"@en .
+
+dbr:Trần_Văn_Thời_district
+        rdfs:label  "Trần Văn Thời district"@en .
+
+dbr:Phú_Vĩnh  rdfs:label  "Phú Vĩnh"@en .
+
+dbr:Girls_2  rdfs:label  "Girls 2"@en .
+
+dbr:Krasue  rdfs:label  "Krasue"@en .
+
+dbr:Kim_Sơn_district  rdfs:label  "Kim Sơn district"@en .
+
+dbr:Lệ_Thủy_district  rdfs:label  "Lệ Thủy district"@en .
+
+dbr:Trị_An  rdfs:label  "Trị An"@en .
+
+dbr:Vân_Trung  rdfs:label  "Vân Trung"@en .
+
+dbr:Tân_Hưng_district
+        rdfs:label  "Tân Hưng district"@en .
+
+<http://dbpedia.org/resource/Đại_Sơn,_Bắc_Giang>
+        rdfs:label  "Đại Sơn, Bắc Giang"@en .
+
+dbr:Thanh_Liêm_district
+        rdfs:label  "Thanh Liêm district"@en .
+
+dbr:Mường_Khương  rdfs:label  "Mường Khương"@en .
+
+dbr:Văn_Vũ  rdfs:label  "Văn Vũ"@en .
+
+dbr:Saigon_University
+        rdfs:label  "Saigon University"@en .
+
+dbr:Vietnamese_League_Three
+        rdfs:label  "Vietnamese League Three"@en .
+
+dbr:Cờ_Đỏ  rdfs:label  "Cờ Đỏ"@en .
+
+dbr:Cửa_Lò  rdfs:label  "Cửa Lò"@en .
+
+dbr:Nam_Trà_My_district
+        rdfs:label  "Nam Trà My district"@en .
+
+dbr:Krông_Năng_district
+        rdfs:label  "Krông Năng district"@en .
+
+dbr:Châu_Pha  rdfs:label  "Châu Pha"@en .
+
+<http://dbpedia.org/resource/Minh_Đức,_Bắc_Giang>
+        rdfs:label  "Minh Đức, Bắc Giang"@en .
+
+dbr:Tri_Tôn_district  rdfs:label  "Tri Tôn district"@en .
+
+dbr:Nhuận_Phú_Tân  rdfs:label  "Nhuận Phú Tân"@en .
+
+dbr:Foreign_Language_Specialized_School
+        rdfs:label  "Foreign Language Specialized School"@en .
+
+<http://dbpedia.org/resource/Trần_Phú,_Bắc_Giang>
+        rdfs:label  "Trần Phú, Bắc Giang"@en .
+
+dbr:Thạch_An_district
+        rdfs:label  "Thạch An district"@en .
+
+dbr:Trảng_Bàng  rdfs:label  "Trảng Bàng"@en .
+
+<http://dbpedia.org/resource/Vô_Tranh,_Bắc_Giang>
+        rdfs:label  "Vô Tranh, Bắc Giang"@en .
+
+dbr:Da_Nang_University_of_Economics
+        rdfs:label  "Da Nang University of Economics"@en .
+
+<http://dbpedia.org/resource/Hòa_Phú,_Da_Nang>
+        rdfs:label  "Hòa Phú, Da Nang"@en .
+
+<http://dbpedia.org/resource/Hợp_Đức,_Bắc_Giang>
+        rdfs:label  "Hợp Đức, Bắc Giang"@en .
+
+dbr:Đại_Hùng_oilfield
+        rdfs:label  "Đại Hùng oilfield"@en .
+
+<http://dbpedia.org/resource/District_3,_Ho_Chi_Minh_City>
+        rdfs:label  "District 3, Ho Chi Minh City"@en .
+
+dbr:Sen_Thượng  rdfs:label  "Sen Thượng"@en .
+
+dbr:Giao_Thủy_district
+        rdfs:label  "Giao Thủy district"@en .
+
+dbr:Cao_Bằng_province
+        rdfs:label  "Cao Bằng province"@en .
+
+dbr:Mèo_Vạc  rdfs:label  "Mèo Vạc"@en .
+
+dbr:Krông_Nô_district
+        rdfs:label  "Krông Nô district"@en .
+
+<http://dbpedia.org/resource/Trung_Thu_(commune)>
+        rdfs:label  "Trung Thu (commune)"@en .
+
+dbr:Tam_Dị  rdfs:label  "Tam Dị"@en .
+
+dbr:Lương_Tài_district
+        rdfs:label  "Lương Tài district"@en .
+
+dbr:Hóa_Sơn  rdfs:label  "Hóa Sơn"@en .
+
+<http://dbpedia.org/resource/Phú_Hội,_An_Giang>
+        rdfs:label  "Phú Hội, An Giang"@en .
+
+dbr:Hủ_tiếu  rdfs:label  "Hủ tiếu"@en .
+
+<http://dbpedia.org/resource/Ward_1,_Da_Lat>
+        rdfs:label  "Ward 1, Da Lat"@en .
+
+<http://dbpedia.org/resource/Tân_Hưng,_Bắc_Giang>
+        rdfs:label  "Tân Hưng, Bắc Giang"@en .
+
+dbr:Sín_Thầu  rdfs:label  "Sín Thầu"@en .
+
+dbr:Kông_Chro  rdfs:label  "Kông Chro"@en .
+
+dbr:Trí_Phải  rdfs:label  "Trí Phải"@en .
+
+dbr:Phước_Tỉnh  rdfs:label  "Phước Tỉnh"@en .
+
+<http://dbpedia.org/resource/Xuân_Ninh,_Quảng_Bình>
+        rdfs:label  "Xuân Ninh, Quảng Bình"@en .
+
+dbr:Pleiku  rdfs:label  "Pleiku"@en .
+
+dbr:Vĩnh_Lộc_district
+        rdfs:label  "Vĩnh Lộc district"@en .
+
+dbr:Bù_Đốp_district  rdfs:label  "Bù Đốp district"@en .
+
+<http://dbpedia.org/resource/Ngọc_Sơn,_Bắc_Giang>
+        rdfs:label  "Ngọc Sơn, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/341st_Division_(Vietnam)>
+        rdfs:label  "341st Division (Vietnam)"@en .
+
+dbr:Long_Hồ_district  rdfs:label  "Long Hồ district"@en .
+
+dbr:Danh_Thắng  rdfs:label  "Danh Thắng"@en .
+
+<http://dbpedia.org/resource/Bắc_Hà_(township)>
+        rdfs:label  "Bắc Hà (township)"@en .
+
+dbr:Ba_Chúc  rdfs:label  "Ba Chúc"@en .
+
+dbr:Cần_Giuộc  rdfs:label  "Cần Giuộc"@en .
+
+dbr:Bằng_Thành  rdfs:label  "Bằng Thành"@en .
+
+dbr:Đổng_Xá  rdfs:label  "Đổng Xá"@en .
+
+dbr:Hòn_Đất  rdfs:label  "Hòn Đất"@en .
+
+<http://dbpedia.org/resource/Hùng_Sơn,_Thái_Nguyên>
+        rdfs:label  "Hùng Sơn, Thái Nguyên"@en .
+
+dbr:Ho_Chi_Minh_Communist_Youth_Union
+        rdfs:label  "Ho Chi Minh Communist Youth Union"@en .
+
+dbr:Hương_Sơn_district
+        rdfs:label  "Hương Sơn district"@en .
+
+dbr:Bình_Phước_province
+        rdfs:label  "Bình Phước province"@en .
+
+dbr:Chợ_Mới  rdfs:label  "Chợ Mới"@en .
+
+dbr:Hoằng_Phúc_Pagoda
+        rdfs:label  "Hoằng Phúc Pagoda"@en .
+
+dbr:Vũ_Quang_district
+        rdfs:label  "Vũ Quang district"@en .
+
+dbr:Đình_Lập_district
+        rdfs:label  "Đình Lập district"@en .
+
+dbr:Yên_Khánh_district
+        rdfs:label  "Yên Khánh district"@en .
+
+<http://dbpedia.org/resource/Mỹ_Bình,_An_Giang>
+        rdfs:label  "Mỹ Bình, An Giang"@en .
+
+<http://dbpedia.org/resource/Hải_Phú,_Quảng_Bình>
+        rdfs:label  "Hải Phú, Quảng Bình"@en .
+
+dbr:Hoàng_Su_Phì_district
+        rdfs:label  "Hoàng Su Phì district"@en .
+
+dbr:Trần_Thới  rdfs:label  "Trần Thới"@en .
+
+dbr:Tứ_Kỳ  rdfs:label  "Tứ Kỳ"@en .
+
+dbr:Phình_Sáng  rdfs:label  "Phình Sáng"@en .
+
+dbr:Nông_Thượng  rdfs:label  "Nông Thượng"@en .
+
+dbr:Mường_Thanh  rdfs:label  "Mường Thanh"@en .
+
+dbr:Trần_Tuấn_Minh  rdfs:label  "Trần Tuấn Minh"@en .
+
+dbr:Đồng_Xoài  rdfs:label  "Đồng Xoài"@en .
+
+<http://dbpedia.org/resource/Thành_An,_Bến_Tre>
+        rdfs:label  "Thành An, Bến Tre"@en .
+
+dbr:An_Trạch  rdfs:label  "An Trạch"@en .
+
+dbr:Bắc_Từ_Liêm_district
+        rdfs:label  "Bắc Từ Liêm district"@en .
+
+dbr:Châu_Giang  rdfs:label  "Châu Giang"@en .
+
+dbr:Lai_Châu_Dam  rdfs:label  "Lai Châu Dam"@en .
+
+dbr:Triệu_Sơn_district
+        rdfs:label  "Triệu Sơn district"@en .
+
+dbr:Thăng_Bình_district
+        rdfs:label  "Thăng Bình district"@en .
+
+dbr:An_Thạnh_Trung  rdfs:label  "An Thạnh Trung"@en .
+
+dbr:Bún_bò_Huế  rdfs:label  "Bún bò Huế"@en .
+
+dbr:Phú_Bình_district
+        rdfs:label  "Phú Bình district"@en .
+
+<http://dbpedia.org/resource/Trường_Giang,_Bắc_Giang>
+        rdfs:label  "Trường Giang, Bắc Giang"@en .
+
+dbr:Đại_Sảo  rdfs:label  "Đại Sảo"@en .
+
+dbr:Gò_Găng_Island  rdfs:label  "Gò Găng Island"@en .
+
+dbr:Thanh_Nưa  rdfs:label  "Thanh Nưa"@en .
+
+dbr:Lê_Hóa  rdfs:label  "Lê Hóa"@en .
+
+dbr:Cam_Lâm_district  rdfs:label  "Cam Lâm district"@en .
+
+dbr:Krông_Pa_district
+        rdfs:label  "Krông Pa district"@en .
+
+dbr:Diễn_Châu_district
+        rdfs:label  "Diễn Châu district"@en .
+
+<http://dbpedia.org/resource/Dumb_Luck_(novel)>
+        rdfs:label  "Dumb Luck (novel)"@en .
+
+<http://dbpedia.org/resource/Nguyễn_Thị_Minh_Khai,_Bắc_Kạn>
+        rdfs:label  "Nguyễn Thị Minh Khai, Bắc Kạn"@en .
+
+dbr:Hoàng_Trĩ  rdfs:label  "Hoàng Trĩ"@en .
+
+dbr:Hoa_Sen_University
+        rdfs:label  "Hoa Sen University"@en .
+
+dbr:Khám_Lạng  rdfs:label  "Khám Lạng"@en .
+
+dbr:Đăk_Mil_district  rdfs:label  "Đăk Mil district"@en .
+
+dbr:Xá_Nhè  rdfs:label  "Xá Nhè"@en .
+
+dbr:Keo_Lôm  rdfs:label  "Keo Lôm"@en .
+
+dbr:Biển_Động  rdfs:label  "Biển Động"@en .
+
+dbr:Ho_Chi_Minh_City_University_of_Economics_and_Finance
+        rdfs:label  "Ho Chi Minh City University of Economics and Finance"@en .
+
+dbr:Huyền_Tụng  rdfs:label  "Huyền Tụng"@en .
+
+<http://dbpedia.org/resource/Mỹ_Đức,_An_Giang>
+        rdfs:label  "Mỹ Đức, An Giang"@en .
+
+<http://dbpedia.org/resource/Quảng_Khê,_Bắc_Kạn>
+        rdfs:label  "Quảng Khê, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/Hiệp_Lực,_Bắc_Kạn>
+        rdfs:label  "Hiệp Lực, Bắc Kạn"@en .
+
+dbr:Dak_Glei  rdfs:label  "Dak Glei"@en .
+
+dbr:Long_Biên_station
+        rdfs:label  "Long Biên station"@en .
+
+dbr:Nà_Sáy  rdfs:label  "Nà Sáy"@en .
+
+dbr:Võ_Ninh  rdfs:label  "Võ Ninh"@en .
+
+<http://dbpedia.org/resource/The_Tailor_(film)>
+        rdfs:label  "The Tailor (film)"@en .
+
+dbr:Ea_Súp_district  rdfs:label  "Ea Súp district"@en .
+
+dbr:Hà_Tĩnh_province  rdfs:label  "Hà Tĩnh province"@en .
+
+dbr:Đông_Á_University
+        rdfs:label  "Đông Á University"@en .
+
+dbr:Thạch_Thành_district
+        rdfs:label  "Thạch Thành district"@en .
+
+<http://dbpedia.org/resource/Đông_Khê,_Cao_Bằng>
+        rdfs:label  "Đông Khê, Cao Bằng"@en .
+
+<http://dbpedia.org/resource/Hòa_Mỹ,_Cà_Mau>
+        rdfs:label  "Hòa Mỹ, Cà Mau"@en .
+
+dbr:Thạnh_Trị_district
+        rdfs:label  "Thạnh Trị district"@en .
+
+dbr:Bắc_Kạn_province  rdfs:label  "Bắc Kạn province"@en .
+
+dbr:Chàm_Islands  rdfs:label  "Chàm Islands"@en .
+
+dbr:An_Hảo  rdfs:label  "An Hảo"@en .
+
+dbr:Điện_Biên_district
+        rdfs:label  "Điện Biên district"@en .
+
+<http://dbpedia.org/resource/An_Phú,_Tịnh_Biên>
+        rdfs:label  "An Phú, Tịnh Biên"@en .
+
+dbr:Pu_Nhi  rdfs:label  "Pu Nhi"@en .
+
+<http://dbpedia.org/resource/Hương_Lâm,_Bắc_Giang>
+        rdfs:label  "Hương Lâm, Bắc Giang"@en .
+
+dbr:Saigon_South_International_School
+        rdfs:label  "Saigon South International School"@en .
+
+dbr:Trảng_Bom  rdfs:label  "Trảng Bom"@en .
+
+dbr:Vietnamese_National_U-17_Football_Championship
+        rdfs:label  "Vietnamese National U-17 Football Championship"@en .
+
+dbr:Dray_Sáp  rdfs:label  "Dray Sáp"@en .
+
+dbr:Đồ_Sơn_district  rdfs:label  "Đồ Sơn district"@en .
+
+dbr:Hàm_Long_Church  rdfs:label  "Hàm Long Church"@en .
+
+dbr:Nam_Mẫu  rdfs:label  "Nam Mẫu"@en .
+
+<http://dbpedia.org/resource/Thanh_Bình,_Điện_Biên>
+        rdfs:label  "Thanh Bình, Điện Biên"@en .
+
+dbr:Vũng_Tàu  rdfs:label  "Vũng Tàu"@en .
+
+dbr:University_of_Economics_and_Law
+        rdfs:label  "University of Economics and Law"@en .
+
+<http://dbpedia.org/resource/Tân_Thạnh,_Bạc_Liêu>
+        rdfs:label  "Tân Thạnh, Bạc Liêu"@en .
+
+dbr:Hoa_Lư_district  rdfs:label  "Hoa Lư district"@en .
+
+<http://dbpedia.org/resource/Tân_Tiến,_Cà_Mau>
+        rdfs:label  "Tân Tiến, Cà Mau"@en .
+
+dbr:Hàng_Trạm  rdfs:label  "Hàng Trạm"@en .
+
+dbr:Ho_Chi_Minh_City_University_of_Science
+        rdfs:label  "Ho Chi Minh City University of Science"@en .
+
+dbr:Khang_Ninh  rdfs:label  "Khang Ninh"@en .
+
+<http://dbpedia.org/resource/Tân_Sơn,_Bắc_Giang>
+        rdfs:label  "Tân Sơn, Bắc Giang"@en .
+
+dbr:Cư_Prao  rdfs:label  "Cư Prao"@en .
+
+dbr:Xuân_Hương  rdfs:label  "Xuân Hương"@en .
+
+<http://dbpedia.org/resource/Cô_Tô,_An_Giang>
+        rdfs:label  "Cô Tô, An Giang"@en .
+
+dbr:Banking_University_of_Ho_Chi_Minh_City
+        rdfs:label  "Banking University of Ho Chi Minh City"@en .
+
+dbr:Nà_Bủng  rdfs:label  "Nà Bủng"@en .
+
+dbr:Lê_Thanh_Tú  rdfs:label  "Lê Thanh Tú"@en .
+
+dbr:Sơn_Trà_district  rdfs:label  "Sơn Trà district"@en .
+
+<http://dbpedia.org/resource/Phúc_Sơn,_Tân_Yên>
+        rdfs:label  "Phúc Sơn, Tân Yên"@en .
+
+dbr:Long_Biên_district
+        rdfs:label  "Long Biên district"@en .
+
+dbr:Chư_Sê_district  rdfs:label  "Chư Sê district"@en .
+
+dbr:Bình_Thủy_district
+        rdfs:label  "Bình Thủy district"@en .
+
+dbr:Kế_Sách_district  rdfs:label  "Kế Sách district"@en .
+
+dbr:Thanh_Khê_district
+        rdfs:label  "Thanh Khê district"@en .
+
+dbr:Vĩnh_Nhuận  rdfs:label  "Vĩnh Nhuận"@en .
+
+dbr:Vĩnh_Phúc_province
+        rdfs:label  "Vĩnh Phúc province"@en .
+
+<http://dbpedia.org/resource/Phúc_Sơn,_Sơn_Động>
+        rdfs:label  "Phúc Sơn, Sơn Động"@en .
+
+dbr:Bắc_Yên  rdfs:label  "Bắc Yên"@en .
+
+dbr:Mậu_A  rdfs:label  "Mậu A"@en .
+
+dbr:Kinh_Môn  rdfs:label  "Kinh Môn"@en .
+
+dbr:Ia_Kha  rdfs:label  "Ia Kha"@en .
+
+<http://dbpedia.org/resource/Ward_1,_District_6>
+        rdfs:label  "Ward 1, District 6"@en .
+
+dbr:Mộc_Hóa_district  rdfs:label  "Mộc Hóa district"@en .
+
+dbr:Gò_Công  rdfs:label  "Gò Công"@en .
+
+dbr:Đan_Phượng_district
+        rdfs:label  "Đan Phượng district"@en .
+
+<http://dbpedia.org/resource/Vietnam_People's_Navy>
+        rdfs:label  "Vietnam People's Navy"@en .
+
+dbr:Vĩnh_Hưng_district
+        rdfs:label  "Vĩnh Hưng district"@en .
+
+dbr:Mường_Nhà  rdfs:label  "Mường Nhà"@en .
+
+dbr:Côn_Minh  rdfs:label  "Côn Minh"@en .
+
+dbr:Nội_Hoàng  rdfs:label  "Nội Hoàng"@en .
+
+dbr:Tân_Kỳ_district  rdfs:label  "Tân Kỳ district"@en .
+
+dbr:Chợ_Lách  rdfs:label  "Chợ Lách"@en .
+
+<http://dbpedia.org/resource/Đông_Xuyên,_An_Giang>
+        rdfs:label  "Đông Xuyên, An Giang"@en .
+
+dbr:Tủa_Thàng  rdfs:label  "Tủa Thàng"@en .
+
+dbr:Mộc_Châu_district
+        rdfs:label  "Mộc Châu district"@en .
+
+dbr:Anh_Sơn_district  rdfs:label  "Anh Sơn district"@en .
+
+dbr:Lấp_Vò_district  rdfs:label  "Lấp Vò district"@en .
+
+dbr:Phú_Giáo_district
+        rdfs:label  "Phú Giáo district"@en .
+
+<http://dbpedia.org/resource/The_Golden_Key_(2001_film)>
+        rdfs:label  "The Golden Key (2001 film)"@en .
+
+dbr:Chung_Chải  rdfs:label  "Chung Chải"@en .
+
+<http://dbpedia.org/resource/Hòa_Hội,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Hòa Hội, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Quý_Sơn  rdfs:label  "Quý Sơn"@en .
+
+<http://dbpedia.org/resource/Tân_Hòa,_An_Giang>
+        rdfs:label  "Tân Hòa, An Giang"@en .
+
+dbr:Nhà_Bè  rdfs:label  "Nhà Bè"@en .
+
+<http://dbpedia.org/resource/Cao_Xá,_Bắc_Giang>
+        rdfs:label  "Cao Xá, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Kim_Liên,_Nghệ_An>
+        rdfs:label  "Kim Liên, Nghệ An"@en .
+
+dbr:Ngọc_Lặc_district
+        rdfs:label  "Ngọc Lặc district"@en .
+
+dbr:Mù_Cang_Chải  rdfs:label  "Mù Cang Chải"@en .
+
+dbr:Đồng_Nai_province
+        rdfs:label  "Đồng Nai province"@en .
+
+dbr:Da_Nang  rdfs:label  "Da Nang"@en .
+
+dbr:Na_Son  rdfs:label  "Na Son"@en .
+
+dbr:Đại_Từ_district  rdfs:label  "Đại Từ district"@en .
+
+dbr:Tuy_Phong_district
+        rdfs:label  "Tuy Phong district"@en .
+
+dbr:Vietnamese_noodles
+        rdfs:label  "Vietnamese noodles"@en .
+
+dbr:Nam_Từ_Liêm_district
+        rdfs:label  "Nam Từ Liêm district"@en .
+
+<http://dbpedia.org/resource/Tân_Châu,_An_Giang>
+        rdfs:label  "Tân Châu, An Giang"@en .
+
+dbr:Phan_Thiết  rdfs:label  "Phan Thiết"@en .
+
+<http://dbpedia.org/resource/Hưng_Thịnh,_Trấn_Yên>
+        rdfs:label  "Hưng Thịnh, Trấn Yên"@en .
+
+<http://dbpedia.org/resource/3rd_Corps_(Vietnam)>
+        rdfs:label  "3rd Corps (Vietnam)"@en .
+
+dbr:Sam_Mứn  rdfs:label  "Sam Mứn"@en .
+
+dbr:Lào_Cai_province  rdfs:label  "Lào Cai province"@en .
+
+dbr:Đại_Nài  rdfs:label  "Đại Nài"@en .
+
+<http://dbpedia.org/resource/Vietnam_National_University,_Ho_Chi_Minh_City>
+        rdfs:label  "Vietnam National University, Ho Chi Minh City"@en .
+
+dbr:MasterChef_Vietnam
+        rdfs:label  "MasterChef Vietnam"@en .
+
+dbr:Ia_Ly  rdfs:label  "Ia Ly"@en .
+
+dbr:Lệ_Viễn  rdfs:label  "Lệ Viễn"@en .
+
+dbr:Đắk_Đoa_district  rdfs:label  "Đắk Đoa district"@en .
+
+dbr:Liêm_Thủy  rdfs:label  "Liêm Thủy"@en .
+
+dbr:Thường_Xuân_district
+        rdfs:label  "Thường Xuân district"@en .
+
+dbr:Kông_Chro_district
+        rdfs:label  "Kông Chro district"@en .
+
+dbr:Vĩnh_Trạch_Đông  rdfs:label  "Vĩnh Trạch Đông"@en .
+
+dbr:Đăk_Tô  rdfs:label  "Đăk Tô"@en .
+
+dbr:Hà_Giang_province
+        rdfs:label  "Hà Giang province"@en .
+
+<http://dbpedia.org/resource/Quang_Tiến,_Bắc_Giang>
+        rdfs:label  "Quang Tiến, Bắc Giang"@en .
+
+dbr:Nguyễn_Thị_Thanh_An
+        rdfs:label  "Nguyễn Thị Thanh An"@en .
+
+dbr:Dong_Thap_University
+        rdfs:label  "Dong Thap University"@en .
+
+dbr:Iron_Chef_Vietnam
+        rdfs:label  "Iron Chef Vietnam"@en .
+
+dbr:Vĩnh_Lợi_district
+        rdfs:label  "Vĩnh Lợi district"@en .
+
+dbr:Yên_Phong_district
+        rdfs:label  "Yên Phong district"@en .
+
+dbr:Long_Thành_district
+        rdfs:label  "Long Thành district"@en .
+
+dbr:Trù_Hựu  rdfs:label  "Trù Hựu"@en .
+
+dbr:Láng_Dài  rdfs:label  "Láng Dài"@en .
+
+<http://dbpedia.org/resource/Đồng_Thắng,_Bắc_Kạn>
+        rdfs:label  "Đồng Thắng, Bắc Kạn"@en .
+
+dbr:Bánh_chuối  rdfs:label  "Bánh chuối"@en .
+
+<http://dbpedia.org/resource/7th_Infantry_Division_(Vietnam)>
+        rdfs:label  "7th Infantry Division (Vietnam)"@en .
+
+<http://dbpedia.org/resource/Bình_An,_Bình_Dương>
+        rdfs:label  "Bình An, Bình Dương"@en .
+
+dbr:Bến_Cầu  rdfs:label  "Bến Cầu"@en .
+
+dbr:Quài_Tở  rdfs:label  "Quài Tở"@en .
+
+<http://dbpedia.org/resource/Thanh_Tân,_Bến_Tre>
+        rdfs:label  "Thanh Tân, Bến Tre"@en .
+
+<http://dbpedia.org/resource/Ward_3,_Bạc_Liêu>
+        rdfs:label  "Ward 3, Bạc Liêu"@en .
+
+dbr:Sông_Công  rdfs:label  "Sông Công"@en .
+
+dbr:Tam_Bình_district
+        rdfs:label  "Tam Bình district"@en .
+
+dbr:Mường_Ảng  rdfs:label  "Mường Ảng"@en .
+
+dbr:Hà_Nam_province  rdfs:label  "Hà Nam province"@en .
+
+dbr:Nghi_Sơn_Refinery
+        rdfs:label  "Nghi Sơn Refinery"@en .
+
+<http://dbpedia.org/resource/Ninh_Hòa,_Bạc_Liêu>
+        rdfs:label  "Ninh Hòa, Bạc Liêu"@en .
+
+dbr:Vietnamese-German_University
+        rdfs:label  "Vietnamese-German University"@en .
+
+dbr:The_Voice_Kids_of_Vietnam
+        rdfs:label  "The Voice Kids of Vietnam"@en .
+
+dbr:Viva_Vietnam:_A_White_Trash_Adventure_Tour
+        rdfs:label  "Viva Vietnam: A White Trash Adventure Tour"@en .
+
+dbr:Nghĩa_Hưng_district
+        rdfs:label  "Nghĩa Hưng district"@en .
+
+dbr:The_Children_of_Mon_and_Man
+        rdfs:label  "The Children of Mon and Man"@en .
+
+dbr:Tây_Yên_Tử  rdfs:label  "Tây Yên Tử"@en .
+
+<http://dbpedia.org/resource/St._Joseph's_Cathedral,_Hanoi>
+        rdfs:label  "St. Joseph's Cathedral, Hanoi"@en .
+
+dbr:The_Amazing_Race_Vietnam_2013
+        rdfs:label  "The Amazing Race Vietnam 2013"@en .
+
+dbr:Nghĩa_Tá  rdfs:label  "Nghĩa Tá"@en .
+
+dbr:2021_Vietnamese_legislative_election
+        rdfs:label  "2021 Vietnamese legislative election"@en .
+
+<http://dbpedia.org/resource/District_12,_Ho_Chi_Minh_City>
+        rdfs:label  "District 12, Ho Chi Minh City"@en .
+
+dbr:Mỏ_Cày_district  rdfs:label  "Mỏ Cày district"@en .
+
+dbr:Lai_Uyên  rdfs:label  "Lai Uyên"@en .
+
+dbr:Cái_Đôi_Vàm  rdfs:label  "Cái Đôi Vàm"@en .
+
+<http://dbpedia.org/resource/M'Đrăk_district>
+        rdfs:label  "M'Đrăk district"@en .
+
+dbr:Đầm_Dơi  rdfs:label  "Đầm Dơi"@en .
+
+dbr:Tịnh_Biên_district
+        rdfs:label  "Tịnh Biên district"@en .
+
+dbr:Nam_Giang_district
+        rdfs:label  "Nam Giang district"@en .
+
+dbr:Cư_Pui  rdfs:label  "Cư Pui"@en .
+
+<http://dbpedia.org/resource/Phú_Hữu,_An_Giang>
+        rdfs:label  "Phú Hữu, An Giang"@en .
+
+<http://dbpedia.org/resource/Nam_Dương,_Bắc_Giang>
+        rdfs:label  "Nam Dương, Bắc Giang"@en .
+
+dbr:Tuy_Phước_district
+        rdfs:label  "Tuy Phước district"@en .
+
+dbr:The_Apartment_Vietnam
+        rdfs:label  "The Apartment Vietnam"@en .
+
+dbr:Dedication_Music_Award
+        rdfs:label  "Dedication Music Award"@en .
+
+dbr:Chợ_Chu  rdfs:label  "Chợ Chu"@en .
+
+dbr:Bạch_Mai_Hospital
+        rdfs:label  "Bạch Mai Hospital"@en .
+
+dbr:Hanoi_railway_station
+        rdfs:label  "Hanoi railway station"@en .
+
+<http://dbpedia.org/resource/Le_Quy_Don_High_School_for_the_Gifted,_Danang>
+        rdfs:label  "Le Quy Don High School for the Gifted, Danang"@en .
+
+<http://dbpedia.org/resource/Tân_Ninh,_Quảng_Bình>
+        rdfs:label  "Tân Ninh, Quảng Bình"@en .
+
+dbr:Tiền_Giang_province
+        rdfs:label  "Tiền Giang province"@en .
+
+dbr:Đức_Hòa_district  rdfs:label  "Đức Hòa district"@en .
+
+dbr:Sông_Xoài  rdfs:label  "Sông Xoài"@en .
+
+dbr:Chư_Ty  rdfs:label  "Chư Ty"@en .
+
+<http://dbpedia.org/resource/10th_Division_(Vietnam)>
+        rdfs:label  "10th Division (Vietnam)"@en .
+
+dbr:National_Library_of_Vietnam
+        rdfs:label  "National Library of Vietnam"@en .
+
+<http://dbpedia.org/resource/Bình_Dương,_Bình_Định>
+        rdfs:label  "Bình Dương, Bình Định"@en .
+
+<http://dbpedia.org/resource/Sông_Cầu,_Thái_Nguyên>
+        rdfs:label  "Sông Cầu, Thái Nguyên"@en .
+
+dbr:Diplomatic_Academy_of_Vietnam
+        rdfs:label  "Diplomatic Academy of Vietnam"@en .
+
+dbr:Quy_Đạt  rdfs:label  "Quy Đạt"@en .
+
+dbr:Lam_Son_High_School
+        rdfs:label  "Lam Son High School"@en .
+
+dbr:Cần_Đước_district
+        rdfs:label  "Cần Đước district"@en .
+
+dbr:Đạ_Huoai_district
+        rdfs:label  "Đạ Huoai district"@en .
+
+dbr:Núa_Ngam  rdfs:label  "Núa Ngam"@en .
+
+dbr:Bình_Đại  rdfs:label  "Bình Đại"@en .
+
+dbr:VTC_Digital_Television
+        rdfs:label  "VTC Digital Television"@en .
+
+dbr:Minh_Hóa  rdfs:label  "Minh Hóa"@en .
+
+dbr:Vietnam-Sweden_Hospital
+        rdfs:label  "Vietnam-Sweden Hospital"@en .
+
+<http://dbpedia.org/resource/Sơn_Thủy,_Quảng_Bình>
+        rdfs:label  "Sơn Thủy, Quảng Bình"@en .
+
+<http://dbpedia.org/resource/Thuận_An,_Thừa_Thiên_Huế>
+        rdfs:label  "Thuận An, Thừa Thiên Huế"@en .
+
+dbr:Thường_Tín  rdfs:label  "Thường Tín"@en .
+
+dbr:Viên_An_Đông  rdfs:label  "Viên An Đông"@en .
+
+<http://dbpedia.org/resource/Ngô_Quyền,_Bắc_Giang>
+        rdfs:label  "Ngô Quyền, Bắc Giang"@en .
+
+dbr:Red_River_freshwater_swamp_forests
+        rdfs:label  "Red River freshwater swamp forests"@en .
+
+dbr:Vĩnh_Phú_Đông  rdfs:label  "Vĩnh Phú Đông"@en .
+
+dbr:Coconut_candy  rdfs:label  "Coconut candy"@en .
+
+dbr:Thanh_Thủy_district
+        rdfs:label  "Thanh Thủy district"@en .
+
+dbr:Châu_Phú_B  rdfs:label  "Châu Phú B"@en .
+
+dbr:Tân_Hoa  rdfs:label  "Tân Hoa"@en .
+
+dbr:Le_Quy_Don_Technical_University
+        rdfs:label  "Le Quy Don Technical University"@en .
+
+<http://dbpedia.org/resource/Vietnam's_Next_Top_Model_(season_7)>
+        rdfs:label  "Vietnam's Next Top Model (season 7)"@en .
+
+dbr:Long_Kiến  rdfs:label  "Long Kiến"@en .
+
+dbr:Vĩnh_Mỹ_B  rdfs:label  "Vĩnh Mỹ B"@en .
+
+dbr:Southeastern_Indochina_dry_evergreen_forests
+        rdfs:label  "Southeastern Indochina dry evergreen forests"@en .
+
+dbr:Hương_Hóa  rdfs:label  "Hương Hóa"@en .
+
+dbr:Bún_riêu  rdfs:label  "Bún riêu"@en .
+
+dbr:Láng_Tròn  rdfs:label  "Láng Tròn"@en .
+
+dbr:Thanh_Hà_district
+        rdfs:label  "Thanh Hà district"@en .
+
+dbr:Bắc_Nghĩa  rdfs:label  "Bắc Nghĩa"@en .
+
+dbr:Đồng_Cốc  rdfs:label  "Đồng Cốc"@en .
+
+dbr:Nguyễn_Thị_Lụa  rdfs:label  "Nguyễn Thị Lụa"@en .
+
+dbr:TMMC_Cancer_Center
+        rdfs:label  "TMMC Cancer Center"@en .
+
+dbr:Sen_Thủy  rdfs:label  "Sen Thủy"@en .
+
+<http://dbpedia.org/resource/People's_Action_Party_of_Vietnam>
+        rdfs:label  "People's Action Party of Vietnam"@en .
+
+<http://dbpedia.org/resource/Phú_Thuận,_Cà_Mau>
+        rdfs:label  "Phú Thuận, Cà Mau"@en .
+
+dbr:Đức_Cơ_district  rdfs:label  "Đức Cơ district"@en .
+
+dbr:Đất_Mũi  rdfs:label  "Đất Mũi"@en .
+
+dbr:Vôi  rdfs:label  "Vôi"@en .
+
+<http://dbpedia.org/resource/Long_Mỹ,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Long Mỹ, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Cao_Lãnh_district
+        rdfs:label  "Cao Lãnh district"@en .
+
+dbr:Thường_Thới_Tiền  rdfs:label  "Thường Thới Tiền"@en .
+
+dbr:Kon_Rẫy_district  rdfs:label  "Kon Rẫy district"@en .
+
+dbr:Lộc_Ninh_district
+        rdfs:label  "Lộc Ninh district"@en .
+
+dbr:Kép_station  rdfs:label  "Kép station"@en .
+
+dbr:Hải_Hậu_district  rdfs:label  "Hải Hậu district"@en .
+
+<http://dbpedia.org/resource/Tây_Phú,_An_Giang>
+        rdfs:label  "Tây Phú, An Giang"@en .
+
+dbr:Bình_Lục_district
+        rdfs:label  "Bình Lục district"@en .
+
+dbr:International_German_School_Ho_Chi_Minh_City
+        rdfs:label  "International German School Ho Chi Minh City"@en .
+
+dbr:When_the_Tenth_Month_Comes
+        rdfs:label  "When the Tenth Month Comes"@en .
+
+dbr:Thanh_Xương  rdfs:label  "Thanh Xương"@en .
+
+dbr:Vietnamese_Fatherland_Front
+        rdfs:label  "Vietnamese Fatherland Front"@en .
+
+dbr:Vietnam_Futsal_League
+        rdfs:label  "Vietnam Futsal League"@en .
+
+dbr:Châu_Thới  rdfs:label  "Châu Thới"@en .
+
+dbr:Phụng_Hiệp_district
+        rdfs:label  "Phụng Hiệp district"@en .
+
+dbr:Phú_Thiện_district
+        rdfs:label  "Phú Thiện district"@en .
+
+dbr:Hương_Gián  rdfs:label  "Hương Gián"@en .
+
+dbr:Thọ_Xuân_district
+        rdfs:label  "Thọ Xuân district"@en .
+
+<http://dbpedia.org/resource/Tân_Nghĩa,_Bình_Thuận>
+        rdfs:label  "Tân Nghĩa, Bình Thuận"@en .
+
+<http://dbpedia.org/resource/Phước_Hưng,_Bà_Rịa>
+        rdfs:label  "Phước Hưng, Bà Rịa"@en .
+
+<http://dbpedia.org/resource/Châu_Thành_district,_Sóc_Trăng_province>
+        rdfs:label  "Châu Thành district, Sóc Trăng province"@en .
+
+dbr:Bánh_gối  rdfs:label  "Bánh gối"@en .
+
+<http://dbpedia.org/resource/Thien_Hau_Temple_(Ho_Chi_Minh_City)>
+        rdfs:label  "Thien Hau Temple (Ho Chi Minh City)"@en .
+
+dbr:Chợ_Lách_district
+        rdfs:label  "Chợ Lách district"@en .
+
+dbr:Bắc_Bình_district
+        rdfs:label  "Bắc Bình district"@en .
+
+<http://dbpedia.org/resource/Tam_Nông_district,_Phú_Thọ>
+        rdfs:label  "Tam Nông district, Phú Thọ"@en .
+
+dbr:The_White_Silk_Dress
+        rdfs:label  "The White Silk Dress"@en .
+
+<http://dbpedia.org/resource/Phúc_Trạch,_Quảng_Bình>
+        rdfs:label  "Phúc Trạch, Quảng Bình"@en .
+
+dbr:Bát_Xát  rdfs:label  "Bát Xát"@en .
+
+dbr:Roman_Catholic_Diocese_of_Mỹ_Tho
+        rdfs:label  "Roman Catholic Diocese of Mỹ Tho"@en .
+
+<http://dbpedia.org/resource/Disney_Junior_(Southeast_Asian_TV_channel)>
+        rdfs:label  "Disney Junior (Southeast Asian TV channel)"@en .
+
+dbr:Đồng_Hải  rdfs:label  "Đồng Hải"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Hậu,_An_Giang>
+        rdfs:label  "Vĩnh Hậu, An Giang"@en .
+
+dbr:Gio_Linh  rdfs:label  "Gio Linh"@en .
+
+dbr:Vân_Tùng  rdfs:label  "Vân Tùng"@en .
+
+dbr:Ma_Lâm  rdfs:label  "Ma Lâm"@en .
+
+dbr:Lang_Chánh_district
+        rdfs:label  "Lang Chánh district"@en .
+
+dbr:Nghi_Sơn  rdfs:label  "Nghi Sơn"@en .
+
+dbr:Pa_Ham  rdfs:label  "Pa Ham"@en .
+
+<http://dbpedia.org/resource/People's_Police_Television>
+        rdfs:label  "People's Police Television"@en .
+
+dbr:Huế_station  rdfs:label  "Huế station"@en .
+
+dbr:Bánh_bao  rdfs:label  "Bánh bao"@en .
+
+dbr:Cảnh_Dương  rdfs:label  "Cảnh Dương"@en .
+
+dbr:Mộ_Đức  rdfs:label  "Mộ Đức"@en .
+
+<http://dbpedia.org/resource/Tân_Lâm,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Tân Lâm, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Quảng_Yên  rdfs:label  "Quảng Yên"@en .
+
+dbr:Gỏi_cuốn  rdfs:label  "Gỏi cuốn"@en .
+
+dbr:Bình_Gia  rdfs:label  "Bình Gia"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Lộc,_Bạc_Liêu>
+        rdfs:label  "Vĩnh Lộc, Bạc Liêu"@en .
+
+dbr:Hòa_Bình_Dam  rdfs:label  "Hòa Bình Dam"@en .
+
+dbr:Phong_Thạnh_Đông  rdfs:label  "Phong Thạnh Đông"@en .
+
+dbr:Đà_Bắc_district  rdfs:label  "Đà Bắc district"@en .
+
+<http://dbpedia.org/resource/Hưng_Thịnh,_Trảng_Bom>
+        rdfs:label  "Hưng Thịnh, Trảng Bom"@en .
+
+<http://dbpedia.org/resource/Lim,_Bắc_Ninh>
+        rdfs:label  "Lim, Bắc Ninh"@en .
+
+dbr:Thắng_Nhất  rdfs:label  "Thắng Nhất"@en .
+
+dbr:Đông_Hưng_district
+        rdfs:label  "Đông Hưng district"@en .
+
+dbr:Cự_Nẫm  rdfs:label  "Cự Nẫm"@en .
+
+dbr:Krông_Bông_district
+        rdfs:label  "Krông Bông district"@en .
+
+dbr:Đắk_Mâm  rdfs:label  "Đắk Mâm"@en .
+
+dbr:Cầu_Ngang  rdfs:label  "Cầu Ngang"@en .
+
+dbr:Irrigation_in_Vietnam
+        rdfs:label  "Irrigation in Vietnam"@en .
+
+dbr:Vietnamese_Heroic_Mother
+        rdfs:label  "Vietnamese Heroic Mother"@en .
+
+dbr:Life_of_a_Flower  rdfs:label  "Life of a Flower"@en .
+
+dbr:Bạc_Liêu  rdfs:label  "Bạc Liêu"@en .
+
+dbr:Phong_Tân  rdfs:label  "Phong Tân"@en .
+
+dbr:Khánh_Lộc  rdfs:label  "Khánh Lộc"@en .
+
+dbr:Ba_Tri_district  rdfs:label  "Ba Tri district"@en .
+
+<http://dbpedia.org/resource/Hanoi_–_Amsterdam_High_School>
+        rdfs:label  "Hanoi – Amsterdam High School"@en .
+
+<http://dbpedia.org/resource/Thanh_Hóa,_Quảng_Bình>
+        rdfs:label  "Thanh Hóa, Quảng Bình"@en .
+
+dbr:An_Minh_district  rdfs:label  "An Minh district"@en .
+
+<http://dbpedia.org/resource/District_9,_Ho_Chi_Minh_City>
+        rdfs:label  "District 9, Ho Chi Minh City"@en .
+
+<http://dbpedia.org/resource/Bước_nhảy_hoàn_vũ_(season_4)>
+        rdfs:label  "Bước nhảy hoàn vũ (season 4)"@en .
+
+dbr:Thông_Nông  rdfs:label  "Thông Nông"@en .
+
+<http://dbpedia.org/resource/Mỹ_Thọ_(township)>
+        rdfs:label  "Mỹ Thọ (township)"@en .
+
+dbr:Volleyball_Vietnam_League
+        rdfs:label  "Volleyball Vietnam League"@en .
+
+dbr:Quảng_Bình_University
+        rdfs:label  "Quảng Bình University"@en .
+
+dbr:Vân_Đồn_district  rdfs:label  "Vân Đồn district"@en .
+
+<http://dbpedia.org/resource/Phúc_Trạch,_Hà_Tĩnh>
+        rdfs:label  "Phúc Trạch, Hà Tĩnh"@en .
+
+<http://dbpedia.org/resource/West_Lake_(Hanoi)>
+        rdfs:label  "West Lake (Hanoi)"@en .
+
+dbr:Tương_Bình_Hiệp  rdfs:label  "Tương Bình Hiệp"@en .
+
+dbr:Kiến_Xương_district
+        rdfs:label  "Kiến Xương district"@en .
+
+dbr:Hưng_Định  rdfs:label  "Hưng Định"@en .
+
+dbr:Hóa_Thanh  rdfs:label  "Hóa Thanh"@en .
+
+<http://dbpedia.org/resource/Viên_An,_Cà_Mau>
+        rdfs:label  "Viên An, Cà Mau"@en .
+
+dbr:Cái_Nước_district
+        rdfs:label  "Cái Nước district"@en .
+
+dbr:Nậm_Khăn  rdfs:label  "Nậm Khăn"@en .
+
+dbr:Junior_MasterChef_Vietnam
+        rdfs:label  "Junior MasterChef Vietnam"@en .
+
+dbr:Hương_Thủy  rdfs:label  "Hương Thủy"@en .
+
+<http://dbpedia.org/resource/Cao_Lãnh_(city)>
+        rdfs:label  "Cao Lãnh (city)"@en .
+
+dbr:Lạc_Thủy_district
+        rdfs:label  "Lạc Thủy district"@en .
+
+dbr:Lê_Hồng_Phong_High_School_For_The_Gifted
+        rdfs:label  "Lê Hồng Phong High School For The Gifted"@en .
+
+dbr:Bắc_Mê_district  rdfs:label  "Bắc Mê district"@en .
+
+dbr:Cẩm_Khê  rdfs:label  "Cẩm Khê"@en .
+
+dbr:Long_Phú_district
+        rdfs:label  "Long Phú district"@en .
+
+<http://dbpedia.org/resource/Ward_1,_Giá_Rai>
+        rdfs:label  "Ward 1, Giá Rai"@en .
+
+dbr:Hàm_Thuận_Nam_district
+        rdfs:label  "Hàm Thuận Nam district"@en .
+
+dbr:Mai_Trung  rdfs:label  "Mai Trung"@en .
+
+dbr:Quế_Võ_district  rdfs:label  "Quế Võ district"@en .
+
+dbr:Tạ_An_Khương_Đông
+        rdfs:label  "Tạ An Khương Đông"@en .
+
+<http://dbpedia.org/resource/Tân_Phước,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Tân Phước, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Roman_Catholic_Diocese_of_Thái_Bình
+        rdfs:label  "Roman Catholic Diocese of Thái Bình"@en .
+
+dbr:Đồng_Văn_district
+        rdfs:label  "Đồng Văn district"@en .
+
+dbr:Tràng_Định_district
+        rdfs:label  "Tràng Định district"@en .
+
+dbr:Tấn_Mỹ  rdfs:label  "Tấn Mỹ"@en .
+
+<http://dbpedia.org/resource/Sơn_Thành,_Bắc_Kạn>
+        rdfs:label  "Sơn Thành, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/Tân_Phú_district,_Ho_Chi_Minh_City>
+        rdfs:label  "Tân Phú district, Ho Chi Minh City"@en .
+
+dbr:Tiền_Hải  rdfs:label  "Tiền Hải"@en .
+
+dbr:Hòa_Bình_district
+        rdfs:label  "Hòa Bình district"@en .
+
+dbr:Phú_Ninh_District
+        rdfs:label  "Phú Ninh District"@en .
+
+<http://dbpedia.org/resource/Ward_1,_Vũng_Tàu>
+        rdfs:label  "Ward 1, Vũng Tàu"@en .
+
+<http://dbpedia.org/resource/Đức_Phong,_Bình_Phước>
+        rdfs:label  "Đức Phong, Bình Phước"@en .
+
+<http://dbpedia.org/resource/Phước_Long_(commune_in_Bạc_Liêu)>
+        rdfs:label  "Phước Long (commune in Bạc Liêu)"@en .
+
+dbr:Kon_Tum_province  rdfs:label  "Kon Tum province"@en .
+
+dbr:Hanoi_University_of_Civil_Engineering
+        rdfs:label  "Hanoi University of Civil Engineering"@en .
+
+dbr:Bãi_Cháy  rdfs:label  "Bãi Cháy"@en .
+
+<http://dbpedia.org/resource/Ward_4,_Vũng_Tàu>
+        rdfs:label  "Ward 4, Vũng Tàu"@en .
+
+<http://dbpedia.org/resource/Đồng_Tiến,_Bắc_Giang>
+        rdfs:label  "Đồng Tiến, Bắc Giang"@en .
+
+dbr:Biên_Hòa  rdfs:label  "Biên Hòa"@en .
+
+<http://dbpedia.org/resource/Vân_Canh,_Bình_Định>
+        rdfs:label  "Vân Canh, Bình Định"@en .
+
+<http://dbpedia.org/resource/Ward_1,_Tuy_Hòa>
+        rdfs:label  "Ward 1, Tuy Hòa"@en .
+
+dbr:Đá_Bạc  rdfs:label  "Đá Bạc"@en .
+
+dbr:Ngan_Phan-Koshnitsky
+        rdfs:label  "Ngan Phan-Koshnitsky"@en .
+
+dbr:Lĩnh_Nam  rdfs:label  "Lĩnh Nam"@en .
+
+<http://dbpedia.org/resource/Ward_7,_Vũng_Tàu>
+        rdfs:label  "Ward 7, Vũng Tàu"@en .
+
+dbr:Nguyen_Quang_Dieu_High_School_for_the_Gifted
+        rdfs:label  "Nguyen Quang Dieu High School for the Gifted"@en .
+
+dbr:Dương_Minh_Châu_district
+        rdfs:label  "Dương Minh Châu district"@en .
+
+<http://dbpedia.org/resource/Yên_Thế_(township)>
+        rdfs:label  "Yên Thế (township)"@en .
+
+dbr:Noong_Bua  rdfs:label  "Noong Bua"@en .
+
+dbr:Ninh_Bình_province
+        rdfs:label  "Ninh Bình province"@en .
+
+dbr:Trùng_Khánh_district
+        rdfs:label  "Trùng Khánh district"@en .
+
+dbr:Đào_Mỹ  rdfs:label  "Đào Mỹ"@en .
+
+dbr:Đông_Triều  rdfs:label  "Đông Triều"@en .
+
+dbr:Việt_Lập  rdfs:label  "Việt Lập"@en .
+
+dbr:VNU_University_of_Languages_and_International_Studies
+        rdfs:label  "VNU University of Languages and International Studies"@en .
+
+dbr:Gia_Lộc_district  rdfs:label  "Gia Lộc district"@en .
+
+dbr:Thủ_Thừa_district
+        rdfs:label  "Thủ Thừa district"@en .
+
+dbr:Yên_Cư  rdfs:label  "Yên Cư"@en .
+
+dbr:Lãng_Sơn  rdfs:label  "Lãng Sơn"@en .
+
+dbr:Pú_Nhung  rdfs:label  "Pú Nhung"@en .
+
+<http://dbpedia.org/resource/Mỹ_Thạnh,_An_Giang>
+        rdfs:label  "Mỹ Thạnh, An Giang"@en .
+
+<http://dbpedia.org/resource/Phạm_Ngũ_Lão,_District_1>
+        rdfs:label  "Phạm Ngũ Lão, District 1"@en .
+
+dbr:Na_Hang  rdfs:label  "Na Hang"@en .
+
+<http://dbpedia.org/resource/Lê_Chánh_(commune)>
+        rdfs:label  "Lê Chánh (commune)"@en .
+
+dbr:Chư_Pưh_district  rdfs:label  "Chư Pưh district"@en .
+
+<http://dbpedia.org/resource/Ward_1,_Phú_Nhuận_District>
+        rdfs:label  "Ward 1, Phú Nhuận District"@en .
+
+dbr:Ho_Chi_Minh_City_metropolitan_area
+        rdfs:label  "Ho Chi Minh City metropolitan area"@en .
+
+dbr:Châu_Thành_A_district
+        rdfs:label  "Châu Thành A district"@en .
+
+dbr:Cẩm_Khê_district  rdfs:label  "Cẩm Khê district"@en .
+
+dbr:Franco-Vietnamese_Hospital
+        rdfs:label  "Franco-Vietnamese Hospital"@en .
+
+<http://dbpedia.org/resource/308th_Infantry_Division_(Vietnam)>
+        rdfs:label  "308th Infantry Division (Vietnam)"@en .
+
+dbr:Duy_Tiên  rdfs:label  "Duy Tiên"@en .
+
+dbr:Lâm_Trạch  rdfs:label  "Lâm Trạch"@en .
+
+<http://dbpedia.org/resource/Vân_Hà,_Bắc_Giang>
+        rdfs:label  "Vân Hà, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Thanh_Bình,_Đồng_Tháp>
+        rdfs:label  "Thanh Bình, Đồng Tháp"@en .
+
+dbr:Phong_Minh  rdfs:label  "Phong Minh"@en .
+
+dbr:Điện_Bàn  rdfs:label  "Điện Bàn"@en .
+
+dbr:Sầm_Sơn  rdfs:label  "Sầm Sơn"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Bình,_An_Giang>
+        rdfs:label  "Vĩnh Bình, An Giang"@en .
+
+dbr:Gia_Lâm_station  rdfs:label  "Gia Lâm station"@en .
+
+dbr:Bồng_Am  rdfs:label  "Bồng Am"@en .
+
+dbr:Quảng_Kim  rdfs:label  "Quảng Kim"@en .
+
+<http://dbpedia.org/resource/Bình_Chánh,_An_Giang>
+        rdfs:label  "Bình Chánh, An Giang"@en .
+
+dbr:Hưng_Hà_district  rdfs:label  "Hưng Hà district"@en .
+
+<http://dbpedia.org/resource/High_School_for_Gifted_Students,_Hanoi_University_of_Science>
+        rdfs:label  "High School for Gifted Students, Hanoi University of Science"@en .
+
+<http://dbpedia.org/resource/Yên_Minh,_Hà_Giang>
+        rdfs:label  "Yên Minh, Hà Giang"@en .
+
+dbr:Núi_Tô  rdfs:label  "Núi Tô"@en .
+
+dbr:Nà_Nhạn  rdfs:label  "Nà Nhạn"@en .
+
+dbr:Cai_Lậy_district  rdfs:label  "Cai Lậy district"@en .
+
+dbr:Cam_Lộ  rdfs:label  "Cam Lộ"@en .
+
+<http://dbpedia.org/resource/Tân_Hải,_Cà_Mau>
+        rdfs:label  "Tân Hải, Cà Mau"@en .
+
+dbr:Đắk_Buk_So  rdfs:label  "Đắk Buk So"@en .
+
+<http://dbpedia.org/resource/Trung_Sơn,_Bắc_Giang>
+        rdfs:label  "Trung Sơn, Bắc Giang"@en .
+
+dbr:Gò_Công_Tây_district
+        rdfs:label  "Gò Công Tây district"@en .
+
+dbr:Bánh_lá  rdfs:label  "Bánh lá"@en .
+
+dbr:Bảo_Yên_district  rdfs:label  "Bảo Yên district"@en .
+
+dbr:Tịnh_Biên  rdfs:label  "Tịnh Biên"@en .
+
+dbr:Long_Điền_Đông_A  rdfs:label  "Long Điền Đông A"@en .
+
+<http://dbpedia.org/resource/Mỹ_Hiệp,_An_Giang>
+        rdfs:label  "Mỹ Hiệp, An Giang"@en .
+
+dbr:Tân_Phước_district
+        rdfs:label  "Tân Phước district"@en .
+
+dbr:Roman_Catholic_Diocese_of_Phan_Thiết
+        rdfs:label  "Roman Catholic Diocese of Phan Thiết"@en .
+
+dbr:Lâm_Hóa  rdfs:label  "Lâm Hóa"@en .
+
+dbr:Trung_Trạch  rdfs:label  "Trung Trạch"@en .
+
+dbr:Hoàng_Sa_district
+        rdfs:label  "Hoàng Sa district"@en .
+
+dbr:Phủ_Lý  rdfs:label  "Phủ Lý"@en .
+
+<http://dbpedia.org/resource/Le_Quy_Don_High_School_for_the_Gifted,_Vung_Tau>
+        rdfs:label  "Le Quy Don High School for the Gifted, Vung Tau"@en .
+
+dbr:Landmark_81  rdfs:label  "Landmark 81"@en .
+
+dbr:Tân_Sơn_district  rdfs:label  "Tân Sơn district"@en .
+
+<http://dbpedia.org/resource/Bình_Mỹ,_An_Giang>
+        rdfs:label  "Bình Mỹ, An Giang"@en .
+
+dbr:Nà_Khoa  rdfs:label  "Nà Khoa"@en .
+
+dbr:Thạch_Hà_district
+        rdfs:label  "Thạch Hà district"@en .
+
+dbr:Lê_Quang_Liêm  rdfs:label  "Lê Quang Liêm"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Phú,_Bình_Dương>
+        rdfs:label  "Vĩnh Phú, Bình Dương"@en .
+
+<http://dbpedia.org/resource/Long_Tân,_Bà_Rịa–Vũng_Tàu>
+        rdfs:label  "Long Tân, Bà Rịa–Vũng Tàu"@en .
+
+dbr:Văn_Giang  rdfs:label  "Văn Giang"@en .
+
+<http://dbpedia.org/resource/Vân_Sơn,_Bắc_Giang>
+        rdfs:label  "Vân Sơn, Bắc Giang"@en .
+
+dbr:Đăk_Song_district
+        rdfs:label  "Đăk Song district"@en .
+
+dbr:Hanoi_Opera_House
+        rdfs:label  "Hanoi Opera House"@en .
+
+dbr:Ngãi_Giao  rdfs:label  "Ngãi Giao"@en .
+
+<http://dbpedia.org/resource/Thanh_Thủy,_Quảng_Bình>
+        rdfs:label  "Thanh Thủy, Quảng Bình"@en .
+
+<http://dbpedia.org/resource/Bình_Sơn,_Bắc_Giang>
+        rdfs:label  "Bình Sơn, Bắc Giang"@en .
+
+dbr:Đồng_Việt  rdfs:label  "Đồng Việt"@en .
+
+<http://dbpedia.org/resource/Hòa_Thạnh,_Tân_Phú>
+        rdfs:label  "Hòa Thạnh, Tân Phú"@en .
+
+dbr:Ho_Chi_Minh_City_University_of_Information_Technology
+        rdfs:label  "Ho Chi Minh City University of Information Technology"@en .
+
+dbr:Lợi_An  rdfs:label  "Lợi An"@en .
+
+dbr:Lê_Khả_Phiêu  rdfs:label  "Lê Khả Phiêu"@en .
+
+dbr:Vietnamese-Japanese_Foreign_Language-Technology_College
+        rdfs:label  "Vietnamese-Japanese Foreign Language-Technology College"@en .
+
+dbr:La_Gi  rdfs:label  "La Gi"@en .
+
+dbr:Buôn_Đôn_district
+        rdfs:label  "Buôn Đôn district"@en .
+
+<http://dbpedia.org/resource/Hòa_Lộc,_Bến_Tre>
+        rdfs:label  "Hòa Lộc, Bến Tre"@en .
+
+dbr:Gò_Quao_district  rdfs:label  "Gò Quao district"@en .
+
+dbr:Trần_Đề_district  rdfs:label  "Trần Đề district"@en .
+
+<http://dbpedia.org/resource/Ward_1,_Sa_Đéc>
+        rdfs:label  "Ward 1, Sa Đéc"@en .
+
+dbr:VTV2  rdfs:label  "VTV2"@en .
+
+<http://dbpedia.org/resource/The_Vietnamese_Revolution:_Fundamental_Problems,_Essential_Tasks>
+        rdfs:label  "The Vietnamese Revolution: Fundamental Problems, Essential Tasks"@en .
+
+dbr:Chí_Linh  rdfs:label  "Chí Linh"@en .
+
+dbr:Đào_Thiên_Hải  rdfs:label  "Đào Thiên Hải"@en .
+
+dbr:One_Pillar_Pagoda
+        rdfs:label  "One Pillar Pagoda"@en .
+
+dbr:Cẩm_Giàng_district
+        rdfs:label  "Cẩm Giàng district"@en .
+
+dbr:Tam_Nong_High_School
+        rdfs:label  "Tam Nong High School"@en .
+
+<http://dbpedia.org/resource/316th_Division_(Vietnam)>
+        rdfs:label  "316th Division (Vietnam)"@en .
+
+dbr:Ea_Kar  rdfs:label  "Ea Kar"@en .
+
+dbr:Chà_Tở  rdfs:label  "Chà Tở"@en .
+
+<http://dbpedia.org/resource/USCGC_Point_Lomas_(WPB-82321)>
+        rdfs:label  "USCGC Point Lomas (WPB-82321)"@en .
+
+dbr:Nà_Tấu  rdfs:label  "Nà Tấu"@en .
+
+dbr:Tiên_Yên_district
+        rdfs:label  "Tiên Yên district"@en .
+
+dbr:Diên_Khánh  rdfs:label  "Diên Khánh"@en .
+
+dbr:Chợ_Vàm  rdfs:label  "Chợ Vàm"@en .
+
+dbr:Đèo_Gia  rdfs:label  "Đèo Gia"@en .
+
+dbr:Tân_Thành_Bình  rdfs:label  "Tân Thành Bình"@en .
+
+dbr:Nho_Quan_district
+        rdfs:label  "Nho Quan district"@en .
+
+dbr:Bảo_Đài  rdfs:label  "Bảo Đài"@en .
+
+dbr:Roman_Catholic_Diocese_of_Bà_Rịa
+        rdfs:label  "Roman Catholic Diocese of Bà Rịa"@en .
+
+dbr:Vạn_Ninh_district
+        rdfs:label  "Vạn Ninh district"@en .
+
+<http://dbpedia.org/resource/Hồng_Thái,_Bắc_Giang>
+        rdfs:label  "Hồng Thái, Bắc Giang"@en .
+
+dbr:Cái_Dầu  rdfs:label  "Cái Dầu"@en .
+
+dbr:Phạm_Phước_Hưng  rdfs:label  "Phạm Phước Hưng"@en .
+
+dbr:Thường_Xuân  rdfs:label  "Thường Xuân"@en .
+
+dbr:United_Nations_International_School_of_Hanoi
+        rdfs:label  "United Nations International School of Hanoi"@en .
+
+dbr:Bảo_Lạc  rdfs:label  "Bảo Lạc"@en .
+
+<http://dbpedia.org/resource/Tân_Thành_(township)>
+        rdfs:label  "Tân Thành (township)"@en .
+
+dbr:Tonle_Sap_freshwater_swamp_forests
+        rdfs:label  "Tonle Sap freshwater swamp forests"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Trung,_Hậu_Giang>
+        rdfs:label  "Vĩnh Trung, Hậu Giang"@en .
+
+<http://dbpedia.org/resource/District_1,_Ho_Chi_Minh_City>
+        rdfs:label  "District 1, Ho Chi Minh City"@en .
+
+dbr:Ninh_Bình  rdfs:label  "Ninh Bình"@en .
+
+<http://dbpedia.org/resource/Hiệp_Thành,_Bạc_Liêu>
+        rdfs:label  "Hiệp Thành, Bạc Liêu"@en .
+
+dbr:Đất_Đỏ_district  rdfs:label  "Đất Đỏ district"@en .
+
+<http://dbpedia.org/resource/Favorite_Song_(TV_series)>
+        rdfs:label  "Favorite Song (TV series)"@en .
+
+dbr:Tam_Đảo_district  rdfs:label  "Tam Đảo district"@en .
+
+<http://dbpedia.org/resource/Ward_1,_District_11>
+        rdfs:label  "Ward 1, District 11"@en .
+
+dbr:Lộc_Hà_district  rdfs:label  "Lộc Hà district"@en .
+
+dbr:Xà_Bang  rdfs:label  "Xà Bang"@en .
+
+<http://dbpedia.org/resource/Vietnam's_Next_Top_Model_(season_4)>
+        rdfs:label  "Vietnam's Next Top Model (season 4)"@en .
+
+dbr:Tuy_Hòa  rdfs:label  "Tuy Hòa"@en .
+
+dbr:Trọng_Hóa  rdfs:label  "Trọng Hóa"@en .
+
+<http://dbpedia.org/resource/Bà_Rịa–Vũng_Tàu_province>
+        rdfs:label  "Bà Rịa–Vũng Tàu province"@en .
+
+dbr:Thanh_Chăn  rdfs:label  "Thanh Chăn"@en .
+
+dbr:Củ_Chi_district  rdfs:label  "Củ Chi district"@en .
+
+<http://dbpedia.org/resource/Phong_Điền,_Cà_Mau>
+        rdfs:label  "Phong Điền, Cà Mau"@en .
+
+dbr:Bến_Tre  rdfs:label  "Bến Tre"@en .
+
+dbr:VNU_University_of_Social_Sciences_and_Humanities
+        rdfs:label  "VNU University of Social Sciences and Humanities"@en .
+
+dbr:Kế_Sách  rdfs:label  "Kế Sách"@en .
+
+<http://dbpedia.org/resource/Canh_Nậu,_Bắc_Giang>
+        rdfs:label  "Canh Nậu, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Cư_M'gar_district>
+        rdfs:label  "Cư M'gar district"@en .
+
+dbr:Bàu_Chinh  rdfs:label  "Bàu Chinh"@en .
+
+dbr:Roman_Catholic_Diocese_of_Lạng_Sơn_and_Cao_Bằng
+        rdfs:label  "Roman Catholic Diocese of Lạng Sơn and Cao Bằng"@en .
+
+dbr:Lê_Huỳnh_Châu  rdfs:label  "Lê Huỳnh Châu"@en .
+
+<http://dbpedia.org/resource/Lộc_Ninh,_Bạc_Liêu>
+        rdfs:label  "Lộc Ninh, Bạc Liêu"@en .
+
+<http://dbpedia.org/resource/Ward_1,_Mỹ_Tho>
+        rdfs:label  "Ward 1, Mỹ Tho"@en .
+
+dbr:VinFuture_Prize  rdfs:label  "VinFuture Prize"@en .
+
+<http://dbpedia.org/resource/Dad,_I'm_Sorry>
+        rdfs:label  "Dad, I'm Sorry"@en .
+
+<http://dbpedia.org/resource/Khánh_Hải,_Cà_Mau>
+        rdfs:label  "Khánh Hải, Cà Mau"@en .
+
+dbr:Mỹ_Luông  rdfs:label  "Mỹ Luông"@en .
+
+dbr:Hoài_Nhơn  rdfs:label  "Hoài Nhơn"@en .
+
+dbr:Vị_Thủy_district  rdfs:label  "Vị Thủy district"@en .
+
+dbr:Thượng_Lan  rdfs:label  "Thượng Lan"@en .
+
+dbr:Trấn_Quốc_Pagoda  rdfs:label  "Trấn Quốc Pagoda"@en .
+
+dbr:Bắc_Ninh  rdfs:label  "Bắc Ninh"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Thịnh,_Bạc_Liêu>
+        rdfs:label  "Vĩnh Thịnh, Bạc Liêu"@en .
+
+dbr:Bước_nhảy_hoàn_vũ
+        rdfs:label  "Bước nhảy hoàn vũ"@en .
+
+dbr:Hướng_Hóa_district
+        rdfs:label  "Hướng Hóa district"@en .
+
+dbr:Ngọc_Hiển_district
+        rdfs:label  "Ngọc Hiển district"@en .
+
+dbr:South_China_Sea  rdfs:label  "South China Sea"@en .
+
+<http://dbpedia.org/resource/Thanh_Bình,_Bù_Đốp>
+        rdfs:label  "Thanh Bình, Bù Đốp"@en .
+
+<http://dbpedia.org/resource/Quang_Phong,_Bắc_Kạn>
+        rdfs:label  "Quang Phong, Bắc Kạn"@en .
+
+dbr:Hạ_Hòa_district  rdfs:label  "Hạ Hòa district"@en .
+
+<http://dbpedia.org/resource/Đồng_Lạc,_Bắc_Giang>
+        rdfs:label  "Đồng Lạc, Bắc Giang"@en .
+
+dbr:Ea_Drăng  rdfs:label  "Ea Drăng"@en .
+
+dbr:Pác_Nặm_district  rdfs:label  "Pác Nặm district"@en .
+
+<http://dbpedia.org/resource/312th_Division_(Vietnam)>
+        rdfs:label  "312th Division (Vietnam)"@en .
+
+dbr:Ea_Knốp  rdfs:label  "Ea Knốp"@en .
+
+dbr:Bến_Lức  rdfs:label  "Bến Lức"@en .
+
+dbr:HBO_Asia  rdfs:label  "HBO Asia"@en .
+
+<http://dbpedia.org/resource/Vĩnh_Trường,_An_Giang>
+        rdfs:label  "Vĩnh Trường, An Giang"@en .
+
+dbr:Ân_Thi_district  rdfs:label  "Ân Thi district"@en .
+
+dbr:Thạnh_Mỹ_Tây  rdfs:label  "Thạnh Mỹ Tây"@en .
+
+dbr:2016_Vietnamese_legislative_election
+        rdfs:label  "2016 Vietnamese legislative election"@en .
+
+dbr:Yên_Minh_district
+        rdfs:label  "Yên Minh district"@en .
+
+dbr:Chả_giò  rdfs:label  "Chả giò"@en .
+
+dbr:Phước_Nguyên  rdfs:label  "Phước Nguyên"@en .
+
+<http://dbpedia.org/resource/Dương_Quang,_Bắc_Kạn>
+        rdfs:label  "Dương Quang, Bắc Kạn"@en .
+
+dbr:Chu_Hoàng_Diệu_Linh
+        rdfs:label  "Chu Hoàng Diệu Linh"@en .
+
+dbr:Cù_Lao_Dung_district
+        rdfs:label  "Cù Lao Dung district"@en .
+
+dbr:Chè  rdfs:label  "Chè"@en .
+
+<http://dbpedia.org/resource/Cường_Lợi,_Bắc_Kạn>
+        rdfs:label  "Cường Lợi, Bắc Kạn"@en .
+
+dbr:Canh_chua  rdfs:label  "Canh chua"@en .
+
+<http://dbpedia.org/resource/Tiền_Phong,_Bắc_Giang>
+        rdfs:label  "Tiền Phong, Bắc Giang"@en .
+
+dbr:Thầy_Pagoda  rdfs:label  "Thầy Pagoda"@en .
+
+<http://dbpedia.org/resource/South_China–Vietnam_subtropical_evergreen_forests>
+        rdfs:label  "South China–Vietnam subtropical evergreen forests"@en .
+
+dbr:Đông_Anh_district
+        rdfs:label  "Đông Anh district"@en .
+
+dbr:Kiện_Khê  rdfs:label  "Kiện Khê"@en .
+
+dbr:Khe_Sanh  rdfs:label  "Khe Sanh"@en .
+
+dbr:Xín_Mần_district  rdfs:label  "Xín Mần district"@en .
+
+dbr:Cầu_Kè_district  rdfs:label  "Cầu Kè district"@en .
+
+dbr:Đồng_Lê  rdfs:label  "Đồng Lê"@en .
+
+dbr:Vũ_Thị_Trang  rdfs:label  "Vũ Thị Trang"@en .
+
+<http://dbpedia.org/resource/Phùng_Chí_Kiên,_Bắc_Kạn>
+        rdfs:label  "Phùng Chí Kiên, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/1st_Division_(Vietnam)>
+        rdfs:label  "1st Division (Vietnam)"@en .
+
+dbr:Đắk_Pơ_district  rdfs:label  "Đắk Pơ district"@en .
+
+<http://dbpedia.org/resource/Ward_1,_Gò_Công>
+        rdfs:label  "Ward 1, Gò Công"@en .
+
+dbr:Long_Hồ  rdfs:label  "Long Hồ"@en .
+
+<http://dbpedia.org/resource/Tân_Thủy,_Quảng_Bình>
+        rdfs:label  "Tân Thủy, Quảng Bình"@en .
+
+dbr:Hue_University_of_Medicine_and_Pharmacy
+        rdfs:label  "Hue University of Medicine and Pharmacy"@en .
+
+dbr:University_of_Economics_Ho_Chi_Minh_City
+        rdfs:label  "University of Economics Ho Chi Minh City"@en .
+
+dbr:Hừa_Ngài  rdfs:label  "Hừa Ngài"@en .
+
+<http://dbpedia.org/resource/Tân_Lập,_Bắc_Kạn>
+        rdfs:label  "Tân Lập, Bắc Kạn"@en .
+
+<http://dbpedia.org/resource/Disney_Channel_(Southeast_Asian_TV_channel)>
+        rdfs:label  "Disney Channel (Southeast Asian TV channel)"@en .
+
+dbr:Sa_Thầy  rdfs:label  "Sa Thầy"@en .
+
+dbr:Cái_Tàu_Hạ  rdfs:label  "Cái Tàu Hạ"@en .
+
+<http://dbpedia.org/resource/Trần_Nguyên_Hãn,_Bắc_Giang>
+        rdfs:label  "Trần Nguyên Hãn, Bắc Giang"@en .
+
+<http://dbpedia.org/resource/Chợ_Mới_district,_An_Giang_province>
+        rdfs:label  "Chợ Mới district, An Giang province"@en .
+
+dbr:Di_Linh_district  rdfs:label  "Di Linh district"@en .
+
+dbr:Sơn_Hòa_district  rdfs:label  "Sơn Hòa district"@en .
+
+<http://dbpedia.org/resource/Bước_nhảy_hoàn_vũ_(season_1)>
+        rdfs:label  "Bước nhảy hoàn vũ (season 1)"@en .
+
+<http://dbpedia.org/resource/Trần_Văn_Thời_(township)>
+        rdfs:label  "Trần Văn Thời (township)"@en .
+
+dbr:Hồng_Lĩnh  rdfs:label  "Hồng Lĩnh"@en .
+
+dbr:Yên_Bái_province  rdfs:label  "Yên Bái province"@en .
+
+dbr:Đồng_Đăng  rdfs:label  "Đồng Đăng"@en .
+
+dbr:Tiên_Nha  rdfs:label  "Tiên Nha"@en .
+
+dbr:Ngũ_Hành_Sơn_district
+        rdfs:label  "Ngũ Hành Sơn district"@en .
+
+dbr:Mỹ_Hòa_Hưng  rdfs:label  "Mỹ Hòa Hưng"@en .
+
+dbr:Hiệp_Đức_district
+        rdfs:label  "Hiệp Đức district"@en .
+
+dbr:Yến_Lạc  rdfs:label  "Yến Lạc"@en .
+
+<http://dbpedia.org/resource/International_Men's_Day>
+        rdfs:label  "International Men's Day"@en .
+
+<http://dbpedia.org/resource/Hồng_Kỳ,_Bắc_Giang>
+        rdfs:label  "Hồng Kỳ, Bắc Giang"@en .
+
+dbr:Xá_Lợi_Pagoda  rdfs:label  "Xá Lợi Pagoda"@en .
+
+dbr:Hậu_Nghĩa  rdfs:label  "Hậu Nghĩa"@en .
+
+dbr:Liên_Hương  rdfs:label  "Liên Hương"@en .
+
+dbr:Hương_Trà  rdfs:label  "Hương Trà"@en .
+
+dbr:Tìa_Dình  rdfs:label  "Tìa Dình"@en .
+
+dbr:Tân_Bình_district
+        rdfs:label  "Tân Bình district"@en .
+
+dbr:Thường_Thắng  rdfs:label  "Thường Thắng"@en .
+
+dbr:Sông_Cầu  rdfs:label  "Sông Cầu"@en .

@@ -1,0 +1,61 @@
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>39</groupId>
+  <artifactId>39</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Demo</name>
+  <properties>
+
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+    <maven.compiler.source>17</maven.compiler.source>
+
+    <maven.compiler.target>17</maven.compiler.target>
+
+    <apache.jena.lib>4.2.0</apache.jena.lib>
+
+  </properties>
+
+  <dependencies>
+
+    <dependency>
+
+      <groupId>org.apache.jena</groupId>
+
+      <artifactId>apache-jena-libs</artifactId>
+
+      <version>${apache.jena.lib}</version>
+
+      <type>pom</type>
+
+    </dependency>
+
+  </dependencies>
+
+  <build>
+
+    <plugins>
+
+      <plugin>
+
+        <groupId>org.apache.maven.plugins</groupId>
+
+        <artifactId>maven-compiler-plugin</artifactId>
+
+        <version>3.6.1</version>
+
+        <configuration>
+
+          <source>${maven.compiler.source}</source>
+
+          <target>${maven.compiler.target}</target>
+
+        </configuration>
+
+      </plugin>
+
+    </plugins>
+
+  </build>
+</project>

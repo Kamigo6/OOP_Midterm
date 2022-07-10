@@ -1,0 +1,44 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Bánh_canh  rdfs:label   "Bánh canh"@en ;
+        dbo:ingredient      dbr:Rice , dbr:Tapioca ;
+        dbp:mainIngredient  "Tapioca flour, optionally rice flour"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Soup .
+
+dbr:Bún_ốc  rdfs:label      "Bún ốc"@en ;
+        dbp:mainIngredient  "Roasted snails, soup"@en ;
+        dbp:region          dbr:Hanoi ;
+        dbp:type            dbr:Noodle_soup .
+
+dbr:Bún_bò_Huế  rdfs:label  "Bún bò Huế"@en ;
+        dbo:ingredient      dbr:Pig_blood_curd , dbr:Rice_vermicelli , dbr:Beef , dbr:Ham_hock , dbr:Cymbopogon ;
+        dbp:mainIngredient  "Rice vermicelli, lemongrass, beef, fermented shrimp sauce, pork knuckles, pig blood curds"@en ;
+        dbp:region          "Central Vietnam"@en ;
+        dbp:type            dbr:Soup .
+
+dbr:Canh_chua  rdfs:label   "Canh chua"@en ;
+        dbo:ingredient      dbr:Tamarind , dbr:Fish , dbr:Tomato , dbr:Pineapple , dbr:Sprouting ;
+        dbp:mainIngredient  "Fish, pineapple, tomatoes, sometimes other vegetables, bean sprouts, tamarind-flavored broth"@en ;
+        dbp:region          dbr:Mekong_Delta ;
+        dbp:type            dbr:Soup .
+
+dbr:Chè_bà_ba  rdfs:label   "Chè bà ba"@en ;
+        dbo:ingredient      dbr:Coconut_milk , dbr:Taro , dbr:Tapioca , dbr:Sweet_potato , dbr:Cassava ;
+        dbp:mainIngredient  "Coconut milk, taro, cassava, khoai lang bí , tapioca"@en ;
+        dbp:type            dbr:Soup .
+
+dbr:Bún_riêu  rdfs:label    "Bún riêu"@en ;
+        dbo:ingredient      dbr:Tomato , dbr:Meat , dbr:Rice_vermicelli , dbr:Shrimp_paste ;
+        dbp:mainIngredient  dbr:Tomato , dbr:Meat , dbr:Shrimp_paste , dbr:Rice_vermicelli ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Soup .
+
+dbr:Pho  rdfs:label         "Pho"@en ;
+        dbo:ingredient      dbr:Rice_noodles , dbr:Beef , dbr:Chicken_as_food ;
+        dbp:mainIngredient  "Rice noodles and beef or chicken"@en ;
+        dbp:region          "Hanoi or Nam Định"@en ;
+        dbp:type            dbr:Noodle_soup .

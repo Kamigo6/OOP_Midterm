@@ -1,0 +1,233 @@
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Tam_Đảo_National_Park
+        rdfs:comment  "Tam Dao National Park (Vietnamese: Vườn quốc gia Tam Đảo) is a protected area zone in northern Vietnam. It was established in 1996, succeeding from the Conservation Forest Tam Dao which was formed in 1977. The park is about 85 km northwest of Hanoi."@en ;
+        rdfs:label    "Tam Đảo National Park"@en ;
+        dbp:location  "North Vietnam"@en , "Tam Đảo"@en ;
+        geo:lat       "21.516666412353515625"^^xsd:float ;
+        geo:long      "105.5500030517578125"^^xsd:float .
+
+dbr:Xuân_Thủy_National_Park
+        rdfs:comment  "Xuân Thủy National Park (Vietnamese: Vườn quốc gia Xuân Thủy ) is a national park in Hong River Biosphere Reserve in Nam Định Province, Vietnam.The national park was established according to the Decision number 01/2003/QĐ-TTg dated 2 January 2003 signed by premier Nguyễn Tấn Dũng, this decision turned Xuân Thủy Wetland Nature Reserve into Xuân Thủy National Park. The park was the first wetland area to be announced a Ramsar site in south-east Asia and is internationally significant as a migratory bird habitat."@en ;
+        rdfs:label    "Xuân Thủy National Park"@en ;
+        dbp:location  "northern Vietnam"@en ;
+        geo:lat       "20.229999542236328125"^^xsd:float ;
+        geo:long      "106.51667022705078125"^^xsd:float .
+
+<http://dbpedia.org/resource/Phong_Nha_–_Kẻ_Bàng_National_Park>
+        rdfs:comment  "Phong Nha-Kẻ Bàng (Vietnamese: Vườn quốc gia Phong Nha-Kẻ Bàng) is a national park and UNESCO World Heritage Site in the Bố Trạch and Minh Hóa districts of central Quảng Bình Province in the North Central Coast region of Vietnam, about 500 km south of Hanoi. The park borders the Hin Namno National Park in Khammouane Province, Laos to the west and 42 km east of the South China Sea from its borderline point. Phong Nha-Kẻ Bàng National Park is in a limestone zone of 2,000 km2 in Vietnamese territory and borders another limestone zone of 2,000 km2 of Hin Namno in Laotian territory. The core zone of this national park covers 857.54 km2 and a buffer zone of 1,954 km2."@en ;
+        rdfs:label    "Phong Nha – Kẻ Bàng National Park"@en ;
+        dbp:location  dbr:Quảng_Bình_province , dbr:North_Central_Coast ;
+        geo:lat       "17.537221908569335938"^^xsd:float ;
+        geo:long      "106.15139007568359375"^^xsd:float .
+
+dbr:Bến_En_National_Park
+        rdfs:comment  "Ben En National Park (Vietnamese: Vườn quốc gia Bến En) is a national park in Thanh Hóa Province, Vietnam. The national park was founded by the decision 33 dated 27 January 1992 of the Chairman of the Council of Ministers of Vietnam."@en ;
+        rdfs:label    "Bến En National Park"@en ;
+        dbp:location  "Bac Trung Bo"@en ;
+        geo:lat       "19.616666793823242188"^^xsd:float ;
+        geo:long      "105.52500152587890625"^^xsd:float .
+
+dbr:Ba_Bể_National_Park
+        rdfs:comment  "Ba Bể National Park (Vietnamese: Vườn Quốc Gia Ba Bể) is a reserve in Bắc Kạn Province, Northeast region of Vietnam, set up to protect a very murky lake (Ba Bể Lake) along with surrounding limestone and highland nevergreen forests. It is located about 240 kilometers northwest of the capital city Hanoi."@en ;
+        rdfs:label    "Ba Bể National Park"@en ;
+        dbp:location  dbr:Vietnam , dbr:Bắc_Kạn_province ;
+        geo:lat       "22.405277252197265625"^^xsd:float ;
+        geo:long      "105.6152801513671875"^^xsd:float .
+
+dbr:Sầm_Sơn_Beach  rdfs:comment  "Sam Son beach (Vietnamese: Bãi biển Sầm Sơn) is a resort beach in Vietnam. It’s located in Sầm Sơn city, Thanh Hóa Province, Bac Trung Bo region, Vietnam, 16 km east of Thanh Hoa City.The Sầm Sơn beach became a resort beach in 1906 when French colonists began to build facilities here. The beach is 6 km long, extending from estuary of Lạch Hới to the foot of Trường Lệ mount."@en ;
+        rdfs:label    "Sầm Sơn Beach"@en .
+
+dbr:Lăng_Cô  rdfs:comment  "Lăng Cô is a township (thị trấn) in Phú Lộc District, Thừa Thiên Huế Province, Bắc Trung Bộ, Việt Nam. It has a well known beach and resort."@en ;
+        rdfs:label    "Lăng Cô"@en ;
+        geo:lat       "16.25099945068359375"^^xsd:float ;
+        geo:long      "108.072998046875"^^xsd:float .
+
+dbr:Kon_Ka_Kinh_National_Park
+        rdfs:comment  "Kon Ka Kinh National Park (Vietnamese: Vườn quốc gia Kon Ka Kinh) is a national park of Vietnam, established by the decision (167/2002/QĐ-TTg) on November 25, 2002 of the then Prime Minister, Phan Văn Khải. Kon Ka Kinh National Park is a priority zone for the protection of biodiversity in Vietnam and the ASEAN. It is also a biological tourist site."@en ;
+        rdfs:label    "Kon Ka Kinh National Park"@en ;
+        dbp:location  "Tây Nguyên, Vietnam"@en ;
+        geo:lat       "14.333333015441894531"^^xsd:float ;
+        geo:long      "108.366668701171875"^^xsd:float .
+
+dbr:Hạ_Long_Bay  rdfs:comment  "Hạ Long Bay or Halong Bay (Vietnamese: Vịnh Hạ Long, IPA: [vînˀ hâːˀ lawŋm]) is a UNESCO World Heritage Site and popular travel destination in Quảng Ninh Province, Vietnam. The name Hạ Long means \"descending dragon\". Administratively, the bay belongs to Hạ Long city, Cẩm Phả city, and is a part of Vân Đồn District. The bay features thousands of limestone karsts and isles in various shapes and sizes. Ha Long Bay is a center of a larger zone which includes Bai Tu Long Bay to the northeast, and Cát Bà Island to the southwest. These larger zones share a similar geological, geographical, geomorphological, climate, and cultural characters."@en ;
+        rdfs:label    "Hạ Long Bay"@en ;
+        dbp:location  "Vietnam"@en ;
+        geo:lat       "20.899999618530273438"^^xsd:float ;
+        geo:long      "107.1999969482421875"^^xsd:float .
+
+dbr:U_Minh_Thượng_National_Park
+        rdfs:comment  "U Minh Thượng National Park or National Park of Upper U Minh (Vietnamese language: Vườn quốc gia U Minh Thượng) is a national park in the province of Kiên Giang, Vietnam."@en ;
+        rdfs:label    "U Minh Thượng National Park"@en ;
+        dbp:location  "miền Nam Việt Nam"@en ;
+        geo:lat       "9.5833330154418945312"^^xsd:float ;
+        geo:long      "105.08333587646484375"^^xsd:float .
+
+dbr:Yok_Đôn_National_Park
+        rdfs:comment  "Yok Don National Park (Vietnamese: Vườn quốc gia Yok Đôn) is a national park located in Krông Na commune, Buôn Đôn District, Đắk Lắk Province, Tây Nguyên of Vietnam, 40 km west of Buôn Ma Thuột city. The park was established in 1991 to protect 582 km² of a biological area of khộp lowland forest. The total area is 1,155.45 km² (not including a buffer zone of 1,138.9 km2). It borders Mondulkiri Protected Forest (Cambodia) to the west and is part of maybe the largest protected area complex in southeast Asia"@en ;
+        rdfs:label    "Yok Đôn National Park"@en ;
+        dbp:location  dbr:Đắk_Lắk_province , dbr:Vietnam ;
+        geo:lat       "12.8037567138671875"^^xsd:float ;
+        geo:long      "107.670654296875"^^xsd:float .
+
+dbr:Vũ_Quang_National_Park
+        rdfs:comment  "Vũ Quang National Park is a national park in Vũ Quang District, Hà Tĩnh Province, North Central Coast, Vietnam. This park contains biodiversity. Saola and Giant muntjac are species found in this park. Vũ Quang is a remote forested region of Vietnam, in which several new species of deer and antelope have been discovered since the 1990s. Some are so new that scientific description is still pending, although most have local names. The area was declared a forest reserve in 1986 and a National Park in 2002. The National Park has an area of 212 square miles (550 Square kilometers)."@en ;
+        rdfs:label    "Vũ Quang National Park"@en ;
+        dbp:location  "North Central Coast"@en ;
+        geo:lat       "18.291666030883789062"^^xsd:float ;
+        geo:long      "105.40833282470703125"^^xsd:float .
+
+dbr:Phú_Quốc_National_Park
+        rdfs:comment  "Phú Quốc National Park (Vietnamese: Vườn quốc gia Phú Quốc) is a national park on Phú Quốc Island, in the Kiên Giang Province of Vietnam's Mekong Delta Region. This park includes land and sea area, protecting oceanic species such as dugong.This park was established by the Decision 91/2001/QĐ-TTg dated 8 June 2001 signed by the Prime Minister of Vietnam on upgrading Northern Phú Quốc Islands Preservation Zone to Phu Quoc National Park."@en ;
+        rdfs:label    "Phú Quốc National Park"@en ;
+        dbp:location  "Mekong Delta"@en ;
+        geo:lat       "10.324999809265136719"^^xsd:float ;
+        geo:long      "103.9499969482421875"^^xsd:float .
+
+dbr:Pù_Mát_National_Park
+        rdfs:comment  "Pù Mát National Park (Vietnamese: Vườn quốc gia Pù Mát) is a national park in Nghệ An Province, in Vietnam's North Central Coast region. It is part of the Western Nghệ An Biosphere Reserve. In the Thai language, Pù Mát means \"high slope\". This park was established by Decision 174/2001/QĐ-TTg, dated November 8, 2001, by the Prime Minister of Vietnam on upgrading Pù Mát Preservation Zone."@en ;
+        rdfs:label    "Pù Mát National Park"@en ;
+        dbp:location  "Bắc Trung Bộ"@en ;
+        geo:lat       "18.983333587646484375"^^xsd:float ;
+        geo:long      "104.66666412353515625"^^xsd:float .
+
+dbr:Hải_Hòa_Beach  rdfs:comment  "Hải Hòa Beach is a well-known beach in Vietnam. It is at Hai Hoa Commune, Tinh Gia District, Thanh Hoa Province, around 200 km from Hanoi. The untouched Hải Hòa Beach is a beautiful, wide and smooth white sandy beach overlooking the Gulf of Tonkin, far away is the island of . To the south is Sổi Mountain and Chay Mountain. White sandy beach stretches 20 kilometres (12 mi) north to the commune of Hai Ninh. 3 kilometres (1.9 mi) to the west of Hải Hòa Beach is the National Route 1A (km 366)."@en ;
+        rdfs:label    "Hải Hòa Beach"@en ;
+        geo:lat       "19.457000732421875"^^xsd:float ;
+        geo:long      "105.80899810791015625"^^xsd:float .
+
+dbr:Xuân_Sơn_National_Park
+        rdfs:comment  "Xuân Sơn National Park (Vietnamese: Vườn quốc gia Xuân Sơn) is a national park of Tân Sơn District, Phú Thọ Province, Vietnam. It was established on August 9, 1986 as a nature reserve, and it covers an area of 150.48 square kilometres. The park lies at the extreme south-eastern extent of the , 45 kilometres south-west of the confluence of the Red River and Black Rivers."@en ;
+        rdfs:label    "Xuân Sơn National Park"@en ;
+        dbp:location  "Tân Sơn District, Phú Thọ Province,"@en ;
+        geo:lat       "21.149999618530273438"^^xsd:float ;
+        geo:long      "104.9333343505859375"^^xsd:float .
+
+dbr:Bạch_Mã_National_Park
+        rdfs:comment  "Bạch Mã National Park (Vietnamese: Vườn quốc gia Bạch Mã) is a protected area in central Vietnam, near the city of Huế. It covers 220 km2 and comprises three zones: a strictly protected core area, an administrative area and a buffer zone. In 2004, the park was being considered for expansion in order to create a corridor from the border with Laos to the sea. The park can be accessed by foot, moped or with a park guide's car."@en ;
+        rdfs:label    "Bạch Mã National Park"@en ;
+        dbp:location  "Central Vietnam"@en ;
+        geo:lat       "16.200000762939453125"^^xsd:float ;
+        geo:long      "107.866668701171875"^^xsd:float .
+
+dbr:Cam_Ranh_Bay  rdfs:comment  "Cam Ranh Bay (Vietnamese: Vịnh Cam Ranh) is a deep-water bay in Vietnam in Khánh Hòa Province. It is located at an inlet of the South China Sea situated on the southeastern coast of Vietnam, between Phan Rang and Nha Trang, approximately 290 kilometers (180 miles) northeast of Ho Chi Minh City (formerly Saigon). Cam Ranh is considered the finest deepwater shelter in Southeast Asia. The continental shelf of Southeast Asia is relatively narrow at Cam Ranh Bay, bringing deep water close to land."@en ;
+        rdfs:label    "Cam Ranh Bay"@en ;
+        geo:lat       "11.998152732849121094"^^xsd:float ;
+        geo:long      "109.2193756103515625"^^xsd:float .
+
+dbr:Tràm_Chim_National_Park
+        rdfs:comment  "Tràm Chim National Park (Vietnamese: Vườn quốc gia Tràm Chim) is a national park in the Plain of Reeds in the Mekong Delta region of Vietnam. The park was created to restore a degraded wetland, in order to protect several rare birds, especially the sarus crane (Grus antigone sharpii)--a species listed on the IUCN Red List. It is also a designated wetland of international importance under the Ramsar Convention."@en ;
+        rdfs:label    "Tràm Chim National Park"@en ;
+        dbp:location  dbr:Đồng_Tháp_province , <http://dbpedia.org/resource/Tam_Nông_district,_Đồng_Tháp_province> , dbr:Vietnam ;
+        geo:lat       "10.725000381469726562"^^xsd:float ;
+        geo:long      "105.51667022705078125"^^xsd:float .
+
+dbr:Bai_Tu_Long_Bay  rdfs:comment  "Bai Tu Long Bay is a bay in Vietnam. It encompasses Bai Tu Long National Park. Bai Tu Long Bay is northeast of Hạ Long Bay."@en ;
+        rdfs:label    "Bai Tu Long Bay"@en ;
+        dbp:location  dbr:Vietnam ;
+        geo:lat       "21.100000381469726562"^^xsd:float ;
+        geo:long      "107.633331298828125"^^xsd:float .
+
+dbr:Hồ_Cốc  rdfs:comment  "Hồ Cốc is a small beach community located in Vietnam's Bà Rịa–Vũng Tàu province, in Xuyên Mộc District. It is situated about 125 kilometers southeast of Hồ Chí Minh City (HCMC). The trip to Hồ Cốc takes only about 2 hours from HCMC by car or 90 minutes via the ferry from HCMC to Vũng Tàu. Hồ Cốc is expected to follow the development of Hồ Tràm beach as well as the ACDL MGM Hồ Tràm casino project located nearby and become a major resort destination in southern Vietnam. Also notable in the area are hot springs and an 11,000-hectare rain forest that was designated as a nature reserve in 1975."@en ;
+        rdfs:label    "Hồ Cốc"@en .
+
+dbr:U_Minh_Hạ_National_Park
+        rdfs:comment  "U Minh Hạ National Park (Vietnamese: Vườn quốc gia U Minh Hạ) or National Park of Lower U Minh is a national park of Vietnam. The park is located in Cà Mau Province (communes Khánh Lâm, Khanh An of U Minh District and communes of Trần Hợi, Khánh Bình Tây Bắc of Trần Văn Thời District). The park has an area of 82.86 square kilometers and was established on 20 January 2006 to protect low wetland ecosystem in the region. Fauna and flora found here include mangrove, snake, turtle, bird, amphibian."@en ;
+        rdfs:label    "U Minh Hạ National Park"@en ;
+        dbp:location  "southern Vietnam"@en ;
+        geo:lat       "9.2513885498046875"^^xsd:float ;
+        geo:long      "104.94527435302734375"^^xsd:float .
+
+dbr:Cát_Bà_National_Park
+        rdfs:comment  "Cát Bà National Park is a World Heritage Site designated as a biosphere reserve in northern Vietnam. The park is part of Cát Bà Island in Hạ Long Bay and is administered by the city of Haiphong. The park is located approximately 30 kilometres (19 mi) east of Hai Phong, covering about 263 square kilometres (102 sq mi) and comprising 173 square kilometres (67 sq mi) of land and 90 square kilometres (35 sq mi) of inshore water."@en ;
+        rdfs:label    "Cát Bà National Park"@en ;
+        dbp:location  "Vietnam"@en ;
+        geo:lat       "20.797222137451171875"^^xsd:float ;
+        geo:long      "107.40708160400390625"^^xsd:float .
+
+dbr:Đá_Nhảy_Beach  rdfs:comment  "Đá Nhảy Beach is a beautiful beach on the shore of the East Sea, 40 km north of Đồng Hới city, Quảng Bình Province, Vietnam. Đá Nhảy in Vietnamese means \"the rocks that jump\", referring to the topographical feature of this beach which sees thousands rock reaching the sea, surrounding small fine sand beaches suitable for sea bathing. This is one of the most important attraction sites in Quảng Bình, along with Phong Nha-Kẻ Bàng National Park (a UNESCO World Heritage Site and Bang Spa."@en ;
+        rdfs:label    "Đá Nhảy Beach"@en ;
+        geo:lat       "17.466999053955078125"^^xsd:float ;
+        geo:long      "106.58300018310546875"^^xsd:float .
+
+dbr:Bidoup_Núi_Bà_National_Park
+        rdfs:comment  "Bidoup Nui Ba National Park (Vietnamese language: Vườn quốc gia Bidoup Núi Bà ) is a national park in districts of Đam Rông and Lạc Dương, in the province of Lâm Đồng, Vietnam. The Bidoup Nui Ba national Park was established in 2004 and is named after the two highest peaks of the Langbiang plateau: Bidoup (2,287m) and Nui Ba (2,167m). With a total area of 70,038 ha, the park ranks as one of five largest national parks in Vietnam."@en ;
+        rdfs:label    "Bidoup Núi Bà National Park"@en ;
+        dbp:location  "Tây Nguyên, Việt Nam"@en ;
+        geo:lat       "12.433333396911621094"^^xsd:float ;
+        geo:long      "108.5"^^xsd:float .
+
+dbr:Hồ_Tràm  rdfs:comment  "Hồ Tràm is a small beach town located in Vietnam's Bà Rịa–Vũng Tàu province, in Xuyên Mộc District. It is situated about 125 kilometers southeast of Ho Chi Minh City (HCMC). Ho Tram’s pristine, undeveloped beachfront sits at just 2 hours from HCMC by car or 90 minutes via the ferry from HCMC to Vũng Tàu. For over a century now, the Vung Tau cape (Cap St Jacques) has been known as a sea-side sanatorium for treatment of diseases with climate and sea water, and it has rapidly become the earliest tourism city of Vietnam. Ho Tram is poised to become a major resort destination as the region develops along with its \"sister\" beach destination Ho Coc, which is located at close proximity. Ho Tram provides for the nicest beach in the area combining unspoiled waters with a large and wide beach of clea"@en ;
+        rdfs:label    "Hồ Tràm"@en ;
+        geo:lat       "10.483333587646484375"^^xsd:float ;
+        geo:long      "107.4333343505859375"^^xsd:float .
+
+dbr:Côn_Đảo_National_Park
+        rdfs:comment  "Côn Đảo National Park (Vietnamese: Vườn quốc gia Côn Đảo) is a natural reserve area on Côn Đảo Island, in Bà Rịa–Vũng Tàu province in coastal southeastern Vietnam. The park includes a part of the island and the surrounding sea. The national park is characterized by a diverse ecosystem. Many species of corals as well as sea turtles, dolphins, and endangered dugongs are found here. In 2006, a delegation of UNESCO Vietnam representatives surveyed the area and concluded that the park is eligible to be a natural-cultural mixture World Heritage. The Vietnamese government is preparing necessary documents to submit to UNESCO soon. A controversial paved road project had been proposed by the local government but was finally rejected by the national government following protests from environmental ac"@en ;
+        rdfs:label    "Côn Đảo National Park"@en ;
+        dbp:location  "South Vietnam"@en ;
+        geo:lat       "8.6916666030883789062"^^xsd:float ;
+        geo:long      "106.633331298828125"^^xsd:float .
+
+dbr:Đồ_Sơn_district  rdfs:comment  "Đồ Sơn is an urban district (quận) of Haiphong, the third largest city of Vietnam. The district is located on the bank of the Gulf of Tonkin, 22 km away from Haiphong. As of 2007, the district had a population of 51,417. It covers an area of 42.37 km². The district is subdivided into 7 wards: Bàng La, Hợp Đức, Minh Đức, Ngọc Hải, Ngọc Xuyên, Vạn Hương and Vạn Sơn. Đồ Sơn was formerly a resort town of Haiphong. It was built as a summer resort by the French in the 19th century, after they established themselves in the city. The resort received 850,000 tourists in 2002."@en ;
+        rdfs:label    "Đồ Sơn district"@en ;
+        geo:lat       "20.713611602783203125"^^xsd:float ;
+        geo:long      "106.7894439697265625"^^xsd:float .
+
+dbr:Núi_Chúa_National_Park
+        rdfs:comment  "Núi Chúa National Park (Vietnamese: Vườn quốc gia Núi Chúa), formerly Núi Chúa Nature Reserve is a national park in the province of Ninh Thuận Province, on the border with Khánh Hòa Province, South Central Coast, Vietnam."@en ;
+        rdfs:label    "Núi Chúa National Park"@en ;
+        dbp:location  "South Central Coast, Vietnam"@en ;
+        geo:lat       "11.700277328491210938"^^xsd:float ;
+        geo:long      "109.15277862548828125"^^xsd:float .
+
+dbr:Vũng_Rô_Bay  rdfs:comment  "Vũng Rô Bay (Vietnamese: Vịnh Vũng Rô) is a small bay in Phú Yên Province, Vietnam. Vũng Rô is located in the commune (xã) of Hòa Xuân Nam, Đông Hòa District, Phú Yên Province, located at the edge of Cả Pass mountains. The bay is the natural border of provinces of Phú Yên and Khánh Hòa. Vung Ro covers an area of 16.4 square kilometres (6.3 sq mi) and is surrounded by Đèo Cả, Đá Bia and Hòn Bà mountains from the north, the east and the west respectively. There are some fine sand seasides by the bay. The bay is home to coral reefs."@en ;
+        rdfs:label    "Vũng Rô Bay"@en ;
+        geo:lat       "12.866666793823242188"^^xsd:float ;
+        geo:long      "109.4333343505859375"^^xsd:float .
+
+dbr:Cát_Tiên_National_Park
+        rdfs:comment  "Cát Tiên National Park (Vietnamese: Vườn quốc gia Cát Tiên) is a national park located in the south of Vietnam, approximately 150 km north of Ho Chi Minh City. It has an area of about 720 km2 and protects one of the largest areas of lowland tropical forests left in Vietnam."@en ;
+        rdfs:label    "Cát Tiên National Park"@en ;
+        dbp:location  dbr:Vietnam ;
+        geo:lat       "11.5"^^xsd:float ;
+        geo:long      "107.33333587646484375"^^xsd:float .
+
+dbr:Bù_Gia_Mập_National_Park
+        rdfs:comment  "Bù Gia Mập National Park (Vietnamese language: Vườn quốc gia Bù Gia Mập ) is a national park in the province of Bình Phước, Vietnam. The Bù Gia Mập National Park covers an area of 26,032 ha. The park has a 15,200 ha buffer zone area. Until 2002, the area was officially a conservation area, before the incumbent Prime Minister declared it a national park on November 27."@en ;
+        rdfs:label    "Bù Gia Mập National Park"@en ;
+        dbp:location  <http://dbpedia.org/resource/Southeast_(Vietnam)> ;
+        geo:lat       "12.216666221618652344"^^xsd:float ;
+        geo:long      "107.15000152587890625"^^xsd:float .
+
+dbr:Chư_Yang_Sin_National_Park
+        rdfs:comment  "Chư Yang Sin National Park (Vietnamese language: Vườn quốc gia Chư Yang Sin) is a national park in the communes of: Yang Mao, , Cư Pui, Hoà Phong, Hoà Lễ, Hoà Sơn, Khuê Ngọc Điền in the county of Krông Bông and communes: Yang Cao, Bông Krang, Krông Nô, Đắk Phơi of county , Đắk Lắk Province, Tây Nguyên, Vietnam. The national park was established according to the Decision number 92/2002/QĐ-TTg dated 12 July 2002, signed by then Prime Minister of Vietnam Nguyễn Tấn Dũng, this decision turned Chư Yang Sin Nature Reserve into Chư Yang Sin National Park."@en ;
+        rdfs:label    "Chư Yang Sin National Park"@en ;
+        dbp:location  "Tây Nguyên, Việt Nam"@en ;
+        geo:lat       "12.876944541931152344"^^xsd:float ;
+        geo:long      "108.43805694580078125"^^xsd:float .
+
+dbr:Ba_Vì_National_Park
+        rdfs:comment  "Ba Vì National Park (Vietnamese: Vườn quốc gia Ba Vì) is a national park located 48 km (30 mi) west of Hanoi, Vietnam. The park is 10,815 ha (26,720 acres) in area, and is located in the Ba Vì mountain range. The park has rich and diverse tropical and subtropical species of flora and fauna. Ba Vì National Park is located in Ba Vì District of Hanoi and two districts of Hòa Bình Province, namely Lương Sơn and Kỳ Sơn. The Park is situated on a mountain range running north-east and south-west with its peak at Vua Peak of 1,296 m and Tan Vien Peak of 1,226 m and Ngoc Hoa Peak of 1,120 m."@en ;
+        rdfs:label    "Ba Vì National Park"@en ;
+        dbp:location  "North Vietnam"@en ;
+        geo:lat       "21.07805633544921875"^^xsd:float ;
+        geo:long      "105.35832977294921875"^^xsd:float .
+
+dbr:Lò_Gò-Xa_Mát_National_Park
+        rdfs:comment  "Lò Gò-Xa Mát National Park (Vietnamese: Vườn quốc gia Lò Gò-Xa Mát) is a national park in the Southeast region of Vietnam, approximately 30 kilometres (19 mi) from the city of Tây Ninh. It was established by upgrading the status of the former Lò Gò-Xa Mát Nature Reserve. After receiving national park status in 2002, the park was expanded in 2020 to cover an area of 30,022 hectares (115.92 sq mi)."@en ;
+        rdfs:label    "Lò Gò-Xa Mát National Park"@en ;
+        dbp:location  dbr:Vietnam , dbr:Tây_Ninh_province , dbr:Tân_Biên_district ;
+        geo:lat       "11.408333778381347656"^^xsd:float ;
+        geo:long      "106.008331298828125"^^xsd:float .
+
+dbr:Phước_Bình_National_Park
+        rdfs:comment  "Phước Bình National Park (Vietnamese: Vườn quốc gia Phước Bình) is a national park in the commune of , Bác Ái District, Ninh Thuận Province. It is located 62 km north-west from Phan Rang town, the capital of Ninh Thuận Province, on the border with Lâm Đồng and Khánh Hòa provinces. Phước Bình National Park was classified as a nature reserve by Decision 125/2002/QD dated 26 September 2002. On 8 June 2006 it was established as a national park under Decision number 822/QĐ-TTg dated 8 June 2006 by then Vice Prime Minister of Vietnam Nguyễn Tấn Dũng."@en ;
+        rdfs:label    "Phước Bình National Park"@en ;
+        dbp:location  dbr:Ninh_Thuận_province , dbr:Vietnam ;
+        geo:lat       "12.071110725402832031"^^xsd:float ;
+        geo:long      "108.75055694580078125"^^xsd:float .

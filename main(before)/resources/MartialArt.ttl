@@ -1,0 +1,36 @@
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix gold: <http://purl.org/linguistics/gold/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Võ_thuật_Bình_Định
+        rdfs:comment   "Võ Bình Định (short for võ thuật Bình Định, martial arts of Bình Định Province) is a regional form of martial arts in Vietnam. Any martial art developed in Tỉnh (State or Province) Binh Dinh is called Võ Bình Định. There are 11 huyện (Counties or Districts) in the Binh Dinh Region that practice martial arts. These include villages and cities within each country that contain styles ranging anywhere from 100 to 600 years old."@en ;
+        rdfs:label     "Võ thuật Bình Định"@en ;
+        gold:hypernym  dbr:Form .
+
+dbr:Võ_phục  rdfs:comment  "Võ phục (Sino-Vietnamese: 武服) is a Vietnamese term that refers to a martial arts uniform (which may include a ranking belt), mainly associated with Vietnamese martial arts (Việt Võ Đạo, 越武道), particularly Vovinam."@en ;
+        rdfs:label     "Võ phục"@en ;
+        gold:hypernym  dbr:Term .
+
+dbr:Qwan_Ki_Do  rdfs:comment  "Qwan Ki Do or Quan khi Dao is a Vietnamese martial art that was codified in France in 1981. Qwan Ki Do is practiced internationally, with schools in Asia and Europe. The practice combines the use of hand-to-hand techniques and weapons, with moves combined in both formalised combinations, termed Thao Quyen, and freeform settings. Qwan Ki Do includes stances, punches, kicks, throws, holds and many other techniques. Weapon moves include the traditional sword art of Viet Lon Guom. Practitioners can progress through three levels, called So Dang, Trung Dang and Thuong Dang or Nhap Man, Trung Man and Dai Man, at which different coloured belts are worn. As well as improving physical attributes like strength and flexibility in adults, the practice has been shown to help promote good mental health i"@en ;
+        rdfs:label    "Qwan Ki Do"@en ;
+        dbp:creator   "Pham Xuan Tong"@en ;
+        dbp:focus     "Hand-to-hand combat"@en .
+
+dbr:Vovinam  rdfs:comment  "Vovinam (short for Võ Việt Nam; literally meaning Vietnamese Martial Arts, or Vietnamese: Việt Võ Đạo (越武道), meaning Vietnamese Way of Martial Arts) is a Vietnamese martial art,It was founded in 1938 by Nguyễn Lộc. It is based on traditional Vietnamese subjects."@en ;
+        rdfs:label     "Vovinam"@en ;
+        dbp:creator    dbr:Nguyễn_Lộc ;
+        dbp:focus      dbr:Hybrid_martial_arts ;
+        gold:hypernym  dbr:Vovinam .
+
+dbr:Tam_Qui_Khi-Kong  rdfs:comment  "Federatsiya Tam Kui Khi-Kong (Russian Федерация Там Куи Кхи-конг) is a Moscow-based martial arts organization founded in 2006, promoting a Vietnamese martial art with the name Tam Quy Khí-Công, which translates to \"Three Refuges Qigong\" (Qigong being the Chinese term for \"cultivation of life-energy\".Tam Qui is presented as both a system of self-defense and system of psychophysical and spiritual training according to Pure Land Buddhism. \n* promotional portrait of Igor Mikhnevich (Thien Duyen) \n* \n* \n* Exercise \"Buddha's Fist\" (Кулак Будды) \n* 1982 photograph of Mikhnevich"@en ;
+        rdfs:label     "Tam Qui Khi-Kong"@en ;
+        gold:hypernym  dbr:Organization .
+
+dbr:Nhất_Nam  rdfs:comment  "Nhất Nam is a martial art originating from Vietnam, formalised in Hanoi from 1983 onwards by Ngô Xuân Bính. The name Nhất Nam derives from Sino-Vietnamese characters from \"One Vietnam\" (一南), and is to be distinguished from Nhật Nam (\"Sun South\" 日南), the Vietnamese name for the ancient Chinese Rinan Han commandery in northern Vietnam. The \"One\" expresses the \"unification\" of features of Vietnamese martial arts. Ngô Xuân Bính formalised these features in his book on the basics of this unified approach in “Nhất Nam căn bản” Volumes 1 and 2, (\"Basic Nhất Nam,\" căn bản means \"basic.\")"@en ;
+        rdfs:label     "Nhất Nam"@en ;
+        gold:hypernym  dbr:Art .
+
+dbr:Vietnamese_martial_arts
+        rdfs:comment  "Traditional Vietnamese martial arts (Võ thuật Cổ Truyền Việt Nam) often referred to as Võ thuật, can be loosely divided into those of the Sino-Vietnamese descended from the Han, and the Chams or indigenous Vietnamese."@en ;
+        rdfs:label    "Vietnamese martial arts"@en .

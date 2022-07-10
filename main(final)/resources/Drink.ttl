@@ -1,0 +1,24 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Soda_sữa_hột_gà  rdfs:label  "Soda sữa hột gà"@en .
+
+dbr:Vietnamese_iced_coffee
+        rdfs:label          "Vietnamese iced coffee"@en ;
+        dbo:ingredient      dbr:Condensed_milk , dbr:Coffee_roasting ;
+        dbp:mainIngredient  "Dark roast coffee, water, sweetened condensed milk"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Drink .
+
+dbr:Chanh_muối  rdfs:label  "Chanh muối"@en .
+
+dbr:Vietnamese_lotus_tea
+        rdfs:label  "Vietnamese lotus tea"@en .
+
+dbr:Egg_coffee  rdfs:label  "Egg coffee"@en .
+
+dbr:Nước_mía  rdfs:label  "Nước mía"@en .
+
+dbr:Egg_soda  rdfs:label  "Egg soda"@en .

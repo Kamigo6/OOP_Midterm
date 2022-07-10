@@ -1,0 +1,100 @@
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Phu_Xai_Lai_Leng  rdfs:comment  "Phu Xai Lai Leng is a mountain of the Annamite Range in Southeast Asia. It is 2720 metres tall and sits on the international border between Laos and Vietnam. It is one of the ultra prominent peaks of Southeast Asia."@en ;
+        rdfs:label    "Phu Xai Lai Leng"@en ;
+        dbp:location  "Laos – Vietnam border"@en ;
+        geo:lat       "19.200000762939453125"^^xsd:float ;
+        geo:long      "104.1833343505859375"^^xsd:float .
+
+dbr:Mount_Mẫu_Sơn  rdfs:comment  "Mount Mẫu Sơn is a mountain in Lộc Bình District, Lạng Sơn Province, in northeastern Vietnam. It is located about 170 km northeast of the Hanoi and about 30 km east of Lạng Sơn City close to the international border between Vietnam and China. The highest peak of Mount Mẫu Sơn reaches about 1,600 m above sea level."@en ;
+        rdfs:label    "Mount Mẫu Sơn"@en ;
+        dbp:location  dbr:Vietnam ;
+        geo:lat       "21.877111434936523438"^^xsd:float ;
+        geo:long      "107.00426483154296875"^^xsd:float .
+
+dbr:Sơn_Trà_Mountain  rdfs:comment  "Sơn Trà Mountain (Vietnamese: Núi Sơn Trà), also known as Monkey Mountain, is a mountain and peninsula range located on Sơn Trà Peninsula, in Sơn Trà district, Đà Nẵng, Vietnam, overlooking the Bay of Da Nang and the East Sea. Đà Nẵng Port's Tiên Sa Terminal is located at the base of the mountain's western face, as is nearby Tiên Sa Beach."@en ;
+        rdfs:label    "Sơn Trà Mountain"@en ;
+        dbp:location  dbr:Vietnam , dbr:Da_Nang ;
+        geo:lat       "16.119699478149414062"^^xsd:float ;
+        geo:long      "108.28679656982421875"^^xsd:float .
+
+dbr:Mount_Cẩn  rdfs:comment  "núi Cẩn is a mountain of the Xuân Sơn National Park in Phú Thọ Province in northern Vietnam. It is the third highest point in the park at 1144 metres. The Park also contains núi Voi and núi Ten."@en ;
+        rdfs:label    "Mount Cẩn"@en .
+
+dbr:Mount_Ngự_Bình  rdfs:comment  "Ngự Bình (Vietnamese: Núi Ngự Bình) is a mountain in the Vietnamese city of Huế. It is also called the \"Royal Screen\"."@en ;
+        rdfs:label    "Mount Ngự Bình"@en .
+
+dbr:Long_Hải_Hills  rdfs:comment  "The Long Hải Hills are hills near Long Hải, in Long Điền District, Bà Rịa–Vũng Tàu province, Vietnam. During the Vietnam War, the Long Hảis were a Viet Cong base area, known as Minh Dam secret zone. The VC D445 Battalion and VC C25 Long Đất District Company used the hills as a supply and staging area. The 1st Australian Task Force whose Tactical area of responsibility was Phuoc Tuy Province mounted many operations in and around the hills forcing D445 Battalion to eventually withdraw after Operation Hammersley in February, 1970. When Australian and New Zealand troops began to withdraw in 1971 D445 Battalion was able to regain strength by taking advantage of the reducing strength of anti-communist forces."@en ;
+        rdfs:label    "Long Hải Hills"@en .
+
+dbr:Mount_Voi  rdfs:comment  "Voi (núi Voi, núi Ten và núi Cẩn) is a mountain of the Xuân Sơn National Park in Phú Thọ Province in northern Vietnam. It is the highest point in the park at 1347 metres."@en ;
+        rdfs:label    "Mount Voi"@en .
+
+dbr:Fansipan  rdfs:comment  "Fansipan (Vietnamese: Phan Xi Păng, ) is a mountain in Vietnam. The height of the mountain was 3,143 metres (10,312 ft) in 1909, but now the height of the mountain is 3,147.3 metres (10,326 ft). It is the highest mountain in the Indochinese Peninsula (comprising Vietnam, Laos, and Cambodia), hence its nickname \"the Roof of Indochina\". It is located in the Lào Cai Province of the Northwest region of Vietnam, 9 km (5.6 mi) southwest of Sa Pa in the Hoang Lien Son mountain range. Administratively, it is shared between Tam Đường district, Lai Châu and Sa Pa town, Lào Cai."@en ;
+        rdfs:label    "Fansipan"@en ;
+        dbp:location  dbr:Vietnam , dbr:Lào_Cai_province ;
+        geo:lat       "22.303333282470703125"^^xsd:float ;
+        geo:long      "103.77500152587890625"^^xsd:float .
+
+dbr:Tà_Cú_Mountain  rdfs:comment  "Ta Cu Mount (Vietnamese: Núi Tà Cú) is a mountain located off of national route 1A in the town of Thuận Nam, Hàm Thuận Nam District. Ta Cu Mountain is 28 km west of Phan Thiết city, in Bình Thuận Province, Nam Trung Bộ, Vietnam. The average temperature at the summit ranges from around 18 to 22 °C. There is a path from the foot of the mountain to the summit, a distance of 2290 meters. An alternate more popular route up the side of the mountain is via a 1600-meter-long Austrian aerial tram. At the height of 563 meters, there are two pagodas: the Upper Pagoda (Linh Sơn Trường Thọ) and the Lower Pagoda (Long Đoàn). However, the mountain is most famous as the site of the statue of the reclining Gautama Buddha, which at 49 meters in length is the largest reclining Buddha in Southeast Asia. The s"@en ;
+        rdfs:label    "Tà Cú Mountain"@en ;
+        dbp:location  dbr:Vietnam , dbr:Bình_Thuận_province ;
+        geo:lat       "10.828055381774902344"^^xsd:float ;
+        geo:long      "107.88277435302734375"^^xsd:float .
+
+dbr:Shiceng_Dashan  rdfs:comment  "Shiceng Dashan (simplified Chinese: 十层大山; traditional Chinese: 十層大山; pinyin: Shícéng Dàshān)(Vietnamese: Khoan La San) is a mountain at the junction of the borders of Laos, China and Vietnam. According to the news report, the three countries have a border dispute in which a pending agreement is on the table. There is a monolith at the top marking the tripoint spot. Its name means \"ten layer big mountain\"."@en ;
+        rdfs:label    "Shiceng Dashan"@en ;
+        dbp:location  "China - Laos – Vietnam border"@en ;
+        geo:lat       "22.399723052978515625"^^xsd:float ;
+        geo:long      "102.143890380859375"^^xsd:float .
+
+dbr:Phu_Si_Lung  rdfs:comment  "Pu Si Lung (Núi Pu Si Lung, sometimes Phu Si Lung, Phu Xi Lùng), is a mountain in Southeast Asia on the international border between China and Vietnam. The peak, narrowly on the Vietnamese side, is 3,076 metres tall. The mountain is in the xã (commune) Pa Vệ Sử, Mường Tè District, Lai Châu Province. It is adjacent to Pu Tả Tông (2,109 m) and Pu Đen Đinh (1,886 m)."@en ;
+        rdfs:label    "Phu Si Lung"@en ;
+        dbp:location  "China – Vietnam border"@en ;
+        geo:lat       "22.633333206176757812"^^xsd:float ;
+        geo:long      "102.78333282470703125"^^xsd:float .
+
+dbr:Dong_Ap_Bia  rdfs:comment  "Dong Ap Bia (Vietnamese: Đồi A Bia, Ap Bia Mountain) is a mountain on the Laotian border of South Vietnam in Thừa Thiên–Huế Province. Rising from the floor of the western A Shau Valley, it is a looming, solitary massif, unconnected to the ridges of the surrounding Annamite range. It dominates the northern valley, towering some 937 metres above sea level. Snaking down from its highest peak are a series of ridges and fingers, one of the largest extending southeast to a height of 900 metres, another reaching south to a 916-metre peak. The entire mountain is a rugged, uninviting wilderness blanketed in double- and triple-canopy jungle, dense thickets of bamboo, and waist-high elephant grass. Local Montagnard tribesmen call Ap Bia \"the mountain of the crouching beast.\""@en ;
+        rdfs:label    "Dong Ap Bia"@en ;
+        dbp:location  "Laos – Vietnam border"@en ;
+        geo:lat       "16.25"^^xsd:float ;
+        geo:long      "107.1833343505859375"^^xsd:float .
+
+dbr:Ngọc_Linh  rdfs:comment  "Ngọc Linh (literally meaning \"Jade Mountain Range\" Vietnamese) is a 2,598-metre-high (8,524 ft) mountain of the Annamite Range in Vietnam. It straddles the two provinces of Quảng Nam and Kon Tum. It is considered \"the roof of Southern Vietnam\". Panax vietnamensis (Vietnamese: Sâm Ngọc Linh), found for the first time in 1973, is a species of ginseng in Nam Trung Bộ and Tây Nguyên regions of Vietnam, especially in mount Ngọc Linh. This is also the only known habitat of the Gracixalus lumarius or Thorny Tree Frog and the similar Trieng Tree Frog. (Gracixalus trieng.)"@en ;
+        rdfs:label    "Ngọc Linh"@en ;
+        dbp:location  "Vietnam"@en ;
+        geo:lat       "15.066666603088378906"^^xsd:float ;
+        geo:long      "107.98332977294921875"^^xsd:float .
+
+dbr:Bà_Rá_mountain  rdfs:comment  "Bà Rá mountain or White Virgin Mountain (núi Bà Rá) is a mountain in the Bình Phước Province of Vietnam. It is a twin with Núi Bà Đen, Black Virgin Mountain"@en ;
+        rdfs:label    "Bà Rá mountain"@en .
+
+dbr:Mount_Ten  rdfs:comment  "Ten (núi Ten) is a mountain of the Xuân Sơn National Park in Phú Thọ Province in northern Vietnam. It is the second highest point in the park at 1244 metres."@en ;
+        rdfs:label    "Mount Ten"@en .
+
+dbr:Rào_Cỏ_Mountain  rdfs:comment  "Rào Cỏ mountain (Vietnamese: Núi Rào Cỏ) is a mountain in Southeast Asia. It is one of the ultra prominent peaks of Southeast Asia. The mountain is 2,286 metres tall and sits on the international border between Laos and Vietnam."@en ;
+        rdfs:label    "Rào Cỏ Mountain"@en ;
+        dbp:location  "Laos – Vietnam border"@en ;
+        geo:lat       "18.157499313354492188"^^xsd:float ;
+        geo:long      "105.41249847412109375"^^xsd:float .
+
+dbr:Black_Virgin_Mountain
+        rdfs:comment  "Black Virgin Mountain (Vietnamese: Núi Bà Đen meaning \"Black Lady Mountain\", Khmer: Phnom Chol Baden) is a mountain in the Tây Ninh Province of Vietnam. To the Vietnamese the mountain is the center of a myth about Bà Đen, a local deity of Khmer origin. During the Vietnam War the area around the mountain was very active as the Ho Chi Minh Trail ended a few kilometers west across the Cambodian border. As such there were many battles and American and Vietnamese soldiers based in the region remember the prominent landmark. After the war the mountain turned from a battleground to being famous for its beautiful temples and theme park."@en ;
+        rdfs:label    "Black Virgin Mountain"@en ;
+        dbp:location  dbr:Tây_Ninh_province , dbr:Vietnam ;
+        geo:lat       "11.366666793823242188"^^xsd:float ;
+        geo:long      "106.16666412353515625"^^xsd:float .
+
+<http://dbpedia.org/resource/Phú_Lương_(mountain)>
+        rdfs:comment  "Phu Luong is a mountain in Vietnam. It has an elevation of 2,985 metres (9,793 ft) above sea level. With a topographic prominence of 1,930 metres (6,332 ft) it is the fourth most prominent peak in Indochina (comprising Vietnam, Laos, and Cambodia). Phu Luong is located within the Sơn La Province of Vietnam."@en ;
+        rdfs:label    "Phú Lương (mountain)"@en ;
+        dbp:location  dbr:Sơn_La_province , dbr:Vietnam ;
+        geo:lat       "21.570833206176757812"^^xsd:float ;
+        geo:long      "104.30666351318359375"^^xsd:float .
+
+dbr:Dinh_Hills  rdfs:comment  "The Dinh Hills (Núi Dinh) are hills that are located to the north west of Bà Rịa, in the Bà Rịa–Vũng Tàu province, Vietnam. During the Vietnam War, the Dinh hills were a Viet Cong base area. The Dinh Hills are located to the west of the Phuoc Tuy province, an area known primarily for its rich farmland; in addition to the Hac Dich, May Tao, and Long Son base camps, these particular hills were initially used in Vietnam's nationalist wars against France."@en ;
+        rdfs:label    "Dinh Hills"@en .
