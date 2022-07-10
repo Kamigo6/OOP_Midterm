@@ -14,13 +14,6 @@ public class Poet extends Person{
 	public Poet() {
 		super();
 		name = "Poet";
-		optional.add(child);
-		optional.add(parent);
-		optional.add(birthPlace);
-		optional.add(birthDate);
-		optional.add(deadPlace);
-		optional.add(deadDate);
-		optional.add(comment);
 		constrain = "  ?s  rdfs:label  ?label\r\n"
 				+ "      { ?s  rdf:type  dbo:Person }\r\n"
 				+ "    UNION\r\n"
