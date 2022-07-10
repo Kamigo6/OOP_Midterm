@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="VnTourismUIController">
+   <children>
+      <HBox prefHeight="78.0" prefWidth="600.0">
+         <children>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="VNTourism turtle export" wrappingWidth="300.0048828125">
+               <font>
+                  <Font size="24.0" />
+               </font>
+               <HBox.margin>
+                  <Insets left="5.0" top="5.0" />
+               </HBox.margin>
+            </Text>
+         </children>
+      </HBox>
+      <HBox prefHeight="369.0" prefWidth="600.0">
+         <children>
+            <ScrollPane prefHeight="305.0" prefWidth="317.0">
+               <content>
+                  <TitledPane alignment="TOP_LEFT" animated="false" contentDisplay="TOP" expanded="false" prefHeight="615.0" prefWidth="296.0" text="VietNamTourism">
+                     <content>
+                        <AnchorPane prefHeight="540.0" prefWidth="294.0">
+                           <children>
+                              <VBox layoutX="34.0" layoutY="1.0" prefHeight="514.0" prefWidth="202.0">
+                                 <children>
+                                    <TitledPane alignment="TOP_LEFT" animated="false" expanded="false" text="Food">
+                                       <content>
+                                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="600.0" prefWidth="200.0">
+                                             <children>
+                                                <ScrollPane prefHeight="200.0" prefWidth="200.0">
+                                                   <content>
+                                                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+                                                         <children>
+                                                            <VBox layoutX="26.0" prefWidth="155.0">
+                                                               <children>
+                                                                  <RadioButton mnemonicParsing="false" onAction="#FoodAll" text="All">
+                                                                     <toggleGroup>
+                                                                        <ToggleGroup fx:id="identical" />
+                                                                     </toggleGroup>
+                                                                  </RadioButton>
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Drink" text="Drink" toggleGroup="$identical">
+                                                                     <VBox.margin>
+                                                                        <Insets />
+                                                                     </VBox.margin>
+                                                                  </RadioButton>
+                                                                  <RadioButton mnemonicParsing="false" onAction="#RiceDished" text="RiceDished" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#StreetFood" text="StreetFood" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Soup" text="Soup" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#ChaCuon_ERR" text="ChaCuon_ERR" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Noodle" text="Noodle" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Banh" text="Banh" toggleGroup="$identical" />
+                                                               </children>
+                                                            </VBox>
+                                                         </children>
+                                                      </AnchorPane>
+                                                   </content>
+                                                </ScrollPane>
+                                             </children>
+                                          </AnchorPane>
+                                       </content>
+                                       <VBox.margin>
+                                          <Insets top="3.0" />
+                                       </VBox.margin>
+                                    </TitledPane>
+                                    <TitledPane animated="false" expanded="false" text="Culture">
+                                       <content>
+                                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="600.0" prefWidth="200.0">
+                                             <children>
+                                                <ScrollPane prefHeight="200.0" prefWidth="200.0">
+                                                   <content>
+                                                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+                                                         <children>
+                                                            <VBox layoutX="26.0" prefWidth="155.0">
+                                                               <children>
+                                                                  <RadioButton mnemonicParsing="false" onAction="#CultureAll" text="All" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Literature" text="Literature" toggleGroup="$identical">
+                                                                     <VBox.margin>
+                                                                        <Insets top="5.0" />
+                                                                     </VBox.margin>
+                                                                  </RadioButton>
+                                                                  <RadioButton mnemonicParsing="false" onAction="#MartialArt" text="MartialArt" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Music" text="Music" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Religion" text="Religion" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#TraditionalClothing" text="TraditionalClothing" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#VisualArts" text="VisualArts" toggleGroup="$identical" />
+                                                               </children>
+                                                            </VBox>
+                                                         </children>
+                                                      </AnchorPane>
+                                                   </content>
+                                                </ScrollPane>
+                                             </children>
+                                          </AnchorPane>
+                                       </content>
+                                       <VBox.margin>
+                                          <Insets top="3.0" />
+                                       </VBox.margin>
+                                    </TitledPane>
+                                    <TitledPane animated="false" expanded="false" text="Building">
+                                       <content>
+                                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="600.0" prefWidth="200.0">
+                                             <children>
+                                                <ScrollPane prefHeight="200.0" prefWidth="200.0">
+                                                   <content>
+                                                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+                                                         <children>
+                                                            <VBox layoutX="26.0" prefWidth="155.0">
+                                                               <children>
+                                                                  <RadioButton mnemonicParsing="false" onAction="#BuildingAll" text="All" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Bridge" text="Bridge" toggleGroup="$identical">
+                                                                     <VBox.margin>
+                                                                        <Insets />
+                                                                     </VBox.margin>
+                                                                  </RadioButton>
+                                                                  <RadioButton mnemonicParsing="false" onAction="#HistoricalSite" text="Historical Site" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Hospital" text="Hospital" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Hotel" text="Hotel" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Museum" text="Museum" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#NationalPark" text="National Park" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Plaza" text="Plaza" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Skycrapper" text="Skycrapper" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Temple" text="Temple" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#WorldHeritageSite" text="World Heritage Site" toggleGroup="$identical" />
+                                                               </children>
+                                                            </VBox>
+                                                         </children>
+                                                      </AnchorPane>
+                                                   </content>
+                                                </ScrollPane>
+                                             </children>
+                                          </AnchorPane>
+                                       </content>
+                                       <VBox.margin>
+                                          <Insets top="3.0" />
+                                       </VBox.margin>
+                                    </TitledPane>
+                                    <TitledPane animated="false" expanded="false" text="Natural Place">
+                                       <content>
+                                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="600.0" prefWidth="200.0">
+                                             <children>
+                                                <ScrollPane prefHeight="200.0" prefWidth="200.0">
+                                                   <content>
+                                                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+                                                         <children>
+                                                            <VBox layoutX="26.0" prefWidth="155.0">
+                                                               <children>
+                                                                  <RadioButton mnemonicParsing="false" onAction="#NaturalPlaceAll" text="All" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Bay" text="Bay" toggleGroup="$identical">
+                                                                     <VBox.margin>
+                                                                        <Insets />
+                                                                     </VBox.margin>
+                                                                  </RadioButton>
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Beach" text="Beach" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Cave" text="Cave" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Lake" text="Lake" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#MountainPass" text="Mountain Pass" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#MountainsAndHills" text="Mountains And Hills" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#NationalParkPlace" text="Natinal Park" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#River" text="River" toggleGroup="$identical" />
+                                                               </children>
+                                                            </VBox>
+                                                         </children>
+                                                      </AnchorPane>
+                                                   </content>
+                                                </ScrollPane>
+                                             </children>
+                                          </AnchorPane>
+                                       </content>
+                                       <VBox.margin>
+                                          <Insets top="3.0" />
+                                       </VBox.margin>
+                                    </TitledPane>
+                                    <TitledPane animated="false" text="Person">
+                                       <content>
+                                          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="600.0" prefWidth="200.0">
+                                             <children>
+                                                <ScrollPane prefHeight="200.0" prefWidth="200.0">
+                                                   <content>
+                                                      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+                                                         <children>
+                                                            <VBox layoutX="26.0" prefWidth="155.0">
+                                                               <children>
+                                                                  <RadioButton mnemonicParsing="false" onAction="#PersonAll" text="All" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Emperor" text="Emperor" toggleGroup="$identical">
+                                                                     <VBox.margin>
+                                                                        <Insets />
+                                                                     </VBox.margin>
+                                                                  </RadioButton>
+                                                                  <RadioButton mnemonicParsing="false" onAction="#General" text="General" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Poet" text="Poet" toggleGroup="$identical" />
+                                                                  <RadioButton mnemonicParsing="false" onAction="#Writer" text="Writer" toggleGroup="$identical" />
+                                                               </children>
+                                                            </VBox>
+                                                         </children>
+                                                      </AnchorPane>
+                                                   </content>
+                                                </ScrollPane>
+                                             </children>
+                                          </AnchorPane>
+                                       </content>
+                                       <VBox.margin>
+                                          <Insets top="3.0" />
+                                       </VBox.margin>
+                                    </TitledPane>
+                                 </children>
+                              </VBox>
+                           </children>
+                           <padding>
+                              <Insets top="20.0" />
+                           </padding>
+                        </AnchorPane>
+                     </content>
+                  </TitledPane>
+               </content>
+            </ScrollPane>
+            <TextArea fx:id="TextArea" prefHeight="324.0" prefWidth="282.0">
+               <font>
+                  <Font size="14.0" />
+               </font></TextArea>
+         </children>
+      </HBox>
+      <HBox alignment="TOP_RIGHT" prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Button fx:id="btnExport" alignment="TOP_RIGHT" mnemonicParsing="false" onAction="#btnExportClicked" text="Export">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <HBox.margin>
+                  <Insets right="20.0" top="8.0" />
+               </HBox.margin>
+            </Button>
+            <Button mnemonicParsing="false" onAction="#btnExportAllClicked" text="Export All">
+               <HBox.margin>
+                  <Insets right="10.0" top="8.0" />
+               </HBox.margin>
+            </Button>
+         </children>
+      </HBox>
+   </children>
+</VBox>
