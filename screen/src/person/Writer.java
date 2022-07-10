@@ -2,7 +2,7 @@ package person;
 
 import system.VietNamTourism;
 
-public class Writer extends VietNamTourism{
+public class Writer extends Person{
 	private String child = "?s dbo:child ?child.";
 	private String parent = "?s dbo:parent ?parent.";
 	private String birthDate = "?s dbp:birthDate ?birthDate.";
