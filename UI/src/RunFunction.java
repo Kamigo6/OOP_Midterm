@@ -25,7 +25,7 @@ public class RunFunction {
 										"Museum",
 										"NationalPark",
 										"Plaza",
-										"Skycrapper",
+										"Skyscrapper",
 										"Temple",
 										"WorldHeritageSite"};
 	
@@ -95,8 +95,8 @@ public class RunFunction {
 	    		} else if (opt == "Plaza") {
 	    			Plaza b = new Plaza();
 	    			Config.process(b.queryStr(), b.getName());
-	    		} else if (opt == "Skycrapper") {
-	    			Skycrapper b = new Skycrapper();
+	    		} else if (opt == "Skyscrapper") {
+	    			Skyscrapper b = new Skyscrapper();
 	    			Config.process(b.queryStr(), b.getName());
 	    		} else if (opt == "Literature") {
 	    			Literature b = new Literature();
