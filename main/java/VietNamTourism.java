@@ -1,16 +1,9 @@
 public class VietNamTourism extends Template{
 
-	private String name = "VietnamTourism";
-
-	public String getName() {
-		return name;
-	}
-
-	public void setName(String name) {
-		this.name = name;
-	}
-
 	public VietNamTourism() {
 		super();
+		name = "VietnamTourism";
+		constrain = "{?s dbo:country dbr:Vietnam.} \r\n"
+		+ "UNION {?s dbp:country dbr:Vietnam.}\r\n";
 	}	
 }
