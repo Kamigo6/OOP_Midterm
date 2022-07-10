@@ -2,15 +2,15 @@ package building;
 
 import ObjectClasses.*;
 
-public class Skycrapper extends Building{
-	private String name = "Skycrapper";
+public class Skyscrapper extends Building{
+	private String name = "Skyscrapper";
 	public String getName() {
 		return name;
 	}
 	public void setName(String name) {
 		this.name = name;
 	}
-	public Skycrapper() {
+	public Skyscrapper() {
 		super();
 		constrain = "{?s rdf:type dbo:Building.} "
 				+ "UNION {?s rdf:type dbo:building.}.\r\n"
