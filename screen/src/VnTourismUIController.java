@@ -234,7 +234,9 @@ public class VnTourismUIController {
     	RunFunction.run("PersonAll");
     	RunFunction.run("FoodAll");
     	RunFunction.run("CultureAll");
+    	TextArea.appendText("Exported All");
     }
+    
 
 }
 
