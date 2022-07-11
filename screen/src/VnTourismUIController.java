@@ -45,11 +45,6 @@ public class VnTourismUIController {
     }
 
     @FXML
-    void ChaCuon_ERR(ActionEvent event) {
-    	opt = "ChaCuon_ERR";
-    }
-
-    @FXML
     void Noodle(ActionEvent event) {
     	opt = "Noodle";
     }

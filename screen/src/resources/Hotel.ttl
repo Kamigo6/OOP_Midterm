@@ -1,0 +1,117 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:InterContinental_Hanoi_Landmark_72
+        rdfs:comment  "InterContinental Hanoi Landmark72 is an InterContinental hotel in Hanoi. The hotel is located on the top floors of Keangnam Hanoi Landmark Tower. At 346 meters, it is the tallest hotel in Hanoi, second tallest in Vietnam and Southeast Asia."@en ;
+        rdfs:label    "InterContinental Hanoi Landmark 72"@en ;
+        dbp:location  dbr:Vietnam , dbr:Hanoi , dbr:Mỹ_Đình , dbr:Từ_Liêm_district ;
+        geo:lat       "21.0169525146484375"^^xsd:float ;
+        geo:long      "105.78397369384765625"^^xsd:float .
+
+<http://dbpedia.org/resource/Hotel_de_l'Opera_Hanoi>
+        rdfs:comment  "Hotel de l'Opera Hanoi is a 5 star hotel in Hanoi, Vietnam and under the MGallery Sofitel banner. Opened in 2011, the hotel was built in what was formerly the and (both an early 20th Century hotel) and is state owned with management by Accor. The 107 room hotel is housed in an unnamed French colonial era building located at 29 Trang Tien Street in Hoan Kiem District and is steps from the Hanoi Opera House and from the Hanoi's Old Quarter."@en ;
+        rdfs:label    "Hotel de l'Opera Hanoi"@en ;
+        dbp:location  dbr:Hoàn_Kiếm_district , dbr:Vietnam , dbr:Hanoi .
+
+dbr:Vietnam-Sweden_Hospital
+        rdfs:comment  "Vietnam–Sweden Hospital (Vietnamese: Bệnh viện Việt Nam-Thụy Điển) is the largest general hospital in Uông Bì, Quảng Ninh Province, Vietnam, founded in 1981 with the help of the Swedish. At present, the hospital has 7 functional, 19 clinical and 8 subclinical departments. Vietnam–Sweden Hospital has 580 beds, employs 619 health workers including 140 medical doctors and pharmacists. Each year Vietnam–Sweden hospital organize services for nearly 140,000 out-patients, 33,000 in-patients and performs about 9,500 major surgical operations."@en ;
+        rdfs:label    "Vietnam-Sweden Hospital"@en ;
+        dbp:location  dbr:Uông_Bí , dbr:Quảng_Ninh_province ;
+        geo:lat       "21.041666030883789062"^^xsd:float ;
+        geo:long      "106.75194549560546875"^^xsd:float .
+
+dbr:Novotel_Nha_Trang
+        rdfs:comment   "Novotel Nha Trang is a hotel located in Nha Trang, Khánh Hòa Province, Vietnam. It is located in the heart of the city of Nha Trang, a coastal resort. Nha Trang is about 450 km north Ho Chi Minh City and 1200 km south of Hanoi. The hotel has 154 guestrooms including 2 suites, and 16 floors with one basement and a car park."@en ;
+        rdfs:label     "Novotel Nha Trang"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Novotel_Nha_Trang.jpg?width=300> ;
+        dbp:location   dbr:Vietnam , dbr:Khánh_Hòa_province , dbr:Nha_Trang .
+
+dbr:InterContinental_Nha_Trang
+        rdfs:comment   "The InterContinental Nha Trang is a beachfront hotel in Nha Trang, located between the Sheraton Nha Trang and the Havana hotel Nha Trang. Originally designed as a Crowne Plaza, the hotel underwent re-branding in 2013 and is now upgraded to an InterContinental hotel. The hotel is opened on March 17, 2014."@en ;
+        rdfs:label     "InterContinental Nha Trang"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/InterContinental_Nha_Trang.jpg?width=300> ;
+        dbp:location   "Vietnam"@en ;
+        dbp:location   dbr:Khánh_Hòa_province , dbr:Nha_Trang ;
+        geo:lat        "12.244997024536132812"^^xsd:float ;
+        geo:long       "109.1962127685546875"^^xsd:float .
+
+dbr:Sofitel_Legend_Metropole_Hanoi
+        rdfs:comment   "Sofitel Legend Metropole Hanoi is a five-star historic luxury hotel, opened in 1901 as Grand Métropole Hotel in Hanoi, the capital of Vietnam. It is today one of the most important buildings of Vietnam in French colonial style. The hotel today has 364 rooms."@en ;
+        rdfs:label     "Sofitel Legend Metropole Hanoi"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Sofitel_Legend_Metropole_Hotel,_Hanoi,_1901_(1)_(37610180365).jpg?width=300> ;
+        dbp:location   dbr:Hoàn_Kiếm_district , dbr:Hanoi , dbr:Vietnam .
+
+dbr:108_Hospital  rdfs:comment  "108 Military Central Hospital, also known in many variations as Army Medical Institute 108, or Army Central Hospital 108 (Vietnamese: Bệnh viện Trung ương Quân Đội 108) is a hospital located at 1 Trần Hưng Đạo Street, in the Hoan Kiem district of Hanoi, Vietnam. It was originally a military hospital for the French army in Indochina built in 1894 known as Lanessan Hospital, (in Vietnamese: Nhà thương Đồn Thủy) and the practice hospital for Indochina Medical College (now Hanoi Medical University) which was located nearby at that time. After the communists took control over Hanoi in 1954, it turned into a central military hospital for senior officials, but now is also open to the general public. It is considered one of the most famous hospitals in Vietnam. It is the first hospital in Vietnam "@en ;
+        rdfs:label     "108 Hospital"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Army_Central_Hospital_108.jpg?width=300> ;
+        dbp:location   1 ;
+        geo:lat        "21.018106460571289062"^^xsd:float ;
+        geo:long       "105.86161041259765625"^^xsd:float .
+
+dbr:Thai_Nguyen_Central_General_Hospital
+        rdfs:comment  "Thai Nguyen National General Hospital (TCGH), established in 1951, was the first Northern mountainous and midland hospital in Vietnam. The hospital provides 800 beds"@en ;
+        rdfs:label    "Thai Nguyen Central General Hospital"@en ;
+        dbp:location  479 ;
+        geo:lat       "21.587978363037109375"^^xsd:float ;
+        geo:long      "105.83094024658203125"^^xsd:float .
+
+dbr:Amanoi  rdfs:comment  "Amanoi is a five star franchise hotel belonging to the international group of Aman Resorts, located in Ninh Thuận Province, Vietnam. It opened in September 2013, and was Aman's 26th property to open around the world and the first in Vietnam."@en ;
+        rdfs:label     "Amanoi"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Amanoi_Logo.jpg?width=300> ;
+        dbp:location   "Vinh Hy Village, Vinh Hai Commune, Ninh Hải District, Ninh Thuận Province, Vietnam"@en .
+
+dbr:InterContinental_Danang_Sun_Peninsula_Resort
+        rdfs:comment  "InterContinental Danang Sun Peninsula Resort is a resort & spa in Da Nang, Vietnam. It is one of the resorts under the management of InterContinental Hotels Group in Vietnam. The resort opened on June 1, 2012."@en ;
+        rdfs:label    "InterContinental Danang Sun Peninsula Resort"@en ;
+        dbp:location  dbr:Da_Nang , dbr:Vietnam .
+
+dbr:Saigon_Adventist_Hospital
+        rdfs:comment   "Saigon Adventist Hospital or US Army 3rd Field Hospital was an Adventist hospital in Ho Chi Minh City. It was a private hospital, formerly operated by the United States Army before being given to the Seventh-day Adventist Church. The hospital was operated by the Loma Linda University School of Medicine and performed the only open heart surgery operation in Vietnam at the time. The hospital was a former mansion converted to facilitate 38 hospital beds."@en ;
+        rdfs:label     "Saigon Adventist Hospital"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Saigon_Adventist_Hospital_1955.png?width=300> ;
+        dbp:location   "Saigon"@en .
+
+dbr:City_International_Hospital
+        rdfs:comment  "City International Hospital (abbrev: CiH) is a tertiary care provider in Ho Chi Minh City, Vietnam. Inaugurated in 2014, and located in Bình Tân District, the gateway to Mekong Delta, the hospital has 21 medical specialties and ancillary services, 60 full-time physicians, 500 non-medical staff, serving half a million patient visit a year."@en ;
+        rdfs:label    "City International Hospital"@en ;
+        dbp:location  3 .
+
+<http://dbpedia.org/resource/Vietnam_–_Germany_Hospital>
+        rdfs:comment   "Viet Duc Hospital (aka. Viet Duc University Hospital, Vietnamese: Bệnh viện Việt Đức, literally \"Vietnam – Germany Hospital\") is the largest surgical center of Vietnam, situated at Trang Thi Street, Hanoi. The Hospital was founded in 1904 as a part of Indochina Medical College by the French colonial governor Paul Doumer. During its history it bore many names: Yersin Hospital (1943), Hospital of Vietnam – GDR (German Democratic Republic) Friendship (1958–1991), Viet Duc Hospital (from 1991 now on). The well known Vietnamese surgeon more than 40 years conducted his research and operations here."@en ;
+        rdfs:label     "Vietnam – Germany Hospital"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Bệnh_viện_Việt_Đức,_Tràng_Thi,_Hà_Nội_002.jpg?width=300> ;
+        dbp:location   40 ;
+        geo:lat        "21.028400421142578125"^^xsd:float ;
+        geo:long       "105.8470001220703125"^^xsd:float .
+
+dbr:TMMC_Cancer_Center
+        rdfs:comment  "TMMC Cancer Center (Vietnamese: Trung Tâm Ung Bướu, Bệnh viện Ung Bướu, Trung Tâm Ung Thư, Bệnh viện Ung thư TMMC) is a specialized cancer hospital and also the first medical center for Excellence of this type in Vietnam. Initiated by Dr Dilshaad Ali, the founder and President of , TMMC Cancer Center was found with the purpose to provide the accessibility of oncology treatment for Vietnamese patients. The center is an initiative of a private Vietnam - Japan private healthcare project."@en ;
+        rdfs:label    "TMMC Cancer Center"@en ;
+        dbp:location  dbr:Da_Nang , dbr:Nha_Trang , dbr:Đồng_Tháp_province .
+
+dbr:Cho_Ray_Hospital  rdfs:comment  "Chợ Rẫy Hospital is the largest general hospital in Ho Chi Minh City, Vietnam; and is also the largest in Vietnam, founded in 1900 during the French colonial rule as Hôpital Municipal de Cholon. Over the years, the hospital has also been known as Hôpital Indigène de Cochinchine (1919), Hôpital Lolung Bonnoires (1938), and Hôpital 415 (1945), until it was ultimately renamed Chợ Rẫy in 1957. The facility was reconstructed on the area of 53,000 m² and was re-equipped to become one of the largest hospitals in Southeast Asia in June 1974 with the help of the Japanese government."@en ;
+        rdfs:label     "Cho Ray Hospital"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Benh_vien_Cho_Ray_-phường_12,_Quận_5,_Hồ_Chí_Minh,_Việt_Nam_-_panoramio.jpg?width=300> ;
+        dbp:location   dbr:Ho_Chi_Minh_City ;
+        geo:lat        "10.757200241088867188"^^xsd:float ;
+        geo:long       "106.65979766845703125"^^xsd:float .
+
+dbr:Bạch_Mai_Hospital
+        rdfs:comment   "Bach Mai Hospital is a multi-field medical facility in Hanoi and is considered one of the largest in Vietnam. The hospital was established in 1911 during the French colonial rule. It has played an important role in the health system of Vietnam and is one of three high specialized medical centers, specializing in internal medicine. It is a big center of cadres training and scientific research in the country. The hospital has 3,500 beds and 4,300 staff. There is a small speech therapy unit at the Hospital headed by Dr. Vu Thi Bich Hanh."@en ;
+        rdfs:label     "Bạch Mai Hospital"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Bệnh_viện_Bạch_Mai-IMG_0458.jpg?width=300> ;
+        dbp:location   78 ;
+        geo:lat        "21.00099945068359375"^^xsd:float ;
+        geo:long       "105.8406982421875"^^xsd:float .
+
+dbr:Franco-Vietnamese_Hospital
+        rdfs:comment   "FV Hospital is a leading tertiary care provider in Ho Chi Minh City, Vietnam. Inaugurated in 2003 by a group of French physicians, the hospital has a 150 full-time physicians, 1000 staff, serving half a million patient visits a year. Patients came from 68 countries and territories all over the world. Dr. Jean-Marcel Guillon is the co-founder and CEO of FV Hospital. The FVH Medicine Vietnam association (funded by private sponsors) was established for free-of-charge medical care for children who require surgery."@en ;
+        rdfs:label     "Franco-Vietnamese Hospital"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/FV_hospital.jpg?width=300> ;
+        dbp:location   "Phu My Hung, District 7, Ho Chi Minh City"@en ;
+        geo:lat        "10.732333183288574219"^^xsd:float ;
+        geo:long       "106.71849822998046875"^^xsd:float .

@@ -1,0 +1,228 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Anh_Dao_Traxel  rdfs:comment  "Anh Dao Traxel (Vietnamese spelling: Anh Đào Traxel; born Dương Anh Đào; born 22 August 1957 in Saigon, South Vietnam) is the foster daughter of the late French President Jacques Chirac (1932–2019) and his wife Bernadette (born 1933). She was a boat-person refugee, and met Jacques Chirac at Roissy Airport in 1979. He told her \"Don’t cry, ma chérie. You are coming home with us\" and took her home. She was then 21 and her adoptive father was 47."@en ;
+        rdfs:label    "Anh Dao Traxel"@en .
+
+dbr:Pham_Thi_Hoai  rdfs:comment  "Phạm Thị Hoài (born 1960) is an influential contemporary Vietnamese writer, editor and translator, living in Germany."@en ;
+        rdfs:label    "Pham Thi Hoai"@en .
+
+dbr:Monique_Truong  rdfs:comment  "Monique T.D. Truong (born May 13, 1968 in Saigon in South Vietnam) is a Vietnamese American writer living in Brooklyn, New York."@en ;
+        rdfs:label      "Monique Truong"@en ;
+        dbp:birthPlace  dbr:Ho_Chi_Minh_City .
+
+dbr:Nguyễn_Khải  rdfs:comment  "Nguyễn Mạnh Khải, known as Nguyễn Khải (3 December 1930 – 15 January 2008) was a Vietnamese writer. Khải substantially rewrote and re-issued one of his early works, Cái Thời Lãng Mạn (Romantic Time 1987) as Tầm Nhìn Xa (Far Vision) after changing his mind about the views of small landholders."@en ;
+        rdfs:label    "Nguyễn Khải"@en .
+
+dbr:Khái_Hưng  rdfs:comment  "Trần Khánh Giư, pen-name Khái Hưng (1896 in Cổ Am village, Vĩnh Bảo, Hải Phòng – 17 November 1947 in Cựa Gà, Xuân Trường) was a Vietnamese novelist, a pro-independence but non-communist intellectual. As a boy he studied at the Lycée Albert Sarraut in Hanoi. From 1933 he was part of the new Tự Lực Văn Đoàn \"Self-Strengthening Literary Group\" with editor Nhất Linh and his novels were first serialized in the group's magazines before being published as books. Just as Nhất Linh was a pen name (\"One-Zero\" 壹零) Giu briefly adopted the pen name Nhị Linh (\"Two-Zero\" 貳零)."@en ;
+        rdfs:label    "Khái Hưng"@en .
+
+dbr:Trần_Vũ  rdfs:comment  "Trần Vũ (Saigon 2 October 1962) is a Vietnamese-language writer living in France. Vũ arrived in Paris via a boat people camp in the Philippines at the age of seventeen in 1979. His first collection of six novelles was translated into French and published as Sous une pluie d'epines by Flammarion in 1998."@en ;
+        rdfs:label    "Trần Vũ"@en .
+
+dbr:Phạm_Đoan_Trang  rdfs:comment  "Pham Doan Trang (born 1978 in Hanoi) is a Vietnamese author, blogger, journalist, publisher, and democracy activist. She received the 2017 Homo Homini Award from People In Need, who called her \"one of the leading figures of the contemporary Vietnamese dissent\"."@en ;
+        rdfs:label      "Phạm Đoan Trang"@en ;
+        dbp:birthDate   "1978-05-27"^^xsd:date ;
+        dbp:birthPlace  "Hanoi, Vietnam"@en .
+
+dbr:Trần_Quang_Đức  rdfs:comment  "Trần Quang Đức (Chữ Hán: 陳光德, born 1985) is a Vietnamese art historian, calligrapher, author, and translator. As an art historian his specialisation is the comparative study of Vietnamese cultural history within the Southeast Asian context. His book Ngàn năm áo mũ (“One Thousand Years of Garments”), published in 2013, was awarded the prize \"Worthy Book 2014 / New Discovery\"."@en ;
+        rdfs:label      "Trần Quang Đức"@en ;
+        dbp:birthDate   "1985-05-16"^^xsd:date ;
+        dbp:birthPlace  "Haiphong, Vietnam"@en .
+
+dbr:Bich_Minh_Nguyen  rdfs:comment  "Bich Minh \"Beth\" Nguyen (born 1974 Saigon) is an American novelist and nonfiction writer. She is the author of the novels Short Girls, which won a 2010 American Book Award, and Pioneer Girl, and a memoir, Stealing Buddha's Dinner."@en ;
+        rdfs:label    "Bich Minh Nguyen"@en .
+
+dbr:Nguyễn_Huy_Tưởng  rdfs:comment  "Nguyễn Huy Tưởng (làng Dục Tú, Từ Sơn, Bắc Ninh, 6 May 1912 – 25 July 1960) was a Vietnamese revolutionary, writer and playwright. He joined the independence movement at a young age and held positions in the cultural apparatus of the North Vietnam state. In 1996 he was posthumously awarded the Hồ Chí Minh Prize for Literature and Art."@en ;
+        rdfs:label    "Nguyễn Huy Tưởng"@en .
+
+dbr:Phạm_Quỳnh  rdfs:comment  "Phạm Quỳnh (December 17, 1892 – September 6, 1945) was a monarchist during the late Nguyễn Dynasty and supporter of adhering to traditional Vietnamese customs in the establishment of a constitutional monarchy. He was born near Hanoi, Vietnam, to a literati family of Hải Dương province. He was appointed Minister of Education to the royal court at Huế in 1932, and held several other posts in the court as premier and Minister of the Interior for Emperor Bảo Đại's government. He served as a government minister along with Ngô Đình Diệm under Emperor Bảo Đại's administration. After the August Revolution, he was killed by the Viet Minh along with two other high-ranking members of Bảo Đại's cabinet in September 1945."@en ;
+        rdfs:label     "Phạm Quỳnh"@en ;
+        dbp:birthDate  "1892-12-17"^^xsd:date .
+
+dbr:Lê_Văn_Hưu  rdfs:comment  "Lê Văn Hưu (1230–1322) was an historian of the Trần Dynasty. He is best known for his work the Đại Việt sử ký, the first comprehensive historical record of the history of Vietnam. Although the book was lost during the Fourth Chinese domination in Vietnam, its contents, including Lê Văn Hưu's comments on various events in the history of Vietnam, were used by other Vietnamese historians as a base for their works, notably the Đại Việt sử ký toàn thư by Ngô Sĩ Liên."@en ;
+        rdfs:label      "Lê Văn Hưu"@en ;
+        dbp:birthDate   1230 ;
+        dbp:birthPlace  dbr:Names_of_Vietnam , <http://dbpedia.org/resource/Phủ_Lý_District,_Hà_Nam> .
+
+dbr:Vương_Trung_Hiếu  rdfs:comment  "Vương Trung Hiếu (born 1959) is a Vietnamese fiction writer, journalist, translator, and interdisciplinary scholar. He is the author of more than two hundred books (including genre writing; novels; anthologies and translations). Many of his works are published under the pseudonym Thoai Son."@en ;
+        rdfs:label      "Vương Trung Hiếu"@en ;
+        dbp:birthDate   "1959-09-07"^^xsd:date ;
+        dbp:birthPlace  "An Giang province"@en .
+
+dbr:Vũ_Ngọc_Phan  rdfs:comment  "Vũ Ngọc Phan (8 September 1902, in Hanoi – 1987) was a Vietnamese writer and literary critic. His wife was the poet Hằng Phương and their daughter the painter Vũ Giáng Hương. He studied French literature in Hanoi, then in France. In his literary criticism he preferred writers from the end of the 19th century to the Second World War. His criticism was published in five volumes up to 1942."@en ;
+        rdfs:label    "Vũ Ngọc Phan"@en .
+
+dbr:Trần_Văn_Khê  rdfs:comment  "Trần Văn Khê (24 July 1921 - 24 June 2015) was a Vietnamese musicologist, academic, writer, teacher and performer of traditional music. He was father of the musician ethnomusicologist . His La musique viêtnamienne traditionnelle (Paris, 1962) was for many years a standard text of Vietnamese musicology. He was director of research at CNRS and professor at the Sorbonne, and in 2008 named a Honorary Member of the International Music Council of UNESCO where he is coordinator of the project \"The Universe of Music, A History\"."@en ;
+        rdfs:label    "Trần Văn Khê"@en .
+
+dbr:Bảo_Ninh  rdfs:comment  "Hoàng Ấu Phương, also known by the pen name Bảo Ninh (born 18 October 1952), is a Vietnamese novelist, essayist and writer of short stories, best known for his first novel, published in English as The Sorrow of War."@en ;
+        rdfs:label      "Bảo Ninh"@en ;
+        dbp:birthDate   "1952-10-18"^^xsd:date ;
+        dbp:birthPlace  dbr:Vietnam , dbr:Nghệ_An_province .
+
+<http://dbpedia.org/resource/Nguyễn_Minh_Châu_(novelist)>
+        rdfs:comment  "Nguyễn Minh Châu (Quỳnh Lưu, 20 October 1930 – 23 January 1989) was a Vietnamese novelist. Châu is noted for in 1978, in the Military Culture journal having been one of the first to call for more humanity and realism, and less propaganda in depiction of Vietnam's struggle."@en ;
+        rdfs:label    "Nguyễn Minh Châu (novelist)"@en .
+
+dbr:Claude_Vinh-San  rdfs:comment  "Yves Claude Vinh-San, also Prince Nguyen Phuc Bảo Vàng, (April 8, 1934 – July 13, 2016), was a jazz musician and a son of Vietnamese Emperor Duy Tân and Fernande Antier - a French born-woman who was Duy Tan's third wife. He published a jazz album entitled Claude Vinh San et le jazz tropical. He was born in Saint-Denis, Réunion Island."@en ;
+        rdfs:label      "Claude Vinh-San"@en ;
+        dbo:parent      dbr:Duy_Tân ;
+        dbp:birthDate   "1934-04-08"^^xsd:date ;
+        dbp:birthPlace  dbr:Réunion , <http://dbpedia.org/resource/Saint-Denis,_Réunion> .
+
+dbr:Andrew_Lam  rdfs:comment  "Andrew Lam (born 1964) is a Vietnamese American author and journalist who has written about the Overseas Vietnamese experience."@en ;
+        rdfs:label      "Andrew Lam"@en ;
+        dbp:birthPlace  dbr:South_Vietnam .
+
+dbr:Nhất_Linh  rdfs:comment  "Nguyễn Tường Tam (chữ Hán: 阮祥三; Cẩm Giàng, Hải Dương 25 July 1906 – Saigon, 7 July 1963) better known by his pen-name Nhất Linh (一靈, \"One Spirit\") was a Vietnamese writer, editor and publisher in colonial Hanoi. He founded the literary group and publishing house Tự Lực Văn Đoàn (\"Self-Strengthening Literary Group\") in 1932 with the literary magazines Phong Hóa (\"Customs\", or \"Mores\") and Ngày Nay (\"Today\"), and serialized, then published, many of the influential realism-influenced novels of the 1930s."@en ;
+        rdfs:label    "Nhất Linh"@en .
+
+dbr:Đinh_Xuân_Tửu  rdfs:comment  "Đinh Xuân Tửu (2 February 1925 – 5 November 1996) was a Vietnamese writer and poet (pen-names: Văn Lâm, Kỳ Phong, Thành Lễ, Tô Huyền An). He was born in Hà Tĩnh Province, Vietnam. He was a poet loved by children, one of the founders of the Kim Đồng Publishing House, and a member of the Association of Vietnamese writers (1957)."@en ;
+        rdfs:label    "Đinh Xuân Tửu"@en .
+
+dbr:Hoang_Van_Chi  rdfs:comment  "Hoàng Văn Chí (1 October 1913 in Thanh Hóa, Vietnam, French Indochina – 6 July 1988 in Bowie, Maryland, United States) was one of the first Vietnamese political writers, a prominent intellectual who was an opponent of colonialism and later of communism in Vietnam. He used the pen name Mạc Định. His book, From Colonialism to Communism, was translated into more than 15 languages."@en ;
+        rdfs:label    "Hoang Van Chi"@en .
+
+dbr:Nguyễn_An_Ninh  rdfs:comment  "Nguyễn An Ninh (September 5, 1900 – August 14, 1943) was a radical Vietnamese political journalist and publicist in French colonial Cochinchina (southern Vietnam). An independent and charismatic figure, Nguyen An Ninh was able to conciliate between different anti-colonial factions including, for a period in the 1930s, between the Communist Party of Nguyen Ai Quoc (\"Ho Chi Minh\", then in exile) and its left, Trotskyist, opposition. Nguyen An Ninh died in the French penal colony of Pulo Condore, age 42. He is recognised by the Socialist Republic of Vietnam as a Revolutionary Martyr."@en ;
+        rdfs:label      "Nguyễn An Ninh"@en ;
+        dbp:birthDate   "1900-09-05"^^xsd:date ;
+        dbp:birthPlace  dbr:French_Indochina , dbr:Hóc_Môn , <http://dbpedia.org/resource/Chợ_Lớn,_Ho_Chi_Minh_City> .
+
+dbr:Nguyễn_Địch_Dũng  rdfs:comment  "Nguyễn Địch Dũng (15 July 1925 in Từ Sơn - 26 October 1993) was a Vietnamese journalist and writer. He is noted in the West for his short story collections."@en ;
+        rdfs:label    "Nguyễn Địch Dũng"@en .
+
+dbr:Huỳnh_Sanh_Thông  rdfs:comment  "Huỳnh Sanh Thông (Saigon, July 15, 1926 – November 15, 2008) was a Vietnamese American scholar and translator."@en ;
+        rdfs:label      "Huỳnh Sanh Thông"@en ;
+        dbp:birthDate   "1926-07-15"^^xsd:date ;
+        dbp:birthPlace  dbr:Vietnam , dbr:Hóc_Môn_district , dbr:Ho_Chi_Minh_City .
+
+dbr:Hồ_Nguyên_Trừng  rdfs:comment  "Hồ Nguyên Trừng (chữ Hán: 胡元澄, pinyin Hu Yuancheng; also known as Lê Trừng, Chinese: 黎澄; pinyin: Lí Chéng; 1374? – 1446?) was a Vietnamese scholar, official, and engineer in exile in China. He was the oldest son of Emperor Hồ Quý Ly (1336–1407) and older brother of Emperor Hồ Hán Thương. Under the pen-name Nam Ông (南翁, Old Man of the South), he wrote the Nam Ông mộng lục (Hán tự: 南翁夢錄, literally Dream Memoir of Nam Ông)."@en ;
+        rdfs:label    "Hồ Nguyên Trừng"@en .
+
+dbr:Xuân_Diệu  rdfs:comment  "Ngô Xuân Diệu (Vietnamese: [swən˧˧ ziəw˧˨ʔ]; February 2, 1916 – December 18, 1985) was a Vietnamese poet, journalist, short-story writer, and literary critic, best known as one of the prominent figures of the twentieth-century Thơ mới (New Poetry) Movement. Heralded by critics as \"the newest of the New Poets\", Xuân Diệu rose to popularity with the collection Thơ thơ (1938), which demonstrates a distinct voice influenced by Western literature, notably French symbolism. He was one of the first to employ Western poetic devices like enjambment in Vietnamese poetry, while occasionally adhering to traditional forms like lục bát. Between 1936 and 1944, his poetry was characterized by a desperation for love, juxtaposed with a desire to live and to experience the beauty of the world. After joining "@en ;
+        rdfs:label      "Xuân Diệu"@en ;
+        dbp:birthDate   "1916-02-02"^^xsd:date ;
+        dbp:birthPlace  "Phước Hòa Commune, Tuy Phước District, Bình Định, Vietnam"@en .
+
+dbr:Nguyễn_Tuân  rdfs:comment  "Nguyễn Tuân (July 10, 1910 – July 28, 1987) was a renowned Vietnamese author. Books about public schools in Vietnam rank him as one of the nine most famous authors of contemporary Vietnamese literature. He wrote essays on multiple subjects, with a clever and creative use of language. Hanoi has a street named after him, in the Thanh Xuan district."@en ;
+        rdfs:label    "Nguyễn Tuân"@en .
+
+dbr:Huy_Duc  rdfs:comment  "Truong Huy San, better known by his pen name Huy Đức, is a Vietnamese journalist, blogger, and author. In 2005-2006 he studied at the University of Maryland under a Hubert H. Humphrey Fellowship. In 2012 he received a fellowship from the Nieman Foundation for Journalism to study at Harvard University in Cambridge, Massachusetts."@en ;
+        rdfs:label    "Huy Duc"@en .
+
+dbr:Lưu_Quang_Minh  rdfs:comment  "Lưu Quang Minh (born 18 May 1988) is a writer and singer from Vietnam. He became famous when his very first book 'Gia tai tuoi 20' was published in Vietnam and became popular. He also composed and sang his debut song 'Gia tai tuoi 20' based on the stories from his book. Since then, he has begun working as a writer and singer. His music always based on his stories, he called that: ‘The Interference Of Music And Literature’."@en ;
+        rdfs:label     "Lưu Quang Minh"@en ;
+        dbp:birthDate  "1988-05-18"^^xsd:date .
+
+dbr:Nguyễn_Huy_Thiệp  rdfs:comment  "Nguyễn Huy Thiệp (Hanoi, 29 April 1950 – 20 March 2021) was a Vietnamese writer. He has been described as Vietnam's most influential writer. In 1992, before Bảo Ninh (1993) and Dương Thu Hương (1996), he was the first to write a major novel taking the gloss off the \"American War\" experience."@en ;
+        rdfs:label    "Nguyễn Huy Thiệp"@en .
+
+dbr:Trinh_T._Minh-ha  rdfs:comment  "Trinh T. Minh-ha (born 1952 in Hanoi; Vietnamese: Trịnh Thị Minh Hà) is a Vietnamese filmmaker, writer, literary theorist, composer, and professor. She has been making films for over thirty years and may be best known for her films Reassemblage, made in 1982, and Surname Viet Given Name Nam, made in 1985. She has received several awards and grants, including the American Film Institute's National Independent Filmmaker Maya Deren Award, and Fellowships from the John Simon Guggenheim Foundation, the National Endowment for the Arts and the California Arts Council. Her films have been the subject of twenty retrospectives."@en ;
+        rdfs:label      "Trinh T. Minh-ha"@en ;
+        dbp:birthPlace  "Hanoi, Vietnam"@en .
+
+dbr:Ma_Văn_Kháng  rdfs:comment  "Đinh Trọng Đoàn, pen name Ma Văn Kháng (Đống Đa, Hanoi, 1 December 1936) is a Vietnamese writer. He was one of the first doi moi authors to appear alongside Lê Lựu and Dương Thu Hương."@en ;
+        rdfs:label    "Ma Văn Kháng"@en .
+
+dbr:Nguyễn_Khắc_Viện  rdfs:comment  "Nguyễn Khắc Viện (5 February 1913 in Hương Sơn – 10 May 1997) was a Vietnamese historian, literary critic, sometime dissident, and advocate of a Vietnamese health exercise dưỡng sinh similar to Yoga. Viện was a party member formerly in charge of external propaganda and statements to foreign press. However his circulating of criticism of the government in the 1980s led to a ban on his writings till the early 1990s."@en ;
+        rdfs:label    "Nguyễn Khắc Viện"@en .
+
+dbr:Nguyen_Qui_Duc  rdfs:comment  "Nguyen Qui Duc (Nguyễn Quí Đức in Vietnamese) is a Vietnamese American radio broadcaster, writer, editor and translator. Born in Da Lat, Vietnam, he came to the United States in 1975, returning in the fall of 2006 to live in Hanoi, Vietnam. He has been a radio producer and writer since 1979, working for the British Broadcasting Corporation in London and KALW-FM in San Francisco and as a commentator for National Public Radio. He was the host of Pacific Time, KQED-FM Public Radio's national program on Asian and Asian American Affairs, from 2000 to 2006. His essays have been published in The Asian Wall Street Journal Weekly, The New York Times Magazine, The San Francisco Examiner, The San Jose Mercury News and other newspapers. Other essays, poems, and short stories have appeared in City Ligh"@en ;
+        rdfs:label    "Nguyen Qui Duc"@en .
+
+dbr:Tô_Hoài  rdfs:comment  "Tô Hoài (born Nguyễn Sen; September 27, 1920 – July 6, 2014) was a Vietnamese writer, playwright, screenwriter, journalist and correspondent. The pen name Tô Hoài is derived from the names of Tô Lịch river and Hà Đông province, which are landmarks of his hometown. Among his works are the best - seller books Dế mèn phiêu lưu ký (Diary of a cricket) (1941), Truyện Tây Bắc (Stories of North West region) (1958), Quê nhà (Home town) (1970), Ba người khác (Three Others) (1991). Some of his works have been translated into foreign languages. He won the Ho Chi Minh Prize for Literature in 1996."@en ;
+        rdfs:label      "Tô Hoài"@en ;
+        dbp:birthDate   "1920-09-27"^^xsd:date ;
+        dbp:birthPlace  <http://dbpedia.org/resource/Hà_Đông_(tỉnh)> , dbr:Phủ_Hoài_Đức , dbr:Nguyễn_dynasty .
+
+dbr:Dương_Tử_Giang  rdfs:comment  "Dương Tử Giang (1915-1956), born as Nguyễn Tấn Sĩ, was a Vietnamese writer, journalist, playwright and revolutionary. He was known for his patriotic activities against the invasion of France during the First Indochina War and against the pro-US Saigon government during the Vietnam War. His pen-name Dương Tử Giang (揚子江) means \"Yangtze River\". A street in current Ho Chi Minh City was named after Dương Tử Giang. An awards named Dương Tử Giang was also established for meritorious journalists in Đồng Nai province."@en ;
+        rdfs:label      "Dương Tử Giang"@en ;
+        dbp:birthDate   "1915-03-15"^^xsd:date ;
+        dbp:birthPlace  dbr:Giồng_Trôm , dbr:French_Indochina , dbr:Bến_Tre .
+
+dbr:Tran_Duc_Thao  rdfs:comment  "Trần Đức Thảo (Từ Sơn, Bắc Ninh, 26 September 1917 – Paris, 24 April 1993) was a Vietnamese philosopher. His work (written primarily in French) attempted to unite phenomenology with Marxist philosophy. His work had some currency in France in the 1950s and 1960s, and was cited favorably by Jacques Derrida, Jean-François Lyotard and Louis Althusser."@en ;
+        rdfs:label      "Tran Duc Thao"@en ;
+        dbp:birthDate   "1917-09-26"^^xsd:date ;
+        dbp:birthPlace  "Từ Sơn, Bắc Ninh, Vietnam"@en .
+
+dbr:Nguyễn_Xuân_Vinh  rdfs:comment  "Nguyễn Xuân Vinh (born January 1930 in Yên Bái, French Indochina) is a noted Vietnamese-American aerospace scientist and educator. Vinh is Professor Emeritus of Aerospace Engineering at the University of Michigan, where he taught for nearly thirty years. His seminal work on the guidance, dynamics and optimal control of space vehicles and their interaction with the atmosphere has played a fundamental role in space exploration and technological development."@en ;
+        rdfs:label      "Nguyễn Xuân Vinh"@en ;
+        dbp:birthDate   "1930-01-01"^^xsd:date ;
+        dbp:birthPlace  "Yên Bái, French Indochina"@en .
+
+dbr:Lê_Lựu  rdfs:comment  "Lê Lựu (born 12 December 1942 in Khoái Châu) is a Vietnamese writer specializing in novels and short stories. He has been a member of the Vietnam Writers Association since 1974. He is currently director of the Culture and Entrepreneurs Centre in Hanoi. His best known novel is Thời xa vắng. This was filmed by director Hồ Quang Minh, Le temps révolu, and released to the public in 2004 with music by Đặng Hữu Phúc."@en ;
+        rdfs:label    "Lê Lựu"@en .
+
+dbr:Mai_Thuc  rdfs:comment  "Mai Thuc (Vietnamese: Mai Thục) (née Mai Thị Thục, 15 March 1950 - 24 June 2018) was a Vietnamese writer and journalist, who was most known for her works on Vietnam history, its people, and culture. She was the Editor-in-chief of Hanoi Women's Newspaper (1995–2003) and later in her retirement years a part-time lecturer in Hanoi Culturology at Thang Long University, Hanoi. Mai Thuc, in her own words: \"Văn dĩ tải Đạo. Tôi cầm bút cùng mọi người hành trình trên con đường Chân Thiện Mỹ.\" (Words enlighten. I, with my pen, journey with others towards Truth - Kindness - Aesthetics.)"@en ;
+        rdfs:label     "Mai Thuc"@en ;
+        dbp:birthDate  "1950-03-15"^^xsd:date .
+
+dbr:Vũ_Trọng_Phụng  rdfs:comment  "Vũ Trọng Phụng (武重鳳, Hanoi, 20 October 1912 – Hanoi, 13 October 1939) was a popular Vietnamese author and journalist, who is considered to be one of the most influential figures of 20th century Vietnamese literature. Today, several of his works are taught in Vietnamese schools."@en ;
+        rdfs:label    "Vũ Trọng Phụng"@en .
+
+dbr:Hữu_Mai  rdfs:comment  "Hữu Mai (7 May 1926 – 2007) was a Vietnamese writer. He was born in Thanh Hóa and wrote the memoirs of Võ Nguyên Giáp."@en ;
+        rdfs:label    "Hữu Mai"@en .
+
+dbr:Nguyễn_Đình_Thi  rdfs:comment  "Nguyễn Đình Thi (December 20, 1924 – April 18, 2003) was a famous Vietnamese writer, poet and composer."@en ;
+        rdfs:label    "Nguyễn Đình Thi"@en .
+
+<http://dbpedia.org/resource/Tran_Bich_San_(US_writer)>
+        rdfs:comment    "Trần Gia Thái, pen name Trần Bích San (October 10, 1940 - January 9, 2021) was a Vietnamese writer."@en ;
+        rdfs:label      "Tran Bich San (US writer)"@en ;
+        dbp:birthDate   "1940-10-10"^^xsd:date ;
+        dbp:birthPlace  "Sung Van, Nam Dinh, Vietnam"@en .
+
+dbr:Phạm_Duy_Khiêm  rdfs:comment  "Phạm Duy Khiêm (24 April 1908 – 2 December 1974) was a Vietnamese writer, academic and South Vietnam ambassador in France. He was the son of the writer Phạm Duy Tốn, and brother of songwriter Phạm Duy."@en ;
+        rdfs:label      "Phạm Duy Khiêm"@en ;
+        dbp:birthDate   "1908-04-24"^^xsd:date ;
+        dbp:birthPlace  dbr:Hanoi , dbr:French_Indochina .
+
+dbr:Ninh_Viết_Giao  rdfs:comment  "Ninh Viết Giao (Thanh Hoá, c. 1930) is a Vietnamese writer. He graduated from Hanoi University in 1956. He was one of the writers reviving an interest in folk tales such as Thằng Bờm and Truyện Trê Cóc."@en ;
+        rdfs:label    "Ninh Viết Giao"@en .
+
+dbr:Lương_Văn_Can  rdfs:comment  "Lương Văn Can (梁文玕, 1854–1927) was a Vietnamese mandarin, school administrator, independence activist and writer. His most noted work is Nhà nước, \"The State\"."@en ;
+        rdfs:label    "Lương Văn Can"@en .
+
+dbr:Elula_Perrin  rdfs:comment  "Elula Perrin (1929, Hanoi – 22 May 2003, Paris) was a French-Vietnamese writer. In 1969, she and Aimée Mori founded the Katmandou, the first nightclub for women in Paris. It was closed in 1989."@en ;
+        rdfs:label    "Elula Perrin"@en .
+
+dbr:Ngo_Van  rdfs:comment  "Ngô Văn Xuyết (Tan Lo, near Saigon, 1913–Paris, 1 January 2005), alias Ngô Văn was a Vietnamese revolutionary who chronicled labour and peasant insurrections caught \"in the crossfire\" between the colonial French and the Indochinese Communist Party of Nguyễn Ái Quốc (Ho Chi Minh). As a Trotskyist militant in the 1930s, Ngô Văn helped organise Saigon's waterfront and factories in defiance of the Party's \"Moscow line\" which sought to engage indigenous employers and landowners in a nationalist front and the French in an \"anti-fascist\" and anti-Japanese alliance. When, after 1945, further challenges to the Party met with a policy of targeted assassination, Ngô Văn went into exile. In Paris experiences shared with anarchist and Poumista refugees from the Spanish Civil War suggested \"new radical"@en ;
+        rdfs:label      "Ngo Van"@en ;
+        dbp:birthDate   1913 ;
+        dbp:birthPlace  "Thu Duc, French Cochinchina"@en .
+
+dbr:Nguyễn_Thị_Duệ  rdfs:comment  "Nguyễn Thị Duệ (阮氏叡, 1574 – 1654) courtesy name Ngọc Toàn (玉全), pen name Diệu Huyền (妙玄), Đào Hoa Am (桃花庵), was a Vietnamese consort and female scholar."@en ;
+        rdfs:label      "Nguyễn Thị Duệ"@en ;
+        dbp:birthDate   1574 ;
+        dbp:birthPlace  "Kiệt Đặc village, Bằng Châu, Dương Kinh, Việt Nam"@en .
+
+dbr:Đặng_Trần_Côn  rdfs:comment  "Đặng Trần Côn (Chữ Hán: 鄧陳琨; born Trần Côn; c. 1705-1745) was the author of the Chinh phụ ngâm a masterpiece of Chữ Hán literature of Vietnam. Đặng Trần Côn was born in Nhân Mục village (or Nhân Mọc), Thanh Trì district, (now Nhân Chính ward, Thanh Xuân district), Hanoi, around 1705-1710. As an adopted child his surname Đặng was that of his adoptive family. His original name was Trần Côn. His work Chinh phụ ngâm was written in Chữ Hán was later translated into Chữ Nôm by the poet Đoàn Thị Điểm and the poet Phan Huy Ích (1751–1822)."@en ;
+        rdfs:label      "Đặng Trần Côn"@en ;
+        dbp:birthDate   "circa 1705"@en ;
+        dbp:birthPlace  "Nhân Mục village, Thanh Trì district, Hanoi"@en .
+
+dbr:Hằng_Phương  rdfs:comment  "Hằng Phương (Điện Bàn, 9 September 1908 – 2 February 1983) was a Vietnamese poet. Her poetry has been characterised as intimist. She was born into an educated Confucian family, and married writer Vũ Ngọc Phan. Her daughter is the painter Vũ Giáng Hương."@en ;
+        rdfs:label      "Hằng Phương"@en ;
+        dbp:birthDate   "1908-09-09"^^xsd:date ;
+        dbp:birthPlace  "làng Nông Sơn, xã Điện Thọ, Điện Bàn, Quảng Nam Province,"@en .
+
+dbr:Chu_Tử  rdfs:comment  "Chu Tử (Chinese: 朱子, 1917 - 1975) was a Vietnamese journalist and writer."@en ;
+        rdfs:label      "Chu Tử"@en ;
+        dbp:birthDate   "1917-04-17"^^xsd:date ;
+        dbp:birthPlace  "Mía Village, Sơn Tây Province, 23px French Tonkin"@en .
+
+dbr:Nam_Le  rdfs:comment  "Nam Le (Vietnamese: Lê Nam) (born 1978) is a Vietnamese-born Australian writer, who won the Dylan Thomas Prize for his book The Boat, a collection of short stories. His stories have been published in many places including Best Australian Stories 2007, Best New American Voices, Zoetrope: All-Story, A Public Space and One Story. In 2008 he was named a 5 under 35 honoree by the National Book Foundation."@en ;
+        rdfs:label    "Nam Le"@en .
+
+dbr:Lê_Minh_Khuê  rdfs:comment  "Lê Minh Khuê (born 6 December 1949, in Tĩnh Gia, Thanh Hoá) is a Vietnamese writer. Her works have been translated into English and several other languages. She was interviewed in Ken Burns's series The Vietnam War."@en ;
+        rdfs:label    "Lê Minh Khuê"@en .
+
+dbr:Quang_Nhuong_Huynh
+        rdfs:comment    "Quang Nhuong Huynh (August 22, 1946—2001) was a Vietnamese-born American author. He wrote two books, and has received several awards for his autobiographical work The Land I Lost. Huynh is credited as being the first Vietnamese author to write fiction and non-fiction in English."@en ;
+        rdfs:label      "Quang Nhuong Huynh"@en ;
+        dbp:birthDate   "1946-08-22"^^xsd:date ;
+        dbp:birthPlace  dbr:Vietnam .

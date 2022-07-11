@@ -1,0 +1,592 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Lý_Thái_Tổ  rdfs:comment  "Lý Thái Tổ (Hán tự: 李太祖, 8 March 974 – 31 March 1028), personal name Lý Công Uẩn, temple name Thái Tổ, was a Vietnamese monarch, the founder of the Lý dynasty of Vietnam and the 6th ruler of Đại Việt; he reigned from 1009 to 1028."@en ;
+        rdfs:label      "Lý Thái Tổ"@en ;
+        dbo:child       dbr:Lý_Bồ , dbr:Vũ_Đức , dbr:Lý_Thái_Tông , dbr:Lý_Lực , dbr:Lý_Nhật_Quang ;
+        dbo:parent      dbr:Hiển_Khánh_Vương ;
+        dbp:birthDate   "0974-03-08"^^xsd:date ;
+        dbp:birthPlace  dbr:Từ_Sơn , dbr:Đại_Việt .
+
+dbr:Trần_Hiến_Tông  rdfs:comment  "Trần Hiến Tông (17 May 1319 – 11 June 1341), given name Trần Vượng (陳 旺), was the sixth emperor of the Trần dynasty who reigned Đại Việt from 1329 to 1341. Enthroned by Minh Tông when he was only a ten-year-old boy, Hiến Tông ruled Đại Việt with the regent of the Retired Emperor Minh Tông during his thirteen years of reign. The Emperor died at the age of 23 and leaving no heir, he was succeeded by his younger brother Trần Hạo. The death of Hiến Tông and his father afterward marked the turning-point in history of Trần dynasty when the country began to fall into the trouble times."@en ;
+        rdfs:label      "Trần Hiến Tông"@en ;
+        dbo:parent      dbr:Trần_Minh_Tông ;
+        dbp:birthDate   "1319-05-17"^^xsd:date ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Đại_Việt .
+
+dbr:Võ_Nguyên_Giáp  rdfs:comment  "Võ Nguyên Giáp (Vietnamese: [vɔ̌ˀ ŋʷīən jǎːp]; 25 August 1911 – 4 October 2013), nicknamed \"Red Napoleon\", was a Vietnamese general and communist politician who is regarded as having been one of the greatest military strategists of the 20th century. He served as interior minister in President Hồ Chí Minh's Việt Minh government, the military commander of the Việt Minh, the commander of the People's Army of Vietnam (PAVN), minister of defence, and deputy prime minister. He also served as a member of the Politburo of the Vietnam Workers' Party, which in 1976 became the Communist Party of Vietnam."@en ;
+        rdfs:label      "Võ Nguyên Giáp"@en ;
+        dbp:birthDate   "1911-08-25"^^xsd:date ;
+        dbp:birthPlace  "Lệ Thủy, Quảng Bình,"@en .
+
+dbr:Lý_Cao_Tông  rdfs:comment  "Lý Cao Tông (6 July 1173 – 15 November 1210), born Lý Long Trát, courtesy name Long Cán, was the seventh king of the Lý dynasty, ruled Đại Việt for 35 years. He identified himself with Buddha, similar with Angkorian Khmer Empire contemporary counterpart Jayavarman VII. Some consider his reign to begin the fall into decay of the Lý Dynasty because of his erroneous determinations. However, many historians agree that he had an important influence in Vietnamese history."@en ;
+        rdfs:label      "Lý Cao Tông"@en ;
+        dbo:child       dbr:Lý_Huệ_Tông ;
+        dbo:parent      dbr:Lý_Anh_Tông ;
+        dbp:birthDate   "1173-07-06"^^xsd:date ;
+        dbp:birthPlace  dbr:Imperial_Citadel_of_Thăng_Long .
+
+dbr:Trần_Dụ_Tông  rdfs:comment  "Trần Dụ Tông (Hán tự: 陳裕宗, 22 November 1336 – 25 May 1369), given name Trần Hạo (陳暭), was the seventh emperor of the Trần dynasty, and reigned over Vietnam from 1341 to 1369. Enthroned by Senior Emperor Minh Tông after the death of his elder brother Hiến Tông, Dụ Tông nominally ruled Đại Việt under the regency of the Senior Emperor until the latter's death in 1357 and held the absolute position in the royal court for twelve more years. The reign of Dụ Tông was seen by historical books as the starting point for the third phase of Trần Dynasty when the peaceful and prosperous state of the country began to fade away and the royal family fell into a long period of chaos before ultimately collapsing."@en ;
+        rdfs:label      "Trần Dụ Tông"@en ;
+        dbo:parent      dbr:Trần_Minh_Tông ;
+        dbp:birthDate   "1336-11-22"^^xsd:date ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Lê_Ý_Tông  rdfs:comment  "Lê Ý Tông (黎懿宗 29 March 1719 – 10 August 1759) was the third-last emperor of Vietnamese Lê Dynasty, reigning only nominally under the power of Trịnh Giang of the Trịnh Lords. He reigned from 1735 to 1740 and was succeeded by Lê Hiển Tông."@en ;
+        rdfs:label      "Lê Ý Tông"@en ;
+        dbo:parent      dbr:Lê_Dụ_Tông ;
+        dbp:birthDate   "1719-03-29"^^xsd:date ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Lê_Lợi  rdfs:comment  "Lê Lợi (Vietnamese: [le lə̂ːjˀ], Chữ Hán: 黎利; c. 10 September 1384/1385 – 5 October 1433), temple name Thái Tổ Emperor, title Bình Định vương (平定王; \"Prince of Pacification\") was a Vietnamese rebel leader who founded the Later Lê dynasty and became the first emperor of the restored empire of Đại Việt after it was conquered by the Ming dynasty. In 1418, Lê Lợi and his followers in his homeland rose up against Ming rule, was called the Lam Sơn Uprising. He was known for his effective guerrilla tactics, including constantly moving on the wing and using small bands of brigands to ambush the regular Ming units. Nine years later, his resistance movement successfully drove the Ming armies out of Vietnam and liberated the country. Lê Lợi is among the most famous figures of Vietnamese history and on"@en ;
+        rdfs:label      "Lê Lợi"@en ;
+        dbo:child       dbr:Lê_Thái_Tông , dbr:Lê_Tư_Tề ;
+        dbo:parent      dbr:Lê_Khoáng ;
+        dbp:birthDate   "--09-10"^^xsd:gMonthDay ;
+        dbp:birthPlace  "Lam Sơn , Thanh Hóa province"@en .
+
+dbr:Lê_Dụ_Tông  rdfs:comment  "Lê Dụ Tông (chữ Hán: 黎裕宗, 1679 – 27 February 1731), born Lê Duy Đường (黎維禟) was an emperor of Vietnam, the 22nd emperor of Vietnamese Later Lê dynasty. He reigned as emperor from 1705–1729 (24 years), the first ten years of which his father Lê Hy Tông was alive and elevated in semi-retirement to Retired Emperor (Vietnamese: Thái thượng hoàng). He was succeeded by Lê Duy Phường, also known as the second emperor to carry the name Hôn Đức Công."@en ;
+        rdfs:label      "Lê Dụ Tông"@en ;
+        dbo:parent      dbr:Lê_Hy_Tông ;
+        dbp:birthDate   1679 ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Phan_Xích_Long  rdfs:comment  "Phan Xích Long, also known as Hồng Long, born Phan Phát Sanh (1893–1916), was a 20th-century Vietnamese mystic and geomancer who claimed to be the Emperor of Vietnam. He attempted to exploit religion as a cover for his own political ambitions, having started his own ostensibly religious organisation. Claiming to be a descendant of Emperor Hàm Nghi, Long staged a ceremony to crown himself, before trying to seize power in 1913 by launching an armed uprising against the colonial rule of French Indochina. His supporters launched an attack on Saigon in March 1913, drinking potions that purportedly made them invisible and planting bombs at several locations. The insurrection against the French colonial administration failed when none of the bombs detonated and the supposedly invisible supporters"@en ;
+        rdfs:label      "Phan Xích Long"@en ;
+        dbp:birthDate   "1893-01-01"^^xsd:date ;
+        dbp:birthPlace  dbr:Southern_Vietnam .
+
+dbr:Lê_Trang_Tông  rdfs:comment  "Lê Trang Tông (黎莊宗, 1515 – 9 March 1548) was the 13th emperor of the Later Lê dynasty and the first of the Revival Lê dynasty. His enthronement marked the re-establishment of the Later Lê dynasty following a six-year hiatus."@en ;
+        rdfs:label      "Lê Trang Tông"@en ;
+        dbo:parent      dbr:Phạm_Thị_Ngọc_Quỳnh , dbr:Lê_Chiêu_Tông ;
+        dbp:birthDate   1515 ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Lê_Quang_Trị  rdfs:comment  "Lê Quang Trị (Hán tự: 黎光治, 1509–1516) was an emperor of Later Lê dynasty."@en ;
+        rdfs:label      "Lê Quang Trị"@en ;
+        dbo:parent      dbr:Lê_Doanh ;
+        dbp:birthDate   1509 ;
+        dbp:birthPlace  dbr:File:Personal_Flag_of_Emperor_Minh_Mang.svg , dbr:Hanoi , dbr:Names_of_Vietnam .
+
+dbr:Trần_Nhân_Tông  rdfs:comment  "Trần Nhân Tông (7 December 1258–16 December 1308), personal name Trần Khâm, temple name Nhân Tông, was the third monarch of the Trần dynasty, reigning over Đại Việt from 1278 to 1293. After ceding the throne to his son Trần Anh Tông, Nhân Tông held the title Retired Emperor (Vietnamese: Thái thượng hoàng) from 1294 to his death in 1308. During the second and third Mongol invasions of Đại Việt, the Emperor Nhân Tông and his father the Retired Emperor Thánh Tông were credited as the supreme commanders who led the Trần dynasty to the final victories and since established a long period of peace and prosperity over the country."@en ;
+        rdfs:label      "Trần Nhân Tông"@en ;
+        dbo:child       dbr:Crown_prince , dbr:Trần_Quốc_Chẩn , dbr:Huyền_Trân ;
+        dbo:parent      dbr:Trần_Thánh_Tông ;
+        dbp:birthDate   "1258-12-07"^^xsd:date ;
+        dbp:birthPlace  dbr:Names_of_Vietnam , dbr:Hanoi .
+
+dbr:Nguyễn_Phúc_Khoát
+        rdfs:comment   "Nguyễn Phúc Khoát (26 September 1714 – 7 July 1765) was one of the Nguyễn lords who ruled over the southern portion of Vietnam from the 16th–18th centuries. Also known as Chúa Võ (主武) or Võ vương (武王) (roughly Martial Prince), he continued the southern expansion undertaken by his predecessor as lord, Nguyễn Phúc Trú. Provinces and districts originally belonging to Cambodia were taken by Vo Vuong. The Vietnamese-Cambodian border established by the end of his reign remains the border today. The de jure pretense of loyalty to the Le was performed by Vo vuong."@en ;
+        rdfs:label     "Nguyễn Phúc Khoát"@en ;
+        dbo:child      dbr:Nguyễn_Phúc_Thuần , dbr:Nguyễn_Phúc_Dương , dbr:Nguyễn_Phúc_Luân ;
+        dbo:parent     dbr:Nguyễn_Phúc_Trú ;
+        dbp:birthDate  "1714-09-26"^^xsd:date .
+
+dbr:Lê_Uy_Mục  rdfs:comment  "Lê Uy Mục (chữ Hán: 黎威穆; 5 May 1488 – 1 December 1509), also called Lê Tuấn (黎濬), was the eighth emperor of the later Lê dynasty of Vietnam. He was the second son of Emperor Lê Hiến Tông and the elder half-brother of his direct predecessor, Emperor Lê Túc Tông."@en ;
+        rdfs:label     "Lê Uy Mục"@en ;
+        dbo:parent     dbr:Nguyễn_Thị_Cận , dbr:Lê_Hiến_Tông ;
+        dbp:birthDate  "1488-05-05"^^xsd:date .
+
+dbr:Jean-Claude_Miche
+        rdfs:comment    "Jean-Claude Miche, M.E.P., (9 August 1805 – 1 December 1873) was a French missionary and bishop. He played an instrumental role in the establishment of the French Protectorate of Cambodia. Ordained in 1830, Miche entered the seminary of the Paris Foreign Missions Society (M.E.P.) in 1835. After a brief course on the geography of Southeast Asia, Miche departed for Cochinchina the next year. After sojourns in Malaysia, Siam, and the Mekong Delta, Miche arrived in Battambang in December 1838."@en ;
+        rdfs:label      "Jean-Claude Miche"@en ;
+        dbp:birthDate   "1805-08-09"^^xsd:date ;
+        dbp:birthPlace  dbr:Bruyères , dbr:France , <http://dbpedia.org/resource/Vosges_(department)> .
+
+dbr:Lê_Chiêu_Thống  rdfs:comment  "Lê Chiêu Thống (1765–1793), born Lê Duy Khiêm and later Lê Duy Kỳ, was the last emperor of the Vietnamese Later Lê dynasty. He was overthrown by the Tây Sơn dynasty. He appealed to the Qing dynasty of China to help regain the throne but failed after losing the Battle of Ngọc Hồi-Đống Đa. Afterwards, he no longer received support from the Qing emperor, relatives of the Later Lê imperial family were imprisoned in Vietnam, and he died in China."@en ;
+        rdfs:label      "Lê Chiêu Thống"@en ;
+        dbo:parent      dbr:Empress_Dowager_Mẫn , dbr:Lê_Duy_Vĩ ;
+        dbp:birthDate   1765 ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Đại_Việt .
+
+dbr:Trương_Minh_Giảng
+        rdfs:comment    "Trương Minh Giảng (Hán tự: 張明講, 1792 – 1841) was a general and official of Vietnam during the Nguyễn dynasty."@en ;
+        rdfs:label      "Trương Minh Giảng"@en ;
+        dbp:birthDate   1792 ;
+        dbp:birthPlace  dbr:Gia_Định_province .
+
+dbr:Trịnh_Giang  rdfs:comment  "Trịnh Giang (Hán tự: 鄭杠; 14 October 1711 – 30 December 1762) ruled northern Vietnam (Tonkin) from 1729 to 1740. His title as ruling lord (chua) was Uy Nam Vương. He was one of the Trịnh Lords who ruled Vietnam. He was a bad ruler, being wasteful, inept, and callous."@en ;
+        rdfs:label      "Trịnh Giang"@en ;
+        dbo:child       dbr:Trịnh_Bồng ;
+        dbo:parent      dbr:Trịnh_Cương ;
+        dbp:birthDate   "1711-10-14"^^xsd:date ;
+        dbp:birthPlace  "Đông Kinh, North Vietnam"@en .
+
+dbr:Trần_Minh_Tông  rdfs:comment  "Trần Minh Tông (4 September 1300 – 10 March 1357), real name Trần Mạnh (陳奣), was the fifth emperor of the Trần dynasty who ruled Đại Việt from 1314 to 1329. After ceding the throne to his son Trần Hiến Tông, Minh Tông held the title of Retired Emperor (Vietnamese: Thái thượng hoàng) for 29 years. As the last emperor in the prosperous period of Trần dynasty, Minh Tông was known for his successful reign of Đại Việt with the assistance of many talented mandarins. Minh Tông was also the longest-reigning retired emperor in history of Vietnam when he acted as a regent and co-ruled with Hiến Tông and Dụ Tông. His death marked a significant turning point in the history of the Trần Dynasty, as the country began to decline and soon fell into troubled times."@en ;
+        rdfs:label      "Trần Minh Tông"@en ;
+        dbo:child       dbr:Trần_Nguyên_Dục , dbr:Trần_Duệ_Tông , dbr:Trần_Nguyên_Thạch , dbr:Trần_Thiên_Trạch , dbr:Trần_Nguyên_Hú , dbr:Trần_Dụ_Tông , dbr:Trần_Nguyên_Trác , dbr:Trần_Nghệ_Tông , dbr:Crown_prince ;
+        dbo:parent      dbr:Trần_Anh_Tông ;
+        dbp:birthDate   "1300-09-04"^^xsd:date ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Đại_Việt .
+
+dbr:Trần_Thái_Tông  rdfs:comment  "Trần Thái Tông (17 July 1218 – 5 May 1277), personal name Trần Cảnh or Trần Nhật Cảnh, temple name Thái Tông, was the first monarch of the Trần Dynasty, reigned Đại Việt for 33 years (1226–58), being Retired Emperor for 19 years. He reigned during the first Mongol invasion of Vietnam before eventually abdicating in favor of his son Trần Hoảng (Trần Thánh Tông) in 1258."@en ;
+        rdfs:label      "Trần Thái Tông"@en ;
+        dbo:child       dbr:Trần_Thánh_Tông , dbr:Trần_Ích_Tắc ;
+        dbo:parent      dbr:Trần_Thừa ;
+        dbp:birthDate   "1218-07-17"^^xsd:date ;
+        dbp:birthPlace  "Hương Tức Mặc,"@en .
+
+dbr:Lê_Thế_Tông  rdfs:comment  "Lê Thế Tông (chữ Hán: 黎世宗, 1567 – 12 October 1599, reigned 1573–1599), real name Lê Duy Đàm (黎維潭) was the 15th emperor of the later Lê dynasty of Vietnam. He reigned only nominally, under the power of warlord Trịnh Tùng, who took King Lê Thế Tông to the Royal capital Đông Đô in 1593 marking the formal restoration of the Lê Dynasty, but not allowing the emperor decision-making powers."@en ;
+        rdfs:label     "Lê Thế Tông"@en ;
+        dbo:parent     dbr:Lê_Anh_Tông ;
+        dbp:birthDate  1567 .
+
+dbr:Lê_Chiêu_Tông  rdfs:comment  "Lê Chiêu Tông (黎昭宗, 4 October 1506 – 18 December 1526; also called Lê Y, 黎椅 or 黎譓) was an emperor of the Lê Dynasty of Vietnam who ruled from 1516 to 1526. He was the son of and nephew of the preceding king Lê Tuong Duc. As Lê Tuong Duc was assassinated in 1516, the young Lê Chieu Tông was put on the throne. His short reign was heavily colored by continuing factionalism and jockeying for power between the Mạc and Nguyen families, and his own."@en ;
+        rdfs:label     "Lê Chiêu Tông"@en ;
+        dbp:birthDate  "1506-10-04"^^xsd:date .
+
+dbr:Hồ_Hán_Thương  rdfs:comment  "Hồ Hán Thương (Hán tự: 胡漢蒼, ?–1407?) was the second and final emperor of the short-lived Hồ dynasty of Đại Ngu (now Viet Nam). Hán Thương, his father Hồ Quý Ly, and his son Nhe, were captured by the Ming forces during the Ming–Hồ War in June 1407 and died in exile in China."@en ;
+        rdfs:label     "Hồ Hán Thương"@en ;
+        dbo:parent     dbr:Hồ_Quý_Ly ;
+        dbp:birthDate  "?"@en .
+
+dbr:Minh_Mạng  rdfs:comment  "Minh Mạng (Hanoi: [mïŋ˧ maːŋ˧˨ʔ]) or Minh Mệnh (Hanoi: [mïŋ˧ məjŋ̟˧˨ʔ], Hán tự: 明命, lit. \"the bright favour of Heaven\"; 25 May 1791 – 20 January 1841; born Nguyễn Phúc Đảm, also known as Nguyễn Phúc Kiểu) was the second emperor of the Nguyễn dynasty of Vietnam, reigning from 14 February 1820 until his death, on 20 January 1841. He was the fourth son of Emperor Gia Long, whose eldest son, Nguyễn Phúc Cảnh, had died in 1801. He was well known for his opposition to French involvement in Vietnam and his rigid Confucian orthodoxy."@en ;
+        rdfs:label      "Minh Mạng"@en ;
+        dbo:parent      <http://dbpedia.org/resource/Thuận_Thiên_(Nguyễn_dynasty_empress)> , dbr:Gia_Long ;
+        dbp:birthDate   "1791-05-25"^^xsd:date ;
+        dbp:birthPlace  dbr:Ho_Chi_Minh_City , dbr:Vietnam .
+
+dbr:Mạc_Kính_Khoan  rdfs:comment  "Mạc Kính Khoan (莫敬寬, ?–1638) was the ninth emperor of the Mạc dynasty. He reigned in 1623–1638. He was a grandson of . In 1623, he rebelled against Trịnh lord in Thái Nguyên and enthroned. He was defeated by Trịnh Tráng and fled to Cao Bằng. In 1625, Trịnh Kiều (son of Trịnh Tráng) attacked Cao Bằng and captured Mạc Kính Cung. Khoan fled to Ming China and sent surrender documents to Trịnh lord. He was forgiven by Trịnh lord, and allowed to come back to Cao Bằng. He was granted the title thái úy (太尉) and Thông quốc công (通國公) by Lê dynasty."@en ;
+        rdfs:label     "Mạc Kính Khoan"@en ;
+        dbp:birthDate  "?"@en .
+
+dbr:Hàm_Nghi  rdfs:comment  "Emperor Hàm Nghi (Vietnamese: [hâːm ŋi], Hán tự: 咸宜 lit. \"entirely right\", Arabic: هام نغي; 3 August 1872 – 4 January 1943), personal name Nguyễn Phúc Ưng Lịch, also Nguyễn Phúc Minh, was the eighth Emperor of the Vietnamese Nguyễn Dynasty. He reigned for only one year (1884–85)."@en ;
+        rdfs:label      "Hàm Nghi"@en ;
+        dbo:child       dbr:Nguyễn_Phúc_Như_Lý , dbr:Nguyễn_Phúc_Minh_Đức , dbr:Nguyễn_Phúc_Như_Mai ;
+        dbo:parent      dbr:Nguyễn_Phúc_Hồng_Cai , dbr:Phan_Thị_Nhàn ;
+        dbp:birthDate   "1872-08-03"^^xsd:date ;
+        dbp:birthPlace  dbr:Nguyễn_dynasty , dbr:Imperial_City_of_Huế .
+
+dbr:Lạc_Long_Quân  rdfs:comment  "Lạc Long Quân (Chữ Hán:雒龍君; \"Dragon King of Lạc\"; also called Sùng Lãm) is a semi-mythical King of Hồng Bàng Dynasty of ancient Vietnam. Quân was the son of Kinh Dương Vương, the king of Xích Quỷ. He is the main figure in the Vietnamese creation myth of Lạc Long Quân-Âu Cơ."@en ;
+        rdfs:label      "Lạc Long Quân"@en ;
+        dbo:parent      dbr:Long_Mẫu_Thần_Long , dbr:Kinh_Dương_Vương ;
+        dbp:birthDate   2825 ;
+        dbp:birthPlace  "Unknown"@en .
+
+dbr:Trần_Duệ_Tông  rdfs:comment  "Trần Duệ Tông (Hán tự: 陳睿宗, 1337–1377), real name Trần Kính (陳曔), was the ninth emperor of the Trần dynasty who reigned Vietnam from 1373 to 1377. Duệ Tông succeeded the throne from his brother Trần Nghệ Tông who was credited with the re-establishment of Trần clan's ruling in Vietnam from Hôn Đức Công. During his short-lived reign, Duệ Tông had to witness the rising of Hồ Quý Ly in the imperial court and several consecutive attacks in Vietnam from Chế Bồng Nga, king of Champa. In 1377 Duệ Tông decided to personally command a major military campaign against Champa, this campaign was ended by the disastrous defeat of Trần's army in Battle of Vijaya where Duệ Tông himself was killed in action with many other high-ranking mandarins and generals of Vietnam. Duệ Tông's death was one of the main "@en ;
+        rdfs:label      "Trần Duệ Tông"@en ;
+        dbo:child       dbr:Trần_Phế_Đế ;
+        dbo:parent      dbr:Trần_Minh_Tông ;
+        dbp:birthDate   "1337-06-30"^^xsd:date ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Đại_Việt .
+
+dbr:Lê_Nhân_Tông  rdfs:comment  "Lê Nhân Tông (黎仁宗, 28 May 1441 – 25 October 1459), birth name Lê Bang Cơ (黎邦基) was emperor of Vietnam, the third monarch of the House of Lê from 1453 till his murder in a coup in 1459. He was a grandson of the hero-emperor Lê Lợi. During nearly all of his short reign, the real power behind the throne was his mother, Empress Dowager Tuyên Từ, a Royal Consort of Emperor Lê Thái Tông."@en ;
+        rdfs:label     "Lê Nhân Tông"@en ;
+        dbo:parent     dbr:Lê_Thái_Tông , dbr:Nguyễn_Thị_Anh ;
+        dbp:birthDate  "--05-28"^^xsd:gMonthDay .
+
+dbr:Lý_Thần_Tông  rdfs:comment  "Lý Thần Tông (1116–1138), personal name Lý Dương Hoán, was the fifth monarch of the Lý Dynasty, reigning over Đại Việt from 1127 to his death in 1138. Becoming the ruler of Đại Việt at the age of twelve, Lý Thần Tông successfully maintained the order of the royal court and strengthened the stability of the country with the assistance of capable officials. For that reason, Đại Việt under Lý Thần Tông was able to witness a peaceful period like during the reign of his predecessors. However, Lý Thần Tông died at age 23 before passing the throne to his crown prince Lý Thiên Tộ."@en ;
+        rdfs:label      "Lý Thần Tông"@en ;
+        dbo:child       dbr:Lý_Anh_Tông , dbr:Lý_Thiên_Lộc ;
+        dbo:parent      dbr:Sùng_Hiền_hầu ;
+        dbp:birthDate   1116 ;
+        dbp:birthPlace  dbr:Imperial_Citadel_of_Thăng_Long .
+
+dbr:Mạc_Đăng_Dung  rdfs:comment  "Mạc Đăng Dung (chữ Hán; 莫登庸; 23 November 1483 – 22 August 1541), also known by his temple name Mạc Thái Tổ (莫太祖), was an emperor of Vietnam and the founder of the Mạc Dynasty. Previously a captain of the imperial guard (Praetorian Prefect equivalent) of one of the Lê Dynasty emperors, he gradually rose to a position of great power. Mạc eventually deposed the last Lê monarch and became a monarch himself."@en ;
+        rdfs:label     "Mạc Đăng Dung"@en ;
+        dbp:birthDate  "1483-11-23"^^xsd:date .
+
+dbr:Đồng_Khánh  rdfs:comment  "Đồng Khánh (Hanoi: [ɗəwŋ͡m˨˩ xajŋ̟˧˦], Hán tự: 同慶, lit. \"collective celebration\"; 19 February 1864 – 28 January 1889), born Nguyễn Phúc Ưng Kỷ (阮福膺祺) or Nguyễn Phúc Ưng Đường (阮福膺禟), also known as Chánh Mông (正蒙), was the ninth emperor of the Nguyễn Dynasty of Vietnam. He reigned three years between 1885 and 1889. His royal temple name was Cảnh Tông (景宗)."@en ;
+        rdfs:label      "Đồng Khánh"@en ;
+        dbo:child       dbr:Khải_Định ;
+        dbo:parent      dbr:Nguyễn_Phúc_Hồng_Cai , dbr:Bùi_Thị_Thanh ;
+        dbp:birthDate   "1864-02-19"^^xsd:date ;
+        dbp:birthPlace  dbr:Imperial_City_of_Huế , dbr:Nguyễn_dynasty .
+
+dbr:Quang_Trung  rdfs:comment  "Emperor Quang Trung (Vietnamese: [kwāːŋ ʈūŋm] Hán tự: 光中, 1753 – 16 September 1792) or Nguyễn Huệ (Vietnamese: [ŋwĩəŋ hwêˀ] Hán tự: 阮惠), also known as Nguyễn Quang Bình (Vietnamese: [ŋwĩəŋ kwāːŋ ɓîŋ̟] Hán tự: 阮光平), was the second emperor of the Tây Sơn dynasty, reigning from 1788 until 1792. He was also one of the most successful military commanders in Vietnam's history. Nguyễn Huệ and his brothers, Nguyễn Nhạc and Nguyễn Lữ, together known as the Tây Sơn brothers, were the leaders of the Tây Sơn rebellion. As rebels, they conquered Vietnam, overthrowing the imperial Later Lê dynasty and the two rival feudal houses of the Nguyễn in the south and the Trịnh in the north."@en ;
+        rdfs:label      "Quang Trung"@en ;
+        dbo:child       dbr:Nguyễn_Quang_Thiệu , dbr:Nguyễn_Quang_Thùy , dbr:Nguyễn_Quang_Bàn , dbr:Nguyễn_Quốc_Duy , dbr:Nguyễn_Quang_Toản ;
+        dbo:parent      dbr:Nguyễn_Thị_Đồng ;
+        dbp:birthDate   1753 ;
+        dbp:birthPlace  dbr:Bình_Định_province , dbr:Đại_Việt , dbr:Đàng_Trong .
+
+dbr:Lê_Chân_Tông  rdfs:comment  "Lê Chân Tông (黎真宗, 1630 – 2 October 1649) was the 18th monarch of Vietnamese Later Lê dynasty."@en ;
+        rdfs:label      "Lê Chân Tông"@en ;
+        dbo:parent      dbr:Nguyễn_Thị_Ngọc_Bạch , dbr:Lê_Thần_Tông ;
+        dbp:birthDate   1630 ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Đại_Việt .
+
+dbr:Lê_Duy_Phường  rdfs:comment  "Lê Duy Phường (黎維祊, 1709–1735) was the twelfth and fifth-last emperor of Vietnamese Lê Dynasty. He was imprisoned shortly after his reign began and reigned under arrest from 1729 to 1732 until he was murdered by Trịnh Giang, and was succeeded by his older brother, Lê Thuần Tông."@en ;
+        rdfs:label      "Lê Duy Phường"@en ;
+        dbo:parent      dbr:Trịnh_Thị_Ngọc_Trang , dbr:Lê_Dụ_Tông ;
+        dbp:birthDate   1709 ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Zhao_Tuo  rdfs:comment  "Zhao Tuo (Chinese: 趙佗; pinyin: Zhào Tuó; Wade–Giles: Chao4 T'o2; Vietnamese: Triệu Đà; Chữ Hán: 趙佗), was a Qin dynasty Chinese general and first emperor of Nanyue. He participated in the conquest of the Baiyue peoples of Guangdong, Guangxi and Northern Vietnam. After the fall of the Qin, he established the independent kingdom of Nanyue with its capital in Panyu (now Guangzhou) in 204 BCE. Some traditional Vietnamese history scholars considered him an emperor of Vietnam and the founder of the Triệu dynasty, other historians contested that he was a foreign invader."@en ;
+        rdfs:label      "Zhao Tuo"@en ;
+        dbp:birthDate   240 ;
+        dbp:birthPlace  dbr:Shijiazhuang , dbr:China , dbr:Zhengding_County .
+
+dbr:Lê_Thánh_Tông  rdfs:comment  "Lê Thánh Tông (25 August 1442 – 3 March 1497), personal name Lê Hạo, temple name Thánh Tông, courtesy name Tư Thành, was an emperor of Đại Việt, reigned from 1460 to 1497, the fifth monarch of the House of Lê Duy and is one of the greatest monarchs in Vietnamese history. He came to power through a coup d'état against his second brother Lê Nghi Dân in 1460. His reign is recognized for the extensive administrative, military, education, and fiscal reforms he instituted, and a cultural revolution that replaced the old traditional aristocracy with a generation of literati scholars. His era was eulogized as the Prospered reign of Hồng Đức (Hồng Đức Thịnh trị; 洪德盛治)."@en ;
+        rdfs:label     "Lê Thánh Tông"@en ;
+        dbo:child      dbr:Lê_Hiến_Tông ;
+        dbo:parent     dbr:Lê_Thái_Tông , dbr:Ngô_Thị_Ngọc_Dao ;
+        dbp:birthDate  "1442-08-25"^^xsd:date .
+
+dbr:Lê_Duy_Cận  rdfs:comment  "Lê Duy Cận (Hán tự: 黎維𬓑, ?–?) or Lê Duy Cẩn, was a Vietnamese prince during Revival Lê dynasty. Cận was the second son of Lê Hiển Tông. In 1769, his elder brother, , was stripped of his position as Crown Prince and imprisoned by Trịnh Sâm. In the same year, Cận was proclaimed as the new Crown Prince. In 1782, Trịnh Khải staged a coup and came into power, Cận was deposed and granted the title Sùng Nhượng Công (崇讓公)."@en ;
+        rdfs:label      "Lê Duy Cận"@en ;
+        dbo:parent      dbr:Lê_Hiển_Tông ;
+        dbp:birthDate   "?"@en ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Lê_Cung_Hoàng  rdfs:comment  "Lê Cung Hoàng (黎恭皇, 26 July 1507 – 15 June 1527), born Lê Xuân, was the last emperor of the Later Lê dynasty of Vietnam. He reigned from 1522 to 1527. Lê Cung Hoàng was put on the throne by the powerful general Mạc Đăng Dung in 1522 in place of the deposed emperor, Lê Chiêu Tông. Eventually Mạc Đăng Dung deposed Lê Cung Hoàng in 1527, thus establishing the Mạc dynasty. \n* v \n* t \n* e"@en ;
+        rdfs:label     "Lê Cung Hoàng"@en ;
+        dbo:parent     dbr:Lê_Sùng , dbr:Trịnh_Thị_Loan ;
+        dbp:birthDate  "1507-07-26"^^xsd:date .
+
+dbr:Trần_Anh_Tông  rdfs:comment  "Trần Anh Tông (Hán tự: 陳英宗, 17 September 1276 - 12 December 1320), personal name Trần Thuyên (陳烇), courtesy name Nhật Sủy (日煃) or Nhật Sáng (日㷃/日𤊞), was the fourth emperor of the Trần dynasty, reigning over Dai Viet from 1293 to 1314. After ceding the throne to his son Trần Minh Tông, Anh Tông held the title Retired Emperor for six years. As the first Trần emperor who ruled in total peace with respect to foreign affairs, Anh Tông was known for his successful reign of Đại Việt, which brought a long period of peace and prosperity over the country. He also had several military victories over the kingdoms of Champa and Laos."@en ;
+        rdfs:label      "Trần Anh Tông"@en ;
+        dbo:child       dbr:Crown_prince ;
+        dbo:parent      dbr:Trần_Nhân_Tông , dbr:Khâm_Từ_Bảo_Thánh ;
+        dbp:birthDate   "1276-09-17"^^xsd:date ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Trịnh_Sâm  rdfs:comment  "Trịnh Sâm (鄭森, 9 February 1739 – 13 September 1782) ruled northern Vietnam from 1767 to 1782 AD. He ruled with the title \"Tĩnh Đô Vương\" (or Viceroy Tinh Do), and was one of the last of the powerful Trịnh lords. Trịnh Sâm defeated the ancient enemy of the northern state, the Nguyễn lords in the south. The Trịnh line was separate from the royal Lê Dynasty, and the officially recognized Emperor was Lê Hiển Tông (1740–1786), who continued to occupy the royal throne in Thăng Long (modern-day Hanoi), but without real power."@en ;
+        rdfs:label     "Trịnh Sâm"@en ;
+        dbo:child      dbr:Trịnh_Cán , dbr:Trịnh_Khải ;
+        dbo:parent     dbr:Trịnh_Doanh ;
+        dbp:birthDate  "1739-02-09"^^xsd:date .
+
+dbr:Lý_Chiêu_Hoàng  rdfs:comment  "Lý Chiêu Hoàng ([li˦˥ ciə̯w˧˧ hwaːŋ˨˩] Hán tự: 李昭皇, September 1218 – 1278), personal name Lý Phật Kim, was the ninth and last sovereign of the Lý dynasty, queen of Đại Việt from 1224 to 1225. She is the only empress regnant in Vietnamese history and the second Vietnamese female monarch as Trưng Trắc is the first female monarch and the only queen regnant."@en ;
+        rdfs:label      "Lý Chiêu Hoàng"@en ;
+        dbo:child       dbr:Trần_Trịnh , dbr:Lê_Tông , dbr:Lê_Ngọc_Khuê ;
+        dbo:parent      dbr:Lý_Huệ_Tông , dbr:Trần_Thị_Dung ;
+        dbp:birthDate   "September 1218"@en ;
+        dbp:birthPlace  dbr:Imperial_Citadel_of_Thăng_Long .
+
+dbr:Lê_Thái_Tông  rdfs:comment  "Lê Thái Tông (黎太宗 22 December 1423 – 28 August 1442), birth name Lê Nguyên Long (黎元龍), was the emperor of Vietnam, the second monarch of the House of Lê from 1433 till his early death nine years later."@en ;
+        rdfs:label      "Lê Thái Tông"@en ;
+        dbp:birthDate   "1423-11-20"^^xsd:date ;
+        dbp:birthPlace  "Lam Sơn, Thọ Xuân, Thanh Hóa Province"@en .
+
+dbr:Trịnh_Tùng  rdfs:comment  "Trịnh Tùng (19 December 1550 – 17 July 1623), also known as Trịnh Tòng and later given the title Bình An Vương (平安王), was the de facto ruler of Đại Việt from 1572 to 1623. Trịnh Tùng is the first official Trịnh Lord, although his father – Trịnh Kiểm – was de facto ruler of Dai Viet before him, Trịnh Kiểm never claimed himself as Trịnh Lord. Therefore Trịnh Kiểm is not considered as the first Trịnh Lord."@en ;
+        rdfs:label      "Trịnh Tùng"@en ;
+        dbo:child       dbr:Trịnh_Tráng ;
+        dbo:parent      dbr:Trịnh_Kiểm ;
+        dbp:birthDate   "1550-12-19"^^xsd:date ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Thanh_Hóa .
+
+dbr:Ngô_Quyền  rdfs:comment  "Ngô Quyền (Hán tự: 吳權) (March 12, 897 – February 14, 944), often referred to as First King Ngô, was a warlord and Vietnamese monarch who founded the Ngô dynasty that ruled over the autonomous Tĩnh Hải quân. He reigned from 939 to 944. In 938, he defeated the Southern Han dynasty at the Battle of Bạch Đằng River north of modern Haiphong and ended 1,000 years of Chinese rule in Vietnam dating back to 111 BC under the Western Han dynasty. A central district in modern Haiphong is named after him."@en ;
+        rdfs:label      "Ngô Quyền"@en ;
+        dbo:child       dbr:Ngô_Càn_Hưng , dbr:Ngô_Xương_Văn , dbr:Ngô_Xương_Ngập , dbr:Ngô_Nam_Hưng ;
+        dbo:parent      dbr:Ngô_Mân ;
+        dbp:birthDate   "0898-04-17"^^xsd:date ;
+        dbp:birthPlace  dbr:Đường_Lâm , dbr:Vietnam .
+
+dbr:Mạc_Hiến_Tông  rdfs:comment  "Mạc Hiến Tông (莫憲宗, ?–1546), birth name Mạc Phúc Hải (莫福海), was the third emperor of the Mạc Dynasty of Annam from 1540 to 1546. He was born in Cao Đôi village, Bình Hà district (present day Nam Tan, Nam Sach, Hai Duong). He was the oldest son of emperor Mac Thai Tong and grandson of Mac Dang Dung."@en ;
+        rdfs:label     "Mạc Hiến Tông"@en ;
+        dbp:birthDate  "?"@en .
+
+dbr:Giản_Định_Đế  rdfs:comment  "Emperor Giản Định (Vietnamese: Giản Định Đế, Hán tự: 簡定帝, 1375–1410), real name Trần Ngỗi (陳頠), was the leader of the Vietnamese Trần royalist forces who rebelled against the Ming Chinese rules. Giản Định was the second son of Trần Nghệ Tông, was given the title Giản Định vương (簡定王, \"Prince Giản Định\"). Ming China conquered Vietnam in 1407, he fled to Mô Độ (modern Yên Mô District, Ninh Bình Province) and revolted against China in September 1408. At first he was defeated by Chinese army, later, he was supported by two Vietnamese generals, and Nguyễn Cảnh Chân, and occupied Nghệ An Province successfully. Giản Định decided to attack Đông Đô (modern Hanoi) but was opposed by Đặng Tất and Nguyễn Cảnh Chân. Giản Định soon had both Đặng Tất and Nguyễn Cảnh Chân arrested and killed, causing dis"@en ;
+        rdfs:label      "Giản Định Đế"@en ;
+        dbo:parent      dbr:Trần_Nghệ_Tông ;
+        dbp:birthDate   1375 ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Names_of_Vietnam .
+
+dbr:Gia_Long  rdfs:comment  "Gia Long (Vietnamese: [zaː lawŋ] (North), [jaː lawŋ] (South); 8 February 1762 – 3 February 1820), born Nguyễn Phúc Ánh (阮福暎) or Nguyễn Ánh, was the first Emperor of the unified Vietnamese monarchy. Unifying what is now modern Vietnam in 1802, he founded the Nguyễn dynasty, the last of the Vietnamese dynasties."@en ;
+        rdfs:label      "Gia Long"@en ;
+        dbo:child       dbr:Nguyễn_Phúc_Cảnh , dbr:Minh_Mạng ;
+        dbo:parent      dbr:Nguyễn_Thị_Hoàn , dbr:Nguyễn_Phúc_Luân ;
+        dbp:birthDate   "1762-02-08"^^xsd:date ;
+        dbp:birthPlace  dbr:Phú_Xuân , dbr:Đại_Việt , dbr:Đàng_Trong .
+
+dbr:Trần_Phế_Đế  rdfs:comment  "Trần Phế Đế (6 March 1361 – 6 December 1388), given name Trần Hiện, was the tenth emperor of the Trần dynasty who reigned Đại Việt from 1377 to 1388. After his father's death in in January 1377, Phế Đế was enthroned as Đại Việt Emperor by the Retired Emperor Trần Nghệ Tông who acted as Phế Đế's regent during his reign. Fearing the rise of Hồ Quý Ly in royal court, Phế Đế tried to reduce his power but Hồ Quý Ly already got ahead of this plot by a defamation campaign against the Emperor which ultimately made Nghệ Tông decide to dethrone Phế Đế in December 1388. Phế Đế was downgraded to Prince Linh Đức and forced to commit suicide and his supporters in royal court were purged by Hồ Quý Ly faction. The death of Phế Đế marked the last step of Hồ Quý Ly's power seizing from Trần clan."@en ;
+        rdfs:label      "Trần Phế Đế"@en ;
+        dbo:parent      dbr:Dowager_Empress_Gia_Từ , dbr:Trần_Duệ_Tông ;
+        dbp:birthDate   "1361-03-06"^^xsd:date ;
+        dbp:birthPlace  "Thăng Long, Đại Việt"@en .
+
+dbr:Mạc_Mậu_Hợp  rdfs:comment  "Mạc Mậu Hợp (莫茂洽, 1560–1593) was the fifth and effectively last reigning emperor of the Mạc dynasty from 1562 to 1593."@en ;
+        rdfs:label      "Mạc Mậu Hợp"@en ;
+        dbo:child       dbr:Mạc_Toàn ;
+        dbo:parent      dbr:Mạc_Tuyên_Tông ;
+        dbp:birthDate   1560 ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Đại_Việt .
+
+dbr:Phạm_Xuân_Ẩn  rdfs:comment  "Phạm Xuân Ẩn (September 12, 1927 – September 20, 2006) was a Vietnamese journalist and correspondent for Time, Reuters and the New York Herald Tribune, stationed in Saigon during the war in Vietnam. He was also simultaneously spying for the Viet Cong during the Vietnam War and was made a general of the People's Army of Vietnam after the war. His nicknames were \"Hai Trung\" and \"Tran Van Trung.\" He was awarded the \"People's Army Force Hero\" by the Vietnamese government on January 15, 1976. He was also put in a \"softer\" version of a re-education camp for a year after the war for being considered too close to the Americans."@en ;
+        rdfs:label      "Phạm Xuân Ẩn"@en ;
+        dbp:birthDate   "1927-09-12"^^xsd:date ;
+        dbp:birthPlace  dbr:Biên_Hòa , dbr:French_Indochina .
+
+dbr:Lê_Tương_Dực  rdfs:comment  "Lê Tương Dực (chữ Hán: 黎襄翼; 16 July 1495 – 8 May 1516), birth name Lê Oanh (黎瀠), reigned 1509 – 1516, was the ninth emperor of the later Lê dynasty of Đại Việt. The only primary account of his life and reign was the Đại Việt sử ký toàn thư, the official historical chronicle of Đại Việt during the Lê dynasty which was completed in 1697 under the direction of Trịnh lords. The chronicle described Lê Tương Dực as initially being a good emperor who reorganized the court and used laws wisely; however, later during his reign, he spent extravagantly on leisure activities and that weakened nation seriously."@en ;
+        rdfs:label     "Lê Tương Dực"@en ;
+        dbo:parent     dbr:Lê_Tân ;
+        dbp:birthDate  "1495-07-16"^^xsd:date .
+
+dbr:Emperor  rdfs:comment  "An emperor (from Latin: imperator, via Old French: empereor) is a monarch, and usually the sovereign ruler of an empire or another type of imperial realm. Empress, the female equivalent, may indicate an emperor's wife (empress consort), mother (empress dowager), or a woman who rules name in her own right (empress regnant). Emperors are generally recognized to be of the highest monarchic honor and rank, surpassing kings. In Europe, the title of Emperor has been used since the Middle Ages, considered in those times equal or almost equal in dignity to that of Pope due to the latter's position as visible head of the Church and spiritual leader of the Catholic part of Western Europe. The Emperor of Japan is the only currently reigning monarch whose title is translated into English as \"Emperor\"."@en ;
+        rdfs:label    "Emperor"@en .
+
+dbr:Nguyễn_Văn_Bảo  rdfs:comment  "Nguyễn Văn Bảo (阮文寶, 1776–1798) or Nguyễn Bảo (阮寶), was a prince of Tây Sơn dynasty, Vietnam. Bảo was the eldest son of Nguyễn Nhạc. His mother was . After Nguyễn Nhạc ascended the throne, he was designated as Crown Prince."@en ;
+        rdfs:label      "Nguyễn Văn Bảo"@en ;
+        dbo:parent      dbr:Trần_Thị_Huệ , dbr:Nguyễn_Nhạc ;
+        dbp:birthPlace  dbr:Quy_Nhon , dbr:Đại_Việt .
+
+<http://dbpedia.org/resource/Lê_Trung_Tông_(Revival_Lê_dynasty)>
+        rdfs:comment   "Lê Trung Tông (chữ Hán: 黎中宗, 1535 – 24 January 1556), birth name Lê Huyên (黎暄), imperial name Vũ Hoàng đế, was the 13th emperor of Vietnamese Later Lê Dynasty, reigned from 1548 to 1556. He succeeded Lê Trang Tông (1533–1548) and was succeeded by Lê Anh Tông (1556–1573). Though power remained with the Nguyen Lords having seized control of the southern part of the country up to Thanh Hoa since 1545, and the north divided between the last emperors of the Mạc dynasty and the Trịnh Lords."@en ;
+        rdfs:label     "Lê Trung Tông (Revival Lê dynasty)"@en ;
+        dbo:parent     dbr:Lê_Trang_Tông ;
+        dbp:birthDate  1535 .
+
+dbr:Lý_Anh_Tông  rdfs:comment  "Emperor Lý Anh Tông (1136 – 14 August 1175) of Đại Việt (literally Great Viet), was the sixth ruler of the later Lý Dynasty, from 1138 until his death in 1175. Since Lý Anh Tông, given name Lý Thiên Tộ (李天祚), was chosen as the successor of his father Lý Thần Tông at the age of only two, the early period of his reign witnessed the dominant position of Đỗ Anh Vũ in the royal court until his death in 1157, afterwards the Emperor ruled the country with the assistance of a prominent official named Tô Hiến Thành. The reign of Lý Anh Tông was considered the last relatively stable period of the Lý Dynasty before the turbulence during the reign of Lý Cao Tông."@en ;
+        rdfs:label      "Lý Anh Tông"@en ;
+        dbo:child       dbr:Lý_Long_Ích , dbr:Lý_Cao_Tông , dbr:Lý_Long_Minh , dbr:Lý_Long_Xưởng , dbr:Lý_Long_Hòa , dbr:Lý_Long_Đức , dbr:Lý_Long_Tường ;
+        dbo:parent      dbr:Lý_Thần_Tông ;
+        dbp:birthDate   4 ;
+        dbp:birthPlace  dbr:Imperial_Citadel_of_Thăng_Long .
+
+dbr:Dương_Nhật_Lễ  rdfs:comment  "Duke Hôn Đức (Vietnamese: Hôn Đức Công, Hán tự: 昏德公, ? – 1 December 1370), real name Dương Nhật Lễ (楊日禮), was the emperor of Đại Việt from 1369 to 1370. Although not coming from the Trần clan, Dương Nhật Lễ was ceded the throne of the Trần Dynasty by an edict of Emperor Trần Dụ Tông shortly before his death. During his short reign, Dương Nhật Lễ tried to change his family name back to Dương, which enraged members of the royal family and ultimately resulted in his deposal and death and the coronation of Trần Nghệ Tông. The rise and fall of Dương Nhật Lễ was the starting point for a series of chaotic events in the royal court that led to the collapse of the Trần Dynasty."@en ;
+        rdfs:label    "Dương Nhật Lễ"@en .
+
+dbr:Lê_Hiển_Tông  rdfs:comment  "Lê Hiển Tông (黎顯宗 20 May 1717 – 10 August 1786), born Lê Duy Diêu, was the penultimate emperor of Vietnamese Lê Dynasty. He reigned from 1740 to 1786 and was succeeded by his grandson Lê Duy Kỳ. At the time Vietnam was under the power of the Trịnh lords. During the reigns of Lê Thuần Tông (1732–35) and Lê Ý Tông (1735–40), Trịnh Giang ruled Vietnam with the title Uy Nam Vương, but he was deposed in 1740 due to poor leadership. From 1740–67, Trịnh Doanh ruled with the title Minh Do Vương in the first part of the reign of Lê Hiển Tông. He was followed by Trịnh Sâm, who ruled from 1767–82 with the title Tinh Do Vương. At this point the Lê dynasty began to regain its power."@en ;
+        rdfs:label      "Lê Hiển Tông"@en ;
+        dbo:parent      dbr:Nhu_Thuận_hoàng_hậu , dbr:Lê_Thuần_Tông ;
+        dbp:birthDate   "1717-05-20"^^xsd:date ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Lý_Huệ_Tông  rdfs:comment  "Lý Huệ Tông (chữ Hán: 李惠宗; born Lý Sảm 李旵; July 1194 – 3 September 1226) was the emperor of Vietnam from 1211 to 1224, the penultimate leader of the Lý Dynasty. During Lý Huệ Tông's rule, many members of the Trần family assumed key roles in the government, including Trần Thủ Độ. The Trần family later used its position of power to place a young Trần Cảnh (temple name Trần Thái Tông) on the throne to found the Trần Dynasty."@en ;
+        rdfs:label      "Lý Huệ Tông"@en ;
+        dbo:child       <http://dbpedia.org/resource/Thuận_Thiên_(Trần_dynasty_empress)> , dbr:Lý_Chiêu_Hoàng ;
+        dbo:parent      dbr:Lý_Cao_Tông ;
+        dbp:birthDate   "July 1194"@en ;
+        dbp:birthPlace  dbr:Imperial_Citadel_of_Thăng_Long .
+
+dbr:Lê_Huyền_Tông  rdfs:comment  "Lê Huyền Tông (黎玄宗, 1654 – 16 November 1671) was the 19th emperor of Vietnamese Later Lê dynasty."@en ;
+        rdfs:label      "Lê Huyền Tông"@en ;
+        dbo:parent      dbr:Lê_Thần_Tông , dbr:Phạm_Thị_Ngọc_Hậu ;
+        dbp:birthDate   1654 ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Lý_Thánh_Tông  rdfs:comment  "Lý Thánh Tông (30 March 1023 – 1 February 1072), personal name Lý Nhật Tôn [lǐ ɲə̀t ton], temple name Thánh Tông, was the third monarch of the Lý dynasty and the 8th ruler of the Vietnamese kingdom Đại Việt. In his reign, Lý Thánh Tông promoted the agricultural development, reducing some harsh laws and building many Confucianist and Buddhist institutions, most notably the first Temple of Literature in Vietnam (1072). He also fought several successful wars with Champa, resulting in the expansion of Vietnamese territory to the areas which are Quảng Bình Province and Quảng Trị Province today. Chinese sources identify Lý Nhật Tôn as the Viet king that dared toclaim imperial status, which for the Chinese was a direct challenge to their view of the world that prelude to the Song-Viet war in 1070"@en ;
+        rdfs:label      "Lý Thánh Tông"@en ;
+        dbo:child       dbr:Lý_Nhân_Tông ;
+        dbo:parent      dbr:Lý_Thái_Tông ;
+        dbp:birthDate   "1023-03-19"^^xsd:date ;
+        dbp:birthPlace  "Long Đức palace, Thăng Long"@en .
+
+dbr:Dương_Vân_Nga  rdfs:comment  "Dương Thị Ngọc Vân (楊氏玉雲, ?–1000) courtesy name Vân Nga (雲娥) was the only empress dowager of the Đinh Dynasty and afterwards empress of Lê Đại Hành, the first emperor of the Early Lê Dynasty. When her husband Đinh Tiên Hoàng was assassinated in 979, Dương Vân Nga became the Empress Dowager of the Đinh Dynasty as her son Đinh Phế Đế succeeded the throne. During the short-lived reign of Đinh Phế Đế, Dương Vân Nga and the general Lê Hoàn jointly held the regentship for the 6-year-old emperor, later it was Dương Vân Nga and general Phạm Cự Lượng who decided to cede the Đinh Dynasty's throne for Lê Hoàn in 980 so that Đại Cồ Việt could stand the Song Dynasty's invasion with a capable ruler. Subsequently, Lê Hoàn entitled Dương Vân Nga as his empress, hence she became the first woman in the hist"@en ;
+        rdfs:label      "Dương Vân Nga"@en ;
+        dbo:child       dbr:Lê_Thị_Phất_Ngân , dbr:Đinh_Phế_Đế ;
+        dbo:parent      dbr:Dương_Tam_Kha ;
+        dbp:birthDate   "?"@en ;
+        dbp:birthPlace  dbr:Names_of_Vietnam .
+
+dbr:Thiệu_Trị  rdfs:comment  "Thiệu Trị (Hanoi: [tʰiəw˧˨ʔ t͡ɕi˧˨ʔ], Hán tự: 紹治, lit. \"inheritance of prosperity\"; 6 June 1807 – 4 November 1847), personal name Nguyễn Phúc Miên Tông or Nguyễn Phúc Tuyền, was the third emperor of the Nguyễn Dynasty. He was the eldest son of Emperor Minh Mạng, and reigned from 14 February 1841 until his death on 4 November 1847."@en ;
+        rdfs:label      "Thiệu Trị"@en ;
+        dbo:child       dbr:Nguyễn_Phúc_Hồng_Y , dbr:Tự_Đức , dbr:Nguyễn_Phúc_Hồng_Bảo , dbr:Nguyễn_Phúc_Hồng_Cai ;
+        dbo:parent      dbr:Hồ_Thị_Hoa , dbr:Minh_Mạng ;
+        dbp:birthDate   "1807-06-16"^^xsd:date ;
+        dbp:birthPlace  dbr:Imperial_City_of_Huế , dbr:Vietnam .
+
+dbr:Lê_Anh_Tông  rdfs:comment  "Lê Anh Tông (chữ Hán: 黎英宗; 1532–1573), posthumous name Tuấn Hoàng đế (峻皇帝) birth name Lê Duy Bang (黎維邦) was the 12th emperor of Vietnamese Later Lê dynasty, ruling nation's south realm from 1556 to 1573 during the Lê-Mạc war. Through his reign, Anh Tông was just a nominal emperor of south Đại Việt, with actual governing and military power possessed by the Trịnh, a warrior house from Thanh Hóa. Although the Lê house was namely the main enemy of the Mạc house in the north, Lê troops fighting the northerners were actually commanded by Trịnh warlords. Lê Anh Tông eventually grew hostile against those warlords, who he saw as occupying too much power. The emperor made a plot against one of them, Prime Minister Trịnh Tùng. The plot failed at the cost of Anh Tông's life. However, after Anh Tông's "@en ;
+        rdfs:label     "Lê Anh Tông"@en ;
+        dbo:child      dbr:Lê_Thế_Tông ;
+        dbp:birthDate  1532 .
+
+dbr:Lý_Nhân_Tông  rdfs:comment  "Lý Nhân Tông (22 February 1066 – 15 January 1128), personal name Lý Càn Đức, temple name Nhân Tông was the fourth monarch of the Lý dynasty, ruled the kingdom of Đại Việt from 1072 until his death in 1128. Succeeding his father Lý Thánh Tông at the age of 7, during his early reign Lý Nhân Tông ruled with the assistance of his mother Ỷ Lan and the chancellor Lý Đạo Thành who were both considered competent regents and were able to help the emperor maintain the country's prosperity. Appreciated as a great emperor of the Lý Dynasty, Lý Nhân Tông made important contributions to the development of Đại Việt, especially for establishing Confucianism as the official philosophy of the state, creating Confucian-based imperial exams, and creating schools based on the Confucian system of learning. Duri"@en ;
+        rdfs:label      "Lý Nhân Tông"@en ;
+        dbo:child       dbr:Lý_Thần_Tông ;
+        dbo:parent      dbr:Ỷ_Lan , dbr:Lý_Thánh_Tông ;
+        dbp:birthDate   "1066-02-22"^^xsd:date ;
+        dbp:birthPlace  "Long Đức palace, Thăng Long"@en .
+
+dbr:Mạc_Thái_Tông  rdfs:comment  "Mạc Thái Tông (莫太宗, 1500 – 25 January 1540), known also by his given name Mạc Đăng Doanh (莫登瀛), was the second emperor of the Mac Dynasty of Vietnam from 1530 to 1540. His father Mạc Thái Tổ was still alive during the first year of his reign and also reigning as “senior emperor” (Thái thượng hoàng). His posthumous name is Văn hoàng đế (文皇帝) and his era name is Đại Chính."@en ;
+        rdfs:label     "Mạc Thái Tông"@en ;
+        dbo:parent     dbr:Mạc_Đăng_Dung ;
+        dbp:birthDate  1500 .
+
+dbr:Trần_Thiếu_Đế  rdfs:comment  "Trần Thiếu Đế (Hán tự: 陳少帝, 1396–?), was the twelfth and the last emperor of the Trần dynasty who reigned over Vietnam from 1398 to 1400."@en ;
+        rdfs:label      "Trần Thiếu Đế"@en ;
+        dbo:parent      dbr:Trần_Thuận_Tông ;
+        dbp:birthDate   1396 ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Đại_Việt .
+
+<http://dbpedia.org/resource/Trần_Cảo_(king)>
+        rdfs:comment   "Trần Cảo (chữ Hán: 陳暠, ?–1428) was briefly king of Vietnam 1426–1428. He was installed by Le Loi under the terms of a Ming dynasty Chinese withdrawal which promised to withdraw if a Trần dynasty descendant was placed on the throne. However, after Le Loi intercepted a Chinese general's requests for reinforcements he resumed the war, defeated the Chinese and made Trần Cảo drink poison."@en ;
+        rdfs:label     "Trần Cảo (king)"@en ;
+        dbp:birthDate  "?"@en .
+
+dbr:Trùng_Quang_Đế  rdfs:comment  "Trùng Quang Emperor (Vietnamese: Trùng Quang Đế, Hán tự: 重光帝, ?–1414), real name Trần Quý Khoáng (陳季擴), was the second and last emperor of Later Trần dynasty. He was a son of prince . As the second son of Trần Nghệ Tông, Ngạc was appointed as Prime Minister with the title Trang Định vương (莊定王, \"Prince Trang Định\"), but was later killed by an order of Co-Prime Minister Hồ Quý Ly in 1392."@en ;
+        rdfs:label      "Trùng Quang Đế"@en ;
+        dbo:parent      dbr:Trần_Ngạc ;
+        dbp:birthDate   "?"@en ;
+        dbp:birthPlace  dbr:Names_of_Vietnam .
+
+dbr:Trần_Thuận_Tông  rdfs:comment  "Trần Thuận Tông (1378 – April 1399), given name Trần Ngung, was the eleventh emperor of the Trần Dynasty who reigned in Đại Việt from 1388 to 1398. He was chosen to succeed to this position by his father, the Retired Emperor Trần Nghệ Tông, after Nghệ Tông decided to dethrone and force Trần Phế Đế to commit suicide. Although holding the position emperor for ten years and retired emperor for one more year, Thuận Tông's reign was totally under the control of Nghệ Tông and Hồ Quý Ly. It was Hồ Quý Ly who obliged Thuận Tông to change the capital from Thăng Long to Thanh Hóa, Hồ Quý Ly was also responsible for the resignation of Thuận Tông as emperor and his death afterward. Only one year after Thuận Tông's death, the Trần Dynasty collapsed while Hồ Quý Ly established his own dynasty, Hồ Dynast"@en ;
+        rdfs:label      "Trần Thuận Tông"@en ;
+        dbo:parent      dbr:Trần_Nghệ_Tông ;
+        dbp:birthDate   1378 ;
+        dbp:birthPlace  "Thang Long, Vietnam"@en .
+
+dbr:Lê_Túc_Tông  rdfs:comment  "Lê Túc Tông (黎肅宗; 6 September 1488 – 30 December 1504) was, from 17 July till 30 December 1504, the 7th emperor of the later Lê dynasty of Vietnam."@en ;
+        rdfs:label     "Lê Túc Tông"@en ;
+        dbo:parent     dbr:Lê_Hiến_Tông ;
+        dbp:birthDate  "1488-09-06"^^xsd:date .
+
+dbr:Lê_Nghi_Dân  rdfs:comment  "Marquis Lệ Đức (Vietnamese: Lệ Đức hầu Hán tự: 厲德侯, June 1439 – 6 June 1460), born Lê Nghi Dân (黎宜民), was the fourth emperor of Lê dynasty in Vietnam. He ruled the country for a short time, about eight months until be deposed by a group of court officials. As he was deposed in a coup, later he was not given any temple name."@en ;
+        rdfs:label      "Lê Nghi Dân"@en ;
+        dbo:parent      dbr:Lê_Thái_Tông , dbr:Dương_Thị_Bí ;
+        dbp:birthDate   "June 1439"@en ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Mạc_Kính_Chỉ  rdfs:comment  "Mạc Kính Chỉ (莫敬止, ?–1593) was the seventh emperor of the Mạc dynasty. He reigned briefly from 1592–1593. He was the eldest son of . The emperor Mạc Mậu Hợp was captured by Trịnh lord in 1592, so he enthroned in . He led sixteen to seventeen thousand men, later, Mạc Toàn abdicated and surrendered to him. In the next year, Chỉ was captured by two generals of Trịnh lord, and , and executed in Thang Long."@en ;
+        rdfs:label     "Mạc Kính Chỉ"@en ;
+        dbo:parent     dbr:Mạc_Kính_Điển ;
+        dbp:birthDate  "?"@en .
+
+dbr:Tôn_Thất_Thiện  rdfs:comment  "Tôn Thất Thiện (1924–2014) was a South Vietnamese nationalist of the post-World War II generation who had the rare distinction of serving and watching at close quarters the two historic leaders of post-World War II Vietnam: presidents Ho Chi Minh in the Viet Minh coalition in 1945–46, and Ngô Đình Diệm 1954–55/1956–59/1963. He played a significant though understated role in the nationalist attempt to preserve a non-Communist Vietnam. He died at his home in Ottawa, Canada on October 3, 2014."@en ;
+        rdfs:label      "Tôn Thất Thiện"@en ;
+        dbp:birthDate   "1924-09-22"^^xsd:date ;
+        dbp:birthPlace  "Huế, Thừa Thiên, Vietnam"@en .
+
+dbr:Trần_Nghệ_Tông  rdfs:comment  "Trần Nghệ Tông (Hán tự: 陳藝宗, December 1321 – 15 December 1394), given name Trần Phủ (陳暊), was the eighth emperor of the Trần Dynasty who reigned Vietnam from 1370 to 1372."@en ;
+        rdfs:label      "Trần Nghệ Tông"@en ;
+        dbo:parent      dbr:Trần_Minh_Tông ;
+        dbp:birthDate   "December 1321"@en ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Đại_Việt .
+
+dbr:Lê_Kính_Tông  rdfs:comment  "Lê Kính Tông (chữ Hán: 黎敬宗, 1588 – 23 June 1619), also called Lê Duy Tân (黎維新) was the 16th emperor of Vietnamese Later Lê dynasty reigning from 1599 to 1619. He acted as a figurehead monarch while Lord Trịnh Tùng took full authority over the government and the army. In 1619, Kính Tông cooperated with Trịnh Xuân to make a plot to remove Trịnh Tùng from power. The plot failed and the emperor was killed."@en ;
+        rdfs:label     "Lê Kính Tông"@en ;
+        dbo:parent     dbr:Lê_Thế_Tông ;
+        dbp:birthDate  1588 .
+
+dbr:Mạc_Kính_Vũ  rdfs:comment  "Mạc Kính Vũ (莫敬宇, ?–?) was the tenth emperor of the Mạc dynasty. He reigned from 1638 – 1677. He ascended the throne in 1638. He was a supporter of Wu Sangui. After the Revolt of the Three Feudatories was pacificated, he was attacked by Trịnh lord, and fled to Qing China. He was no longer supported by Qing China, and died there in exile."@en ;
+        rdfs:label     "Mạc Kính Vũ"@en ;
+        dbo:parent     dbr:Mạc_Kính_Khoan ;
+        dbp:birthDate  "?"@en .
+
+dbr:Hồ_Quý_Ly  rdfs:comment  "Hồ Quý Ly (Hán tự: 胡季犛, born 1336) ruled Đại Ngu (Vietnam) from 1400 to 1401 as the founder of the short-lived Hồ dynasty. Quý Ly rose from a post as an official served the court of the ruling Trần dynasty and a military general fought against the Cham forces during the Cham–Vietnamese War (1367–1390). After his military defeat in the Ming Conquest of Dai Ngu (1406–1407), he and his son were captured as prisoners and were exiled to China, while the Dai Viet Empire became the thirteenth province of Ming Empire."@en ;
+        rdfs:label      "Hồ Quý Ly"@en ;
+        dbo:child       dbr:Hồ_Nguyên_Trừng , dbr:Trần_Thuận_Tông , dbr:Hồ_Hán_Thương ;
+        dbp:birthDate   1336 ;
+        dbp:birthPlace  "Đại Lại village, Vĩnh Ninh district,  Ái Châu, Thanh Đô town, Đại Việt"@en .
+
+dbr:Nguyễn_Hoàng  rdfs:comment  "Nguyễn Hoàng (28 August 1525 – 20 July 1613) was the first of the Nguyễn lords who ruled the southern provinces of Vietnam between 1558 and 1613, from a series of cities: Ai Tu (1558–70), Tra Bat (1570–1600), and Dinh Cat (modern-day Huế) (1600–13)."@en ;
+        rdfs:label      "Nguyễn Hoàng"@en ;
+        dbo:child       dbr:Nguyễn_Phúc_Nguyên ;
+        dbo:parent      dbr:Nguyễn_Kim ;
+        dbp:birthDate   "1525-08-28"^^xsd:date ;
+        dbp:birthPlace  dbr:Thanh_Hóa_province .
+
+dbr:Lý_Thái_Tông  rdfs:comment  "Lý Thái Tông (chữ Hán: 李太宗; 29 July 1000 – 3 November 1054), personal name Lý Phật Mã, posthumously temple name Thái Tông, was the second monarch of the Lý dynasty, ruled Đại Việt from 1028 to 1054. He was considered the most successive Vietnamese ruler since the tenth century."@en ;
+        rdfs:label      "Lý Thái Tông"@en ;
+        dbo:child       dbr:Lý_Nhật_Trung , dbr:Lý_Thánh_Tông ;
+        dbo:parent      dbr:Lý_Thái_Tổ ;
+        dbp:birthDate   "1000-07-29"^^xsd:date ;
+        dbp:birthPlace  "Duyên Ninh pagoda, Ninh Bình province"@en .
+
+dbr:Trần_Thánh_Tông  rdfs:comment  "Trần Thánh Tông (October 12, 1240 – July 3, 1290), personal name Trần Hoảng (陳晃), was the second emperor of the Trần dynasty, reigning over Đại Việt from 1258 to 1278. After ceding the throne to his son Trần Nhân Tông, Thánh Tông held the title of retired emperor (Thái thượng hoàng) from 1279 to his death in 1290. During the second and the third Mongol invasions of Đại Việt, Retired Emperor Thánh Tông and Emperor Nhân Tông were credited as the supreme commanders who led the nation to the final victories and, as a result, established a long period of peace and prosperity over the country. With his successful rulings in both military and civil matters, Trần Thánh Tông was considered one of the greatest emperors of not only the Trần dynasty but also the whole dynastic era in the history of Vi"@en ;
+        rdfs:label      "Trần Thánh Tông"@en ;
+        dbo:child       dbr:Trần_Nhân_Tông ;
+        dbo:parent      <http://dbpedia.org/resource/Thuận_Thiên_(Trần_dynasty_empress)> , dbr:Trần_Thái_Tông ;
+        dbp:birthDate   "1240-10-12"^^xsd:date ;
+        dbp:birthPlace  "Thăng Long, Đại Việt"@en .
+
+dbr:Khải_Định  rdfs:comment  "Khải Định (Vietnamese: [xa᷉ːj ɗîŋ̟ˀ]; chữ Hán: 啓定; born Nguyễn Phúc Bửu Đảo; 8 October 1885 – 6 November 1925) was the 12th Emperor of the Nguyễn Dynasty in Vietnam, reigning from 1916 to 1925. His name at birth was Prince Nguyễn Phúc Bửu Đảo. He was the son of Emperor Đồng Khánh, but he did not succeed him immediately."@en ;
+        rdfs:label      "Khải Định"@en ;
+        dbo:child       dbr:Bảo_Đại ;
+        dbo:parent      dbr:Đồng_Khánh , dbr:Dương_Thị_Thục ;
+        dbp:birthDate   "1885-10-08"^^xsd:date ;
+        dbp:birthPlace  dbr:Imperial_City_of_Huế , dbr:French_Indochina .
+
+dbr:Bảo_Đại  rdfs:comment  "Bảo Đại (Vietnamese: [ɓa᷉ːw ɗâːjˀ], Hán tự: 保大, lit. \"keeper of greatness\", 22 October 1913 – 30 July 1997), born Nguyễn Phúc Vĩnh Thụy, was the 13th and final emperor of the Nguyễn dynasty, the last ruling family of Vietnam. From 1926 to 1945, he was emperor of Annam and de jure monarch of Tonkin, which were then protectorates in French Indochina, covering the present-day central and northern Vietnam. Bảo Đại ascended the throne in 1932."@en ;
+        rdfs:label      "Bảo Đại"@en ;
+        dbo:child       dbr:Bảo_Ân , dbr:Phương_Liên , dbr:Bảo_Hoàng , <http://dbpedia.org/resource/Bảo_Sơn_(1957–1987)> , dbr:Phương_Minh , dbr:Phuong_Dung , dbr:Bảo_Long , dbr:Phương_Từ , dbr:Phương_Thảo , dbr:Bảo_Thăng , dbr:Patrick-Édouard_Bloch-Carcenac , dbr:Phương_Mai ;
+        dbo:parent      dbr:Hoàng_Thị_Cúc , dbr:Khải_Định ;
+        dbp:birthDate   "1913-10-22"^^xsd:date ;
+        dbp:birthPlace  dbr:French_Indochina , dbr:Doan-Trang-Vien_Palace , dbr:Huế .
+
+dbr:Phan_Kế_An  rdfs:comment  "Phan Kế An (20 March 1923 – 21 January 2018), also known under the pseudonym Phan Kích, was a Vietnamese painter and renowned lacquer artist. He was the son of Phan Kế Toại (1892–1973) who was the personal envoy to Tonkin of the last Emperor of Vietnam, Bảo Đại, the Minister of Home Affairs (1945-1955) and former deputy prime minister of North Vietnam from 1955-1973."@en ;
+        rdfs:label     "Phan Kế An"@en ;
+        dbp:birthDate  "1923-03-20"^^xsd:date .
+
+dbr:Lê_Gia_Tông  rdfs:comment  "Lê Gia Tông (黎嘉宗, 1661 – 27 April 1675) was the 20th emperor of Vietnamese Later Lê dynasty."@en ;
+        rdfs:label      "Lê Gia Tông"@en ;
+        dbo:parent      dbr:Lê_Thị_Ngọc_Hoàn , dbr:Lê_Thần_Tông ;
+        dbp:birthDate   1661 ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Đại_Việt .
+
+dbr:Nguyễn_Phúc_Nguyên
+        rdfs:comment   "Nguyễn Phúc Nguyên (阮福源; 16 August 1563 – 19 November 1635) was an early Nguyễn lord who ruled the southern Vietnam from the city of Phú Xuân (modern-day Huế) from 1613 to 1635. During his rule, the Nguyễn established a city at modern-day Saigon. Later, his refusal to pay tribute to the court in Hanoi sparked the Trịnh–Nguyễn War."@en ;
+        rdfs:label     "Nguyễn Phúc Nguyên"@en ;
+        dbo:child      dbr:Nguyễn_Phúc_Ngọc_Vạn , dbr:Nguyễn_Phúc_Lan ;
+        dbo:parent     dbr:Nguyễn_Hoàng ;
+        dbp:birthDate  "1563-08-16"^^xsd:date .
+
+dbr:Trịnh_Tráng  rdfs:comment  "Trịnh Tráng (Hán tự: 鄭梉, 6 August 1577 – 28 May 1657), posthumous name: Nghị Vương (誼王), temple name: Văn Tổ (文祖). He is the second lord of Trịnh ruled Tonkin from 1623 to 1657. He is one of the famous Trịnh lords who ruled Vietnam. He started the Trịnh–Nguyễn War in 1627 and launched several major offensives which failed to crush the Nguyễn lords."@en ;
+        rdfs:label      "Trịnh Tráng"@en ;
+        dbo:child       dbr:Trịnh_Tạc ;
+        dbo:parent      dbr:Trịnh_Tùng ;
+        dbp:birthDate   "1577-08-06"^^xsd:date ;
+        dbp:birthPlace  dbr:Vietnam , dbr:Thanh_Hóa .
+
+dbr:Trịnh_Căn  rdfs:comment  "Trịnh Căn (Hán tự:鄭 根; 18 July 1633 – 17 June 1709) ruled northern Vietnam from 1682 to 1709 (he ruled with the title Định Vương). Trịnh Căn was one of the Trịnh lords who ruled Vietnam. With the Trịnh–Nguyễn War ended, his reign was mostly devoted to administrative reforms. As far as the Lê dynasty was concerned, the emperor, Lê Hy Tông, was forced to abdicate the throne in 1706. He was replaced by Lê Du Tông."@en ;
+        rdfs:label      "Trịnh Căn"@en ;
+        dbo:parent      dbr:Trịnh_Tạc ;
+        dbp:birthDate   "1633-07-18"^^xsd:date ;
+        dbp:birthPlace  dbr:North_Vietnam , dbr:Hanoi .
+
+dbr:Dương_Tam_Kha  rdfs:comment  "Dương Tam Kha (楊三哥), formally King Ping of Yang (楊平王), later known as Duke of Chương Dương (章陽公) (died 10 August 980), was king of Annam from 944 to 950."@en ;
+        rdfs:label      "Dương Tam Kha"@en ;
+        dbo:parent      dbr:Dương_Đình_Nghệ ;
+        dbp:birthDate   "?"@en ;
+        dbp:birthPlace  dbr:Tĩnh_Hải_quân .
+
+dbr:Mạc_Kính_Cung  rdfs:comment  "Mạc Kính Cung (莫敬恭, ?–1593) was the eighth emperor of the Mạc dynasty. He reigned from 1592–1625. He was the seventh son of . The emperor Mạc Kính Chỉ was captured by Trịnh lord in 1593, he was enthroned by in Lạng Sơn. In the next year, he was defeated by and fled to Longzhou, China. Cung came back to Vietnam occupied Cao Bằng in 1596. He was attacked by Trịnh lord, and sought aid for Ming China. Trịnh lord had to recognized his dominant position in Cao Bằng under the pressure of Ming China."@en ;
+        rdfs:label     "Mạc Kính Cung"@en ;
+        dbo:parent     dbr:Mạc_Kính_Điển ;
+        dbp:birthDate  "?"@en .
+
+dbr:Nguyễn_Quang_Toản
+        rdfs:comment   "Emperor Cảnh Thịnh (Hán tự: 景盛), born Nguyễn Quang Toản (Hán tự: 阮光纘; 1783–1802), was the third and last emperor of the Tây Sơn dynasty. He followed his father Quang Trung (Nguyễn Huệ ruled 1788–1792) at the age of 9, and reigned for 10 years. Cảnh Thịnh was defeated by Nguyễn dynasty in 1802. He was taken, along with a number of his royalties, officials and generals, to Phú Xuân. There, he was executed by Gia Long, first emperor of the Nguyễn dynasty."@en ;
+        rdfs:label     "Nguyễn Quang Toản"@en ;
+        dbo:parent     dbr:Quang_Trung , dbr:Phạm_Thị_Liên ;
+        dbp:birthDate  1783 .
+
+dbr:Nguyễn_Nhạc  rdfs:comment  "Nguyễn Nhạc (Vietnamese: [ŋwĩəŋ ɲâːk̚] Hán tự: 阮岳, died 1793) was the founder of the Tây Sơn dynasty, reigning from 1778 to 1788. From 1778 to 1788, Nguyễn Nhạc proclaimed himself Emperor Thái Đức (Vietnamese: [tʰǎːj ɗɨ́k̚] Hán tự: 泰德). In 1788 after his younger brother proclaimed himself Emperor Quang Trung, Nguyễn Nhạc resigned his Emperor title and declared himself as King of Tây Sơn. Nguyễn Nhạc and his brothers, namely Nguyễn Lữ and Nguyễn Huệ, known as the Tây Sơn Brothers, ended the centuries-long civil war between the two feudal families- the Trịnh Lords in northern Vietnam and the Nguyễn Lords in southern Vietnam, seizing reigning power from these groups and the Lê dynasty."@en ;
+        rdfs:label      "Nguyễn Nhạc"@en ;
+        dbo:child       dbr:Nguyễn_Văn_Bảo ;
+        dbp:birthDate   "?"@en ;
+        dbp:birthPlace  dbr:Đàng_Trong , dbr:Bình_Định_province , dbr:Đại_Việt .
+
+dbr:Tự_Đức  rdfs:comment  "Tự Đức (Hanoi: [tɨ˧˨ ɗɨk̚˧˦], Hán tự: 嗣德, lit. \"inheritance of virtues\", 22 September 1829 – 17 July 1883) (personal name: Nguyễn Phúc Hồng Nhậm , also Nguyễn Phúc Thì) was the fourth emperor of the Nguyễn dynasty of Vietnam; he ruled from 1847 to 1883."@en ;
+        rdfs:label      "Tự Đức"@en ;
+        dbo:child       dbr:Đồng_Khánh , dbr:Kiến_Phúc , dbr:Dục_Đức ;
+        dbo:parent      dbr:Thiệu_Trị , dbr:Từ_Dụ ;
+        dbp:birthDate   "1829-09-22"^^xsd:date ;
+        dbp:birthPlace  dbr:Imperial_City_of_Huế , dbr:Nguyễn_dynasty .
+
+dbr:Mạc_Toàn  rdfs:comment  "Mạc Toàn (chữ Hán: 莫全; ?–1593) emperor Vũ An đế was the sixth emperor of the Mạc dynasty, and effectively the last of the dynasty. He reigned briefly from 1592–1593, following the death of Mạc Mậu Hợp and was followed by various nominal leaders of the Mạc: Mạc Kính Chỉ (1592–1593), Mạc Kính Cung (1593–1594), Mạc Kính Khoan (1594–1628) and Mạc Kính Vũ (1628–1677)."@en ;
+        rdfs:label      "Mạc Toàn"@en ;
+        dbo:parent      dbr:Mạc_Mậu_Hợp ;
+        dbp:birthDate   "?"@en ;
+        dbp:birthPlace  dbr:Đại_Việt .
+
+dbr:Lý_Nam_Đế  rdfs:comment  "Lý Nam Đế (chữ Hán: 李南帝, c. 503 – 13 April 548) was a Vietnamese monarch and the founder of the Early Lý dynasty, ruling from 544 to 548."@en ;
+        rdfs:label      "Lý Nam Đế"@en ;
+        dbp:birthDate   "0503-10-17"^^xsd:date ;
+        dbp:birthPlace  "Phổ Yên, Thái Nguyên, Southern Liang"@en .
+
+dbr:Lê_Hy_Tông  rdfs:comment  "Lê Hy Tông (黎熙宗, 22 April 1663 – 4 June 1716) was the 21st emperor of Vietnamese Later Lê dynasty."@en ;
+        rdfs:label      "Lê Hy Tông"@en ;
+        dbo:parent      dbr:Nguyễn_Thị_Ngọc_Tấn , dbr:Lê_Thần_Tông ;
+        dbp:birthDate   "1663-04-22"^^xsd:date ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Mạc_Tuyên_Tông  rdfs:comment  "Mạc Phúc Nguyên (chữ Hán: 莫福源, ? – December 1561), also known as Mạc Tuyên Tông (莫宣宗), was an emperor of Vietnam's Mạc dynasty who reigned from 1546 to 1561."@en ;
+        rdfs:label     "Mạc Tuyên Tông"@en ;
+        dbp:birthDate  "?"@en .
+
+dbr:Lê_Thần_Tông  rdfs:comment  "Lê Thần Tông (黎神宗, 19 November 1607 – 2 November 1662) was the 17th emperor of Vietnamese Later Lê dynasty."@en ;
+        rdfs:label      "Lê Thần Tông"@en ;
+        dbo:parent      dbr:Lê_Kính_Tông , dbr:Trịnh_Thị_Ngọc_Trinh ;
+        dbp:birthDate   "1607-11-19"^^xsd:date ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Lê_Thuần_Tông  rdfs:comment  "Lê Thuần Tông (chữ Hán: 黎純宗, 16 March 1699 – 5 June 1735) birth name Lê Duy Tường (黎維祥, 黎維祜) was the thirteenth and fourth-last emperor of Vietnamese Lê Dynasty under the domination of the Trịnh Lords. He reigned from 1732 to 1735 and was succeeded by Lê Ý Tông."@en ;
+        rdfs:label      "Lê Thuần Tông"@en ;
+        dbo:parent      dbr:Lê_Dụ_Tông ;
+        dbp:birthDate   "1699-03-16"^^xsd:date ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Đại_Việt .

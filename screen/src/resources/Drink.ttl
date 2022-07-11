@@ -1,12 +1,25 @@
-@prefix formats: <http://www.w3.org/ns/formats/> .
-@prefix ns1:     <https://dbpedia.org/sparql#> .
-@prefix ns3:     <https://dbpedia.org/> .
-@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix sd:      <http://www.w3.org/ns/sparql-service-description#> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-ns1:service  rdf:type         sd:Service ;
-        sd:endpoint           ns3:sparql ;
-        sd:feature            sd:UnionDefaultGraph , sd:DereferencesURIs ;
-        sd:resultFormat       formats:N-Triples , formats:SPARQL_Results_JSON , formats:SPARQL_Results_XML , formats:RDFa , formats:N3 , formats:Turtle , formats:SPARQL_Results_CSV , formats:RDF_XML ;
-        sd:supportedLanguage  sd:SPARQL10Query ;
-        sd:url                ns3:sparql .
+dbr:Vietnamese_iced_coffee
+        rdfs:comment        "Vietnamese iced coffee (Vietnamese: cà phê đá, literally \"iced coffee\") is a traditional Vietnamese coffee recipe. At its simplest, cà phê đá is made using medium to coarse ground dark roast Vietnamese-grown coffee with a small metal Vietnamese drip filter (phin cà phê). After the hot water is added, the drip filter releases drops of hot coffee slowly into a cup. This finished cup of hot coffee is then quickly poured into a glass full of ice making the finished Vietnamese iced coffee."@en ;
+        rdfs:label          "Vietnamese iced coffee"@en ;
+        dbo:ingredient      dbr:Condensed_milk , dbr:Coffee_roasting ;
+        dbp:mainIngredient  "Dark roast coffee, water, sweetened condensed milk"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Drink .
+
+dbr:Chanh_muối  rdfs:comment  "Chanh muối is a salted, pickled lime in Vietnamese cuisine. Its name comes from the Vietnamese words chanh (meaning \"lime\" or \"lemon\") and muối (meaning \"salt\"). To make the chanh muối, many limes (often key limes) are packed tightly in salt in a glass container and placed in the sun until they are pickled. During the process, juices are drawn off the limes, which dissolves the salt and produces a pickling liquid which immerses the finished chanh muối."@en ;
+        rdfs:label    "Chanh muối"@en .
+
+dbr:Vietnamese_lotus_tea
+        rdfs:comment  "Vietnamese lotus tea (Vietnamese: trà sen, chè sen, or chè ướp sen) is a type of green tea produced in Vietnam that has been flavored with the scent of Nelumbo nucifera. It is a specialty product of the Vietnamese tea industry and is consumed as part of celebratory events or festivals."@en ;
+        rdfs:label    "Vietnamese lotus tea"@en .
+
+dbr:Egg_coffee  rdfs:comment  "An egg coffee (Vietnamese: Cà phê trứng) is a Vietnamese drink traditionally prepared with egg yolks, sugar, condensed milk and robusta coffee. The drink is made by beating egg yolks with sugar and coffee, then extracting the coffee into the half of the cup, followed by a similar amount of \"egg cream\"⁠ ⁠— egg yolks which are heated and beaten, or whisked. The legend goes that fresh milk was in short supply during the war so whisked egg yolk was used as a replacement."@en ;
+        rdfs:label    "Egg coffee"@en .
+
+dbr:Egg_soda  rdfs:comment  "Egg soda (Vietnamese: soda sữa hột gà, Khmer: សូដាក្រឡុកពងមាន់, lsau da kralok pongmean) is a sweet drink made from egg yolk, sweetened condensed milk, and club soda from Southern Vietnam, though it is also consumed in Cambodia. There are variations of this drink, made with different eggs but most commonly used is a quail egg. Since club soda is acidic, adding this to the egg yolk will curdle the protein. The texture of the drink can be described like a custard."@en ;
+        rdfs:label    "Egg soda"@en .

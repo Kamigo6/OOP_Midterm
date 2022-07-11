@@ -1,0 +1,20 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Diamond_Plaza  rdfs:comment  "Diamond Plaza is a luxurious shopping center in downtown District 1, Ho Chi Minh City. The complex includes a 22-story building and a 15-story building which serves as shopping center, 6 cinema lounges, restaurants, café and hospital. The complex was completed and open for business in 1999. There is a helicopter pad on the roof of the building. By this building is located Saigon Notre-Dame Basilica and Saigon Central Post Office. South Korea's Posco Construction & Engineering did the construction for the building."@en ;
+        rdfs:label     "Diamond Plaza"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Diamond_Plaza,_Ho_Chi_Minh_City.jpg?width=300> ;
+        dbp:location   dbr:Ho_Chi_Minh_City , dbr:Vietnam ;
+        geo:lat        "10.78079986572265625"^^xsd:float ;
+        geo:long       "106.69830322265625"^^xsd:float .
+
+dbr:Trang_Tien_Plaza  rdfs:comment  "Tràng Tiền Plaza is a shopping center located in the downtown of Hanoi, Vietnam. The complex's construction began on April 30, 2000 when Vietnamese people celebrated 25th anniversary of The liberation of the south of Vietnam. The complex was finished after 18 months of construction."@en ;
+        rdfs:label     "Trang Tien Plaza"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Trang_Tien_Plaza.jpg?width=300> ;
+        dbp:location   dbr:Hanoi , dbr:Vietnam ;
+        geo:lat        "21.024723052978515625"^^xsd:float ;
+        geo:long       "105.85333251953125"^^xsd:float .

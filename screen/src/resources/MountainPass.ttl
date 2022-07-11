@@ -1,0 +1,61 @@
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Ban_Karai_Pass  rdfs:comment  "The Ban Karai Pass (Đèo Ban Karai, Quảng Bình) is a mountain pass in the Annamite Range between northern Vietnam and Laos, located approximately 60 km southwest of Đồng Hới and 115 km northwest of Quảng Trị, Vietnam. The pass is 418 m above sea level and connects National Road 565 (formerly Route 137) in Vietnam to Route 912 in Khammouane Province in Laos. During 1970 the North Vietnamese built a petroleum-oil-lubricants pipeline through the pass."@en ;
+        rdfs:label    "Ban Karai Pass"@en ;
+        dbp:location  "Vietnam–Laos border"@en ;
+        geo:lat       "17.329999923706054688"^^xsd:float ;
+        geo:long      "106.20200347900390625"^^xsd:float .
+
+dbr:Khau_Phạ_Pass  rdfs:comment  "The Khau Phạ Pass (đèo Khau Phạ) is a mountain pass in Mù Căng Chải District, Yên Bái Province, Vietnam. The area is known for terraced rice paddies."@en ;
+        rdfs:label    "Khau Phạ Pass"@en ;
+        dbp:location  dbr:Yên_Bái_province , dbr:Vietnam ;
+        geo:lat       "21.774999618530273438"^^xsd:float ;
+        geo:long      "104.27166748046875"^^xsd:float .
+
+dbr:Hải_Vân_Pass  rdfs:comment  "The Hải Vân Pass (Vietnamese: Đèo Hải Vân, IPA: [ɗɛ̂w ha᷉ːj vən], \"ocean cloud pass\"), is an approximately 21 km long mountain pass on National Route 1A in Vietnam. It traverses a spur of the larger Annamite Range that juts into the , on the border of Đà Nẵng and Thừa Thiên–Huế Province, near Bạch Mã National Park. Its name refers to the mists that rise from the sea, reducing visibility. Historically, the pass was a physical division between the kingdoms of Champa and Đại Việt. It is nowadays also used as a signifier of the climates of northern Vietnam vs southern areas, where northern regions receives 4 seasons (summer, winter, autumn, spring) whilst southern areas receives just 2 seasons (rainy and dry)."@en ;
+        rdfs:label    "Hải Vân Pass"@en ;
+        dbp:location  dbr:Vietnam ;
+        geo:lat       "16.200000762939453125"^^xsd:float ;
+        geo:long      "108.133331298828125"^^xsd:float .
+
+dbr:Ngang_Pass  rdfs:comment  "The Ngang Pass (Vietnamese: Đèo Ngang, IPA: [ɗɛ̂w ŋaːŋ], literally \"Transverse Mountain Pass\") is a mountain pass on the border of the provinces of Quảng Bình and Hà Tĩnh, in the North Central Coast of Vietnam. National Route 1A crosses it as it traverses the Hoành Sơn, a side-spur of the larger Annamite Range. The pass is 2,560 m long, ascending to the height of 250 m (750 ft). Historical French texts refer to the pass as Porte d'Annam."@en ;
+        rdfs:label    "Ngang Pass"@en ;
+        dbp:location  dbr:Vietnam ;
+        geo:lat       "17.950000762939453125"^^xsd:float ;
+        geo:long      "106.46666717529296875"^^xsd:float .
+
+dbr:Tam_Điệp_pass  rdfs:comment  "The Tam Điệp pass (Sino-Vietnamese name: Đèo Tam Điệp, demotic folk name: Đèo Ba Dội) is the name of the three passes between ancient Thăng Long and Ninh Bình and Thanh Hóa provinces."@en ;
+        rdfs:label    "Tam Điệp pass"@en ;
+        geo:lat       "20.131349563598632812"^^xsd:float ;
+        geo:long      "105.85822296142578125"^^xsd:float .
+
+dbr:Ngoạn_Mục_Pass  rdfs:comment  "The Ngoạn Mục Pass, also called the Sông Pha pass, after Sông Pha at the foot of the pass, is a scenic mountain pass in Vietnam between Ninh Thuận province and the Lang Biang plateau. It was known to the French as Bellevue Pass."@en ;
+        rdfs:label    "Ngoạn Mục Pass"@en ;
+        geo:lat       "11.8339996337890625"^^xsd:float ;
+        geo:long      "108.64499664306640625"^^xsd:float .
+
+dbr:Cù_Mông_Pass  rdfs:comment  "Cù Mông Pass (Đèo Cù Mông) is a mountain pass between Bình Định and Phú Yên provinces in Vietnam. It is on the 1A National Highway. In the 1470s, the pass marked the southern limit of the Lê Dynasty extension of Vietnamese rule."@en ;
+        rdfs:label    "Cù Mông Pass"@en ;
+        geo:lat       "13.683333396911621094"^^xsd:float ;
+        geo:long      "109.1833343505859375"^^xsd:float .
+
+dbr:Mã_Pí_Lèng_Pass  rdfs:comment  "The Mã Pí Lèng Pass is a mountain pass on the Highway 4C in the territory of Pai Lung and Pa Vi commune, Hà Giang province, North Vietnam. It is approximately 20 kilometres (12 mi) long, on the section of the Highway 4C connecting the towns of Đồng Văn and Mèo Vạc. It is at the altitude of 1,500 m (4,921 ft). The road was first built by Yao, H'mong, Tay and Lolo minority people. This section of the Highway 4C was constructed in the years of 1960."@en ;
+        rdfs:label    "Mã Pí Lèng Pass"@en ;
+        dbp:location  dbr:Hà_Giang_province , dbr:Vietnam ;
+        geo:lat       "23.239999771118164062"^^xsd:float ;
+        geo:long      "105.40000152587890625"^^xsd:float .
+
+dbr:Cả_Pass  rdfs:comment  "The Cả pass (Đèo Cả) is a mountain pass in Phú Yên Province, Vietnam. The mountains are known as the Cả pass mountains (núi Cả Đèo). Historically the Cả Pass was the second most difficult col in Vietnam after Hải Vân Pass. In 1611, the Nguyen pushed their border down to Cả Pass. The pass is also known as Đèo Cục Kịch. In the French documents the pass name is \"Col Babonneau\"."@en ;
+        rdfs:label    "Cả Pass"@en ;
+        geo:lat       "12.871059417724609375"^^xsd:float ;
+        geo:long      "109.39914703369140625"^^xsd:float .
+
+dbr:Mụ_Giạ_Pass  rdfs:comment  "The Mụ Giạ Pass (Đèo Mụ Giạ, Quảng Bình) is a mountain pass in the Annamite Range between northern Vietnam and Laos, located 90 km northwest of Đồng Hới, Vietnam. The pass is 418 m above sea level and connects National Road 15 from Tân Ấp in Vietnam to Route 12 in Khammouane Province in Laos."@en ;
+        rdfs:label    "Mụ Giạ Pass"@en ;
+        dbp:location  "Vietnam–Laos border"@en ;
+        geo:lat       "17.664722442626953125"^^xsd:float ;
+        geo:long      "105.7624969482421875"^^xsd:float .

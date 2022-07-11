@@ -1,0 +1,66 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Trần_Thánh_Tông  rdfs:comment  "Trần Thánh Tông (October 12, 1240 – July 3, 1290), personal name Trần Hoảng (陳晃), was the second emperor of the Trần dynasty, reigning over Đại Việt from 1258 to 1278. After ceding the throne to his son Trần Nhân Tông, Thánh Tông held the title of retired emperor (Thái thượng hoàng) from 1279 to his death in 1290. During the second and the third Mongol invasions of Đại Việt, Retired Emperor Thánh Tông and Emperor Nhân Tông were credited as the supreme commanders who led the nation to the final victories and, as a result, established a long period of peace and prosperity over the country. With his successful rulings in both military and civil matters, Trần Thánh Tông was considered one of the greatest emperors of not only the Trần dynasty but also the whole dynastic era in the history of Vi"@en ;
+        rdfs:label      "Trần Thánh Tông"@en ;
+        dbo:child       dbr:Trần_Nhân_Tông ;
+        dbo:parent      <http://dbpedia.org/resource/Thuận_Thiên_(Trần_dynasty_empress)> , dbr:Trần_Thái_Tông ;
+        dbp:birthDate   "1240-10-12"^^xsd:date ;
+        dbp:birthPlace  "Thăng Long, Đại Việt"@en .
+
+dbr:Nguyễn_Trãi  rdfs:comment  "Nguyễn Trãi (阮廌), pen name Ức Trai (抑齋); (1380–1442) was an illustrious Vietnamese Confucian scholar, a noted poet, a skilled politician and a master strategist. He was at times attributed with being capable of almost miraculous or mythical deeds in his designated capacity as a close friend and principal advisor of Lê Lợi, Vietnam's hero-emperor, who fought to free the country from Chinese rule. He is credited with writing the important political statements of Lê Lợi and inspiring the Vietnamese populace to support open rebellion against the Ming Dynasty rulers. He is also the author of \"Great Proclamation upon the Pacification of the Wu\" (Bình Ngô đại cáo)."@en ;
+        rdfs:label    "Nguyễn Trãi"@en .
+
+dbr:Vạn_Hạnh  rdfs:comment  "Vạn Hạnh (Hán tự: 禪師萬行, 938 - 1018) was a Vietnamese Thiền Buddhist monk. He was well known as the most important teacher, protector, and supporter of Lý Thái Tổ, the first emperor of Lý Dynasty."@en ;
+        rdfs:label    "Vạn Hạnh"@en .
+
+dbr:Ngô_Thì_Sĩ  rdfs:comment  "Ngô Thì Sĩ (吳時仕, 1726 – 1780) was an 18th-century Vietnamese scholar, historian and government official. He passed court examination and awarded hoàng giáp in 1766, then served as Hiệu lý Viện Hàn to proofread the national history. Sĩ is known for being the principal compiler of the , and . He was the first man who regarded Triệu dynasty as a separate regime of China instead of a legitimate dynasty of Vietnam. Sĩ had four sons: Ngô Thì Nhậm, , , , and a son-in-law Phan Huy Ích. All of them were scholars."@en ;
+        rdfs:label      "Ngô Thì Sĩ"@en ;
+        dbp:birthDate   1726 ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Thanh_Oai_district .
+
+dbr:Lý_Thường_Kiệt  rdfs:comment  "Lý Thường Kiệt (李常傑; 1019–1105), real name Ngô Tuấn (吳俊), was a Vietnamese general and admiral of the Lý dynasty. He served as an official through the reign of Lý Thái Tông, Lý Thánh Tông and Lý Nhân Tông and was a general during the Song–Lý War. In Vietnamese history, he helped invade Champa (1069), raid the three Song Dynasty provinces of Kham, Ung, Liem (1075-1076), and defeat the Song invasion of Vietnam led by and ."@en ;
+        rdfs:label    "Lý Thường Kiệt"@en .
+
+dbr:Đặng_Trần_Côn  rdfs:comment  "Đặng Trần Côn (Chữ Hán: 鄧陳琨; born Trần Côn; c. 1705-1745) was the author of the Chinh phụ ngâm a masterpiece of Chữ Hán literature of Vietnam. Đặng Trần Côn was born in Nhân Mục village (or Nhân Mọc), Thanh Trì district, (now Nhân Chính ward, Thanh Xuân district), Hanoi, around 1705-1710. As an adopted child his surname Đặng was that of his adoptive family. His original name was Trần Côn. His work Chinh phụ ngâm was written in Chữ Hán was later translated into Chữ Nôm by the poet Đoàn Thị Điểm and the poet Phan Huy Ích (1751–1822)."@en ;
+        rdfs:label      "Đặng Trần Côn"@en ;
+        dbp:birthDate   "circa 1705"@en ;
+        dbp:birthPlace  "Nhân Mục village, Thanh Trì district, Hanoi"@en .
+
+dbr:Lý_Nhân_Tông  rdfs:comment  "Lý Nhân Tông (22 February 1066 – 15 January 1128), personal name Lý Càn Đức, temple name Nhân Tông was the fourth monarch of the Lý dynasty, ruled the kingdom of Đại Việt from 1072 until his death in 1128. Succeeding his father Lý Thánh Tông at the age of 7, during his early reign Lý Nhân Tông ruled with the assistance of his mother Ỷ Lan and the chancellor Lý Đạo Thành who were both considered competent regents and were able to help the emperor maintain the country's prosperity. Appreciated as a great emperor of the Lý Dynasty, Lý Nhân Tông made important contributions to the development of Đại Việt, especially for establishing Confucianism as the official philosophy of the state, creating Confucian-based imperial exams, and creating schools based on the Confucian system of learning. Duri"@en ;
+        rdfs:label      "Lý Nhân Tông"@en ;
+        dbo:child       dbr:Lý_Thần_Tông ;
+        dbo:parent      dbr:Lý_Thánh_Tông , dbr:Ỷ_Lan ;
+        dbp:birthDate   "1066-02-22"^^xsd:date ;
+        dbp:birthPlace  "Long Đức palace, Thăng Long"@en .
+
+dbr:Trần_Nhân_Tông  rdfs:comment  "Trần Nhân Tông (7 December 1258–16 December 1308), personal name Trần Khâm, temple name Nhân Tông, was the third monarch of the Trần dynasty, reigning over Đại Việt from 1278 to 1293. After ceding the throne to his son Trần Anh Tông, Nhân Tông held the title Retired Emperor (Vietnamese: Thái thượng hoàng) from 1294 to his death in 1308. During the second and third Mongol invasions of Đại Việt, the Emperor Nhân Tông and his father the Retired Emperor Thánh Tông were credited as the supreme commanders who led the Trần dynasty to the final victories and since established a long period of peace and prosperity over the country."@en ;
+        rdfs:label      "Trần Nhân Tông"@en ;
+        dbo:child       dbr:Huyền_Trân , dbr:Crown_prince , dbr:Trần_Quốc_Chẩn ;
+        dbo:parent      dbr:Trần_Thánh_Tông ;
+        dbp:birthDate   "1258-12-07"^^xsd:date ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Names_of_Vietnam .
+
+dbr:Lê_Thánh_Tông  rdfs:comment  "Lê Thánh Tông (25 August 1442 – 3 March 1497), personal name Lê Hạo, temple name Thánh Tông, courtesy name Tư Thành, was an emperor of Đại Việt, reigned from 1460 to 1497, the fifth monarch of the House of Lê Duy and is one of the greatest monarchs in Vietnamese history. He came to power through a coup d'état against his second brother Lê Nghi Dân in 1460. His reign is recognized for the extensive administrative, military, education, and fiscal reforms he instituted, and a cultural revolution that replaced the old traditional aristocracy with a generation of literati scholars. His era was eulogized as the Prospered reign of Hồng Đức (Hồng Đức Thịnh trị; 洪德盛治)."@en ;
+        rdfs:label     "Lê Thánh Tông"@en ;
+        dbo:child      dbr:Lê_Hiến_Tông ;
+        dbo:parent     dbr:Lê_Thái_Tông , dbr:Ngô_Thị_Ngọc_Dao ;
+        dbp:birthDate  "1442-08-25"^^xsd:date .
+
+dbr:Đoàn_Thị_Điểm  rdfs:comment  "Đoàn Thị Điểm (Hán tự: 段氏點, 1705 - 1748), courtesy name Thụy Châu (瑞珠), pseudonym Mai Khuê (梅閨) or Rosy Clouds Lady (紅霞女士), was the classical-Vietnamese female poet."@en ;
+        rdfs:label      "Đoàn Thị Điểm"@en ;
+        dbp:birthDate   1705 ;
+        dbp:birthPlace  "Giai Phạm village, Văn Giang district, Kinh Bắc local government, Đại Việt"@en .
+
+dbr:Phạm_Ngũ_Lão  rdfs:comment  "Phạm Ngũ Lão (1255–1320) was a general of the Trần Dynasty during the reigns of three successive emperors Nhân Tông, Anh Tông and Minh Tông. His talent was noticed by Prince Hưng Đạo Trần Quốc Tuấn who married his adopted daughter to Phạm Ngũ Lão and recommended him for the royal court. Renowned as a prominent general in battlefield, Phạm Ngũ Lão was one of the few commanders of the Vietnamese army during the second and third Mongol invasion who did not come from the Trần clan. After the war of resistance against the Yuan dynasty, Phạm Ngũ Lão continued to participate in numerous military campaigns of the Trần Dynasty in which he often succeeded. Today, Phạm Ngũ Lão is still considered one of the most capable military commanders of both the Trần Dynasty and history of Vietnam."@en ;
+        rdfs:label      "Phạm Ngũ Lão"@en ;
+        dbp:birthDate   1255 ;
+        dbp:birthPlace  dbr:Hưng_Yên_province , dbr:Đại_Việt , dbr:Ân_Thi_district .
+
+dbr:Lê_Quý_Đôn  rdfs:comment  "Lê Quý Đôn (黎貴惇; 1726–1784) was an 18th-century Vietnamese poet, encyclopedist, and government official. His pseudonym was Quế-Đường. He was a native of Duyen Ha village in present-day Thái Bình Province. He is considered one of the most outstanding and prolific Vietnamese savants of the early modern period."@en ;
+        rdfs:label      "Lê Quý Đôn"@en ;
+        dbp:birthDate   1726 ;
+        dbp:birthPlace  "Diên Hà, Thái Bình, northern Vietnam"@en .

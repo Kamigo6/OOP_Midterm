@@ -1,0 +1,78 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Cầu_khỉ  rdfs:comment  "A cầu khỉ (\"monkey bridge\") in Vietnam is a handmade bamboo or wooden passway across a stream or gully. The \"monkey bridge\", as a uniquely Vietnamese traditional symbol, was the inspiration for the title of American author Lan Cao's novel Monkey Bridge. It is also called a coconut bridge (if made of coconut tree) or bamboo bridge (if made of bamboo). These bridges, with or without handrails, are very difficult and dangerous for those who are not accustomed to them. Those familiar with them have been known to carry on their shoulder 20–50 kg while on the bridge."@en ;
+        rdfs:label     "Cầu khỉ"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Cầu_khỉ.jpg?width=300> .
+
+dbr:Ben_Thuy_Bridge_1
+        rdfs:comment   "Ben Thuy Bridge 1 (Vietnamese: Cầu Bến Thủy) is a road bridge in the North Central Coast of Vietnam and is part of the National Route 1A"@en ;
+        rdfs:label     "Ben Thuy Bridge 1"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Ben_Thuy_Bridge_crossover_Lam_River,_Vietnam.jpg?width=300> ;
+        geo:lat        "18.646490097045898438"^^xsd:float ;
+        geo:long       "105.7083587646484375"^^xsd:float .
+
+dbr:Truong_Tien_Bridge
+        rdfs:comment   "Trường Tiền Bridge (Vietnamese: Cầu Trường Tiền) is a bridge crossing the Perfume River in Huế, Vietnam"@en ;
+        rdfs:label     "Truong Tien Bridge"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Hue,_le_pont_Trang_Tien.jpg?width=300> ;
+        geo:lat        "16.468889236450195312"^^xsd:float ;
+        geo:long       "107.5886077880859375"^^xsd:float .
+
+dbr:List_of_crossings_of_the_Mekong_River
+        rdfs:comment   "The following is a list of crossings of the Mekong River. The Mekong is a river in Southeast Asia. It is the world's 12th-longest river and the 7th-longest in Asia. From the Tibetan Plateau, this river runs through China's Yunnan province, Burma (Myanmar), Laos, Thailand, Cambodia, and Vietnam."@en ;
+        rdfs:label     "List of crossings of the Mekong River"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Thai-Lao-Freundschaftsbruecke.jpg?width=300> .
+
+dbr:Cổ_Chiên_Bridge  rdfs:comment  "Co Chien Bridge Vietnamese: Cầu Cổ Chiên) is a road bridge spanning the Cổ Chiên River in the Mekong Delta of Vietnam."@en ;
+        rdfs:label     "Cổ Chiên Bridge"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Co_Chien_bridge.jpg?width=300> ;
+        geo:lat        "10.028699874877929688"^^xsd:float ;
+        geo:long       "106.30609893798828125"^^xsd:float .
+
+<http://dbpedia.org/resource/Golden_Bridge_(Vietnam)>
+        rdfs:comment   "The Golden Bridge (Vietnamese: Cầu Vàng) is a 150-metre-long (490 ft) pedestrian bridge in the Bà Nà Hills resort, near Da Nang, Vietnam. It is designed to connect the cable car station with the gardens (avoiding a steep incline) and to provide a scenic overlook and tourist attraction. The bridge loops nearly back around to itself, and has two giant hands, constructed of fibreglass and wire mesh, designed to appear like stone hands that support the structure."@en ;
+        rdfs:label     "Golden Bridge (Vietnam)"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Golden_Bridge_Da-Nang.jpg?width=300> .
+
+dbr:Ben_Thuy_Bridge_2
+        rdfs:comment  "Ben Thuy Bridge 2 (Vietnamese: Cầu Bến Thủy 2) is a road bridge spanning the Cả River in the North Central Coast of Vietnam. It was built parallel to Ben Thuy Bridge 1 as a way to relief congestion, and similarly provides a connecting road between Nghe An Province and Ha Tinh Province."@en ;
+        rdfs:label    "Ben Thuy Bridge 2"@en ;
+        geo:lat       "18.638805389404296875"^^xsd:float ;
+        geo:long      "105.7060546875"^^xsd:float .
+
+dbr:Đò_Quan_Bridge  rdfs:comment  "Đò Quan Bridge goes across , a branch of the Red River in Nam Định, Vietnam, an antique city 90 km South to Hanoi. The bridge was in inauguration in 1994 and serves to connect the city with the 6 other districts. 433 meter long and 15 meters wide, Đò Quan used to be the largest bridge in Nam Định Province before the appearance of . This bridge is regarded as a cultural part of Nam Định."@en ;
+        rdfs:label    "Đò Quan Bridge"@en .
+
+dbr:Pa_Uon_Bridge  rdfs:comment  "Pa Uon Bridge (Vietnamese: Cầu Pá Uôn) is a road bridge spanning the Black River in the Son La Province of Vietnam."@en ;
+        rdfs:label     "Pa Uon Bridge"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Cầu_Pá_Uôn,_Sơn_La_Province.jpg?width=300> .
+
+dbr:Hiền_Lương_Bridge
+        rdfs:comment   "Hiền Lương Bridge (Vietnamese: Cầu Hiền Lương) is a bridge over Bến Hải River, Vĩnh Linh District, Quảng Trị Province, North Central Coast, Việt Nam. This bridge is located in 17th Parallel and in Vietnam War, it was bisected between South Vietnam and North Vietnam from 1954 to 1976. American bombs destroyed the first Hien Luong Bridge in 1967 and again destroyed it in 1970. In 1973, an iron girder bridge was built and reopened following reunification in 1975. The current bridge was built in 1999."@en ;
+        rdfs:label     "Hiền Lương Bridge"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Benhairiver1.jpg?width=300> ;
+        geo:lat        "17.0040283203125"^^xsd:float ;
+        geo:long       "107.0514984130859375"^^xsd:float .
+
+dbr:Nguyễn_Văn_Trỗi_Bridge
+        rdfs:comment  "Nguyen Van Troi Bridge is a bridge spanning the Han River in the city of Da Nang, Vietnam.This bridge was built by an American company in 1965."@en ;
+        rdfs:label    "Nguyễn Văn Trỗi Bridge"@en .
+
+dbr:Chua_Cau_Temple_Bridge
+        rdfs:comment   "Chùa Cầu is a footbridge with a temple atop, located in Hoi An, Quang Nam Province, Vietnam. It is also referred to as \"Cầu Nhật Bản\" (Japanese Bridge), \"Japanese Covered Bridge\", or \"Lai Viễn Kiều\"."@en ;
+        rdfs:label     "Chua Cau Temple Bridge"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Hội_An,_Chùa_Cầu,_2020-01_CN-02.jpg?width=300> ;
+        dbp:location   dbr:Vietnam , dbr:Hội_An ;
+        geo:lat        "15.87718963623046875"^^xsd:float ;
+        geo:long       "108.30930328369140625"^^xsd:float .
+
+dbr:The_Huc_Bridge  rdfs:comment  "Thê Húc Bridge (Vietnamese: Cầu Thê Húc), is a footbridge over Hoàn Kiếm Lake within Hanoi, Vietnam."@en ;
+        rdfs:label     "The Huc Bridge"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Cầu_thê_húc_Hà_nội_vietnam_-_panoramio.jpg?width=300> ;
+        geo:lat        "21.030750274658203125"^^xsd:float ;
+        geo:long       "105.852996826171875"^^xsd:float .

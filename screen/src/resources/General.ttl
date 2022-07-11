@@ -1,0 +1,95 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Lê_Minh_Hương  rdfs:comment  "Lê Minh Hương (October 3, 1936 – May 23, 2004) was a Vietnamese politician who was the Minister of Public Security of Vietnam from 1996 to 2002. He was born in Hương Sơn District, Hà Tĩnh Province and he was posthumously awarded the Ho Chi Minh Medal by the President on March 5, 2008."@en ;
+        rdfs:label     "Lê Minh Hương"@en ;
+        dbp:birthDate  "1936-10-03"^^xsd:date .
+
+dbr:Nguyễn_Cửu_Đàm  rdfs:comment  "Nguyễn Cửu Đàm (阮久潭, ? - 1777) was a Vietnamese general under the Nguyễn lords. He built the defensive wall around Saigon in 1772 to protect the newly acquired southern territories against the Siamese army. Nguyễn also built the Kênh Ruột Ngựa (Sino-Vietnamese: Mã Trường Giang) \"Horse Entrails Canal.\""@en ;
+        rdfs:label    "Nguyễn Cửu Đàm"@en .
+
+dbr:Phạm_Đức_Lĩnh  rdfs:comment  "Phạm Đức Lĩnh is a senior officer in the Vietnam People's Army. He is a lieutenant general, general director of the Vietnam Marine Police from 2006 to 2012 and also a congressman in the National Assembly of Vietnam."@en ;
+        rdfs:label      "Phạm Đức Lĩnh"@en ;
+        dbp:birthPlace  dbr:Gia_Viễn_district , dbr:Ninh_Bình_province , dbr:Vietnam .
+
+dbr:Nguyen_Dinh_Ngoc  rdfs:comment  "Nguyen Dinh Ngoc (13 August 1932 – 2 May 2006) was a Vietnamese Army intelligence officer, later a general, and a mathematician."@en ;
+        rdfs:label      "Nguyen Dinh Ngoc"@en ;
+        dbp:birthDate   "1932-08-13"^^xsd:date ;
+        dbp:birthPlace  dbr:Phú_Xuyên_district , dbr:Hanoi .
+
+dbr:Nguyễn_Văn_Hinh  rdfs:comment  "Nguyễn Văn Hinh (20 September 1915 – 26 June 2004) was the chief of staff of the Vietnamese National Army and the first Vietnamese officer in the French Armed Forces to be promoted to the rank of general. Educated in the French style, he served in the Armée de l'air and Troupes coloniales before accepting a role in the army of the new State of Vietnam within the French Union. Hinh is somewhat of an oddity in the 20th century military history of Vietnam as he attained the rank of lieutenant general in two separate countries, not unlike his North Vietnamese counterpart Nguyễn Sơn who served as a major general in both the People's Army of Vietnam and the People's Liberation Army of China."@en ;
+        rdfs:label      "Nguyễn Văn Hinh"@en ;
+        dbp:birthDate   "1915-09-20"^^xsd:date ;
+        dbp:birthPlace  <http://dbpedia.org/resource/Bà_Rịa–Vũng_Tàu_province> , dbr:French_Indochina , dbr:Vũng_Tàu .
+
+dbr:Châu_Văn_Tiếp  rdfs:comment  "Châu Văn Tiếp (朱文接, 1738–1784), born Châu Doãn Ngạnh (朱尹梗), was an 18th-century Vietnamese military commander, best known for his role as a general of Nguyễn Ánh."@en ;
+        rdfs:label      "Châu Văn Tiếp"@en ;
+        dbp:birthDate   1738 ;
+        dbp:birthPlace  dbr:Phú_Yên_province , dbr:Vietnam .
+
+dbr:Phạm_Ngọc_Lan  rdfs:comment  "Phạm Ngọc Lan (12 December 1934 – 14 June 2019) was a general of the People's Army of Vietnam. He was most noted for being North Vietnam's first pilot to shoot down American planes in aerial combat, on April 3, 1965."@en ;
+        rdfs:label    "Phạm Ngọc Lan"@en .
+
+dbr:Tran_Van_Soai  rdfs:comment  "Tran Van Soai (Vietnamese: Trần Văn Soái; 1889–1961), also known as Nam Lua (Năm Lưa; lit. 'Five Fires'), was a Vietnamese general and the commander-in-chief of the armed forces of the Hòa Hảo. Born in Southern Vietnam into peasantry, he initially worked as a bus driver and became a gang leader. He converted to Hòa Hảo during World War II, and then quickly rose to prominence as the sect's leading military leader. He fought against the Japanese and Viet Minh during World War II and the First Indochina War. His forces then struggled against the South Vietnamese leader Ngô Đình Diệm in the 1950s, during the Vietnam War."@en ;
+        rdfs:label      "Tran Van Soai"@en ;
+        dbp:birthDate   1889 ;
+        dbp:birthPlace  dbr:Long_Xuyên , dbr:French_Indochina .
+
+dbr:Phạm_Hoài_Nam  rdfs:comment  "Pham Hoai Nam (born February 21, 1967) is a Vietnamese general, and Vice Minister of Defense (Vietnam). Pham Hoai Nam was born on February 21, 1967 at Hoai Hao, Hoai Nhon, Binh Dinh, Vietnam. He joined the Communist Party of Vietnam on January, 2011. He is a member of Central Committee of the Communist Party of Vietnam 12th, 13th; Congressman in National Assembly of Vietnam."@en ;
+        rdfs:label      "Phạm Hoài Nam"@en ;
+        dbp:birthDate   "1967-02-21"^^xsd:date ;
+        dbp:birthPlace  "Hoai Nhon, Binh Dinh, Vietnam"@en .
+
+dbr:Nguyễn_Văn_Man  rdfs:comment  "Nguyễn Văn Man (12 January 1966 – 13 October 2020) was major general of the People's Army of Vietnam and politician. He held the position of Deputy Commander of 4th Military Region of Vietnam People's Army, National Assembly deputy term 14 2016-2021 term of the National Assembly delegation of Quảng Bình Province, member of National Defense and Security Committee and security of the 14th National Assembly. He was previously the Chief of the Military Command of Quang Binh Province."@en ;
+        rdfs:label      "Nguyễn Văn Man"@en ;
+        dbp:birthDate   "1966-01-12"^^xsd:date ;
+        dbp:birthPlace  dbr:Vietnam , dbr:Quảng_Bình_province , dbr:Đồng_Hới .
+
+dbr:Chu_Văn_Tấn  rdfs:comment  "Chu Văn Tấn (22 May 1909 – 1984 in Võ Nhai) was a Vietnamese general. He was a member of the 1st Central Committee of the Communist Party of Vietnam and Minister of Defense in the 1945 provisional cabinet of the DRV."@en ;
+        rdfs:label    "Chu Văn Tấn"@en .
+
+dbr:Nguyen_Giac_Ngo  rdfs:comment  "Nguyen Giac Ngo (Vietnamese: Nguyễn Giác Ngộ; lit. 'Nguyen the Enlightened'), real name Nguyen Van Nguot (Vietnamese: Nguyễn Văn Ngượt; 1897–1967), was a Vietnamese military leader, serving as the major general of the Republic of Vietnam Military Forces, and a senior officer of the armed forces of the Hòa Hảo, and one of their religious leaders. Receiving French military training, he stood in he ranks of the Hòa Hảo forces for over a decade. In 1950, he turned to cooperate with the Vietnamese National Army."@en ;
+        rdfs:label      "Nguyen Giac Ngo"@en ;
+        dbp:birthDate   "1897-05-18"^^xsd:date ;
+        dbp:birthPlace  dbr:Chợ_Mới , dbr:French_Indochina .
+
+dbr:Nguyễn_Tân_Cương  rdfs:comment  "Nguyễn Tân Cương is a Vietnamese general, currently serving as Chief of the General Staff and Deputy Minister of Defence. Nguyễn Tân Cương was born in 1966 in Hà Nam Province, joined the Central Committee of the Communist Party of Vietnam in 2016, and served as the Commander of 4th Military Region."@en ;
+        rdfs:label      "Nguyễn Tân Cương"@en ;
+        dbp:birthPlace  dbr:Vietnam , dbr:Hà_Nam_province .
+
+dbr:An_Dương_Vương  rdfs:comment  "An Dương Vương (Vietnamese: [ʔaːn zɨəŋ vɨəŋ]) was the king and the only ruler of the kingdom of Âu Lạc, a classical antiquity state centered in the Red River Delta. As the leader of the Âu Việt tribes, he defeated the last Hùng king of the state of Văn Lang and united its people – known as the Lạc Việt – with his people, the Âu Việt. An Dương Vương fled and committed suicide after the war with Nanyue forces in 179 BCE."@en ;
+        rdfs:label     "An Dương Vương"@en ;
+        dbo:child      dbr:An_Dương_Vương ;
+        dbo:parent     dbr:Tày_people ;
+        dbp:birthDate  "unknown"@en .
+
+dbr:Phạm_Văn_Trà  rdfs:comment  "Phạm Văn Trà (born 19 August 1937) is a Vietnamese politician who served as Vietnam's Minister of Defense from 1997 to 2006. Phạm Văn Trà was previously Chief of the General Staff of the People's Army of Vietnam and Vice-Minister of Defense (Dec 1995–1997), and a four-star General. He replaced Đoàn Khuê as minister of defense in September 1997."@en ;
+        rdfs:label      "Phạm Văn Trà"@en ;
+        dbp:birthDate   "1937-08-19"^^xsd:date ;
+        dbp:birthPlace  dbr:Quế_Võ_district , <http://dbpedia.org/resource/Tonkin_(French_protectorate)> , dbr:Bắc_Ninh_province , dbr:French_Indochina .
+
+dbr:Đoàn_Khuê  rdfs:comment  "Đoàn Khuê (Triệu Phong, 29 October 1923 – 16 January 1999) was a Vietnamese Army general and Minister of Defence from 1992-1997. Đoàn Khuê was born on 29 October 1923 in Triệu Phong District in Quảng Trị Province, joined the Communist Party of Vietnam in 1945, and served as the military Commissioner of the provincial Party Committee."@en ;
+        rdfs:label      "Đoàn Khuê"@en ;
+        dbp:birthDate   "1923-10-29"^^xsd:date ;
+        dbp:birthPlace  dbr:Quảng_Trị_province , dbr:Triệu_Phong_district , dbr:French_Indochina .
+
+dbr:Ngô_Xuân_Lịch  rdfs:comment  "Ngô Xuân Lịch (born 20 April 1954 in Hà Nam) is a Vietnamese politician and Vietnam's Minister of National Defence and Chief of the General Department of Politics of Vietnam. Ngô Xuân Lịch became a member of the Communist Party of Vietnam on 8 August 1974. Ngô Xuân Lịch was previously Vice Chief of the General Department of Politics (January 2008 – 2011), and was promoted to the rank of four-star General in 2016. He replaced Lê Văn Dũng as Director of the General Department of Politics in March 2011."@en ;
+        rdfs:label      "Ngô Xuân Lịch"@en ;
+        dbp:birthDate   "1954-04-20"^^xsd:date ;
+        dbp:birthPlace  dbr:Hà_Nam_province , dbr:Hanoi , dbr:French_Indochina , dbr:Duy_Tiên .
+
+dbr:Hoàng_Đăng_Huệ  rdfs:comment  "Hoàng Đăng Huệ (1932–December 31, 2014) was a Major General of Ministry of Defence in Việt Nam. He was the Political Commissar of The High Command of Tank and Armour"@en ;
+        rdfs:label    "Hoàng Đăng Huệ"@en .
+
+dbr:Lam_Thanh_Nguyen  rdfs:comment  "Lam Thanh Nguyen (Vietnamese: Lâm Thành Nguyên; 1904–1977), also known as Hai Ngoán, was a Vietnamese military leader, lieutenant general of the Vietnamese National Army and the deputy commander-in-chief of the armed forces of the Hòa Hảo. Receiving French military education, he was a native of Nhơn Nghĩa village in Cần Thơ."@en ;
+        rdfs:label      "Lam Thanh Nguyen"@en ;
+        dbp:birthDate   1904 ;
+        dbp:birthPlace  dbr:Cần_Thơ , dbr:French_Indochina .
+
+dbr:Nguyễn_Văn_Hiến  rdfs:comment  "Nguyễn Văn Hiến (born October 15, 1954) is a retired Admiral, and former Vice Minister of Defense (Vietnam) from 2009–2016. Nguyễn Văn Hiến was born on October 15, 1954 at Gia Tan, Gia Vien, Ninh Binh province, Vietnam. He joined the Communist Party of Vietnam on April 26, 1976 (official day on October 26, 1977). He is a member of Central Committee of the Communist Party of Vietnam 11th; Congressman in National Assembly of Vietnam. In December 5, 2011, he was the only second Vietnamese to be appointed Admiral of Vietnam People's Navy after Admiral Giáp Văn Cương."@en ;
+        rdfs:label      "Nguyễn Văn Hiến"@en ;
+        dbp:birthDate   "1954-10-15"^^xsd:date ;
+        dbp:birthPlace  "Gia Vien, Ninh Binh, Vietnam"@en .

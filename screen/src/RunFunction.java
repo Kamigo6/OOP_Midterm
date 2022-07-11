@@ -59,13 +59,10 @@ public class RunFunction {
 	    		} else if (opt == "Banh") {
 	    			Banh b = new Banh();
 	    			Config.process(b.queryStr(), b.getName());
-	    		} else if (opt == "ChaCuon_ERR") {
-	    			ChaCuon_ERR b = new ChaCuon_ERR();
-	    			Config.process(b.queryStr(), b.getName());
 	    		} else if (opt == "Noodle") {
 	    			Noodle b = new Noodle();
 	    			Config.process(b.queryStr(), b.getName());
-	    		} else if (opt == "RiceDishes") {
+	    		} else if (opt == "RiceDished") {
 	    			RiceDishes b = new RiceDishes();
 	    			Config.process(b.queryStr(), b.getName());
 	    		} else if (opt == "Soup") {

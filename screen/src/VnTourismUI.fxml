@@ -53,7 +53,6 @@
                                                                   <RadioButton mnemonicParsing="false" onAction="#RiceDished" text="RiceDished" toggleGroup="$identical" />
                                                                   <RadioButton mnemonicParsing="false" onAction="#StreetFood" text="StreetFood" toggleGroup="$identical" />
                                                                   <RadioButton mnemonicParsing="false" onAction="#Soup" text="Soup" toggleGroup="$identical" />
-                                                                  <RadioButton mnemonicParsing="false" onAction="#ChaCuon_ERR" text="ChaCuon_ERR" toggleGroup="$identical" />
                                                                   <RadioButton mnemonicParsing="false" onAction="#Noodle" text="Noodle" toggleGroup="$identical" />
                                                                   <RadioButton mnemonicParsing="false" onAction="#Banh" text="Banh" toggleGroup="$identical" />
                                                                </children>

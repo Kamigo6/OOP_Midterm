@@ -11,7 +11,7 @@ dbr:Hàng_Trống_painting
         rdfs:label     "Hàng Trống painting"@en ;
         gold:hypernym  dbr:Genre .
 
-dbr:Vietnamese_art  rdfs:comment  "Vietnamese art is visual art that, whether ancient or modern, originated in or is practiced in Vietnam or by Vietnamese artists."@en ;
+dbr:Vietnamese_art  rdfs:comment  "Vietnamese art is visual art that, whether ancient or modern, originated in or is practiced in Vietnam or by Vietnamese artists. Vietnamese art has a long and rich history, the earliest examples of which date back as far as the Stone Age around 8,000 BCE. With the millennium of Chinese domination starting in the 2nd century BC, Vietnamese art undoubtedly absorbed many Chinese influences, which would continue even following independence from China in the 10th century AD. However, Vietnamese art has always retained many distinctively Vietnamese characteristics."@en ;
         rdfs:label     "Vietnamese art"@en ;
         gold:hypernym  dbr:Art .
 
@@ -35,11 +35,11 @@ dbr:Flowers_of_the_Four_Seasons
 dbr:Li_Lao_drum  rdfs:comment  "The Li-Lao bronze drums or Heger type II drums are a type of ancient bronze drums found in Southern China and Northern Vietnam invented and used by Tai-Kadai-speaking (or specifically Tai-speaking) ethnic groups who were known to Chinese as Lǐ (俚) or Lǎo (獠) and who historically inhabited the Red River Delta from the 3rd to 8th century AD and later the Muong people, an ethnic minority in Northern Vietnam, from 10th to 12th century. Classified by Franz Heger as type II to distinguish with the Dian-Dong Son drums or Heger type I, the Karen drum or Heger type III. Li-Lao drums were found in Guangdong, Guangxi, the Red River Delta and the Muong hills."@en ;
         rdfs:label    "Li Lao drum"@en .
 
-dbr:Ngoc_Lu_drum  rdfs:comment  "The Ngoc Lu drum is regarded as one of the most important and prominent artifacts of the Dong Son culture of the Bronze Age, a civilisation that flourished in around the 2nd to 3rd century BC in the Red River Delta of Vietnam. The high level of importance placed on it by historians and archaeologists is due to its well preserved and richly decorated nature. The Ngoc Lu drum is the first artifact on the list of 30 items recognised as National Treasures of Vietnam for the first time in 2012."@en ;
-        rdfs:label    "Ngoc Lu drum"@en .
-
 dbr:Hội_An_wreck  rdfs:comment  "Hội An Wreck lies 22 miles off the coast of central Vietnam in the South China Sea, at 16°02′N 108°36′E﻿ / ﻿16.04°N 108.6°E approximately. Discovered by fishermen in the early 1990s, the Vietnamese government made several attempts to organise an investigation of the site but were confounded by the water depth of 230 feet (70 m)."@en ;
         rdfs:label    "Hội An wreck"@en .
+
+dbr:Ngoc_Lu_drum  rdfs:comment  "The Ngoc Lu drum is regarded as one of the most important and prominent artifacts of the Dong Son culture of the Bronze Age, a civilisation that flourished in around the 2nd to 3rd century BC in the Red River Delta of Vietnam. The high level of importance placed on it by historians and archaeologists is due to its well preserved and richly decorated nature. The Ngoc Lu drum is the first artifact on the list of 30 items recognised as National Treasures of Vietnam for the first time in 2012."@en ;
+        rdfs:label    "Ngoc Lu drum"@en .
 
 dbr:Hanoi_Ceramic_Mosaic_Mural
         rdfs:comment   "Hanoi Ceramic Mosaic Mural, or Hanoi Ceramic Road (Vietnamese: Con đường Gốm sứ), is a ceramic mosaic mural along the walls of the Red River dike system in the city of Hanoi, northern Vietnam. With a length of about 6.5 kilometres (4.0 mi), the 'Ceramic Road' is one of the major projects that were developed on the occasion of the Millennial Anniversary of Hanoi."@en ;
@@ -61,7 +61,7 @@ dbr:Kim_Hoàng_painting
         rdfs:label     "Kim Hoàng painting"@en ;
         gold:hypernym  dbr:Genre .
 
-dbr:Đông_Hồ_painting  rdfs:comment  "Dong Ho painting (Vietnamese: Tranh Đông Hồ or Tranh làng Hồ), full name Đông Hồ folk woodcut painting (Tranh khắc gỗ dân gian Đông Hồ) is a line of Vietnamese folk painting originating in Đông Hồ village (Song Hồ commune, Thuận Thành District, Bắc Ninh Province). With the consent of the Prime Minister, the Ministry of Culture, in collaboration with the Provincial People's Committee of Bắc Ninh and the specialized agencies conducting research, have set records for Đông Hồ folk paintings to be submitted to UNESCO for the recognition of intangible cultural heritage."@en ;
+dbr:Đông_Hồ_painting  rdfs:comment  "Ðông Hồ painting (Vietnamese: Tranh Đông Hồ or Tranh làng Hồ), full name Đông Hồ folk woodcut painting (Tranh khắc gỗ dân gian Đông Hồ) is a line of Vietnamese folk painting originating in Đông Hồ village (Song Hồ commune, Thuận Thành District, Bắc Ninh Province). With the consent of the Prime Minister, the Ministry of Culture, in collaboration with the Provincial People's Committee of Bắc Ninh and the specialized agencies conducting research, have set records for Đông Hồ folk paintings to be submitted to UNESCO for the recognition of intangible cultural heritage."@en ;
         rdfs:label     "Đông Hồ painting"@en ;
         gold:hypernym  dbr:Line .
 

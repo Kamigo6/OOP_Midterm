@@ -1,12 +1,137 @@
-@prefix formats: <http://www.w3.org/ns/formats/> .
-@prefix ns1:     <https://dbpedia.org/sparql#> .
-@prefix ns3:     <https://dbpedia.org/> .
-@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix sd:      <http://www.w3.org/ns/sparql-service-description#> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-ns1:service  rdf:type         sd:Service ;
-        sd:endpoint           ns3:sparql ;
-        sd:feature            sd:UnionDefaultGraph , sd:DereferencesURIs ;
-        sd:resultFormat       formats:N-Triples , formats:SPARQL_Results_JSON , formats:SPARQL_Results_XML , formats:RDFa , formats:N3 , formats:Turtle , formats:SPARQL_Results_CSV , formats:RDF_XML ;
-        sd:supportedLanguage  sd:SPARQL10Query ;
-        sd:url                ns3:sparql .
+dbr:Bánh_da_lợn  rdfs:comment  "Bánh da lợn or bánh chín tầng mây or bánh da heo (lit. 'pig skin cake') is a Vietnamese steamed layer cake made from tapioca starch, rice flour, mashed mung beans, taro, or durian, coconut milk and/or water, and sugar. It is sweet and gelatinously soft in texture, with thin (approximately 1 cm) colored layers alternating with layers of mung bean, durian, or taro filling. Typical versions of bánh da lợn may feature the following ingredients: In modern cooking, artificial food coloring is sometimes used in place of the vegetable coloring. \n* Bánh da lợn green leaf cake. thumb"@en ;
+        rdfs:label          "Bánh da lợn"@en ;
+        dbo:ingredient      dbr:Durian , dbr:Rice_flour , dbr:Tapioca , dbr:Sugar , dbr:Mung_bean , dbr:Coconut_milk , dbr:Taro ;
+        dbp:mainIngredient  "Rice flour, tapioca starch, mung beans, taro or durian, coconut milk or water, sugar"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Layer_cake .
+
+dbr:Bánh_chưng  rdfs:comment  "Bánh chưng is a traditional Vietnamese food which is made from glutinous rice, mung beans, pork and other ingredients. Its origin is told by the legend of Lang Liêu, a prince of the last king of the Sixth Hùng Dynasty, who became the successor thanks to his creation of bánh chưng and bánh giầy, which symbolized, respectively, the earth and the sky. Considered an essential element of the family altar on the occasion of Tết, the making and eating of bánh chưng during this time is a well-preserved tradition of Vietnamese people. Beside the Tết holiday, bánh chưng is also eaten all year round as Vietnamese cuisine."@en ;
+        rdfs:label          "Bánh chưng"@en ;
+        dbo:ingredient      dbr:Pork , dbr:Mung_bean , dbr:Glutinous_rice ;
+        dbp:mainIngredient  dbr:Mung_bean , dbr:Glutinous_rice , dbr:Pork ;
+        dbp:region          dbr:Southeast_Asia .
+
+dbr:Bánh_canh  rdfs:comment  "Bánh canh (Vietnamese: [ɓaɲ kaɲ]; Khmer: បាញ់កាញ់, bănh kănh [ɓaɲ kaɲ]) are a thick Vietnamese noodles that can be made from tapioca flour or a mixture of rice and tapioca flour. \"Cake\" refers to the thick sheet of uncooked dough from which the noodles are cut. The Vietnamese word bánh refers to items such as noodles or cakes that are made from flour, and canh means \"soup.\""@en ;
+        rdfs:label          "Bánh canh"@en ;
+        dbo:ingredient      dbr:Rice , dbr:Tapioca ;
+        dbp:mainIngredient  "Tapioca flour, optionally rice flour"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Soup .
+
+dbr:Bánh_phu_thê  rdfs:comment  "Bánh phu thê (lit. 'husband and wife cake') or bánh xu xê, is a Vietnamese dessert made from rice with mung bean stuffing wrapped in a box made of pandan leaves. The dessert was traditionally given by a suitor but is now part of many wedding banquets. It is traditional for a bridegroom to send bánh phu thê to the bride on the couple's wedding day to symbolize wishes for a happy future."@en ;
+        rdfs:label          "Bánh phu thê"@en ;
+        dbo:ingredient      dbr:Mung_bean ;
+        dbp:mainIngredient  "Mung beans"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Sweets"@en .
+
+dbr:Bánh_tét  rdfs:comment  "Bánh tét (Chữ Nôm: 餅節) is a Vietnamese savoury but sometimes sweetened cake made primarily from glutinous rice, which is rolled in a banana leaf into a thick, log-like cylindrical shape, with a mung bean or mung bean and pork filling, then boiled. After cooking, the banana leaf is removed and the cake is sliced into wheel-shaped servings."@en ;
+        rdfs:label          "Bánh tét"@en ;
+        dbo:ingredient      dbr:Mung_bean , dbr:Banana_leaf , dbr:Glutinous_rice ;
+        dbp:mainIngredient  "Glutinous rice, banana leaf, meat or vegetarian filling"@en ;
+        dbp:region          dbr:Southern_Vietnam .
+
+dbr:Bánh_bột_lọc  rdfs:comment  "Bánh bột lọc is a small, clear-looking, chewy tapioca dumplings in Vietnamese cuisine that can be eaten as appetizers or small snacks. They are usually filled with shrimp and pork belly, often being topped with fried shallots and served with sweet chili fish sauce. It is said to have originated from Huế, as the city was once the imperial capital of the Nguyễn dynasty and known for having simple, yet sophisticated dishes."@en ;
+        rdfs:label          "Bánh bột lọc"@en ;
+        dbo:ingredient      dbr:Tapioca , dbr:Shrimp_and_prawn_as_food , dbr:Pork_belly ;
+        dbp:mainIngredient  dbr:Shrimp_and_prawn_as_food , dbr:Tapioca , dbr:Pork_belly ;
+        dbp:region          "Central Vietnam"@en ;
+        dbp:type            dbr:Dumpling .
+
+dbr:Bánh_cuốn  rdfs:comment  "Bánh cuốn (Vietnamese: [ɓǎjŋ̟ kǔən], rolled sheets) is a Vietnamese dish originating from Northern Vietnam."@en ;
+        rdfs:label          "Bánh cuốn"@en ;
+        dbo:ingredient      dbr:Auricularia_auricula-judae , dbr:Rice , dbr:Shallot ;
+        dbp:mainIngredient  "Rice batter, ground pork, wood ear mushroom, shallots"@en ;
+        dbp:region          dbr:Northern_Vietnam ;
+        dbp:type            dbr:Rice_noodle_roll .
+
+dbr:Bánh_lá  rdfs:comment   "Bánh lá (/bǎɲ lǎ/), literally meaning \"leaf cake\", is a category of bánh, or Vietnamese cakes, that consist of a parcel of a variety of rice stuffed with some fillings and wrapped in a leaf or leaves."@en ;
+        rdfs:label          "Bánh lá"@en ;
+        dbp:mainIngredient  "Rice"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Bánh or dumpling"@en .
+
+dbr:Bánh_rán  rdfs:comment  "Bánh rán is a deep-fried glutinous rice ball Vietnamese dish from northern Vietnam. In Vietnamese, bánh is a category of food including cakes, pies, and pastries, while rán means \"fried.\" Its outer shell is made from glutinous rice flour, and covered all over with white sesame seeds. Its filling is made from sweetened mung bean paste, and scented with jasmine flower essence. Traditionally, the filling should be separated from the shell so that if one shakes the bánh rán, one can feel the filling rattle against the inside of the shell."@en ;
+        rdfs:label    "Bánh rán"@en ;
+        dbp:region    "North Vietnam"@en ;
+        dbp:type      "Deep-fried glutinous rice ball"@en .
+
+dbr:Bánh_bao  rdfs:comment  "Bánh bao (literally \"dumplings\") is a Vietnamese bun based on the Cantonese da bao (大包, literally \"big bun\") brought to Vietnam by Cantonese immigrants. It is a ball-shaped bun containing pork or chicken meat, onions, eggs, mushrooms and vegetables, in Vietnamese cuisine. It often has Chinese sausage and a portion of a hard-boiled egg inside. Bánh bao are generally larger than baozi, and are filled with savory fillings, the most common being seasoned ground pork and quail egg. A vegetarian version of bánh bao also exists."@en ;
+        rdfs:label          "Bánh bao"@en ;
+        dbo:ingredient      dbr:Chicken_as_food , dbr:Chinese_sausage , dbr:Ground_meat , dbr:Mushroom , dbr:Onion ;
+        dbp:mainIngredient  "Ground pork or chicken, Chinese sausage, portion of a hard-boiled egg, onions, mushrooms"@en ;
+        dbp:region          dbr:Southeast_Asia .
+
+dbr:Bánh_mì  rdfs:comment   "In Vietnamese cuisine, bánh mì or banh mi (/ˈbɑːn miː/, /ˈbæn/; Vietnamese: [ɓǎjŋ̟ mî], \"bread\") is a short baguette with thin, crisp crust and soft, airy texture. It is often split lengthwise and filled with savory ingredients like a submarine sandwich and served as a meal, called bánh mì thịt. Plain banh mi is also eaten as a staple food."@en ;
+        rdfs:label          "Bánh mì"@en ;
+        dbp:mainIngredient  "Vietnamese baguette"@en ;
+        dbp:type            dbr:Sandwich .
+
+dbr:Bánh_đúc  rdfs:comment  "Bánh đúc is a Vietnamese bánh (cake). There are two main types of bánh đúc, the white Northern Vietnamese cake and the green Southern version."@en ;
+        rdfs:label    "Bánh đúc"@en ;
+        dbp:region    dbr:Southeast_Asia ;
+        dbp:type      "Bánh"@en .
+
+dbr:Bánh_cốm  rdfs:comment  "Bánh cốm is a Vietnamese dessert made from rice and mung bean. It is made by wrapping pounded and then green-coloured glutinous rice around sugary green-bean paste."@en ;
+        rdfs:label          "Bánh cốm"@en ;
+        dbo:ingredient      dbr:Mung_bean , dbr:Glutinous_rice ;
+        dbp:mainIngredient  dbr:Glutinous_rice , dbr:Mung_bean ;
+        dbp:type            dbr:Dessert .
+
+dbr:Bánh_rế  rdfs:comment   "Bánh rế is a Vietnamese street food made from sweet potatoes. The sweet potato is made into a pancake, deep-fried, then sugared. It is associated with the Bình Thuận area."@en ;
+        rdfs:label          "Bánh rế"@en ;
+        dbo:ingredient      dbr:Sweet_potato ;
+        dbp:mainIngredient  "Sweet potatoes, sugar"@en ;
+        dbp:region          "Bình Thuận Province, Southern Vietnam"@en ;
+        dbp:type            dbr:Street_food .
+
+dbr:Bánh_bò  rdfs:comment   "Bánh bò (baked honeycomb cake) is a sweet, chewy sponge cake from Vietnam. It is made from rice flour, water, sugar, and yeast, and has a honeycomb-like appearance (called rễ tre, literally \"bamboo roots,\" in Vietnamese) on the inside due to the presence of numerous small air bubbles. Coconut milk is also usually a part of the batter, imparting a slight flavor and aroma of coconut. The cake is of Southern Chinese origin, although the Chinese version, called bái táng gāo (白糖糕), does not contain coconut milk. Bánh bò are generally eaten as a dessert, although they may also be consumed as an accompaniment to a meal."@en ;
+        rdfs:label          "Bánh bò"@en ;
+        dbp:mainIngredient  <http://dbpedia.org/resource/Baker's_yeast> , dbr:Coconut_milk , dbr:Water , dbr:Sugar , dbr:Rice_flour ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Sponge_cake .
+
+dbr:Bánh_in  rdfs:comment  "Bánh in (lit. 'seal cake') is a Vietnamese cake from the Huế area given at Tết, Lunar New Year. The cakes are often stamped with an auspicious Sino-Vietnamese character such as \"tho\" for long life. The cake is now quite popular overseas as well and is commonly found all year round in Asian grocery shops worldwide, often in smaller rectangular shaped snack packs. The main ingredients are mung bean, rice flour and durian."@en ;
+        rdfs:label    "Bánh in"@en ;
+        dbp:region    dbr:Huế .
+
+dbr:Bánh_gối  rdfs:comment  "Bánh gối (Vietnamese: Pillow cake), also known as Bánh xếp, Bánh quai vạc, is a Vietnamese regional dumpling. The dish is a common street food in Vietnam. This is a Vietnamese version of Hong Kong yau gok. The main structure of bánh gối is commonly seasoned ground meat, mushrooms, vermicelli, and diced vegetables such as carrots, kohlrabi and jicama (like ingredients of chả giò); sometimes used boiled egg and slice Chinese sausage. It wrapped into a thinly rolled piece of dough and deep-fried. For pastries, filling of bánh gối has mung bean, sugar and curettage coconut."@en ;
+        rdfs:label    "Bánh gối"@en ;
+        dbp:type      dbr:Dumpling .
+
+dbr:Bánh_cáy  rdfs:comment  "Bánh cáy is a variety of Vietnamese bánh (translates loosely as \"cake\" or \"bread\") made in the Thái Bình Province of northern Vietnam. It is made of sticky rice, sugar, gac or gardenia, sesame, carrots, mandarin orange peel, and lard. The mixture is roasted and ground, then put into a square box. It resembles the eggs of the , a small crab in northern Vietnam which lives in rivers and rice paddies, from which this bánh derives its name. Bánh cáy is traditionally served with tea."@en ;
+        rdfs:label    "Bánh cáy"@en ;
+        dbp:region    "Thái Bình Province of northern Vietnam"@en ;
+        dbp:type      "Bánh"@en .
+
+dbr:Bánh_chuối  rdfs:comment  "Bánh chuối (literally \"banana cake\") is a sweet banana cake or bread pudding from Vietnam. Although its exact ingredients may vary, it is usually made with ripe bananas or plantains, rice flour, coconut milk, sugar, white bread, shredded young coconut, condensed milk, butter, egg, and vanilla extract. In the finished dish, the cooked banana often appears purplish-red in color. There are two main varieties of bánh chuối: Additionally, other variations include:"@en ;
+        rdfs:label          "Bánh chuối"@en ;
+        dbo:ingredient      dbr:Egg_as_food , dbr:Sugar , dbr:Coconut_milk , dbr:Butter , dbr:Condensed_milk , dbr:Vanilla_extract , dbr:Cooking_banana , dbr:Banana , dbr:White_bread ;
+        dbp:mainIngredient  "Bananas or plantains, coconut milk, sugar, white bread, shredded young coconut, condensed milk, butter, egg, vanilla extract"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Rice cake or bread pudding"@en .
+
+dbr:Bánh_xèo  rdfs:comment  "Bánh xèo (Vietnamese: [ɓǎjŋ̟ sɛ̂w]) is a crispy, stuffed rice pancake popular in Vietnam. Bánh means cake while xèo means sizzle. The name refers to the loud sound the rice batter makes when it is poured into the hot skillet. It is a savoury fried pancake made of rice flour, water, and turmeric powder. It can also be called a Vietnamese crêpe. Some common stuffings include pork, prawns, diced green onion, mung bean, and bean sprouts. Bánh xèo is also served with lettuce, mint, Thai basil, and fish mint."@en ;
+        rdfs:label          "Bánh xèo"@en ;
+        dbo:ingredient      dbr:Turmeric ;
+        dbp:mainIngredient  "Rice flour, water, turmeric powder"@en ;
+        dbp:type            "Pancake"@en .
+
+dbr:Bánh_hỏi  rdfs:comment  "Bánh hỏi (Vietnamese: [ɓaɲ hɔːj]; Khmer: បាញ់ហយ, bănh hây [ɓaɲ hɑːj]) is a Vietnamese dish consisting of rice vermicelli woven into intricate bundles and often topped with chopped scallions or garlic chives sauteed in oil, served with a complimentary meat dish. The strings of noodles are usually only as thin as a toothpick; the texture is firm enough so the noodles do not fall apart but is not at all sticky to keep the dish light and suitable for a breakfast treat. Also known as question cake or pie."@en ;
+        rdfs:label          "Bánh hỏi"@en ;
+        dbo:ingredient      dbr:Rice_vermicelli , dbr:Allium_tuberosum , dbr:Scallion ;
+        dbp:mainIngredient  "Rice vermicelli, scallions or garlic chives"@en ;
+        dbp:region          dbr:Bình_Định_province ;
+        dbp:type            dbr:Noodle .
+
+dbr:Bánh  rdfs:comment      "In Vietnamese, the term bánh (Hanoi: [ɓaʲŋ̟˧˥] or Saigon: [ɓan˧˥]) translates loosely as \"cake\" or \"bread\", but refers to a wide variety of prepared foods that can easily be eaten by hands or chopsticks. With the addition of qualifying adjectives, bánh refers to a wide variety of sweet or savoury, distinct cakes, buns, pastries, sandwiches, and other food items, which may be cooked by steaming, baking, frying, deep-frying, or boiling. Foods made from wheat flour or rice flour are generally called bánh, but the term may also refer to certain varieties of noodle and fish cake dishes, such as bánh canh and bánh hỏi."@en ;
+        rdfs:label          "Bánh"@en ;
+        dbo:ingredient      dbr:Tapioca , dbr:Glutinous_rice , dbr:Wheat_flour , dbr:Rice_flour ;
+        dbp:mainIngredient  "Usually rice flour, wheat flour, pressed glutinous rice, or tapioca"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Cakes and breads"@en .

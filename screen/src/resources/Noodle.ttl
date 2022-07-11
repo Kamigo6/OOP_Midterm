@@ -1,0 +1,106 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Cao_lầu  rdfs:comment   "Cao lầu is a regional Vietnamese noodle dish, from the city of Hội An, in central Vietnam's Quảng Nam Province. It typically consists of pork and greens on a bed of rice noodles made from rice which has been soaked in lye water, giving them a characteristic texture and colour that sets the dish apart from other Vietnamese noodle dishes, including others from the same region, such as mì Quảng."@en ;
+        rdfs:label          "Cao lầu"@en ;
+        dbo:ingredient      dbr:Pork , dbr:Leaf_vegetable , dbr:Noodle ;
+        dbp:mainIngredient  "Noodles, pork, and greens"@en ;
+        dbp:region          dbr:Hội_An ;
+        dbp:type            dbr:Noodle .
+
+dbr:Cellophane_noodles
+        rdfs:comment        "Cellophane noodles, or fensi (simplified Chinese: 粉丝; traditional Chinese: 粉絲; pinyin: fěnsī; lit. 'flour thread'), sometimes called glass noodles, are a type of transparent noodle made from starch (such as mung bean starch, potato starch, sweet potato starch, tapioca, or canna starch) and water. A stabilizer such as chitosan (or alum, illegal in some jurisdictions) may also be used."@en ;
+        rdfs:label          "Cellophane noodles"@en ;
+        dbo:ingredient      dbr:Sweet_potato , dbr:Potato_starch , dbr:Starch , <http://dbpedia.org/resource/Canna_(plant)> , dbr:Cassava , <http://dbpedia.org/resource/Yam_(vegetable)> ;
+        dbp:mainIngredient  "Starch , water"@en ;
+        dbp:region          dbr:East_Asia , dbr:Southeast_Asia ;
+        dbp:type            "Noodles"@en .
+
+dbr:Bún_mắm  rdfs:comment   "Bún mắm is a fermented thick Vietnamese vermicelli soup sometimes called \"Vietnamese gumbo.\""@en ;
+        rdfs:label          "Bún mắm"@en ;
+        dbo:ingredient      dbr:Rice_vermicelli , dbr:Shrimp_paste , dbr:Shrimp , dbr:Fish_paste ;
+        dbp:mainIngredient  dbr:Fish_paste , dbr:Shrimp , dbr:Shrimp_paste , dbr:Rice_vermicelli ;
+        dbp:region          dbr:Mekong_Delta ;
+        dbp:type            dbr:Soup .
+
+dbr:Mì  rdfs:comment  "Mì or mi is a Vietnamese term for yellow wheat noodles. It can also refer to egg noodles. They were brought over to Vietnam as wonton noodles by Chinese immigrants. The Vietnamese version of wonton noodles is mì hoành thánh. The noodles can be either thin or wide and are commonly used in súp mì (noodle soup) and mì khô (dry noodles)."@en ;
+        rdfs:label    "Mì"@en .
+
+dbr:Bánh_canh  rdfs:comment  "Bánh canh (Vietnamese: [ɓaɲ kaɲ]; Khmer: បាញ់កាញ់, bănh kănh [ɓaɲ kaɲ]) are a thick Vietnamese noodles that can be made from tapioca flour or a mixture of rice and tapioca flour. \"Cake\" refers to the thick sheet of uncooked dough from which the noodles are cut. The Vietnamese word bánh refers to items such as noodles or cakes that are made from flour, and canh means \"soup.\""@en ;
+        rdfs:label          "Bánh canh"@en ;
+        dbo:ingredient      dbr:Tapioca , dbr:Rice ;
+        dbp:mainIngredient  "Tapioca flour, optionally rice flour"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            dbr:Soup .
+
+dbr:Bún_bò_Huế  rdfs:comment  "Bún bò Huế (pronounced [ɓun˧˥ ɓɔ˧˩ hwe˧˥]) or bún bò (English: /buːn bɔː/) is a popular Vietnamese soup containing rice vermicelli (bún), beef (bò) and sometimes pork knuckles and pig blood curds. Huế is a city in central Vietnam associated with the cooking style of the former royal court. The dish has a mix of spicy, salty, and umami flavors. The predominant flavor is that of lemongrass. Compared to phở or bún riêu, the noodles are thicker and more cylindrical."@en ;
+        rdfs:label          "Bún bò Huế"@en ;
+        dbo:ingredient      dbr:Pig_blood_curd , dbr:Beef , dbr:Ham_hock , dbr:Rice_vermicelli , dbr:Cymbopogon ;
+        dbp:mainIngredient  "Rice vermicelli, lemongrass, beef, fermented shrimp sauce, pork knuckles, pig blood curds"@en ;
+        dbp:region          "Central Vietnam"@en ;
+        dbp:type            dbr:Soup .
+
+dbr:Mì_Quảng  rdfs:comment  "Mì Quảng (also spelled mỳ Quảng) (literally: Quảng style noodle), is a Vietnamese noodle dish that originated from Quảng Nam Province in central Vietnam. In the region, it is one of the most popular and nationally recognized food items, and served on various occasions such as at family parties, death anniversaries, and Tết. Mì Quảng can both be found in many famous restaurants and street vendors among Central provinces, which used as a popular breakfast & lunch item."@en ;
+        rdfs:label          "Mì Quảng"@en ;
+        dbo:ingredient      dbr:Shrimp , dbr:Beef , dbr:Pork , dbr:Chicken_as_food , dbr:Rice_noodles , dbr:Herb ;
+        dbp:mainIngredient  "Rice noodles, shrimp or pork or chicken , various herbs"@en ;
+        dbp:region          dbr:Quảng_Nam_province ;
+        dbp:type            dbr:Noodle .
+
+dbr:Vietnamese_noodles
+        rdfs:comment  "Vietnamese cuisine includes many types of noodles. These are often served in soup but are also served directly."@en ;
+        rdfs:label    "Vietnamese noodles"@en ;
+        dbp:type      dbr:Noodle .
+
+dbr:Bánh_lọt  rdfs:comment  "Bánh lọt (lit. 'sifted cake') is sweet rice pasta dessert in southern Vietnamese cuisine. It is made with rice, salt, tapioca flour, coconut milk, sugar and water. Bánh lọt is also used to make two types of chè: chè bánh lọt and chè đậu đỏ bánh lọt (used with red beans). It is believed to have been introduced to Vietnam from Thailand, where it is called lod chong."@en ;
+        rdfs:label    "Bánh lọt"@en .
+
+dbr:Bun_cha  rdfs:comment   "Bún chả (Vietnamese: [ɓǔn ca᷉ː]) is a Vietnamese dish of grilled pork and noodle, which is thought to have originated from Hanoi, Vietnam. Bún chả is served with grilled fatty pork (chả) over a plate of white rice noodle (bún) and herbs with a side dish of dipping sauce. The dish was described in 1959 by Vietnamese food writer Vu Bang (1913–1984), who described Hanoi as a town \"transfixed by bún chả.\" Hanoi's first bún chả restaurant was on Gia Ngư, Hoàn Kiếm District, in Hanoi's Old Quarter."@en ;
+        rdfs:label          "Bun cha"@en ;
+        dbo:ingredient      dbr:Rice_vermicelli , dbr:Nước_chấm ;
+        dbp:mainIngredient  "Rice vermicelli, grilled pork, fresh herbs, nước chấm"@en ;
+        dbp:region          dbr:Hanoi .
+
+dbr:Shahe_fen  rdfs:comment  "Shahe fen or he fen is a type of wide Chinese noodle made from rice. Shahe fen is often stir fried with meat and/or vegetables in a dish called chao fen (炒粉; pinyin: chǎo fěn). While chao fen is a transliteration of Mandarin, chow fun from Cantonese (see the main article at beef chow fun) is the name most often given to the dish in Chinese restaurants in North America."@en ;
+        rdfs:label          "Shahe fen"@en ;
+        dbo:ingredient      dbr:Rice ;
+        dbp:mainIngredient  dbr:Rice ;
+        dbp:region          dbr:Shahe_District ;
+        dbp:type            dbr:Chinese_noodles .
+
+dbr:Bánh_cuốn  rdfs:comment  "Bánh cuốn (Vietnamese: [ɓǎjŋ̟ kǔən], rolled sheets) is a Vietnamese dish originating from Northern Vietnam."@en ;
+        rdfs:label          "Bánh cuốn"@en ;
+        dbo:ingredient      dbr:Shallot , dbr:Auricularia_auricula-judae , dbr:Rice ;
+        dbp:mainIngredient  "Rice batter, ground pork, wood ear mushroom, shallots"@en ;
+        dbp:region          dbr:Northern_Vietnam ;
+        dbp:type            dbr:Rice_noodle_roll .
+
+dbr:Bánh_hỏi  rdfs:comment  "Bánh hỏi (Vietnamese: [ɓaɲ hɔːj]; Khmer: បាញ់ហយ, bănh hây [ɓaɲ hɑːj]) is a Vietnamese dish consisting of rice vermicelli woven into intricate bundles and often topped with chopped scallions or garlic chives sauteed in oil, served with a complimentary meat dish. The strings of noodles are usually only as thin as a toothpick; the texture is firm enough so the noodles do not fall apart but is not at all sticky to keep the dish light and suitable for a breakfast treat. Also known as question cake or pie."@en ;
+        rdfs:label          "Bánh hỏi"@en ;
+        dbo:ingredient      dbr:Scallion , dbr:Rice_vermicelli , dbr:Allium_tuberosum ;
+        dbp:mainIngredient  "Rice vermicelli, scallions or garlic chives"@en ;
+        dbp:region          dbr:Bình_Định_province ;
+        dbp:type            dbr:Noodle .
+
+dbr:Pho  rdfs:comment       "Phở or pho (UK: /fɜː/, US: /fʌ/, Canada: /fɑː/; Vietnamese: [fəː˧˩˧]) is a Vietnamese soup dish consisting of broth, rice noodles (bánh phở), herbs, and meat (usually beef) (phở bò), sometimes chicken (phở gà). Pho is a popular food in Vietnam where it is served in households, street stalls and restaurants countrywide. Pho is considered Vietnam's national dish."@en ;
+        rdfs:label          "Pho"@en ;
+        dbo:ingredient      dbr:Beef , dbr:Chicken_as_food , dbr:Rice_noodles ;
+        dbp:mainIngredient  "Rice noodles and beef or chicken"@en ;
+        dbp:region          dbr:Nam_Định_province ;
+        dbp:type            dbr:Noodle_soup .
+
+dbr:Rice_vermicelli  rdfs:comment  "Rice vermicelli is a thin form of a noodle. It is sometimes referred to as 'rice noodles' or 'rice sticks', but should not be confused with cellophane noodles, a different Asian type of vermicelli made from mung bean starch or rice starch rather than rice grains themselves."@en ;
+        rdfs:label          "Rice vermicelli"@en ;
+        dbo:ingredient      dbr:Rice ;
+        dbp:mainIngredient  dbr:Rice ;
+        dbp:region          "East Asia, Indian subcontinent, and Southeast Asia"@en ;
+        dbp:type            dbr:Rice_noodles .
+
+dbr:Bún_thịt_nướng  rdfs:comment  "Bún thịt nướng (Vietnamese: [ɓǔn tʰìt nɨ̌əŋ], rice noodles [with] grilled meat) is a popular Vietnamese dish of cold rice-vermicelli noodle topped with grilled pork, fresh herbs like basil and mint, fresh salad, giá (bean sprouts), and chả giò (spring rolls). The dish is dressed in nước mam fish sauce (nước chấm). Also, the dish is topped with roasted peanuts, Vietnamese pickled carrots, nem nướng̣ (grilled garlic pork sausage) or grilled prawns. Bún thịt nướng is popular in all regions of Vietnam, except for in Hanoi, where a related dish, bún chả, is served."@en ;
+        rdfs:label          "Bún thịt nướng"@en ;
+        dbo:ingredient      dbr:Rice_vermicelli , dbr:Nước_chấm ;
+        dbp:mainIngredient  "Rice vermicelli, grilled pork, fresh herbs, salad, and nước chấm"@en ;
+        dbp:region          dbr:Southeast_Asia ;
+        dbp:type            "Cold noodles"@en .

@@ -8,7 +8,7 @@ dbr:Võ_thuật_Bình_Định
         rdfs:label     "Võ thuật Bình Định"@en ;
         gold:hypernym  dbr:Form .
 
-dbr:Võ_phục  rdfs:comment  "Võ phục (Sino-Vietnamese: 武服) is a Vietnamese term that refers to a martial arts uniform (which may include a ranking belt), mainly associated with Vietnamese martial arts (Việt Võ Đạo, 越武道), particularly Vovinam."@en ;
+dbr:Võ_phục  rdfs:comment  "Võ phục (Chữ Hán: 武服) is a Vietnamese term that refers to a martial arts uniform (which may include a ranking belt), mainly associated with Vietnamese martial arts (Việt Võ Đạo, 越武道), particularly Vovinam."@en ;
         rdfs:label     "Võ phục"@en ;
         gold:hypernym  dbr:Term .
 
@@ -27,10 +27,10 @@ dbr:Tam_Qui_Khi-Kong  rdfs:comment  "Federatsiya Tam Kui Khi-Kong (Russian Фе�
         rdfs:label     "Tam Qui Khi-Kong"@en ;
         gold:hypernym  dbr:Organization .
 
-dbr:Nhất_Nam  rdfs:comment  "Nhất Nam is a martial art originating from Vietnam, formalised in Hanoi from 1983 onwards by Ngô Xuân Bính. The name Nhất Nam derives from Sino-Vietnamese characters from \"One Vietnam\" (一南), and is to be distinguished from Nhật Nam (\"Sun South\" 日南), the Vietnamese name for the ancient Chinese Rinan Han commandery in northern Vietnam. The \"One\" expresses the \"unification\" of features of Vietnamese martial arts. Ngô Xuân Bính formalised these features in his book on the basics of this unified approach in “Nhất Nam căn bản” Volumes 1 and 2, (\"Basic Nhất Nam,\" căn bản means \"basic.\")"@en ;
+dbr:Nhất_Nam  rdfs:comment  "Nhất Nam is a martial art originating from Vietnam, formalised in Hanoi from 1983 onwards by Ngô Xuân Bính. The name Nhất Nam derives from Sino-Vietnamese characters from \"One South\" (一南), and is to be distinguished from Nhật Nam (\"Sun South\" 日南), the Vietnamese name for the ancient Chinese Rinan Han commandery in northern Vietnam. The \"One\" expresses the \"unification\" of features of Vietnamese martial arts. Ngô Xuân Bính formalised these features in his book on the basics of this unified approach in “Nhất Nam căn bản” Volumes 1 and 2, (\"Basic Nhất Nam,\" căn bản means \"basic.\")"@en ;
         rdfs:label     "Nhất Nam"@en ;
         gold:hypernym  dbr:Art .
 
 dbr:Vietnamese_martial_arts
-        rdfs:comment  "Traditional Vietnamese martial arts (Võ thuật Cổ Truyền Việt Nam) often referred to as Võ thuật, can be loosely divided into those of the Sino-Vietnamese descended from the Han, and the Chams or indigenous Vietnamese."@en ;
+        rdfs:comment  "Traditional Vietnamese martial arts (Võ thuật Cổ truyền Việt Nam; Chữ Hán: 武術古傳越南) often referred to as Võ thuật (Chữ Hán: 武術), can be loosely divided into those of the Sino-Vietnamese descended from the Han, and the Chams or indigenous Vietnamese."@en ;
         rdfs:label    "Vietnamese martial arts"@en .

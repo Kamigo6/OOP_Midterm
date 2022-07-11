@@ -1,6 +1,7 @@
 
 import java.util.List;
 
+
 import javafx.application.Application;
 
 import javafx.fxml.FXMLLoader;
@@ -15,7 +16,7 @@ public class UIRun extends Application{
 	public void start(Stage stage) throws Exception{
 		Parent root = FXMLLoader.load(getClass().getResource("VnTourismUI.fxml"));
 		Scene scene = new Scene(root);
-		stage.setTitle("Painter");
+		stage.setTitle("GROUP 1B VNTOURISM APPLICATION");
 		stage.setScene(scene);
 		stage.show();
 	}

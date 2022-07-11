@@ -1,0 +1,69 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Lotte_Center_Hanoi
+        rdfs:comment   "Lotte Center Hanoi is a skyscraper in Ba Đình, Hanoi, Vietnam. Completed on 2 September 2014, the tower has 65 floors. The center features a modern architectural style designed by Callison, an American company. This tower is the third tallest building in Vietnam after Landmark 81 and the Keangnam Hanoi Landmark Tower in Cau Giay district. Lotte Center Hanoi includes offices, a 5 star hotel, a 6th floor Lotte Department Store, serviced residences, the Evian Spa, the Lotte Mart, restaurants and an observation deck."@en ;
+        rdfs:label     "Lotte Center Hanoi"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Lotte_Center_Hanoi_2.jpg?width=300> ;
+        dbp:location   dbr:Ba_Đình_district , dbr:Vietnam , dbr:Hanoi ;
+        geo:lat        "21.032350540161132812"^^xsd:float ;
+        geo:long       "105.81259918212890625"^^xsd:float .
+
+dbr:Deutsches_Haus_Ho_Chi_Minh_City
+        rdfs:comment   "The Deutsches Haus Ho Chi Minh City (English translation German House Ho Chi Minh City) is a building complex in Ho Chi Minh City, Vietnam, which was opened 2017. The 25-story building complex was initiated under a bilateral government agreement between Germany and Vietnam, with the purpose of setting standards for energy efficiency “made in Germany.” It is the location of the German Consulate General and other institutions and businesses, as well as a cultural and economic hub for German representation in Vietnam."@en ;
+        rdfs:label     "Deutsches Haus Ho Chi Minh City"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Deutsches_Haus_Ho_Chi_Minh_City.jpeg?width=300> ;
+        dbp:location   33 ;
+        geo:lat        "10.781599998474121094"^^xsd:float ;
+        geo:long       "106.70040130615234375"^^xsd:float .
+
+dbr:VietinBank_Business_Center_Office_Tower
+        rdfs:comment  "VietinBank Business Center Office Tower is a skyscraper on hold in Hanoi, Vietnam."@en ;
+        rdfs:label    "VietinBank Business Center Office Tower"@en ;
+        geo:lat       "21.082500457763671875"^^xsd:float ;
+        geo:long      "105.79000091552734375"^^xsd:float .
+
+dbr:Saigon_One_Tower  rdfs:comment  "Saigon One Tower, is an unfinished high-rise building located at 34A Ton Duc Thang Street, Ho Chi Minh City, Vietnam. The tower was invested by Saigon M&C and , totals approximately $228 million USD. The building was designed to be a 41-storey tower with three functions. According to city construction department, the Saigon One Tower and other stalled or delayed projects in the city are a result of the 2008 financial crash."@en ;
+        rdfs:label     "Saigon One Tower"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Saigon_M&C.jpg?width=300> ;
+        dbp:location   dbr:Ho_Chi_Minh_City , dbr:Vietnam ;
+        geo:lat        "10.771699905395507812"^^xsd:float ;
+        geo:long       "106.70400238037109375"^^xsd:float .
+
+dbr:Keangnam_Hanoi_Landmark_Tower
+        rdfs:comment   "AON Hanoi Landmark Tower (or AON Landmark 72) is a mixed-use supertall skyscraper in Pham Hung road, Nam Từ Liêm district, Hanoi, Vietnam. The complex consists of one 72-story mixed-use tower with a height of 350 m and two 48-story hotel twin towers. Landmark 72 is located on an area of 46,054 m2 and the total floor area is 609,673 m2, ranked 5th as the largest floor area of a single building in the world. The investor and operator, of the complex is the South Korean-based company Keangnam Enterprises, Ltd. The investment capital is estimated at US$1.05 billion."@en ;
+        rdfs:label     "Keangnam Hanoi Landmark Tower"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/LANDMARK72.jpg?width=300> ;
+        dbp:location   dbr:Vietnam , dbr:Hanoi ;
+        geo:lat        "21.017324447631835938"^^xsd:float ;
+        geo:long       "105.7840576171875"^^xsd:float .
+
+dbr:Saigon_Trade_Center
+        rdfs:comment   "The Saigon Trade Center is a high-rise building in Ho Chi Minh City, Vietnam. It was constructed from April 1994 and completed in July 1997 and with a height of 145 metres (476 ft), it was the tallest building in Vietnam from 1997 until 2010, when it was surpassed by the Bitexco Financial Tower. Saigon Trade Center is built by reinforced concrete and glass cladding for exterior."@en ;
+        rdfs:label     "Saigon Trade Center"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Saigon_Trade_Center_21112013.jpg?width=300> ;
+        dbp:location   dbr:Vietnam , dbr:Ho_Chi_Minh_City ;
+        geo:lat        "10.784166336059570312"^^xsd:float ;
+        geo:long       "106.70361328125"^^xsd:float .
+
+dbr:Saigon_Centre  rdfs:comment  "Saigon Centre is a mixed-use complex in Ho Chi Minh City, Vietnam, invested by Keppel Land Watco I. The complex is located on Le Loi Boulevard in District 1, Ho Chi Minh City."@en ;
+        rdfs:label     "Saigon Centre"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Saigon_Centre_on_June_17,_2017.jpg?width=300> ;
+        dbp:location   65 ;
+        geo:lat        "10.771699905395507812"^^xsd:float ;
+        geo:long       "106.70400238037109375"^^xsd:float .
+
+dbr:Saigon_Times_Square
+        rdfs:comment   "Times Square is a high-rise building in District 1, Ho Chi Minh City, Vietnam. This tower is a 40-storey joint tower and features a modern architectural style. Construction costs, invested by Times Square (Vietnam) Investment Joint Stock Company, totals approximately US$125 million. The height to the top of the tower is 164 m (538 ft). The tower was once the third tallest building in Ho Chi Minh City after Saigon One Tower and Bitexco Financial Tower. Currently, Saigon Times Square ranks sixth in height in the city and 23rd nationally. \n* February 2011 \n* October 2011 \n* January 2012"@en ;
+        rdfs:label     "Saigon Times Square"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Saigon_Times_Square_april_2012.jpg?width=300> ;
+        dbp:location   dbr:Ho_Chi_Minh_City , dbr:Vietnam .
+
+dbr:Landmark_81  rdfs:comment  "Landmark 81 is a super-tall skyscraper in Ho Chi Minh City, Vietnam. The investor and primary developer for the project is Vinhomes, a Vietnamese corporation that is also the country's largest real-estate company. Landmark 81 is the tallest building in Vietnam, the second tallest building in Southeast Asia, and the 17th tallest building in the world."@en ;
+        rdfs:label     "Landmark 81"@en ;
+        dbo:thumbnail  <http://commons.wikimedia.org/wiki/Special:FilePath/Landmark_81_view_from_Saigon_River.jpg?width=300> ;
+        dbp:location   dbr:Ho_Chi_Minh_City , dbr:Bình_Thạnh_district .
