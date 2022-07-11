@@ -131,9 +131,6 @@ public class RunFunction {
 	    		} else if (opt == "NationalParkPlace") {
 	    			NationalPark b = new NationalPark();
 	    			Config.process(b.queryStr(), b.getName());
-	    		} else if (opt == "NaturalPlace") {
-	    			NaturalPlace b = new NaturalPlace();
-	    			Config.process(b.queryStr(), b.getName());
 	    		} else if (opt == "River") {
 	    			River b = new River();
 	    			Config.process(b.queryStr(), b.getName());
